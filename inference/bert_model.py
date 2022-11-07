@@ -8,7 +8,7 @@ class BERT(nn.Module):
         bert_config = config.bert_config
         self.bert_dim = bert_config.hidden_size
         self.drop = nn.Dropout(p=config.bert_dropout)
-        self.fc1 = nn.Linear(self.bert_dim, 17)
+        self.fc1 = nn.Linear(self.bert_dim, config.num_items)
         self.sig = nn.Sigmoid()
 
     def load_bert(self, name, cache_dir=None):
