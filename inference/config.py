@@ -28,6 +28,7 @@ class Config(object):
         self.bert_weight_decay = kwargs.pop('bert_weight_decay', 0)
         self.guide = kwargs.pop('guide', 1)
         self.threshold_guide = kwargs.pop('threshold_guide', 0.3)
+        self.num_items = kwargs.pop('num_items', 35)
 
         self.self_paced = kwargs.pop('self_paced', 1)
         self.threshold = kwargs.pop('threshold', 0.3)
