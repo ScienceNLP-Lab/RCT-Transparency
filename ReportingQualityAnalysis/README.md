@@ -1,6 +1,4 @@
-##Package requirements:
-
-###Visualization:
+Package requirements:
 
 python(3.7.4)
 
@@ -14,4 +12,3 @@ matplotlib==3.1.1
 
 mpl_scatter_density==0.7
 
-###Inference:
