@@ -8,7 +8,7 @@ from transformers import BertConfig
 class Config(object):
     def __init__(self, **kwargs):
         # bert
-        self.bert_model_name = kwargs.pop('bert_model_name', 'bert-large-cased')
+        self.bert_model_name = kwargs.pop('bert_model_name', 'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext')
         self.bert_cache_dir = kwargs.pop('bert_cache_dir', None)
 
         # files
