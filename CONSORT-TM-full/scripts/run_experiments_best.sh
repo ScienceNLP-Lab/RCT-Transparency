@@ -1,0 +1,2 @@
+# + Section headers (prepended to preceding, current and trialing sentences) + Contextual information + sentence representation [CLS]
+python train_with_all_data.py --target="[CLS]" --section_header="both" --bert_model_name="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext" --augmentation_mode=0 --augmentation_file="" --sent_dim=0 --rltv=-1 --section_emb=0 --position_emb=0 --section_dim=0 --train_file="data/all_CONSORT_manual_data.csv" --test_file="" --mode="contextual" --section_avg_sep="" --section="whole" --header_information_contextual=0
