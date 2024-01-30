@@ -1,14 +1,15 @@
 import torch
 import torch.nn as nn
 from transformers import BertModel
+from transformers import BertConfig
 
 class BERT(nn.Module):
     def __init__(self, config):
         super().__init__()
-        bert_config = config.bert_config
+        bert_config = BertConfig.from_pretrained(config.bert_model_name, output_all_encoded_layers=False)
         self.bert_dim = bert_config.hidden_size
         self.drop = nn.Dropout(p=config.bert_dropout)
-        self.fc1 = nn.Linear(self.bert_dim, config.num_items)
+        self.fc1 = nn.Linear(self.bert_dim, 34)
         self.sig = nn.Sigmoid()
 
     def load_bert(self, name, cache_dir=None):
