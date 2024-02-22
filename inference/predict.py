@@ -1,3 +1,5 @@
+import ast
+
 import torch
 from transformers import BertTokenizer
 from torch.utils.data import DataLoader
@@ -66,25 +68,40 @@ def process_contextual_for_bert(tokenizer, data, max_length=128):
         instances.append(instance)
     return instances
 
+def unique(section_header):
+    headers = []
+    for i in section_header:
+        if i not in headers:
+            headers.append(i)
+    return headers
+
 
 def contextual_load(path, config):
     data = []
     file = pd.read_csv(path, header=0)
     file['sentence_id'] = file['sentence_id'].apply(lambda x: int(x[1:]))
+    file['section'] = file['section'].apply(ast.literal_eval)
+    file['section'] = file.apply(lambda row: list([row['section.1']] + row.section), axis=1)
+    file['section'] = file['section'].map(unique)
 
     for pmcid, article in file.groupby('PMCID'):
         max_sentence = max(article['sentence_id'])
         for sent_id, sentence in article.iterrows():
             if sentence['sentence_id'] == 1:
                 previous_sent = ''
-                next_sentence = article[article['sentence_id'] == sentence['sentence_id']+1]['text'].tolist()[0]
+                next_s = article[article['sentence_id'] == sentence['sentence_id']+1].iloc[0]
+                next_sentence = ' '.join(next_s['section']) + ' ' + next_s['text']
             elif sentence['sentence_id'] == max_sentence:
-                previous_sent = article[article['sentence_id'] == sentence['sentence_id']-1]['text'].tolist()[0]
+                previous_s = article[article['sentence_id'] == sentence['sentence_id']-1].iloc[0]
+                previous_sent = ' '.join(previous_s['section']) + ' ' + previous_s['text']
                 next_sentence = ''
             else:
-                previous_sent = article[article['sentence_id'] == sentence['sentence_id']-1]['text'].tolist()[0]
-                next_sentence = article[article['sentence_id'] == sentence['sentence_id']+1]['text'].tolist()[0]
-            data.append([pmcid, sentence['section.1'], sentence['sentence_id'], sentence['text'], previous_sent, next_sentence])
+                previous_s = article[article['sentence_id'] == sentence['sentence_id']-1].iloc[0]
+                previous_sent = ' '.join(previous_s['section']) + ' ' + previous_s['text']
+                next_s = article[article['sentence_id'] == sentence['sentence_id']+1].iloc[0]
+                next_sentence = ' '.join(next_s['section']) + ' ' + next_s['text']
+            data.append([pmcid, sentence['section.1'], sentence['sentence_id'], ' '.join(sentence['section'])
+                         + ' '+sentence['text'], previous_sent, next_sentence])
     file = pd.DataFrame(data, columns=['PMCID', 'section', 'sentence_id', 'sentence', 'before', 'after'])
     print("INFO: DATA PARSED")
 
@@ -104,7 +121,7 @@ def stem_sentence(sentence):
 
 
 phrases_3b = [stem_sentence(i) for i in ["no longer feasible", "decision was taken",
-                                         "decision was made","committee agreed"]]
+                                         "decision was made", "committee agreed"]]
 phrases_6b = [stem_sentence(i) for i in ["original trial protocol", "trial because of",
                                          "early termination", "the trial because", "the original trial"]]
 
@@ -183,6 +200,14 @@ def check_1b_by_map(str1, structured_abstract_items):
     return False
 
 
+def merge(ml_ppredict, rule_based, article_level):
+    merged = [] + rule_based +ml_ppredict
+    merged = [i for i in merged if i != '0']
+    if type(article_level) == list:
+        merged = merged + article_level
+    return merged
+
+
 def main(state_path, model_path, csv_path, saved_path, column):
     print("INFO: MODEL PATH:", model_path)
     map_location = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -220,20 +245,26 @@ def main(state_path, model_path, csv_path, saved_path, column):
     abs_stru = structure()
     for pmcid, article in file.groupby('PMCID'):
         pred_a, pred_b = False, False
-
-        title_flag = article['sentence'].apply(check_title)
+        title_flag = article['section'].apply(check_title)
         for i, row in article[title_flag].iterrows():
             if not pred_a:
                 pred_a = check_1a(row['sentence'])
+                if pred_a:
+                    article_prediction.append([pmcid, row['sentence_id'], '1a'])
             else:
                 break
         abstract_flag = article["section"].apply(find_1b_candidates)
-        for i, row in article[abstract_flag].iterrows():
+        for i, row in article[abstract_flag].head(2).iterrows():
             if not pred_b:
                 pred_b = check_1b_by_map(row['sentence'], abs_stru)
-        article_prediction.append([pmcid, [pred_a, pred_b]])
+                if pred_b:
+                    article_prediction.append([pmcid, row['sentence_id'], '1b'])
+            else:
+                break
+    article_prediction = pd.DataFrame(article_prediction, columns=['PMCID', 'sentence_id', '1a_1b'])
+    article_prediction = article_prediction.groupby(['PMCID', 'sentence_id']).agg(lambda x: x.tolist()).reset_index()
 
-
+    # bert predictions
     batch_num = len(sentences) // 4 + (len(sentences) % 4)
     all_result = []
     progress = tqdm.tqdm(total=batch_num, ncols=75)
@@ -259,7 +290,10 @@ def main(state_path, model_path, csv_path, saved_path, column):
             label.append('0')
         labels.append(label)
     file['label'] = labels
-    file = file.merge(rule_based_prediction, on=['PMCID', 'sentence_id'])
+    file = file.merge(rule_based_prediction, on=['PMCID', 'sentence_id'], how='outer')
+    file = file.merge(article_prediction, on=['PMCID', 'sentence_id'], how='outer')
+    file['label'] = file.apply(lambda x: merge(x['label'], x['3b_6b'], x['1a_1b']), axis=1)
+    file = file.drop(columns=['3b_6b', '1a_1b'])
     file.to_csv(saved_path, index=False)
     print("INFO: FILE SAVED")
 
