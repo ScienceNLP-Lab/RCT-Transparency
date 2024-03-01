@@ -13,9 +13,7 @@ import os, tqdm, datetime, re
 import pandas as pd
 from collections import namedtuple
 import numpy as np
-from config import Config
-from sentence_segmentation import segment
-from bert_model import BERT
+import onnxruntime as ort
 
 nltk.download('punkt')
 porter = PorterStemmer()
@@ -34,12 +32,12 @@ def colloate_fn(batch, gpu=False):
     for i in batch:
         batch_text_idxs.append(i[0])
         batch_attention_masks_text.append(i[1])
-    if gpu:
-        batch_text_idxs = torch.cuda.LongTensor(batch_text_idxs)
-        batch_attention_masks_text = torch.cuda.FloatTensor(batch_attention_masks_text)
-    else:
-        batch_text_idxs = torch.LongTensor(batch_text_idxs)
-        batch_attention_masks_text = torch.FloatTensor(batch_attention_masks_text)
+    # if gpu:
+    #     batch_text_idxs = torch.cuda.LongTensor(batch_text_idxs)
+    #     batch_attention_masks_text = torch.cuda.FloatTensor(batch_attention_masks_text)
+    # else:
+    #     batch_text_idxs = torch.LongTensor(batch_text_idxs)
+    #     batch_attention_masks_text = torch.FloatTensor(batch_attention_masks_text)
     return Batch(text_ids=batch_text_idxs, attention_mask_text=batch_attention_masks_text)
 
 
@@ -68,6 +66,7 @@ def process_contextual_for_bert(tokenizer, data, max_length=128):
         instances.append(instance)
     return instances
 
+
 def unique(section_header):
     headers = []
     for i in section_header:
@@ -76,7 +75,7 @@ def unique(section_header):
     return headers
 
 
-def contextual_load(path, config):
+def contextual_load(path, tokenizer_path):
     data = []
     file = pd.read_csv(path, header=0)
     file['sentence_id'] = file['sentence_id'].apply(lambda x: int(x[1:]))
@@ -104,7 +103,8 @@ def contextual_load(path, config):
                          + ' '+sentence['text'], previous_sent, next_sentence])
     file = pd.DataFrame(data, columns=['PMCID', 'section', 'sentence_id', 'sentence', 'before', 'after'])
     print("INFO: DATA PARSED")
-    tokenizer = BertTokenizer.from_pretrained(config.bert_model_name, do_lower_case=True)
+
+    tokenizer = BertTokenizer.from_pretrained(tokenizer_path, do_lower_case=True)
     data = process_contextual_for_bert(tokenizer, data)
     return data, file
 
@@ -209,25 +209,15 @@ def merge(ml_ppredict, rule_based, article_level):
     return merged
 
 
-def main(state_path, model_path, csv_path, saved_path, column):
-    print("INFO: MODEL PATH:", model_path)
-    map_location = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    state = torch.load(state_path, map_location=map_location)
-    config = state['config']
-    # config['num_items'] = len(column)
-    if type(config) is dict:
-        config = Config.from_dict(config)
-    setattr(config, 'bert_model_name', model_path)
-    setattr(config, 'use_gpu', False)
+def main(model_path, tokenizer_name, csv_path, saved_path, column):
+    sess_options = ort.SessionOptions()
+    sess_options.intra_op_num_threads = 4
+    sess_options.execution_mode = ort.ExecutionMode.ORT_SEQUENTIAL
+    sess_options.graph_optimization_level = ort.GraphOptimizationLevel.ORT_ENABLE_ALL
 
+    ort_sess = ort.InferenceSession(model_path, sess_options, providers=['CPUExecutionProvider'])
 
-    model = BERT(config)
-    model.load_bert(config.bert_model_name)
-    model.load_state_dict(state['model'], strict=False)
-    if config.use_gpu:
-        model.cuda(0)
-
-    sentences, file = contextual_load(csv_path, config)
+    sentences, file = contextual_load(csv_path, tokenizer_name)
     print("INFO: DATA LOADED")
 
     # for 1a, 1b, 3b, 6b
@@ -272,10 +262,12 @@ def main(state_path, model_path, csv_path, saved_path, column):
 
     for batch in DataLoader(sentences, batch_size=4, shuffle=False,
                             collate_fn=colloate_fn):
-        model.eval()
-        result = model(batch)
-        result = result.cpu().data
-        result = np.where(result.numpy() > 0.5, 1, 0)
+        result = ort_sess.run(None,
+                               {
+                                   'text_ids': np.array(batch.text_ids, dtype='int32'),
+                                   'attention_mask_text': np.array(batch.attention_mask_text, dtype='float32')
+                               })
+        result = np.where(result[0] > 0.5, 1, 0)
         all_result.extend(result.tolist())
         progress.update(1)
     progress.close()
@@ -322,8 +314,8 @@ def get_elapsed_time(start_time, end_time):
 
 if __name__ == '__main__':
     # path to the model
-    state_path = '/Users/jianglan/Documents/server/bionlp/PubMed_context_header/best.mdl'
-    model_path = '/Users/jianglan/Documents/server/bionlp/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext/'
+    model_path = 'optimized_model_v2.onnx'
+    tokenizer_name = '/Users/jianglan/Documents/server/bionlp/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext/'
     # path to the text folder
     folder_path = '/Users/jianglan/RCT-Transparency/inference/all_CONSORT_manual_data.csv'
     # path to the file to be saved
@@ -332,6 +324,6 @@ if __name__ == '__main__':
     column = ['10', '11a', '11b', '12a', '12b', '13a', '13b', '14a', '14b', '15', '16', '17a', '17b',
               '18', '19', '20', '21', '22', '23', '24', '25', '2b', '3a', '3b', '4a', '4b', '5',
               '6a', '6b', '7a', '7b', '8a', '8b', '9']
-    main(state_path, model_path, folder_path, saved_path, column)
+    main(model_path, tokenizer_name, folder_path, saved_path, column)
     end_time = datetime.datetime.now()
     print("INFO: Time spent: ", get_elapsed_time(start_time, end_time))
