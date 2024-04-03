@@ -114,8 +114,10 @@ def segment(full_text, section_header=None):
         sentences.append({'sentence': text,
                           'span': [start, start + text.__len__() - 1]})
         start += text.__len__()
-
-    sentences = merge(sentences)
+        
+    if len(sentences)>1:
+        sentences = merge(sentences)
+        
     for i in sentences:
         ori = len(i['sentence'])
         i['sentence'] = i['sentence'].strip()
