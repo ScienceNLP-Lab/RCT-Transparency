@@ -84,7 +84,7 @@ def contextual_load(path, config):
     file['section'] = file.apply(lambda row: list([row['section.1']] + row.section), axis=1)
     file['section'] = file['section'].map(unique)
 
-    for pmcid, article in file.groupby('PMCID'):
+    for pmcid, article in file.groupby('PMCID', sort=False):
         max_sentence = max(article['sentence_id'])
         for sent_id, sentence in article.iterrows():
             if sentence['sentence_id'] == 1:
