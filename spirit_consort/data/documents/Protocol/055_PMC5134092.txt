@@ -1,0 +1,187 @@
+Effect on attendance by including focused information on spirometry in preventive health checks: study protocol for a randomized controlled trial
+
+## Abstract
+
+### Background
+
+Early detection of lung diseases can help to reduce their severity. Lung diseases are among the most frequently occurring and serious diseases worldwide; nonetheless, many patients remain undiagnosed. Preventive health checks including spirometry can detect lung diseases at early stages; however, recruitment for health checks remains a challenge, and little is known about what motivates the attendance.
+
+The aim of the study is to examine whether focused information on spirometry in the invitation compared to general information will impact the attendance rate in preventive health checks.
+
+### Methods/design
+
+This randomized, controlled trial tests the effect of information on spirometry embedded in the Check your Health Preventive Program (CHPP). The CHPP is an open-label, household cluster-randomized, controlled trial offering a preventive health check to 30- to –49-year-olds in a Danish municipality from 2012 to 2017 (n = 26,216). During 2015–2016, 4356 citizens aged 30–49 years will be randomized into two groups. The intervention group receives an invitation which highlights the value and contents of spirometry as part of a health check and information about lung diseases. The comparison group receives a standard invitation containing practical information and specifies the contents of the general health check.
+
+Outcomes are (1) differences in attendance rates measured by the proportion of citizens attending each of the two study groups and (2) proportion of persons at risk defined by smoking status and self-reported lung symptoms in the study groups. The proportion of participants with abnormal spirometry assessed at the preventive health check will be compared between the two study groups.
+
+### Discussion
+
+The results from the present study will inform future recruitment strategies to health checks. The developed material on content, value, and information about lung disease is feasible and transferable to other populations, making it easy to implement if effective.
+
+### Trial registration
+
+ClinicalTrials.gov:  NCT02615769. Registered on 25 November 2015.
+
+### Electronic supplementary material
+
+The online version of this article (doi:10.1186/s13063-016-1704-7) contains supplementary material, which is available to authorized users.
+
+Keywords: Spirometry, Preventive health check, Attendance
+
+## Background
+
+Early detection of lung diseases can help reduce the severity of these diseases when inflicted. Lung diseases are among the most frequently occurring and serious conditions in the western world, including Denmark [1]. The Danish Health Authority recommends spirometry every second year to all individuals older than 35 years with at least one respiratory symptom and/or exposure to any known risk factor (smoke, genetics, air pollution, chemical fumes, or dust) in order to facilitate early case finding of chronic obstructive pulmonary disease (COPD) [2]. However, an estimated 200,000 Danish citizens (50%) with COPD remain undiagnosed and unknown to the health care system [2, 3].
+
+Preventive health checks including spirometry can be used to detect lung diseases at early stages. However, a well-known challenge is low uptake, especially in people at risk of developing disease [4]. Previous studies of attendees in preventive health checks [5] reported average attendance rates from 18 to 82%. They also showed that non-attendees were less healthy than the attendees and that those least likely to attend health checks were younger, single men with low income or low socioeconomic status, active smokers, or the unemployed or less educated [5]. Little is known about what motivates the attendance to health checks.
+
+In a systematic review by Jepson et al., interventions used to increase uptake in screening for a variety of conditions are compared in 190 trials [6]. These interventions targeted individuals and revealed enhanced invitation procedures. An appointment in the invitation letter, telephone calls, and reminders seemed to increase the participation rate effectively [6]. A few studies evaluated the effect of providing additional information in the invitation. Kiernan et al. examined three strategies of recruiting citizens into trials by personalizing the invitation letter and by adding additional information. They found that a personalized letter including heart disease risk statistics did not yield a higher response rate than the standard letter [7]. Sallis et al. compared an enhanced invitation letter applying behavioral insights with a standard invitation letter and found a difference in the participation rate from 29.3% to 33.5% [8]. Van Wonderen et al. found that neither the rank of the individual signing a subsequent detailed information letter nor the use of an official funding agency logo on the study’s initial invitation made an impact on patient attendance [9]. Finally Martinson et al. showed a difference in response rate from 55% to 69% using monetary incentives for recruiting adolescents to a trial focusing on smoking cessation [10].
+
+In studies aiming to improve participation in colorectal cancer screening, enhanced invitation letters and leaflets have yielded an increase in participation of up to 6% [11, 12]. Recently, Quaife et al. [13] published a study protocol to test the hypothesis that targeted invitation strategy will increase the uptake in a lung cancer screening compared with a standard invitation. This population consisted of patients aged 60–75 with a known smoking history. To our best knowledge, no trials aimed to increase the attendance in general health checks by including information on the benefits of measuring spirometry, and only a few studies have included spirometry in a preventive health check [14, 15].
+
+The aim of the present study is to examine whether focused information about spirometry in the invitation material will influence the attendance rate in preventive health checks. We also aim to describe the characteristics of the attendees and non-attendees. We hypothesize that information on spirometry as part of the invitation material for the preventive health check will increase the overall attendance rate by 5 percentage points and also that more people at risk will attend. The study protocol conforms to the Consolidated Standards Of Reporting Trials (CONSORT) statement [16] and the Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) 2013 statement [17]. See Additional files 1 and 2 [17]. This paper will follow the CONSORT extension for non-pharmacological interventions and cluster trials [18, 19].
+
+## Methods/design
+
+### Trial design
+
+The trial is an open-label, household cluster-randomized, controlled trial with a two-group parallel design. The trial is embedded in the fourth year (2015–2016) of the ongoing Check your Health Preventive Program (CHPP) [20]. The CHPP offers a preventive health check to all 30- to 49-year-old citizens in a Danish municipality during the years 2012–2017 (n = 26,216).
+
+We began designing the present study in January 2015, the recruitment started in November 2015, and we expect it to be completed in December 2016.
+
+### Population
+
+The citizens are randomized by household into five groups of equal size, each representing the specific year they are invited to attend a health check. Citizens randomized for group 4 (n = 5205) are eligible for the present trial (Fig. 1). The Danish Civil Registration System (CRS) [21, 22] was used to identify all citizens living in the municipality of Randers aged 30–49 years on 1 January 2012 included in the CHPP. The CRS is an administrative register containing individual-level information including the unique and permanent ten-digit civil personal registration (CPR) number on all persons residing in Denmark [21, 22]. The only exclusion criterion is terminal illness as reported by a general practitioner [20].
+
+Fig. 1 Flowchart of participants in the Check your Health Preventive Program [20] and the present trial. R 1 household randomization into five groups of equal size, R 2 household randomization into the intervention group or comparison group in the present study before sending of the invitations
+
+### Setting
+
+The health checks and the subsequent health behavioral programs are conducted at a local health care center. The subsequent health interview takes place at the participant’s own general practitioner’s office. To ensure standardization and quality, the health checks are conducted by health professionals experienced in risk communication and conduction measurement procedures.
+
+### Questionnaire
+
+Prior to the health check, the participants are asked to answer a web-based questionnaire regarding self-rated health [23], mental health [23], alcohol consumption [24], physical activity, and smoking habits using items from the Danish National Health Profile questionnaire [25]. The question concerning lung symptoms is a modified version of the question from the Clinical COPD Questionnaire [26] (Table 1). The participants are also asked which element of the preventive health check has their highest interest (not shown).
+
+### Table 1 Items and response categories from the questionnaire
+
+### Spirometry
+
+Lung function will be assessed using the EasyOne Diagnostic Spirometer (Ndd Medical Technologies, Andover, MA, USA), which is calibrated daily. The spirometer measures forced expiratory volume in one second (FEV1) and forced vital capacity (FVC). Spirometer software calculates the FEV1/FVC ratio and the predicted value of FEV1 based on reference values. At each examination, the criterion for correct procedure performance is at least three measurements differing by less than 5%. Reversibility using a bronchodilator is not allowed. Abnormal spirometry is defined as FEV1/FVC <0.7 or FEV1% pred. <0.8 or FVC % pred. <0.8. The spirometric cut-off values used in the Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines [27, 28] will be used for classifying disease severity.
+
+### The health check
+
+In addition to spirometry, the clinical examination includes the following measurements: blood analysis of total cholesterol, low-density lipoprotein (LDL), glycated hemoglobin (HbA1c), systolic and diastolic blood pressure, bodyweight, height, and Astrand’s submaximal bike test (cardiorespiratory fitness) [20, 29]. After the health check, the results are presented in a profile pamphlet including recommendations for follow-up according to the citizen’s risk profile. Citizens with abnormal spirometry are recommended to consult their general practitioner for further examination. Execution of the health check is standardized by a written standardized operational procedure (SOP), and adherence is monitored continuously. The average attendance rate in the CHPP was 53% during 2012–2015.
+
+### National registers
+
+In Denmark we have a unique opportunity to link study measurements to nationwide medical registers and databases [21, 22]. To understand the processes involved in responding to the intervention, especially among the non-attendees, secondary characteristics regarding sociodemographics, redeemed medication, and consultations at their general practitioner will be obtained by linking to Danish registers [21, 30, 31].
+
+### The routine procedure for invitation
+
+The comparison group (n = 2178) receives a standard invitation and a leaflet, as shown in Additional file 3. The leaflet and invitation contain practical information and specify the contents of the general health check [20]. The invitation also refers to the homepage for further information. Letters are dispatched continuously with a prefixed appointment for the health check. The appointment can be accepted, modified, or rejected via the Internet or by phone. A reminder is sent out with a new appointment time, if the appointment is not accepted within 7 days. Failure to reply within 3 weeks procures another reminder.
+
+### The intervention
+
+The intervention group (n = 2178) receives a modified invitation and a leaflet which highlights the benefits of spirometry as part of a health check and provides information about how to prevent lung diseases. The invitation was developed in collaboration with the Danish Lung Association and was tested for content and comprehensibility on a focus group before dispatch of the invitations to the intervention group. The citizens are recommended to visit the homepage for further information and advice on how to prevent lung diseases [32]. All the material can be accessed in Additional file 3.
+
+### Randomization
+
+Randomization is performed on clusters defined by households based on addresses from the Danish Civil Register [21, 22]. Furthermore, the randomization is balanced at the general practitioner (GP) level to ensure distribution of the follow-up workload over 5 years. Using the same index individual per households, 4356 citizens randomized to group 4 in the CHPP are further randomized by household into two parallel groups: intervention or comparison (Fig. 1). Randomization is handled by an independent statistician. Implementation and booking are handled by a data manager. The intervention, the outcome, and the group assignment are not revealed to the participants, And the health care professionals also remain blinded. The blinding will be unlocked as the last spirometry measurement is done in December 2016.
+
+### Outcome
+
+The outcomes are (1) differences in attendance rates measured by the proportion of citizens attending each of the two study groups and (2) proportion of persons at risk defined by smoking status and self-reported lung symptoms in the study groups. Furthermore, the characteristics of the two groups will be described according to sex, age, smoking history, and self- reported lung symptoms. Smoking status will be classified as smoker, ex- smoker, or never a smoker. The proportion of participants with abnormal spirometry assessed at the preventive health check will be compared between the two study groups.
+
+### Sample size
+
+The sample size is estimated at 4356 participants in total and is calculated on the basis of the following assumptions: 1:1 randomization, two-sided significance level of 0.05, power of 0.9, intra-cluster correlation coefficient of 0.01; and with an average of 1.5 citizens in each household, we calculated the design effect [33] to be 1.05. Calculations are further based on the objective of being able to detect a difference of 5 percentage points in effect size based on an attendance rate of 53–58%. The investigators determined this 5 percentage point difference to be clinically meaningful based on expert opinion [7–9, 34] and based on the run-in period where the participation rate was 53%. Also, an increase of 5 percentage points would deliver clinically meaningful benefit if scaled in a nationwide program. In order to reflect a possible clustering effect of the general practitioners (n = 46), which seldom exceeds 0.01 in primary care settings [35], the intra- cluster correlation coefficient was included. To limit the missing data in our study [36], incomplete questionnaires and incomplete spirometry measurements will be excluded. Non-attendees will be described with information supplied from national registers [21, 22]. A sensitivity analysis will also be performed.
+
+### Statistics
+
+The effect of the intervention on attendance will be estimated by the difference of the proportion of citizens attending each of the groups. Furthermore, a descriptive analysis of attendees and non-attendees will be performed regarding sex, age, smoking history, self-reported lung symptoms, and spirometry measurements. The analysis will follow the intention-to-treat principle [16].
+
+For the descriptive part of this study, bivariate and multivariate analyses will be performed. Numerical variables are presented as mean ± standard deviation, and binary variables as absolute numbers and relative (percent) frequencies. Student’s t test will be used when comparing means or changes in means of numerical variables, and Fisher’s exact t test or the chi-squared test will be used when comparing proportions for binary variables. Binary outcomes will be analyzed with logistic regression. The statistical significance level is set at p < 0.05. Statistical analysis will be performed using Stata 14.0 software [37]. A detailed Statistical Analysis Plan will be finalized before access to the data and will be attached to the ClinicalTrials.gov trial identifier ( NCT02615769).
+
+## Discussion
+
+This study is the first to examine the benefits of a low-cost and enhanced invitation strategy to identify lung impairment among young adults in a real- world setting. It is designed as a pragmatic and randomized study and will provide information which can be used directly by health care planners in the decision of how to implement health checks. The outcomes were chosen to mirror the aims of the intervention: the overall attendance rate and the attendance of people at risk for lung impairment.Our recruitment strategy is to reach the citizens in three different ways: by webpage, leaflet, and invitation letter in a randomized controlled design. Prior studies have shown an increase in attendance by enhancing invitation material [9, 11, 12, 38]. Therefore, we expect an increase in the attendance of 5 percentage points, and we also expect that more people at risk will attend. We believe it is a realistic goal, even though previous studies indicate that smokers feel ashamed and guilty of their self-inflicted disease and therefore hesitate to seek help [4]. In order to avoid having smokers absent themselves, when we were designing the new material for the intervention group, we involved a communications consultant from the Danish Lung Association [39], who is an expert in content and comprehensibility.
+
+### Strengths and limitations
+
+Participants will be enrolled directly from the general population; therefore, they will not receive any screening prior to inclusion. Thus, the generalizability will not only reflect certain at-risk populations such as current smokers, prior smokers, or citizens with chronic disease. The high transferability of the invitation material and the application of the intention-to-treat principle provide a high external validity. Moreover, the objective measure of attendance contributes with a high internal validity. We chose cluster randomization by household to limit the expected contamination between attendees living together, because motivation to attend a health check will potentially impact the entire household. To avoid having attendees refuse to participate, households are invited together and two reminders are sent out. Furthermore, appointments are scheduled outside of work hours. Finally, we have the unique opportunity to use the Danish registers as a population- based health care database with information about the non-attendees [21].
+
+The present study has some limitations. Firstly, we are aware that both groups have the same accessibility to the webpage regarding how to prevent lung disease, and this may dilute the difference between the two groups. Secondly, the right level of extra information is difficult to achieve. Too much information may cause the participants to believe that the study is only about lung function and possibly scare some of the citizens at risk. On the other hand, too little preventive information may dilute the intervention. Thirdly, we have no spirometry measurements on the non-attendees, which complicates the comparison among the non-attendees and the attendees. Nonetheless, we have the opportunity to supply the characteristics of the non-attendees by redeemed medication and sociodemographic characteristics by the Danish registers [21, 31]. Although our population is fairly young, the most severely affected and chronic patients will not show up for the examination as it requires some physical and mental effort, but we expect the effect to be equal among the two groups. Finally, there is a risk of misclassification among, e.g., citizens with flu or pneumonia, thus resulting in false positive outcomes. However, this risk is expected to be equal among the two groups due to the randomization.
+
+### Perspectives
+
+Lung diseases represent a significant burden for patients and health care systems worldwide. Optimizing early detection followed by pharmacological and non-pharmacological interventions can not only improve a patient’s health status and quality of life, but can also reduce health care expenses. The results from the present study are expected to contribute important knowledge about the value of information on spirometry in invitations to health checks.
+
+### Trial status
+
+At the time of submission of this manuscript, the trial has enrolled approximately 3500 participants. Recruitment is ongoing.
+
+## Acknowledgements
+
+The authors wish to thank the Check your Health group at the University of Aarhus and the staff at Randers Health Centre for examining all the participants. Furthermore, we wish to thank the Danish Lung Association for their help in creating the information material.
+
+### Funding
+
+The trial is funded by the Central Denmark Region (J.nr. 1-15-1-72-13-09), the municipality of Randers, and the Tryg Foundation (J.nr. 7-11-0500) [21].
+
+### Availability of data and materials
+
+The project is registered as part of the research projects, covered by the common university notification of the Danish Data Protection Agency on processing personal data, carried out by the university, with Danish Data Protection Agency journal no. 2015-57-0002 and Aarhus University journal no. 62908, serial number 186.
+
+### Authors’ contributions
+
+The trial was developed by LMØ, AL, ALB, HTM, and AS. LMØ drafted the manuscript with all authors providing critical review and final approval.
+
+### Competing interests
+
+The authors declare that they have no competing interests.
+
+### Consent for publication
+
+The written informed consent signed by the participants includes their consent for publication.
+
+### Ethics approval and consent to participate
+
+The study has been presented to The Scientific Ethics Committee and is considered to be based on routine data; thus, ethical approval is not needed for the trial. The study will comply with the declaration of Helsinki and be conducted in conformity with the Danish Health Law; hence written informed consent will be obtained from all participants. The trial has been registered at ClinicalTrials.gov ( NCT02615769).
+
+## Abbreviations
+CHPP| Check your Health Preventive Program
+---|---
+CPR| Civil personal registration
+CRS| Danish Civil Registration System
+FEV1| Forced expiratory volume in one second
+FVC| Forced vital capacity
+GP| General practitioner
+RCT| Randomized controlled trial
+##
+
+### Additional files
+
+Additional file 1:(121K, doc)
+
+SPIRIT 2013 Checklist: recommended items to address in a clinical trial protocol and related documents*. (DOC 121 kb)
+
+Additional file 2:(48K, doc)
+
+SPIRIT figure. (DOC 48 kb)
+
+Additional file 3:(3.9M, pdf)
+
+Invitation, leaflet, and website text to the invitation and comparison group. (PDF 4057 kb)
+
+## Contributor Information
+
+Lene Maria Ørts, Email: kd.ua.hp@oml.
+
+Anders Løkke, Email: moc.liamg@ekkeola.
+
+Anne-Louise Bjerregaard, Email: kd.ua.hp@jbla.
+
+Helle Terkildsen Maindal, Email: kd.ua.hp@mth.
+
+Annelli Sandbæk, Email: kd.ua.hp@keabdnas.illenna.
+

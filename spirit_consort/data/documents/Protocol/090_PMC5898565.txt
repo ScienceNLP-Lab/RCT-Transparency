@@ -1,0 +1,184 @@
+The dual trigger study: Rationale and study design of a prospective double-blind randomized clinical trial comparing pregnancy rates after co-administration of low dose hCG at the time of GnRH agonist trigger or 35 h later for the prevention of OHSS
+
+## Abstract
+
+Ovarian hyperstimulation syndrome (OHSS) is an iatrogenic complication of controlled ovarian stimulation. The use of gonadotropin releasing hormone (GnRH) agonist for the trigger of oocyte maturation is effective in the prevention of OHSS although it may result in a lower pregnancy rate. The use of adjuvant low dose human chorionic gonadotropin (hCG) at the time of trigger or at the time of oocyte retrieval may improve pregnancy rates. The goal of this dual trigger study is to evaluate the safety and efficacy of the use of low dose hCG administered at the time of GnRH agonist trigger or 35 h later as well as the potential impact on pregnancy rates. The population will consist of 82 women undergoing IVF treatment who are at risk of developing OHSS. This study will be a single center prospective randomized double-blind placebo controlled trial. The randomization schedule will be administered by the Investigational Drug Services of the University. After controlled ovarian stimulation, induction of oocyte maturation will be achieved using a GnRH agonist and patients will be randomized to receive either low dose hCG 1000 IU at the time of trigger and placebo at oocyte retrieval (Study group) or placebo at the time of trigger and hCG 1500 IU at the time of oocyte retrieval (Control group). The main outcomes will be live birth rates and incidence of OHSS. Two ancillary studies will include a quality of life survey and serum assessment of independent corpus luteum function.
+
+Keywords: OHSS, GnRH agonist trigger, Dual trigger, Low dose hCG, PCOS, IVF
+
+## 1. Introduction and background
+
+OHSS is an iatrogenic complication of controlled ovarian hyperstimulation (COH) which may result in significant morbidity, psychological distress and rarely mortality. The use of a gonadotropin releasing hormone (GnRH) agonist for induction of final oocyte maturation in ovarian stimulation cycles utilizing GnRH antagonist for pituitary suppression has proven to be an effective method of preventing the risk of OHSS development [1], [2], [3]. This is due to the short half-life of the endogenous luteinizing hormone (LH) surge resulting in early corpus luteolysis [4].
+
+Unfortunately, some studies have also reported lower pregnancy rates after GnRH agonist trigger as compared to cycles using hCG trigger [5], [6]. The reported lower pregnancy rates are more likely explained by impaired endometrial receptivity due to defective corpus luteun (CL) function. Optimal luteal phase steroidal supplementation after GnRH agonist trigger is important due to the strong evidence of abnormal luteal phase serum estradiol (E2) and progesterone (P) profiles [7], [8]. Most studies have utilized a suboptimal steroidal supplementation; therefore we have previously reported an aggressive luteal phase support along with close monitoring of serum steroid levels after GnRH agonist trigger, which has resulted in excellent ongoing pregnancy rates [1]. However, in a retrospective analysis of all patients who underwent GnRH agonist trigger, we found that patients with peak E2 level <4000 pg/mL had a significantly lower clinical pregnancy rate than those with peak E2 level over 4000 pg/mL despite aggressive luteal phase steroidal supplementation for all patients [9]. This therefore suggests that optimal conception rates are not achieved for all patients despite aggressive supplementation and a certain group of patients may still have lower conception rates.
+
+It has been shown that the use of adjuvant low dose hCG ranging between 1000 and 2500 IU at the time of GnRH agonist trigger will rescue some of the corpora lutea consequently improving pregnancy rates [10]. Griffin et al. showed that a fixed standard low dose hCG of 1000 IU is effective in optimizing pregnancy rates without increasing the risk of OHSS in women with peak E2 of <4,000 pg/mL [11]. The use of hCG 1500 IU at the time of oocyte retrieval in patients at risk of OHSS development has shown optimal pregnancy rates in several studies [12], [13]. However, there have been concerns regarding the high risk of OHSS using this protocol [14], [15]. We believe that a lower dose of adjuvant hCG at the time of GnRH agonist trigger will be adequate to induce enough corpora lutea development in order to support the luteal phase but low enough to prevent the development of OHSS. However, there has not been a study directly comparing the pregnancy rates between the two different approaches.
+
+## 2. Research design and study population
+
+### 2.1. Study design
+
+This study is a single center prospective randomized double-blind clinical trial involving patients at high risk of OHSS development undergoing COH using GnRH antagonist cycles. Patients will undergo induction of oocyte maturation utilizing a GnRH agonist. If the peak E2 level is < 4000 pg/mL, patients will be randomly assigned to receive either adjuvant low dose hCG 1000 IU at the time of trigger (Study Group) or adjuvant low-dose hCG 1500 IU 35 h after trigger (Control Group). Neither the patients nor the clinicians will be aware of the type of adjuvant hCG administration because of the use of placebo. Two ancillary studies, described below, were developed to compare the quality of life as well as to objectively measure independent function of the corpora lutea after the use of these two different protocols.
+
+### 2.2. Research aims and hypothesis
+
+The aim of this study is to compare the live birth rates (LBR) between adjuvant hCG administration at the time of GnRH agonist trigger or 35 h later. There are no randomized trials evaluating the optimal timing and dose of adjuvant low-dose hCG administration that will result in excellent conception rates without affecting the risk of significant OHSS development.
+
+In this study, we also developed several secondary research hypotheses: 1) Incidence of OHSS will be higher after adjuvant hCG 1500 IU administered 35 h after agonist trigger; 2) Patients who received dual trigger with GnRHa and hCG will have a better quality of life; 3) adjuvant hCG 1500 IU 35 h after agonist trigger will result in higher levels of independent markers of CL function such as 17-hydroxy progesterone (17-OH P) and prorenin. Evaluation of independent markers of CL function in the luteal phase and early pregnancy will help determine differences in CL rescue and also give further evidence as to whether endogenous hCG rise of pregnancy rescues the CL.
+
+### 2.3. Study population and inclusion/exclusion criteria
+
+Subjects aged ≥18 years and <40 years of age, with a normal FSH of <10 mIU/mL and have polycystic ovarian syndrome (PCOS) as defined by the Rotterdam consensus guidelines, or ≥ 12 antral follicles in at least one ovary, or AMH > 3.5 ng/mL are eligible for the study. Patients with a history of high response to gonadotropins defined as history of cycle cancellation due to high response or history of significant OHSS after assisted reproductive therapy will also be recruited. All patients recruited must have >14 follicles of over 11 mm in diameter and a peak E2 levels <4000 pg/mL on the day of trigger of oocyte maturation.
+
+Patients with <14 follicles at > 11 mm in diameter or peak E2 levels ≥4000 pg/mL will be excluded from the study and triggered with a standard dose hCG alone or a GnRH agonist alone without hCG or placebo respectively. Other exclusion criteria include patients with hypothalamic dysfunction. Patients who are excluded based on the peak E2 ≥ 4,000 pg/mL will still be eligible to complete the questionnaire and have independent markers of CL function assessed in the luteal phase and early pregnancy.
+
+The criteria for the cut-off of total number of follicles chosen at the time of trigger was based on previous reports suggesting that a patient with >14 follicles >11 mm in diameter have a significant risk of OHSS development when using the GnRH antagonist protocol [16]. Patients with peak E2 of ≥4000 pg/mL will be excluded because this group has been shown to have a higher chance of conception compared with patients with a peak E2 < 4000 pg/mL [9] and may also have a higher risk of OHSS development with adjuvant low dose hCG.
+
+### 2.4. Recruitment procedures
+
+All new or established patients undergoing IVF treatment at the Center for Advanced Reproductive Services at the University of Connecticut will be offered inclusion in the study. The subjects will then be screened via an interview by their physician to assess whether or not they meet inclusion/exclusion criteria for the study. Patients who are eligible and agree to participate will be consented and recruited for the study prior to commencing an IVF cycle.
+
+### 2.5. Protocol development, design issues and alternative study design
+
+#### 2.5.1. Final design considerations
+
+The choice of the dose of adjuvant hCG at the time of GnRH agonist trigger is based on our previous clinical and research experience and the fact that it may be high enough to rescue a few of the corpora lutea to optimize conception rates without increasing the risk of significant OHSS development [11].
+
+The choice of control group was based on a previous study which showed that the use of adjuvant hCG 1500 IU administered 35 h after GnRH agonist trigger resulted in comparable pregnancy rates with that obtained after standard dose hCG trigger [17]. The physiological basis for this approach is supported by a previous study which showed that luteinized granulosa cells obtained at the time of oocyte retrieval after GnRH agonist trigger are viable and have the same potential to respond to hCG as those cells obtained after hCG trigger [18]. These findings support the fact that the luteinized granulosa cells 35 h after GnRH agonist trigger are still viable and will respond to a bolus of hCG administration.
+
+##### 2.5.1.1. Study medication preparation, storage and administration
+
+HCG and placebo will be packaged and dispensed by the Investigational Drug Services (IDS) of the University of Connecticut Health Center. All of the drugs administered during the study will be research-subject directed. All patients participating in the study will be required to take an online medication teaching class.
+
+HCG will be stored as per package insert instructions at controlled room temperature (between 18OC and 23OC) at the University of Connecticut Health Center pharmacy. Once hCG and placebo have been reconstituted and ready for distribution, these will be dispensed to the patient by authorized research personnel and documented in the drug accountability log. If these medications become expired they will be disposed of properly according to pharmacy's regulations. Patients who are excluded from the study after dispensation of the hCG/placebo will be instructed to return the medication, which will be disposed of properly according to pharmacy's regulations. Any hCG or placebo remaining at the completion of the study will be disposed of according to the pharmacy's regulations.
+
+##### 2.5.1.2. Timing of randomization
+
+Patients will be randomized when the leading follicle reaches 14 mm in mean diameter to allow enough time for the IDS to randomize the patient and prepare the study medications for prompt delivery at the time of trigger. The hCG or placebo to be administered at trigger will be dispensed on the day of trigger of oocyte maturation to be self-administered at home. The hCG or placebo to be administered at the time of oocyte retrieval will be administered at the center by the nurses.
+
+#### 2.5.2. Study team and site
+
+The study team will consist of the PI, study coordinator and study co- investigators and the study will be monitored by the Data Safety and Monitoring Board (DSMB). The study will be conducted at the Center for Advanced Reproductive Services at the University of Connecticut Health Center.
+
+### 2.6. Randomization
+
+Subjects who have been recruited and consented for the study will be randomly assigned to either group in a ratio of 1:1 by means of a computer-generated random numbers (Fig. 1). Randomization of patients into the appropriate study groups will be performed by the IDS at University of Connecticut Health Center by using a series of consecutively numbered sealed opaque envelopes, and therefore the sequence of allocation will be concealed. The study will be blinded to both physicians and the patients.
+
+Fig. 1 Study design schematic.
+
+Patients will be given a unique identification number once they have been consented. The clinical team will not have access and will be blinded to the randomization schedule.
+
+The patients will be randomly assigned to 2 groups:
+
+Study Group:
+
+At time of trigger: GnRH agonist (leuprolide acetate 1 mg) and low dose hCG 1000 IU.
+
+At oocyte retrieval (35 h after trigger): Placebo.
+
+Control Group:
+
+At time of trigger: GnRH agonist (leuprolide acetate 1 mg) and Placebo.
+
+At oocyte retrieval (35 h after trigger): low dose hCG 1500 IU.
+
+### 2.7. Ovarian stimulation protocol
+
+The study treatment protocol is outlined in Fig. 2. All patients will have a baseline transvaginal ultrasound and serum estradiol (E2), follicle stimulating hormone (FSH), luteinizing (LH), progesterone (P), beta hCG on menstrual cycle day 2 and then will start daily recombinant follicle stimulation hormone (rFSH; Follistim; MSD USA Inc., Roseland, NJ) with or without human menopausal gonadotropin (hMG; Menopur; Ferring Pharmaceuticals, Parsippany, NJ). The starting gonadotropin dose of 112–225 IU will be based on patient's age, body mass index (BMI), day 3 FSH, AMH, antral follicle count (AFC) and prior response to gonadotropins. Patient's response will be monitored during the IVF cycle with serial transvaginal ultrasounds for follicular measurements and serum E2 levels. The dose of gonadotropins will be adjusted according to the patient's response. GnRH antagonist (Ganirelix; Organon USA Inc., Roseland, NJ) will be started at 0.25 mg subcutaneously daily once the leading follicle reaches ≥14 mm in diameter or serum E2 > 350 pg/mL and continued until the day of oocyte maturation trigger. Patients will be triggered when at least 3 follicles reach ≥17 mm in mean diameter with leuprolide acetate 1 mg (Lupron; TAP Pharmaceuticals, North Chicago, IL) subcutaneously and with either hCG 1000 IU or placebo subcutaneously. Serum LH, E2, progesterone (P) levels will be assessed the day after trigger to ensure adequate LH surge response to GnRH agonist trigger. Transvaginal ultrasound guided oocyte retrieval will be performed 35 h after the trigger injection. HCG 1500 IU or placebo will be administered at the time of oocyte retrieval. Embryo transfer will be performed 3 or 5 days after oocyte retrieval depending on the quality of the embryos.
+
+Fig. 2 Study protocol.
+
+Patients will start intramuscular (IM) P 50 mg daily and transdermal E2 patches 0.3 mg every other day (Vivelle-Dot; Novartis Pharmaceuticals, East Hanover, NJ) from the day after oocyte retrieval until a negative pregnancy test or 10 weeks gestation. Serum P and E2 levels will be measured three days and one week after oocyte retrieval, and then weekly until 10 weeks gestation. The dose of E2 patches will be increased, if necessary, up to a maximum of 0.4 mg every other day and/or addition of oral micronized E2 (Estrace; Bristol- Myers, Princeton, NJ) 2 mg by mouth twice daily to maintain serum E2 levels > 200 pg/mL. If needed, IM P will be increased to a maximum dose of 75 mg IM daily and/or Crinone vaginal supplementation 90 mg vaginally daily will be added to maintain serum P levels >20 ng/mL.
+
+### 2.8. Study specific visits and procedures
+
+An overview of the study visits is outlined in Fig. 3. All patients will be evaluated on day +9 from day of trigger for evidence of OHSS. Patents will have a pregnancy test on day +16 to confirm conception. Transvaginal ultrasound will be performed 6–7 weeks to confirm clinical pregnancy. Any pregnancy proceeding beyond 12 weeks gestation will be defined as ongoing pregnancy. Subjects will be contacted 6 weeks postpartum to assess information related to the antepartum, intrapartum and postpartum periods for maternal and fetal/neonatal outcomes. All patients will have the quality of life questionnaire given to them to complete at baseline, day of trigger and every other day until pregnancy test. A subset of patents will also have blood drawn at specific times as outlined in Fig. 3 and stored for future analysis of independent markers of corpora luteal function in the luteal phase and early pregnancy. Participation in this ancillary study will be by patient choice.
+
+Fig. 3 Study visit schedule.
+
+### 2.9. Study assessments
+
+Some of the study assessments are included in Fig. 3. The screening and baseline assessments will include evaluation of the inclusion and exclusion criteria and recruitment into the study and informed consent process. The treatment phase assessments will include the usual blood and ultrasound monitoring of follicular development during the IVF cycle as well as administration of the quality of life questionnaire. It will also include the midluteal assessment of ovarian volume and symptoms and signs of OHSS as well as midluteal and early pregnancy serum E2 and P monitoring and also the pregnancy ultrasound. Post-treatment assessment include completion of the pregnancy outcome form to evaluate any maternal or neonatal complications. These assessments were included to specifically address DSMB concerns regarding potential effects of study medications on maternal or neonatal outcome.
+
+### 2.10. Primary and secondary outcomes
+
+The main outcome measure of this study will be live birth rate, The secondary outcomes will be ongoing pregnancy rate, clinical pregnancy rate, miscarriage rate, midluteal ovarian volume and incidence of OHSS. Ongoing pregnancy rate is defined as defined as a positive serum beta hCG levels and the presence of a gestational sac with a fetal pole and fetal cardiac activity on transvaginal ultrasound which proceeds beyond 12 weeks gestation. Clinical pregnancy rate is defined as the presence of a gestational sac at 6–7 weeks gestation visualized by transvaginal ultrasound. Clinical miscarriage rate is defined as the proportion of patients who conceived and had an ultrasound with the presence of gestational sac, but miscarried before 12 weeks of gestation. OHSS will be defined following the criteria by Golan et al. [19], and will be diagnosed either at the time of evaluation for OHSS on day of trigger + 9 days or if the patient presents anytime during the luteal phase or during pregnancy with symptoms and signs of OHSS. Ovarian volume and number and size of CL will be obtained by transvaginal ultrasound. Ovarian volume will be calculated using the prolate ellipsoid formula (V = D1 x D2 x D3 x 0.523). The mean ovarian volume of the two ovaries will be defined as the average volume of the two ovaries ((V1+ V2)/2).
+
+#### 2.10.1. Data and safety monitoring
+
+The DSMB will be established for this study in order to ensure patient safety. This committee will consist of two members including a University of Connecticut Health Center OB/GYN faculty member and the hospital pharmacist from IDS who will have access to study data including the master randomization list. This committee will initially review data after 10 participants are randomized to ensure study safety and then subsequently will meet at least semi-annually to evaluate safety and outcome data. If the committee were to determine the study drugs posed a significant risk to the participants then verbal and written communication will be sent to the PI to suspend the study.
+
+#### 2.10.2. Interim safety and efficiency analysis
+
+During ovarian stimulation, patients will be monitored with serum E2 levels and ovarian follicular ultrasounds similar to any patient undergoing IVF treatment. Patients will receive an educational handout regarding the symptoms of OHSS. They will be encouraged to call should any signs or symptoms of OHSS develop. They will be asked at each visit after trigger about OHSS symptoms. A specific OHSS assessment will occur on trigger +9 days in which a patient's history and ultrasound will be performed. If patients have any other adverse events (allergic reaction, etc) they will be encouraged to report that to the research team. The DSMB will be provided with pregnancy outcome information for both mother and neonate. If there is an adverse event the DSMB will be able to determine if it is likely to be related to the study drug/procedures. If they determine it is related to the study drug, data would be un-blinded in order to prevent unacceptable risks to further participants. These assessments will be recorded in the patient's research record and analyzed according to the statistical protocol.
+
+### 2.11. Statistical analysis
+
+#### 2.11.1. Power and sample size
+
+In a previous study by Humaidan and colleagues [17], the authors reported no significant differences in delivery rate following hCG 1500 IU administration 35 h after GnRH agonist trigger compared with standard hCG trigger (24.0% versus 31.0%, p = NS). The 26% delivery rate was much higher than their previous reported OPR of 6% after GnRH agonist trigger alone [5]. In a retrospective review of our GnRH agonist trigger experience in high risk patients with peak E2 < 4000 pg/mL, we found a higher live birth rate after dual GnRH agonist and hCG 1000 IU trigger compared with only GnRH agonist trigger (52.9% versus 30.9%) [11].
+
+Based on a 0.05 two-sided significance level, we calculated that a sample size of 41 subjects in each group will provide 80% power to detect a significant difference in the ongoing pregnancy rates between the control group proportion of 0.240 and a study group proportion of 0.529.
+
+#### 2.11.2. Primary and secondary outcome analyses
+
+The study will use an intention to treat analysis and so every patient randomized will be included in the analysis for the primary endpoint. A separate analysis (per-protocol) will also be performed that will only include patients who actually received the study medication.
+
+The primary outcome measure of LBR will be analyzed using the Chi-square or Fisher's Exact test to determine if there are any differences between the two treatment groups. Chi Square or Fisher's Exact tests will be used for other categorical variables where appropriate. Independent sample t-test will be used for continuous variables which are normally distributed and Mann-Whitney U used for data not normally distributed. A P value of <0.05 (two sided) will be considered significant.
+
+The primary safety assessment is the incidence of OHSS and will be analyzed using the Chi-square or Fisher's Exact test to determine if there are any differences between the groups. Chi Square or Fisher's Exact tests will be used for other categorical variables where appropriate. Independent sample t-test will be used for continuous variables which are normally distributed and Mann-Whitney U used for data not normally distributed. Bonferroni test would be used to adjust for multiple comparisons where appropriate. A P value of <0.05 (two sided) will be considered significant.
+
+#### 2.11.3. Missing data and dropouts
+
+Patients who dropout from the study early will still be able to undergo their IVF treatment without adversely affecting their cycle. If they were randomized prior to withdrawal they will be included in the intention to treat analysis. Dropout from the study will be considered failure of treatment. As a result, for the primary endpoint of live birth, dropout will be equivalent to no livebirth. Therefore, there will be no missing data for the primary endpoint. Other outcome variables may have missing data due to missed visits or dropout from study treatment. These will be considered as missing data at random.
+
+### 2.12. Ancillary studies
+
+#### 2.12.1. Independent corpora luteal function study
+
+A subset of patients, 20 patients from each group (40 patients total) who agree to be part of the ancillary study, will have extra serum drawn and stored for future analysis of independent markers of CL function, prorenin and 17-OH P and hCG. After the serum is collected it will be coded using the same subject identification codes as previously described. The code will consist of a 2 letter study abbreviation followed by a sequential 3 digit number. A subject identification code list will be kept in a locked research cabinet. Coded samples will be stored at the Center for Advanced Reproductive Services at the University of Connecticut Health Center in a −80 °C freezer in a locked room only accessible to study personnel.
+
+For those subjects whose serum E2 is ≥ 4000 pg/mL the serum markers will be drawn in the luteal phase and early pregnancy in order to compare those markers with those subjects who receive low dose hCG. All patients, regardless of group, may opt out of this additional blood draw.
+
+After the study has been completed, the study samples will be analyzed at the Clinical Research Center Core Lab at the University of Connecticut Health Center for prorenin, 17-OH P and hCG. After the analysis is complete, the samples will be properly discarded per University of Connecticut Health Center protocol.
+
+#### 2.12.2. Quality of life survey
+
+All the patients will also be given a questionnaire to complete about their feeling of well-being and physical symptomatology before and after GnRH agonist trigger, which is a modification of the fertility-related quality of life (FertiQol) survey [20]. The questionnaire will be administered at baseline and on the day of trigger of oocyte maturation and during the luteal phase (Fig. 3).
+
+## 3. Results
+
+### 3.1. Trial registration and conduct
+
+The study protocol, the manual of operations and procedures, case report forms, informational brochures and informed consents were reviewed and approved by the University of Connecticut IRB. We applied and received an IND from the FDA (IND# 113472) for the use of low dose hCG for trigger of oocyte maturation and luteal support. This trial has been registered at clinicaltrials.gov (NCT#:  NCT01815138). Institutional Review Board (IRB) approval was also obtained.
+
+The study will be monitored by the study coordinator and the PI. The study will comply with the guidelines of Good Clinical Practice to safeguard high quality of the trial, reliability of the data and confidentiality of the research subjects.
+
+### 3.2. Study funding and control
+
+The study is funded by an investigator initiated unrestricted educational grant from Merck Sharp & Dohme (MSD) Corp. The research team is led by the PI and responsible for the contribution of research ideas to the development of the protocols as well as the implementation of the trial and data analysis.
+
+### 3.3. Study reporting
+
+An IND Annual report of the progress of the investigation will be submitted within 60 days of the anniversary date that the IND went into effect. The report will include individual study information such as title, purpose, patient population, study status, total number of subjects planned, total number enrolled at the time of the report by age group and race as well as the number completed cycles as planned, and the number of patients withdrawn. The summary information will include the most frequent and most serious adverse experiences, a summary of all IND safety reports submitted during the past year and a list of subjects who dropped out during the course of the investigation associated with any adverse experience, whether or not thought to be drug related and a description of the general investigational plan for the following year.
+
+## 4. Discussion
+
+The dual trigger study is a clinical trial designed to compare the effectiveness of adjuvant low dose hCG at the time of GnRHa trigger or at the time of oocyte retrieval. It will be the first study to directly compare the two protocols in high responders undergoing IVF treatment. There are several unique qualities of this trial. These include the double-blind nature of the trial thereby limiting any bias from study personnel, the fact that the randomization schedule will be performed and administered by the IDS who are independent of the study as well as the inclusion of different secondary hypotheses.
+
+In a previous study evaluating the use of GnRH agonist trigger for the prevention of OHSS [1], we included assessment of all patients in the midluteal phase for the development of OHSS in terms of symptoms, ultrasound measurements of ovarian volume and electrolytes. In this study we kept the midluteal phase evaluation as an opportunity to evaluate patients for mild or moderate OHSS as well as to instruct patients to call if they developed any new symptoms. However, we opted to eliminate the serum electrolyte evaluation for all patients since we found it not useful for patients with mild or moderate OHSS.
+
+In our previous retrospective study evaluating the use of dual trigger to prevent OHSS [11], the patients mixed the low dose hCG for trigger at home and administered it. In this study, the low dose hCG as well as placebo will be prepared by the pharmacy, thereby reducing the risk of a medication error.
+
+Based on the recommendations from the IRB and the DSMB, we will establish a database for the pregnancy outcomes. A pregnancy outcome form will be completed for each subject enrolled in the clinical study after delivery. The pregnancy outcome form will contain maternal and neonatal outcome data for the antepartum, intrapartum and postpartum periods (complications, birth defects, etc.). We also included a questionnaire regarding the quality of life measures after trigger of oocyte maturation to monitor patients' well-being after the use of the two protocols to evaluate safety.
+
+The incorporation of secondary hypotheses will provide further insight into the use of these protocols. Although previous studies have attempted to evaluate the independent function of the corpus luteum after GnRHa trigger, none have used truly independent markers of CL function [21]. Certain factors such as 17-OH P and prorenin, have been identified as independent markers of corpora lutea function and may serve as important factors to identify the extent of CL rescue in the luteal phase and early pregnancy following adjuvant low dose hCG administration after GnRH agonist trigger. The placenta has little 17-alpha hydroxylase enzyme activity; therefore circulating levels of 17-OH P are a marker of corpus luteum activity. Moreover, circulating levels are not affected by exogenous P administration. In early pregnancy, the levels of 17-OH P rise, marking the activity of the CL. By the 10th week of gestation, the levels return to baseline levels, confirming that the placenta has little 17-alpha hydroxylase activity. Prorenin is the inactive precursor of renin and maternal levels increase about ten-fold during early pregnancy as a result of hCG stimulation [22], [23]. In addition to prorenin being secreted by the CL, it is also expressed in the gestational sac [23] as well as the chorion, amnion and placenta [24]. However, there is little evidence that fetal or uterine prorenin contributes to the maternal circulation. Furthermore, low levels were observed in a pregnant patient with primary ovarian failure [22]. Therefore, measurement of circulating 17-OH P and prorenin during the luteal phase and early pregnancy will help elucidate further the effect of GnRH agonist trigger on CL function.
+
+One of the main limitations of this study is that the choice of control group and calculation of sample size in this study was based on a previous study by Humaidan et al. [17], but there are some differences between the two protocols. Our study used IM Progesterone in the luteal phase for all patients whilst the study by Humaidan only used crinone vaginal supplementation. The decision to use the Humaidan et al. study (2010) was because it is one of the only few studies that was randomized using adjuvant hCG 35 h after GnRHa trigger. We also desired to use a similar type of luteal phase supplementation in both study arms of our study. Moreover, it is believed that the adjuvant hCG administration after GnRHa trigger may be more important in restoration of optimal luteal phase than the type of progesterone used.
+
+We hope to complete the collection and analysis of the data to allow recommendation for the choice of protocol in order to help prevent the development of OHSS while maintaining adequate CL function to optimize pregnancy rates.
+
+## Funding source
+
+This study was supported in part by an educational investigator initiated unrestricted grant from Merck Sharp & Dohme (MSD) Corp., Roseland, New Jersey. USA (PO8482).
+

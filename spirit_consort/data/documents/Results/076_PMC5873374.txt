@@ -1,0 +1,170 @@
+The effect of an attachment‐oriented couple intervention for breast cancer patients and partners in the early treatment phase: A randomised controlled trial
+
+## Abstract
+
+### Objective
+
+Patients and partners both cope individually and as a dyad with challenges related to a breast cancer diagnosis. The objective of this study was to evaluate the effect of a psychological attachment‐oriented couple intervention for breast cancer patients and partners in the early treatment phase.
+
+### Methods
+
+A randomised controlled trial including 198 recently diagnosed breast cancer patients and their partners. Couples were randomised to the Hand in Hand (HiH) intervention in addition to usual care or to usual care only. Self‐report assessments were conducted for both patients and partners at baseline, postintervention (5 months), and follow‐up (10 months), assessing cancer‐related distress, symptoms of anxiety and depression, and dyadic adjustment. Patients' cancer‐related distress was the primary outcome.
+
+### Results
+
+Cancer‐related distress decreased over time in both patients and partners, but the intervention did not significantly affect this decrease at postintervention (P = .08) or follow‐up (P = .71). A significant positive effect was found on dyadic adjustment at follow‐up for both patients (P = .04) and partners (P = .02).
+
+### Conclusions
+
+There was no significant effect of the HiH intervention cancer‐related distress. The results suggest that most couples can cope with cancer‐related distress in the context of usual care. However, the positive effect on dyadic adjustment implies that the HiH intervention benefitted both patients and partners. Future studies should investigate how to integrate a couple focus in usual cancer care to improve dyadic coping in the early treatment phase.
+
+Keywords: attachment, breast cancer, couples, distress, dyadic coping
+
+## 1. INTRODUCTION
+
+Breast cancer (BC) is a life‐threatening disease, and patients are at increased risk of experiencing individual distress (including symptoms of anxiety and depression) at some point or continually during time of diagnosis and active treatment.1, 2, 3, 4, 5 Patients in an intimate relationship usually regard their partner as the main source of support throughout the cancer trajectory.6, 7 However, partners themselves are affected emotionally and experience challenges in how to support the patient.8 Patients' and partners' levels of distress may be affected not only by challenges associated with cancer diagnosis and treatment but also by perceived spousal support or lack thereof. The communication within the couple influences the couple's functioning.9, 10 Challenges that are not adequately coped with within the couple may increase levels of dyadic distress.11, 12
+
+Three systematic reviews with 37 couple interventions for cancer patients and partners found significant, small to moderate effect sizes regarding psychological, physical, and relationship outcomes for both patients and partners.13, 14, 15 However, all authors concluded that the results were influenced by conceptual and methodological limitations of the intervention studies, such as no specified theoretical framework, small sample sizes, high attrition rates, and limited use of intention‐to‐treat analysis.
+
+The Hand in Hand (HiH) randomised controlled trial (RCT) for couples coping with BC evaluates the effects of a psychological couple intervention in the early treatment phase addressing some of the methodological limitations seen in previous couple intervention studies. The theoretical framework is attachment theory, providing an explanation of how attachment behaviour and attachment style may influence the exchange of support within couples and their adjustment to BC.16, 17, 18, 19
+
+### 1.1. Aim
+
+The aim of this adequately powered study was to evaluate the effect of the HiH intervention for BC patients and their partners in addition to usual care compared to usual care only. The primary outcome was cancer‐related distress for patients at postintervention (T2) being regarded as the primary burden for both patients and partners. Secondary outcomes were cancer‐related distress for partners, symptoms of anxiety and depression, and dyadic adjustment for both patients and partners.
+
+## 2. MATERIAL AND METHODS
+
+The HiH study is a multicentre RCT of 198 couples coping with newly diagnosed primary BC. Couples were randomised to usual care or the HiH intervention in addition to usual care. A more detailed description of the HiH study has been published.20 The study was approved by the Danish Data Protection Board (No: 2012‐41‐0392) and the Regional Scientific Ethics Committee for Southern Denmark (No: S‐20110100).
+
+### 2.1. Participants
+
+Eligible patients were women newly diagnosed with primary BC, who were ≥18 years, cohabited with a male partner, had no previous cancer diagnoses, had received no neoadjuvant treatment, had no history of hospitalisation due to psychosis, were able to read and speak Danish, and were not referred to or consulting any of the trial psychologists. Partners had to be ≥18 years and be able to read and speak Danish.
+
+### 2.2. Enrolment
+
+Eligible patients were identified and informed about the project during their hospital admission in relation to primary surgery. Enrolment was conducted at 3 Danish breast surgery departments from October 2011 to December 2012 for centres 1* and 2,† and April 2012 to January 2013 for centre 3.‡ Consenting patients received additional information about the project by phone. If they consented to participate in the study, their partners were asked for verbal consent. Couples were randomised if completed questionnaires and signed consent forms had been returned.
+
+Randomisation was stratified on centres, and each centre was block randomised. All except the independent statistician were blinded to block sizes and allocation sequence. Participants were for obvious reasons not blinded. Due to geographical reasons, it was not possible to randomise the psychologists to centres.
+
+### 2.3. Control condition: usual care
+
+Usual care at all 3 centres consisted of verbal and written information on normal psychological reactions in relation to a cancer diagnosis. It was distributed by the local clinical staff.
+
+### 2.4. Intervention: HiH in addition to usual care
+
+The HiH intervention consisted of 4 to 8 couple sessions led by a clinical psychologist up to 5 months after primary surgery. Attendance of both the patient and partner was required. The HiH intervention aimed to enhance dyadic adjustment through dyadic coping within the couples (eg, mutual understanding of attachment behaviour, perceived proximity and security, and creating new emotional experiences). The following issues should be addressed during couple sessions: couples' sense of attachment‐related security, level of individual emotional distress and needs, knowledge of and experiences with cancer, psychological disorders, former stress‐full life events, intimacy and sexual function, and other stressors. Enrolment implied 4 to 8 couple sessions, but the total number of couple sessions was decided by the couple and their allocated psychologist. All trial psychologists were experienced in working with therapeutic counselling of cancer patients and couples. Further details on the HiH intervention can be found in the published protocol article20 and Appendix S1.
+
+### 2.5. Measurements
+
+Data were obtained from a national database (time of primary surgery, T0) and self‐assessment questionnaires at preintervention (T1), postintervention 5 months after surgery (T2), and follow‐up 10 months after surgery (T3).
+
+#### 2.5.1. Cancer‐related distress
+
+The Impact of Event Scale (IES)21 assessed current subjective distress related to BC. The IES is a 14‐item scale with sum scores ranging from 0 to 70. Scores of 0 to 8 indicate no meaningful impact, 9 to 25 some impact, 26 to 43 a powerful impact, and ≥44 a severe impact. Cronbach's alphas were 0.89 to 0.92 for patients and 0.83 to 0.89 for partners.
+
+#### 2.5.2. Symptoms of anxiety and depression
+
+The Hospital Anxiety and Depression Scale22 is a 14‐item scale assessing feelings of anxiety and depressive symptoms in the past 7 days. Total scores of the subscales anxiety and depression range from 0 to 21 with >10 indicating a probable diagnosis, 8 to 10 indicating a possible diagnosis, and <8 low occurrence of anxiety and depression. Cronbach's alphas ranged from 0.78 to 0.87 for patients and 0.79 to 0.84 for partners.
+
+#### 2.5.3. Dyadic adjustment
+
+The Revised Dyadic Adjustment Scale23 assessed dyadic adjustment. The scale consists of 14 items. Total scores range from 0 to 69. Higher scores indicate greater dyadic adjustment measured by the degree of consensus, satisfaction, and cohesion in the relationship. Cronbach's alphas ranged from 0.77 to 0.93 for patients and 0.83 to 0.94 for partners.
+
+#### 2.5.4. Therapeutic alliance
+
+The “Bond” subscale from the Working Alliance Inventory—Short Revised assessed patients' and partners' perceptions of an affective bond between the psychologist and themselves.24 These items were added to the questionnaire at T2 for participants in the intervention group. The scores range from 0 to 28.
+
+### 2.6. Additional support
+
+At T2, all participants were asked if they had received any professional support and counselling (other than the intervention) from a doctor, nurse, psychologist, priest, social worker, or support group.
+
+### 2.7. Demographic and medical variables
+
+Breast cancer characteristics were obtained from the Danish Breast Cancer Group—clinical database.25 Cohabitation status and age were obtained from the Civil Registration System.26
+
+### 2.8. Sample size
+
+The required sample size was calculated based on a 7‐point difference in the change from T1 to T2 between the randomised groups on the IES Total measure. On the basis of prior intervention studies of BC patients and their partners, we estimated a mean of 27 at baseline with a standard deviation of 16 for patients.27, 28 A sample of 166 couples is sufficient to detect a relevant effect, with a power of 0.80 and an alpha of 0.05. Considering attrition rates reported in other couple intervention studies,13 we included 199 couples.
+
+### 2.9. Statistical methods
+
+Descriptive statistics were used to present demographic and disease‐related variables at baseline. We used linear regression adjusted for baseline scores of the respective outcome and chemotherapy to test the effect of the HiH intervention on cancer‐related distress, symptoms of anxiety and depression, and dyadic adjustment at T2 and T3. Further, we used linear regression analysis on the primary outcome adjusted for tumour size, type of operation, biological treatment, radiation, and nodal status. All analyses were modified intention‐to‐treat analysis. Effect sizes of differences between intervention and control group were calculated using Cohen d. Exploratory analyses investigated the effect of number of sessions and therapeutic alliance on cancer‐related distress for complete cases at T2 and T3 in the intervention group, using linear models adjusted for baseline scores.
+
+Additionally, linear models were used to investigate interactions that could elucidate our findings on IES Total regarding the effect over time for initially distressed patients and partners. Interactions between group and time and between group and baseline distress were analysed.
+
+## 3. RESULTS
+
+### 3.1. Study population
+
+Of 776 eligible couples, 198 (26%) were randomised into the intervention group (n = 102 couples) and the control group (n = 96 couples) (Figure 1). Baseline characteristics of enrolled patients and partners are shown in Table 1. A total of 166 patients at T2 and 147 patients at T3 completed the follow‐up questionnaires, resulting in a mean attrition rate from baseline to T3 of 26%. A total of 165 partners at T2 and 144 partners at T3 completed the follow‐up questionnaires, resulting in a mean attrition rate from baseline to T3 of 27%. Attrition was highest in the control group at T3 (37% compared to 20% in the intervention group). Dropouts and complete cases did not differ significantly in cancer‐related distress at baseline. Fifty‐three couples completed 4 to 8 sessions, 40 couples completed 1 to 3 sessions, and 9 couples did not complete any sessions.
+
+Figure 1 CONSORT flow diagram
+
+### Table 1 Sociodemographic, disease‐related, and treatment‐related characteristics of participants
+
+On average, patients in the intervention group perceived a powerful impact of BC in the intervention group assessed by IES (mean, 26.28). Patients and partners in both groups scored relatively low on symptoms of anxiety and depression. Overall, dyadic adjustment increased in the intervention group, while it decreased in the control group.
+
+### 3.2. Primary outcome
+
+We found a significant positive effect of the intervention on patients' cancer‐related distress between the intervention and control group at T2 (P = .05), but after adjusting for baseline, the effect was nonsignificant (P = .08) with an effect size of −0.32 (Table 2). Adjusting for disease‐specific variables had no significant effect on the primary outcome.
+
+### Table 2 Study outcomes of patients and partners according to allocation status adjusted for baseline
+
+### 3.3. Secondary outcomes
+
+There was no significant effect on cancer‐related distress for partners at T2 (P = .99) or for patients (P = .71) and partners (P = .27) at T3. Effect sizes varied from −0.06 to 0.14. There was no significant effect of the intervention on symptoms of anxiety and depression and dyadic adjustment at T2 for neither patients nor partners with effect sizes from 0.01 to 0.24. At T3, there was a negative effect for partners' symptoms of depression (P = .01) with an effect size of 0.36 and a significant effect on dyadic adjustment for both patients (P = .04) and partners (P = .02) with effect sizes of 0.28 and 0.37 compared to the control group.
+
+### 3.4. Exploratory analyses
+
+No interaction was found between level of cancer‐related distress and group that could indicate a larger effect for highly distressed patients at T2 (P = .93) or T3 (P = .38). In addition, we found no interaction between time and group that could indicate that the intervention had a differential effect on cancer‐related distress over time. Patients receiving 5 to 8 couple sessions had the largest decrease in total cancer‐related distress with a mean reduction of −16.5 at T2 and −10.3 at T3, compared to −5.9 at T2 and −5.2 at T3 when receiving 0 sessions, −4.0 at T2 and −4.0 at T3 when receiving 1 to 3 sessions, and −3.4 at T2 and −6.5 for patients receiving 4 sessions. The same pattern occurred for partners receiving 5 to 8 sessions with a mean reduction of −5.9 at T2 and −4.8 at T3 compared to receiving fewer sessions ranging from a mean reduction from −3.8 to −2.2 at T2 and −4.7 to 1.0 at T3.
+
+Patients and partners had a median of 27 and 24, respectively, on the “Bond” subscale of Working Alliance Inventory—Short Revised. These results substantiate that most patients and partners had a strong therapeutic alliance with the psychologist. However, there was not enough variance among respondents to perform mediation analyses.
+
+A total of 54 patients (56%) in the control group and 53 patients (52%) in the intervention group reported that they had received additional professional support (trial psychologists not included). This was 20 (26%) for partners in the control group and 33 (38%) for partners in the intervention group. This difference was mainly due to perceived support from nurses.
+
+## 4. DISCUSSION
+
+This study did not confirm that a psychological attachment‐oriented couple intervention could further decrease cancer‐related distress than usual care. At T3, we found a significant effect of the intervention on dyadic adjustment for both patients and partners, while partners in the control group had a significant decrease in symptoms of depression.
+
+The nonsignificant findings on cancer‐related distress should be compared to similar studies. A German study including 72 couples coping with BC concluded that the significant differences in cancer‐related distress were caused by baseline differences and not by a differential effect of the couple intervention.29 These findings are in line with the results of our study that found a significant effect on distress at T2 for patients (P = .05), although not significant when adjusting for baseline values (P = .08). The steady decrease in cancer‐related distress in the control group and the significant positive effect for partners on symptoms of depression at T3 in the control group suggest that the patients and partners can cope with both general and cancer‐related distress in the context of usual care.
+
+The significant effect on dyadic adjustment at T3 is in line with other couple intervention studies that found an effect on dyadic adjustment or marital satisfaction.30, 31 The German RCT of 72 couples found a larger albeit nonsignificant improvement in relationship satisfaction in the intervention group.29 The divergent findings might partly be due to different conceptualisations of dyadic adjustment, eg, marital quality or relationship satisfaction.
+
+The results on the primary outcome may be influenced by attrition (attrition rate: 26%‐27% at T3), as indicated by an Australian couple‐based study.27 In our study, attrition could affect results into a more positive direction, if participants did not complete the questionnaires due to distress. The opposite might be the case if participants that did not complete the questionnaires did not feel burdened by the BC and found no reason to further participation. However, an analysis found no larger degree of cancer‐related distress in dropouts compared to complete cases at baseline. Though, the significant effect on dyadic adjustment at T3 with no significant effect at T2 may be a chance finding due to attrition.
+
+Our results could not confirm previous studies' recommendations that psychological couple interventions for cancer patients and partners should be offered during the early treatment phase.32 We found that 92 of 250 couples (37%), whom had given consent to receive further information regarding the study, declined because they found it difficult to cope with a psychological intervention at that time point (Figure 1). The timing may be more appropriate for partners, because both relationship challenges and challenges related to trying to offer support are present for them while patients are overwhelmed by disease‐related concerns.33, 34
+
+Study strengths include the randomised controlled design, the large sample size of 198 couples at baseline, the specified primary outcome, and the theoretical framework. Further, the intervention was developed specifically for our sample, the multicentre design increased the generalisability, and the effects of the intervention were investigated in both patients and partners. Timing and content of the couple sessions were adapted for each couple within the limit of 4 to 8 sessions up to 5 months after primary surgery. Further, data on therapeutic alliance showed that the vast majority of couples perceived an alliance with the psychologist, which is an important prerequisite for a successful intervention.35, 36 We had access to detailed clinical information on each eligible case, which made it possible to adjust for baseline differences in patients' clinical situation.
+
+### 4.1. Study limitations
+
+There is a risk of selection bias in the enrolment procedures followed at the centres. To ensure homogeneity in the screening of and information to eligible patients, clinical staff received written guidelines and coaching with the project manager. Further, attrition throughout the study may have influenced the results, and the initial participation rate of 26% may have decreased the generalisability of the findings. There was no active control group to secure that any effects would be due to the attachment‐oriented intervention and not merely due to attention from a psychologist. Finally, only 53 couples (52%) completed 4 to 8 couple sessions. However, empirical data obtained by trial psychologists suggested that expanding the period for couple sessions for more than 5 months would increase number of couple sessions.
+
+### 4.2. Clinical implications
+
+This study adds important knowledge to the field of couple interventions in cancer. The results suggest that cancer patients and partners generally have a steady decrease in distress over time within the context of usual care. The effect on dyadic adjustment for both patients and partners should be investigated further, to enhance the focus on patients and partners as a dyad in clinical care. It would be interesting to investigate whether increased dyadic adjustment contributes to reduced cancer‐related distress in the re‐entry phase, being the phase, in which patients have to make the transition from treatment to early survivorship.
+
+## CONFLICT OF INTEREST
+
+The authors declare that they have no conflict of interest.
+
+## Supporting information
+
+Appendix S1: Supporting information
+
+## ACKNOWLEDGEMENTS
+
+We thank the clinical staff, patients and partners for their contribution to this study, and clinical psychologists Karin Rasmussen and Per Nielsen for their contribution to the development of the HiH intervention. The Danish Cancer Society, Region of Southern Denmark, National Research Centre for Cancer Rehabilitation (funded by the Danish Cancer Society), and University of Southern Denmark funded the study.
+
+## Notes
+
+Nicolaisen A, Hagedoorn M, Hansen DG, et al. The effect of an attachment‐oriented couple intervention for breast cancer patients and partners in the early treatment phase: A randomised controlled trial. Psycho‐Oncology. 2018;27:922–928. https://doi.org/10.1002/pon.4613 [PMC free article] [PubMed] [Google Scholar]
+
+## ENDNOTES
+
+* Breast Surgery Department, Ringsted Hospital
+
+† Breast Surgery Centre, Plastic Surgery Department, Odense University Hospital
+
+‡ Breast Surgery Department, Herlev Hospital, University of Copenhagen
+

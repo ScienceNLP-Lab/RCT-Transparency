@@ -1,0 +1,261 @@
+Arthroscopic hip surgery compared with physiotherapy and activity modification for the treatment of symptomatic femoroacetabular impingement: multicentre randomised controlled trial
+
+## Abstract
+
+### Objective
+
+To compare arthroscopic hip surgery with physiotherapy and activity modification for improving patient reported outcome measures in patients with symptomatic femoroacetabular impingement (FAI).
+
+### Design
+
+Two group parallel, assessor blinded, pragmatic randomised controlled trial.
+
+### Setting
+
+Secondary and tertiary care centres across seven NHS England sites.
+
+### Participants
+
+222 participants aged 18 to 60 years with symptomatic FAI confirmed clinically and with imaging (radiography or magnetic resonance imaging) were randomised (1:1) to receive arthroscopic hip surgery (n=112) or a programme of physiotherapy and activity modification (n=110). Exclusion criteria included previous surgery, completion of a physiotherapy programme targeting FAI within the preceding 12 months, established osteoarthritis (Kellgren-Lawrence grade ≥2), and hip dysplasia (centre-edge angle <20 degrees).
+
+### Interventions
+
+Participants in the physiotherapy group received a goal based programme tailored to individual patient needs, with emphasis on improving core stability and movement control. A maximum of eight physiotherapy sessions were delivered over five months. Participants in the arthroscopic surgery group received surgery to excise the bone that impinged during hip movements, followed by routine postoperative care.
+
+### Main outcome measures
+
+The primary outcome measure was the hip outcome score activities of daily living subscale (HOS ADL) at eight months post-randomisation, with a minimum clinically important difference between groups of 9 points. Secondary outcome measures included additional patient reported outcome measures and clinical assessment.
+
+### Results
+
+At eight months post-randomisation, data were available for 100 patients in the arthroscopic hip surgery group (89%) and 88 patients in the physiotherapy programme group (80%). Mean HOS ADL was 78.4 (95% confidence interval 74.4 to 82.3) for patients randomised to arthroscopic hip surgery and 69.2 (65.2 to 73.3) for patients randomised to the physiotherapy programme. After adjusting for baseline HOS ADL, age, sex, and study site, the mean HOS ADL was 10.0 points higher (6.4 to 13.6) in the arthroscopic hip surgery group compared with the physiotherapy programme group (P<0.001)). No serious adverse events were reported in either group.
+
+### Conclusions
+
+Patients with symptomatic FAI referred to secondary or tertiary care achieve superior outcomes with arthroscopic hip surgery than with physiotherapy and activity modification.
+
+### Trial registration
+
+ClinicalTrials.gov  NCT01893034.
+
+## Introduction
+
+Femoroacetabular impingement (FAI) is a hip condition where adverse morphology predisposes to premature joint degeneration.1 2 This adverse morphology is classified as cam, pincer, or mixed. Cam morphology describes a loss of sphericity of the femoral head, pincer morphology describes an acetabulum with excessive coverage of the femoral head, and mixed morphology describes a combination of the two deformities (fig 1). These hip shapes can cause the femoral neck to impact against the acetabular rim during a functional range of movement, with resultant damage to the labrum (which is attached to the rim), delamination of the adjacent acetabular cartilage, and, over time, secondary osteoarthritis.1 3
+
+
+Fig 1 Anteroposterior radiographs showing (A) normal morphology, (B) cam morphology, and (C) pincer morphology. Dashes represent abnormal morphology that predisposes to femoroacetabular impingement, and which is excised with a burr during arthroscopic surgery to prevent impingement
+
+The prevalence of FAI morphology is high and is observed in about one fifth of the general population.4 Less than 25% of those affected develop pain5 (FAI syndrome) or osteoarthritis,1 although up to 50% of all hip osteoarthritis might develop secondary to FAI.2 Identifying those at greatest risk of developing joint disease secondary to FAI remains a challenge.
+
+Physiotherapy and activity modification represents the principal treatment for symptomatic FAI; however, arthroscopic surgery is increasingly adopted to reshape the hip and deal with the damage to the labrum and cartilage (fig 2). The primary treatment goal is to improve pain and function, but interventions that modify contact between the femoral neck and acetabular rim may subsequently reduce cartilage and joint damage, the risk of osteoarthritis, and need for future hip arthroplasty.6
+
+
+
+Fig 2 Right hip coronal magnetic resonance image of trial participant randomised to surgery: (A) Baseline image showing cam morphology (arrow). (B) Six months after hip arthroscopy with restoration of the normal concavity at the femoral head-neck junction by burring away the cam lesion (arrow). This procedure prevents abutment of the femoral head-neck junction against the acetabular rim during a functional range of movement
+
+Although arthroscopic hip surgery has been shown to be safe,7 evidence of efficacy is limited. Two randomised controlled trials compared physiotherapy rehabilitation with arthroscopy for improving symptoms: one concluded that treatments did not differ8 and the other that arthroscopic surgery was superior to best conservative care.9 Despite the limited evidence, arthroscopic hip surgery has become an established treatment, with an estimated 50 000 or more procedures being carried out in the United States annually.10 The number of procedures performed annually in England between 2002 and 2013 increased by 727%.11 Regional variation in the number of procedures performed is substantial and could reflect surgeon preference or local commissioning of services.11
+
+The Femoroacetabular Impingement Trial (FAIT) compared arthroscopic hip surgery with physiotherapy and activity modification in patients referred to secondary or tertiary care with symptomatic FAI.12 Here we report the primary endpoint of patient reported outcomes at eight months post-randomisation. Cost effectiveness and development of osteoarthritis will be evaluated at three year follow-up. The study design was based on a previous feasibility study, which showed that both surgeons and patients have equipoise for physiotherapy and activity modification versus arthroscopic hip surgery.13
+
+## Methods
+
+The study was performed according to the published protocol.12 FAIT is a two group parallel assessor blinded pragmatic randomised controlled study with 1:1 allocation.
+
+### Participants
+
+Eligible participants were aged 18 to 60 years and referred to secondary or tertiary care with symptomatic FAI confirmed clinically and with imaging (radiography and magnetic resonance imaging (MRI)). Owing to the absence of agreed diagnostic thresholds and to improve generalisability of our study findings, we did not use quantitative imaging measurements as inclusion criteria for this study.14 Instead, surgeons qualitatively assessed hip morphology to diagnose FAI. We excluded participants if they had completed a programme of physiotherapy targeting FAI within the preceding 12 months or received previous surgery to their symptomatic hip. Additional exclusion criteria were established osteoarthritis (Kellgren-Lawrence grade ≥2) or hip dysplasia (centre-edge angle <20 degrees on anteroposterior pelvis radiograph).
+
+### Recruiting centres
+
+Consultant orthopaedic surgeons from seven National Health Service sites across England recruited participants: Oxford University Hospitals NHS Foundation Trust, Royal Berkshire NHS Foundation Trust, Harrogate and District NHS Foundation Trust, Cambridge University Hospital NHS Foundation Trust, Wye Valley NHS Trust, Great Western Hospital NHS Foundation Trust, and Weston Area Health NHS Trust. Study participation required that sites were centres that perform a high volume of arthroscopic hip procedures and could deliver the goal based physiotherapy programme.
+
+### Randomisation and masking
+
+A research nurse at each site performed randomisation using an automated computer generated telephone randomisation system provided by the Oxford Clinical Trials Research Unit. Randomisation for the first 12 participants (10% of original sample size) was based on a simple random list, and a minimisation algorithm was used to randomise subsequent participants. This algorithm included a random element (80%) and aimed to generate balanced treatment allocations by age (<40 or ≥40 years), sex, baseline activities of daily living subscale of the hip outcome score (HOS ADL) (<65% or ≥65%), and study site.12
+
+It was not possible to mask participants, or clinicians delivering the intervention. However, clinicians performing follow-up clinical assessments (hip range of movement and impingement tests) were blinded to the treatment group. Participants were asked to not disclose their treatment and to wear shorts to cover any scars. Staff members independent of the study team carried out data entry.
+
+### Interventions
+
+Full details of the interventions are in the published protocol.13
+
+Physiotherapy and activity modification—as no standardised physiotherapy regimen has been agreed for FAI, we developed a goal based programme based on the consensus opinion of the study team and existing literature.15 To standardise treatment, participating physiotherapists received information on the study protocol and training sessions. The treating therapist recorded physiotherapy compliance and attainment of goals within the prescribed treatment themes. A specialist physiotherapist (band 6) or advanced physiotherapy practitioner (band 7/8) delivered the treatment (supplementary table S1). The programme was tailored to individual patient needs and desired level of function, with an emphasis on muscle strengthening to improve core stability and movement control. Participants were encouraged to avoid impingement positions (extremes of hip flexion, abduction, internal rotation). To reflect what is feasible in current NHS practice, we provided a maximum of eight sessions over a five month period.
+
+Arthroscopic surgery—before trial recruitment began, participating surgeons met to ensure standardisation of technique for the study by consensus agreement. Femoral and acetabular bone seen to impinge intraoperatively were excised with a burr (osteochondroplasty) to eliminate impingement on dynamic hip flexion and internal rotation. Labral tears were repaired if possible, or otherwise debrided. Articular cartilage lesions were debrided to a stable base, and in areas of full thickness cartilage loss, microfracture of the subchondral bone was performed. Participants received postoperative physiotherapy, provided as routine care in the NHS, which focused on maintaining range of movement and a graduated return to activity.
+
+### Outcomes
+
+The primary outcome measure was the HOS ADL (range 0 to 100, with higher values indicating better outcomes) at eight months post-randomisation. The HOS ADL is a validated patient reported outcome measure for arthroscopic hip procedures.16
+
+Secondary outcomes were additional patient reported outcome measures on symptoms: HOS sport subscale,16 non-arthritic hip score (NAHS),17 Copenhagen hip and groin outcome score (HAGOS),18 Oxford hip score (OHS),19 and international hip outcome tool (iHOT-33).20 Quality of life, nature and location of pain, and psychological factors were evaluated using EQ-5D-3L,21 PainDETECT,22 and hospital anxiety and depression score (HADS),23 respectively. At baseline, participants were also asked to complete an “expectation” HOS ADL to indicate the symptoms they expected to experience after completion of treatment.
+
+Clinical assessment performed at baseline and follow-up visits consisted of range of passive hip movement, measured using a goniometer, and recording whether a participant experienced pain on each movement. Impingement tests determined whether a participant experienced pain on hip flexion, adduction, and internal rotation (FADIR) or flexion, abduction, and external rotation (FABER).
+
+Academic orthopaedic clinicians (AJRP and SF) used custom software to carry out imaging measurements. Osteoarthritis was evaluated using the Kellgren- Lawrence grading classification.24 Dysplasia and pincer morphology were quantified using the centre-edge angle on a standing anteroposterior radiograph. Cam morphology was measured as the maximal cartilage α angle at the 12 o’clock, 1 o’clock, 2 o’clock, and 3 o’clock position on MRI radial slices.25 All intraclass correlation coefficients for intra-observer and interobserver reproducibility values exceeded 0.90, suggesting excellent agreement (supplementary fig S1).
+
+Participants will be followed up for three years to evaluate the development of osteoarthritis in this cohort. Additional outcomes (not reported here) for the long term analysis include compositional MRI (T2 mapping), serum and urinary biomarkers of osteoarthritis, and health economic data.12
+
+### Study assessments
+
+We collected the primary and secondary outcome measures at baseline and eight months after randomisation, equating to approximately six months after intervention when accounting for waiting times to treatment. This time point was chosen because a clinically meaningful difference of 9 points in the HOS ADL is detectable six months after arthroscopic hip surgery,16 26 and our feasibility study found that 94% of patients were willing to pursue a treatment of six months, but no longer, without improvement in symptoms.13
+
+If treatment commenced more than 12 weeks post-randomisation, follow-up assessments were performed six months post-intervention rather than eight months post-randomisation to ensure the schedule remained aligned with routine clinical care. We collected patient reported outcome measures at eight months post-randomisation (primary outcome measure) and six months post-intervention in this group.
+
+### Sample size
+
+Sample size was based on the primary outcome measure, HOS ADL at eight months post-randomisation, and was calculated using a minimum clinically important difference between groups of 9 points.16 We estimated the standard deviation to be 14 points; however, summaries presented at a planned interim data monitoring meeting found that the standard deviation was 18 points. A revised calculation (significance level 5%, power 90%, loss to follow-up 20%) gave a sample size of 214 (107 participants in each group). The data monitoring committee approved the sample size increase from 120 to 214 participants.
+
+### Statistical analysis
+
+The statistical analysis plan was finalised before unblinding of data to study investigators. Statistical testing was performed at the two sided 5% significance level and conducted using STATA 14.2 (StataCorp LLC, College Station, TX). Analysis of the primary endpoint and all secondary endpoints was according to modified intention to treat (mITT), including patients with available outcome data based on their randomised treatment allocation, regardless of compliance. We used linear regression analysis to compare the HOS ADL outcomes at eight months post-randomisation between the treatment groups, adjusting for the minimisation factors sex, age, baseline HOS ADL, and site (using cluster robust standard errors, implemented via the cluster option in Stata). Results are presented as treatment effects with 95% confidence intervals and P values.
+
+In addition to HOS ADL evaluation within the cohort, we also assessed HOS ADL within individuals, expressed as the proportion of patients achieving: an increase in HOS ADL greater than 9 points (minimum detectable change and a clinically important change within an individual),16 a patient acceptable symptomatic state (PASS) (outcome HOS ADL ≥87 points)27 within the mITT population eight months post-randomisation, and an expectation HOS ADL (the score patients expect to achieve after treatment measured at baseline).
+
+Supporting analyses of the primary endpoint included a multilevel mixed effects model with repeated measures of HOS ADL, adjusting for baseline HOS ADL, sex, age, time from randomisation, and study site (analysis A). The primary analysis was then repeated with additional adjustment for HADS, imaging measures of osteoarthritis (radiographic Kellgren-Lawrence grade), hip morphology (maximum cartilage α angle on MRI, and centre-edge angle on anteroposterior pelvis radiograph) (analysis B); the per protocol population, excluding participants with major deviations from the trial protocol (analysis C); and six months post-intervention outcomes (analysis D). We also repeated the primary analysis with the baseline expectation HOS ADL as a covariate. Participants with available baseline and outcome data were included in these analyses.
+
+To consider the potential impact of missing data on trial conclusions, we used multiple imputation (data missing at random) and sensitivity analysis (data not missing at random). Multiple imputation by chained equations was performed using the “mi impute chained” command in Stata. We used a linear regression model to impute missing outcomes for the HOS ADL at eight months post- randomisation. Variables in the imputation model included all covariates in the analysis model (baseline HOS ADL (continuous), age (continuous), and sex). In addition, we included other variables that were thought to be predictive of the outcome (lateral centre-edge angle, maximum α angle, Kellgren-Lawrence grade, and baseline HADS score). Imputations were run separately by treatment arm and based on a predictive mean matching approach, choosing at random one of the five HOS ADL values with the closest predicted scores. Missing data in the covariates that were included in the multiple imputation model were imputed simultaneously (multiple imputation by chained equation approach). Sensitivity analysis was performed using the “rctmiss” command in Stata, and we considered scenarios where participants with missing data in each arm were assumed to have outcomes that were up to 9 points worse than when data were missing at random (supplementary fig S2).
+
+We used a multilevel mixed effects model to analyse secondary patient reported outcome measures, with repeated measures of the relevant patient reported outcome measures (collected at five and eight months) nested within participants. The models used data from participants with available baseline information and at least one follow-up assessment, adjusted for baseline patient reported outcome measure, sex, age, study site, and time from randomisation.
+
+Predefined subgroup exploration was performed for several participant groups: osteoarthritis severity (Kellgren-Lawrence grade 0 v 1), sex, age (continuous variable), baseline HOS ADL (continuous variable), and FAI type (pincer, cam, or mixed). Treatment effects by binary subgroup were illustrated with forest plots, showing point estimates, confidence intervals, and heterogeneity P values (estimates obtained from interaction models including only the relevant subgroup and randomised treatment as covariates). We explored the differential treatment effect for age and baseline HOS ADL (as continuous variables) by adding an interaction term for treatment×age and treatment×baseline HOS ADL into the primary analysis model. Linear and non-linear effects (squared and cubic terms) for age and baseline HOS ADL were explored.
+
+For each follow-up time point we summarised descriptively the details on clinical examination, including range of movement and signs of impingement. Differences in range of movement between the treatment groups were obtained from linear regression models adjusted for baseline values. Differences between treatment groups were explored using χ2 tests for signs of impingement.
+
+### Patient and public involvement
+
+A feasibility study included patient questionnaires to determine outcomes they thought were most important, treatment preferences, acceptable study design, and anticipated recruitment numbers.13 The study design was based on these findings. A patient representative provided guidance throughout the study, including an evaluation of the burden of intervention and assessments. Study results will be disseminated through publication, presentation at scientific meetings, and at patient and public engagement events coordinated by our institution. The results will also be disseminated using social media platforms.
+
+## Results
+
+Of 495 patients screened across seven orthopaedic centres between 24 May 2013 and 30 September 2016, 350 (71%) met the study eligibility criteria (fig 3). Of the 350 eligible patients, 222 (63%) elected to participate (45% of all patients screened) and were randomised to arthroscopic surgery (n=112) or to a physiotherapy programme (n=110). The principal reason for declining participation was treatment preference for surgery (n=58, 45%) or for physiotherapy (n=33, 26%). Baseline demographic and clinical characteristics were well balanced across treatment groups (table 1). Mean age was 36.2 years (SD 9.7 years) and there was a higher proportion of women than men (66% v 34%). The primary pathology was isolated cam morphology FAI (94%), and the mean baseline HOS ADL was 65.9 (SD 18.7).
+
+
+Fig 3 CONSORT diagram
+
+### Table 1 Baseline characteristics of participants. Values are numbers (percentages) unless stated otherwise
+
+In the arthroscopic surgery group, 99 (88%) participants received their allocated treatment, and in the physiotherapy programme group, 96 (87%) participants commenced and 91 (83%) completed their allocated treatment (table 2 and fig 3). Of the 19 participants who did not complete their allocated physiotherapy programme, 10 withdrew from the study (eight before intervention and two after the first physiotherapy session), three were not contactable after randomisation, three decided to stop physiotherapy after commencing treatment and subsequently received arthroscopic surgery, and three failed to attend physiotherapy appointments.
+
+### Table 2 Details of participants commencing allocated intervention. Values are numbers (percentages) of participants unless stated otherwise
+
+Overall, 133 participants (47 arthroscopic surgery and 86 physiotherapy programme) commenced treatment within 12 weeks of randomisation and were assessed at eight months post-randomisation. Intervention started 12 weeks or more after randomisation for 62 participants (52 arthroscopic surgery and 10 physiotherapy programme) and outcomes were measured eight months post- randomisation and six months post-intervention. The substantial proportion of participants who began treatment after 12 weeks reflected increased NHS waiting times within the duration of this study. The median time from randomisation to surgery in the arthroscopic surgery group was 86 days (interquartile range 59-132) and from randomisation to the first appointment in the physiotherapy programme group was 44 (33-61) days (table 2).
+
+Complete data for the primary analysis was available for 188 (85%) participants (88 (80%) of those randomised to the physiotherapy programme and 100 (89%) of those randomised to arthroscopic surgery). Reasons for exclusion of the 34 participants from the primary analysis were loss to follow-up (n=7, 3%), complete withdrawal from trial (n=11, 5%), and incomplete primary endpoint data (n=16, 7%; fig 3).
+
+The mean HOS ADL in the arthroscopic surgery group was 10.0 points (95% confidence interval 6.4 to 13.6, P=0.001) higher than in the physiotherapy programme group at eight months post-randomisation. This mean difference was statistically significant and exceeded the prespecified minimum clinically important difference of 9 points, although the lower boundary of the confidence interval was less than 9 points (table 3 and fig 4). Scores on the HOS ADL at eight months post-randomisation were higher than baseline scores in 70% (95% confidence interval 61% to 79%) of participants allocated to arthroscopic surgery compared with 50% (40% to 60%) of those allocated to the physiotherapy programme. Clinically important improvement within the individual, defined as an increase in HOS ADL of at least 9 points, was reported in 51% (41% to 61%) of participants allocated to arthroscopic surgery and 32% (22% to 42%) of those allocated to the physiotherapy programme. A patient acceptable symptomatic state (PASS), defined as HOS ADL greater than 87 points,27 was achieved in 48% (38% to 58%) of participants allocated to arthroscopic surgery and 19% (95% confidence interval 11% to 28%) of those allocated to the physiotherapy programme eight months post-randomisation. The proportion of participants who achieved their expectation HOS ADL eight months post-randomisation was 31% (22% to 41%) for arthroscopic surgery and 15% (7% to 22%) for the physiotherapy programme.
+
+### Table 3 Primary and supporting analyses
+
+
+Fig 4 Hip outcome score on activities of daily living subscale (HOS ADL) at baseline and eight months post-randomisation (modified intention to treat). Dots represent extreme outliers
+
+Results of all supporting analyses of the HOS ADL, including the per protocol analysis and analysis using multiple imputation were similar to those of the primary analysis, with slightly increased treatment effects that were all statistically significant (table 3). Baseline expectation HOS ADL was not statistically significant when included as a covariable in the primary analysis, and it did not change the treatment effect. The treatment effects were robust even to sensitivity analyses of extreme data missing not at random, which considered outcomes for those with missing data that were up to 9 points worse than expected in the primary analysis (supplementary fig S2).
+
+Subgroup exploration of binary variables identified no evidence of a differential treatment effect for sex or osteoarthritis grade. The small number of individuals with pincer morphology limited the ability to compare outcomes for different FAI type (pincer versus cam versus mixed) (supplementary fig S3). An interaction between treatment and baseline age was suggested, with a decreasing difference in treatment effect between arthroscopic surgery and the physiotherapy programme with increasing age (supplementary table S3 and fig S4). Baseline HOS ADL did not seem to influence the differential treatment effect between groups (supplementary table S3 and fig S5).
+
+Eight month post-randomisation secondary patient reported outcome measure scores including HOS sports subscale, NAHS, OHS, iHOT, HAGOS, UCLA, PainDetect, EQ-5D, and HADS depression score were significantly higher in participants who received arthroscopic surgery compared with those who received the physiotherapy programme (P<0.05) (table 4). The HADS anxiety score did not differ between treatment groups (P=0.18).
+
+### Table 4 Secondary analysis of patient reported outcome measures
+
+Patients allocated to arthroscopic surgery had a greater range of hip flexion than those allocated to physiotherapy eight months post-randomisation, although there was no statistically significant difference for other movements (table 5). At follow-up a smaller proportion of patients allocated to arthroscopic hip surgery reported pain on hip flexion compared with those allocated to the physiotherapy programme. This also applied to hip abduction and adduction, and to the FAbER test but not FAdIR test (table 6).
+
+### Table 5 Range of movement (ROM) in hip at baseline and eight month post-randomisation assessment
+
+### Table 6 Hip assessment at baseline and eight month post-randomisation. Values are numbers (percentages) of participants
+
+At the eight month follow-up, two patients crossed over to receive arthroscopic surgery on reporting no improvement in symptoms after the physiotherapy intervention (in addition to four patients who were allocated to the physiotherapy programme but received arthroscopic surgery before completing their physiotherapy programme). A further patient in the physiotherapy group was referred to the chronic pain service. Complications occurred in three (3%) patients in the arthroscopic surgery group. Superficial wound infection was reported for one patient 12 days after surgery that resolved with oral antibiotics. Injury to the lateral cutaneous nerve of the thigh was reported for two patients; it had resolved in one patient by the eight month follow-up. No participant had serious adverse events related to the trial intervention or trial procedure.
+
+## Discussion
+
+This trial found that patients with symptomatic femoroacetabular impingement (FAI) experience a greater improvement in symptoms with arthroscopic hip surgery than with physiotherapy and activity modification eight months post- randomisation. The 10 point mean difference in activities of daily living on the hip outcome score (HOS ADL) between groups is greater than the prespecified minimum clinically important difference of 9 points; however, the lower boundary of the confidence interval is less than this 9 point threshold for clinical importance. In this cohort, the difference in HOS ADL between treatment groups is expected to lie between 6.4 and 13.6 points in favour of arthroscopic surgery.
+
+Overall, 51% of participants randomised to arthroscopic surgery and 32% randomised to a programme of physiotherapy and activity modification reported an improvement in HOS ADL of at least 9 points (minimum detectable change and a clinically important change within an individual). In addition, 48% of participants in the arthroscopic surgery group and 19% in the physiotherapy programme group achieved the patient acceptable symptomatic state (PASS) after treatment.
+
+Blinded clinical assessments revealed a greater improvement in the range of hip flexion and associated discomfort in patients allocated to arthroscopic surgery compared with those allocated to the physiotherapy programme. Additional patient reported outcome measures also indicated superior outcomes in patients randomised to arthroscopic surgery.
+
+### Comparison with other studies
+
+Two randomised controlled trials comparing physiotherapy rehabilitation with arthroscopic surgery for symptomatic FAI were published in 2018 with comparable protocols to this study. One trial did not find a difference between arthroscopic surgery and physiotherapy at any time point up to two year follow-up, although there was a 70% crossover from physiotherapy to arthroscopic surgery.8 The other trial concluded that arthroscopic surgery was superior to best conservative care in improving symptoms at 12 month follow-up but that it was not cost effective.9 Contrary to our study, the investigators did not find differences between treatment groups for secondary outcome measures of general health related quality of life (EQ-5D and SF-12). Arthroscopic surgery and physiotherapy are safe, and the low complication rates found in this trial are consistent with those of other studies.7 28 The age and sex of participants recruited reflected national trends in the provision of arthroscopic hip surgery.11
+
+### Strengths and limitations of this study
+
+Consultant orthopaedic surgeons with a specialist interest in hip arthroscopy performed the surgery, which reflects the provision of hip arthroscopy in the NHS and recommendations from the National Institute for Health and Care Excellence. Participating centres consisted of five district general hospitals and two university teaching hospitals. The delivery of care by surgeons performing a high volume of arthroscopic hip procedures ensured skill levels beyond the steep learning curve for this surgery, and the risk of complications is higher for surgeons performing a low volume of procedure.29 30 A limitation of our study is that most of the participants were recruited from the coordinating centre; however, the treatment effect was consistent for centres recruiting more than 20 participants (supplementary fig S3).
+
+Physiotherapists of different seniority and trained in the study protocol delivered the physiotherapy programme, with a maximum of eight sessions. Little evidence exists to guide the development of an optimal physiotherapy protocol. It could be that a greater number and frequency of physiotherapy sessions with only senior specialist physiotherapists might improve outcomes. To ensure generalisability and restrict excess treatment costs, we compared arthroscopic hip surgery with a physiotherapy intervention that is deliverable within the constraints of NHS resources. Standard commissioning in the NHS limits physiotherapy provision to approximately six sessions of individual physiotherapy, and we offered a maximum of eight sessions.
+
+Patients in both treatment groups received physiotherapy, either as their primary intervention or as post-surgical rehabilitation. It is important to emphasise the difference in these regimens. The focus of physiotherapy for the treatment of symptomatic FAI (FAI syndrome) (randomised study intervention) was to improve pain and function. The principal elements of our programme started with activity and movement modification, followed by muscle strengthening and segmental stabilisation, and finally optimisation of functional movements with sensory motor training and return to activity according to patient goals. This physiotherapy package was delivered over a median of six sessions. The focus of physiotherapy post-arthroscopic surgery was to maintain range of movement and guide return to activity. Patients were advised to commence active range of movement and isometric exercises the day after surgery, progressing to stretches and static bicycle exercise (no resistance) within a week. Strengthening exercises and low impact activities were introduced after three weeks, usually under physiotherapist guidance, and impact exercise was permitted after six weeks, with sport specific rehabilitation when appropriate. This physiotherapy package was delivered over a median of four sessions.
+
+The clinical significance of an improved range of hip flexion in patients allocated to arthroscopic surgery compared with physiotherapy is not known. A cohort study of patients receiving arthroscopic surgery found that hip flexion was the only movement associated with improved patient reported outcome measures.31 A possible explanation is the functional importance of this movement during everyday activities such as sitting or climbing stairs, when pain is often experienced with FAI syndrome. Despite the study limitation of multiple statistical tests being carried out, our results also suggest less pain on hip movements in those allocated to arthroscopic surgery compared with physiotherapy and activity modification.
+
+Overall, 70% of participants randomised to arthroscopic surgery and 50% randomised to physiotherapy and activity modification reported an improvement in HOS ADL of at least 1 point; however, only half the participants randomised to arthroscopic surgery reported an improvement in HOS ADL exceeding 9 points or achieved the PASS. A limitation of reported minimally clinically important differences between groups or changes within an individual is that they are specific to the cohort and to the methodology used by the researchers to calculate values. We prespecified an HOS ADL of 9 points as the minimum clinically important difference between groups.16 We also used this value to explore the proportion of participants who achieved a clinically important change in HOS ADL. Since developing the study protocol, the smallest detectable change in HOS ADL within an individual has been calculated as 9 points and the minimum clinically important change in HOS ADL within an individual as 5 points.32 This finding supports our use of a 9 point threshold to represent both clinically important differences between groups and change within an individual.
+
+Although arthroscopic hip surgery seems superior to physiotherapy and activity modification, patients must be informed of the potential risks and benefits of surgery, including the risk of no improvement. Up to a half of patients may not achieve a clinically important improvement after surgery; hence accurate patient selection is critical to optimising treatment outcomes. Increasing patient age, higher preoperative patient reported scores, and the presence of osteoarthritis have been identified as having a negative impact on outcome in cohort studies of arthroscopic hip surgery.33 34 35 36
+
+Exploration of subgroups suggested that older patients might gain less benefit from arthroscopic surgery compared with physiotherapy; however, variation in HOS ADL was large across different ages. Further exploration in a larger population is required to determine the effect of age on outcomes. Cohort studies also report that arthroscopic hip surgery is less effective with increasing age33 34; however, older patients also experience improvements in symptoms.33
+
+We excluded patients with established osteoarthritis, defined as presence of osteophytes and possible narrowing of joint space width (Kellgren-Lawrence grade 2) or more severe disease. Patients with possible osteophytes and doubtful narrowing of joint space (Kellgren-Lawrence grade 1) were included. Cohort studies suggest that osteoarthritis is only detrimental to outcomes once loss of joint space width has been established.35 In our exploratory evaluation of subgroups we did not detect a difference in treatment effect between participants with Kellgren-Lawrence grade 1 disease and those with no radiographic evidence of osteoarthritis (Kellgren-Lawrence grade 0), although our study was not powered for this calculation.
+
+We were unable to explore whether the presence of cam, pincer, or mixed morphology influences treatment effect owing to the small number of patients with pincer impingement. The relative proportion of participants with each FAI type in this cohort reflects the general population, but the results of this study might not be generalisable to pincer and mixed morphology FAI. Exploratory analysis within the study population did not find an association between outcome and any morphological hip measurement, including the magnitude of cam or pincer morphology and an interaction term.
+
+The exclusion of patients with dysplasia and osteoarthritis is a potential limitation of the study given these patients might also benefit from arthroscopic hip surgery. Our inclusion criteria, however, reflect current evidence based clinical practice.12 13 We anticipate that advances in imaging will improve our ability to identify patients who are most likely to benefit from intervention and optimise treatment strategies through enhanced diagnosis of osteoarthritis and dynamic assessment of hip morphology. In this study, during surgery, three patients were found to have more advanced osteoarthritis than expected and six patients did not have impingement within a functional range of movement despite the preoperative diagnosis of cam morphology. Planned osteochondroplasty was therefore not performed. Total hip replacement could have been more appropriate in the patients with osteoarthritis.
+
+Psychological factors are likely to influence outcomes from FAI treatment,32 as has been shown for joint arthroplasty.37 Patient expectation was not found to influence treatment effect in this study, but further exploration into the effect of baseline depression and anxiety on outcomes may be of value, given that cohort studies have shown that they influence outcome.32 The most common reason for declining participation was preference for surgery. Four patients randomised to the physiotherapy programme underwent surgery before collection of the primary outcome measure. Our results might in part reflect a nocebo effect of physiotherapy and placebo effect of surgery. The placebo effect has been shown to be large in surgical trials of arthroscopic shoulder decompression38 and arthroscopic meniscectomy.39 Our blinded clinical assessments offer reassurance of a differential treatment effect between groups. An ongoing trial comparing osteochondroplasty with arthroscopic lavage for FAI syndrome might offer further insight into the efficacy of surgical treatment.40
+
+Median time to treatment post-randomisation was 44 days for the physiotherapy programme group and 86 days for the arthroscopic surgery group. Comparing operative and non-operative management is challenging given surgical care is usually delivered at a single time point, whereas physiotherapy takes place over weeks or months. The longer waiting times for surgery might influence results. However, this was a pragmatic trial and the care delivered accurately reflects current practice in NHS settings. We selected intention-to-treat analysis rather than post-intervention analysis as the primary outcome because although groups are balanced at the time of randomisation (a requirement for inferring a causal relation between intervention and outcome), this might not be true at any other time point. We also performed a post-intervention analysis (analysis D), which revealed a comparable treatment effect to the modified intention-to-treat analysis (table 3). Dropouts occurred in both treatment groups, and although the study remained adequately powered, baseline scores were slightly lower in the physiotherapy programme group (supplementary table S2). Nevertheless, our primary analysis adjusts for prognostic factors, and the treatment effect was robust to different assumptions about missing data (missing at random and missing not at random) in our sensitivity analysis (supplementary fig S2).
+
+This trial does not capture patients with minimally symptomatic FAI, a condition that is typically diagnosed and treated in primary care. Instead it provides guidance for the treatment of patients who are referred to secondary or tertiary care with more severe or prolonged symptoms. Given the potential complications of surgery and observed clinical improvement with the physiotherapy programme, we currently recommend physiotherapy as first line treatment. If symptoms continue then the likelihood of symptom improvement with arthroscopic surgery should be considered.
+
+### Conclusions and policy implications
+
+The results of this study suggest that patients with symptomatic FAI referred to secondary or tertiary care achieve a greater improvement in patient reported outcomes with arthroscopic surgery than with a programme of physiotherapy and activity modification. However, further research is required to identify patients most likely to benefit from intervention. The evaluation of treatment cost effectiveness and disease modifying potential with long term follow-up of this cohort will further guide treatment and commissioning decisions.
+
+### What is already known on this topic
+
+  * Femoroacetabular impingement (FAI) can cause hip pain (FAI syndrome) and is thought to be responsible for up to half of all hip osteoarthritis
+
+  * The treatment of FAI remains controversial—physiotherapy and arthroscopic surgery can both improve symptoms, but it is uncertain which treatment is superior 
+
+  * Despite the absence of evidence to support the use of arthroscopic hip surgery over non-operative measures, the number of arthroscopic hip procedures performed each year has risen rapidly
+
+### What this study adds
+
+  * This study suggests that arthroscopic hip surgery is superior to physiotherapy and activity modification at improving symptoms in patients referred to secondary or tertiary care with FAI syndrome
+
+  * Not all patients benefit from surgery, and the decision to operate must follow a detailed discussion between patients and surgeons
+
+  * The results inform management decisions made by patients, clinicians, and policymakers, but further research is required to identify patients most likely to benefit from intervention
+
+## Acknowledgments
+
+FAIT Study Group
+
+Sion Glyn-Jones (Oxford University Hospitals NHS Foundation Trust), Tony Andrade and Tom Pollard (Royal Berkshire NHS Foundation Trust), Chris Paliobeis (Wye Valley NHS Trust), Vikas Khanduja (Cambridge University Hospitals NHS Foundation Trust), Adekoyejo Odutola (Weston Area Health NHS Trust), David Hollinghurst, Mike Rigby, and Adam Brooks (Great Western Hospitals NHS Foundation Trust), and Jon Conroy (Harrogate and District NHS Foundation Trust).
+
+Oversight committees
+
+Trial steering committee: Oliver Pearce (consultant orthopaedic surgeon, Milton Keynes University Hospital NHS Foundation Trust), Timothy Theologis (consultant orthopaedic surgeon, Oxford University Hospitals NHS Foundation Trust), and Sunil Auplish (consultant orthopaedic surgeon, Barking, Havering, and Redbridge University Hospitals NHS Trust). Data monitoring committee: Karen Smith (principal statistician, NIHR Research Design Services, University of Leicester), Muthu Ganapathi (consultant orthopaedic surgeon, NHS Wales University Health Board), and Peter Lovell (lay representative).
+
+We thank the participants for their involvement in the study, John Broomfield (National Institute for Health Research academic clinical fellow), Cushla Cooper (Surgical Intervention Trials Unit), Patrick Julier (Oncology Clinical Trials Office, University of Oxford), Beverly Shirkey (Oxford Clinical Trials Research Unit), and the principal investigators and their teams at each trial site.
+
+## Web extra.
+
+Extra material supplied by authors
+
+Supplementary information: tables S1-S3 and figures S1-S5
+
+Click here to view.(820K, pdf)
+
+## Notes
+
+Contributors: AJRP and SGJ designed the study, and the protocol was developed with VAG, IR, SJD, SW, TCBP, AWM, KLB, AJMDA, AJC, and DJB. IR and SJD performed the statistical analyses. AJRP, VAG, SF, RM, SW, VK, TCBP, AJMDA, and SGJ recruited patients and acquired data. AJRP, VAG, SF, IR, and SGJ drafted the manuscript. All authors revised manuscript drafts, approved the final manuscript, and contributed intellectually important content. SGJ attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted. SGJ is the guarantor of the paper and takes responsibility for the integrity of the work from inception to published article.
+
+Funding: The study was funded by Arthritis Research UK and the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (previously the Biomedical Research Unit). The University of Oxford sponsored the study. The Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences coordinated the study via the Surgical Intervention Trials Unit from the Royal College of Surgeons (England) Surgical Trials Initiative. The study was supported by the Thames Valley Comprehensive Local Research Network, which operates as part of the National Institute for Health Research Comprehensive Clinical Research Network in England. The views expressed in this report are those of the authors and do not necessarily reflect the views of the funders.
+
+Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: support from Arthritis Research UK and NIHR Oxford Biomedical Research Centre for the submitted work. The researchers and funders were independent. AJRP received funding from the Royal College of Surgeons of England and Dunhill Medical Trust. Unrelated to the submitted work, VK received support from Stryker and Smith and Nephew for educational consultancy, AA received support from Stryker, Smith and Nephew, and Zimmer Biomet for lectures, and SGJ received research grants and fees for lectures from Zimmer Biomet, Corin, and ConMed, and research grants from Neurotechnics, Johnson and Johnson, and Siemens.
+
+Ethical approval: The trial protocol was approved by Health Research Authority, National Research Ethics Services Committee South Central–Berkshire (REC reference: 13/SC/0154) and local research and development departments at each participating site.
+
+Data sharing: Anonymised patient level data can be made available on reasonable request after approval from the trial management committee and after signing a data access agreement. Proposals should be directed to the corresponding author. Consent was not obtained for data sharing, but the presented data are anonymised and the risk of identification is low.
+
+Transparency: The lead author (SGJ) affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained.
+

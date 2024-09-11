@@ -1,0 +1,154 @@
+Efficacy of favipiravir in adults with mild COVID-19: a randomized, double-blind, multicentre, placebo-controlled clinical trial
+
+## Abstract
+
+### Objective
+
+To evaluate whether favipiravir reduces the time to viral clearance as documented by negative RT-PCR results for severe acute respiratory syndrome coronavirus 2 in mild cases of coronavirus disease 2019 (COVID-19) compared to placebo.
+
+### Methods
+
+In this randomized, double-blinded, multicentre, and placebo-controlled trial, adults with PCR-confirmed mild COVID-19 were recruited in an outpatient setting at seven medical facilities across Saudi Arabia. Participants were randomized in a 1:1 ratio to receive either favipiravir 1800 mg by mouth twice daily on day 1 followed by 800 mg twice daily (n = 112) or a matching placebo (n = 119) for a total of 5 to 7 days. The primary outcome was the effect of favipiravir on reducing the time to viral clearance (by PCR test) within 15 days of starting the treatment compared to the placebo group. The trial included the following secondary outcomes: symptom resolution, hospitalization, intensive care unit admissions, adverse events, and 28-day mortality.
+
+### Results
+
+Two hundred thirty-one patients were randomized and began the study (median age, 37 years; interquartile range (IQR): 32–44 years; 155 [67%] male), and 112 (48.5%) were assigned to the treatment group and 119 (51.5%) into the placebo group. The data and safety monitoring board recommended stopping enrolment because of futility at the interim analysis. The median time to viral clearance was 10 days (IQR: 6–12 days) in the favipiravir group and 8 days (IQR: 6–12 days) in the placebo group, with a hazard ratio of 0.87 for the favipiravir group (95% CI 0.571–1.326; p = 0.51). The median time to clinical recovery was 7 days (IQR: 4–11 days) in the favipiravir group and 7 days (IQR: 5–10 days) in the placebo group. There was no difference between the two groups in the secondary outcome of hospital admission. There were no drug-related severe adverse events.
+
+### Conclusion
+
+In this clinical trial, favipiravir therapy in mild COVID-19 patients did not reduce the time to viral clearance within 15 days of starting the treatment.
+
+Keywords: Clinical trial, Favipiravir, Mild COVID-19, Non-severe SARS-CoV-2
+
+## Introduction
+
+As of December 20, 2021, coronavirus disease 2019 (COVID-19) has affected more than 275 million people worldwide and caused nearly five million deaths [1]. Since the WHO declared COVID-19 a pandemic, researchers have studied potential effective therapies [[2], [3], [4], [5], [6]]. Favipiravir is an RNA-dependent RNA polymerase inhibitor with activity against influenza virus. It has also shown activity in blocking the replication of other RNA viruses [7,8]. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a positive-sense single-strand RNA virus, making its RNA-dependent RNA polymerase a potential target that favipiravir can block [9]. Favipiravir showed promising results in patients with mild to moderate COVID-19 in earlier studies [[10], [11], [12]] and has been listed as a possible treatment in different regimen protocols for mild to moderate COVID-19 by various health regulators and agencies [13,14]. Starting treatment of mild COVID-19 early may prevent progression to a more severe form of the disease [15,16].
+
+To evaluate the safety and efficacy of favipiravir monotherapy in treating mild COVID-19, we conducted a multicentre placebo-controlled randomized trial in Saudi Arabia (Avi-Mild-19).
+
+## Methods
+
+### Study design
+
+The trial enrolled patients from seven community medical centres and ambulatory care centres in Saudi Arabia. The trial was sponsored by King Abdullah International Medical Research Center (KAIMRC). Ethical approval was obtained from the institutional review board at the Ministry of National Guard—Health Affairs and the Ministry of Health. The trial was overseen by an independent data and safety monitoring board (DSMB). The trial was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonization Good Clinical Practice.
+
+### Randomization and blinding
+
+Patients were randomized in a 1:1 ratio to oral favipiravir or placebo. The randomization schedule was generated using the PLAN Procedure (SAS) with a block size of four, stratified by study site. The generated list was embedded in the Research Electronic Data Capture system to ensure allocation concealment. Participants, investigators, and study staff remained unaware of the treatment assignment. The sponsor's investigational drug unit, which is not part of the study team, held the information for treatment allocation.
+
+### Patients
+
+The study population was patients aged ≥18 years from community settings who had been diagnosed with mild COVID-19 (confirmed by positive PCR test for SARS-CoV-2); they were enrolled within 5 days of disease onset. Mild COVID-19 was defined as mild illness (with or without respiratory symptoms) with oxygen saturation >94% on room air and management at home with appropriate therapy. Mild illness can include symptoms of uncomplicated upper respiratory tract viral infection, such as fever, fatigue, cough (with or without sputum production), anorexia, malaise, muscle pain, sore throat, dyspnoea, nasal congestion, or headache. Rarely, patients may also present with diarrhoea, nausea, and vomiting.
+
+Key exclusion criteria included hospitalized moderate or severe COVID-19 cases, pregnant or breastfeeding female patients, and those who used favipiravir or participated in other interventional drugs clinical study within 30 days before the first dose of the study treatment. The exclusion criteria also included major comorbidities such as hematologic malignancy, advanced (stage 4–5) chronic kidney disease (including dialysis therapy), severe liver damage (Child-Pugh score C or aspartate aminotransferase >5 times the upper limit), or HIV. Patients with history of gout or hyperuricemia (two times above the upper limit of normal), patients with sensitivity/allergy to favipiravir, and cases with a clinical prognosis of nonsurvival, palliative care, or deep coma were also excluded.
+
+### Procedure
+
+Study participants were randomized to receive favipiravir 1800 mg (nine tablets) twice daily as a loading dose on day 1 followed by 800 mg (four tablets) twice daily as a maintenance dose for a total duration of 5 to 7 days of therapy or matching placebo. Follow-up was started on the second day of enrolment by a research coordinator or a study physician via daily phone calls for 14 days or until secondary endpoints were reached. The follow-up also assessed patient compliance, health status, and clinical symptoms. A final follow-up phone call was conducted on day 28 for all patients. Patients were required to visit study sites on days 5 ± 1 day, 10 ± 1 day, and 15 ± 2 days for nasopharyngeal/oropharyngeal swabs and blood tests. The swabs were used for detection of SARS-CoV-2 by RT-PCR to document the time of viral clearance (a negative result) or persistence (a positive result).
+
+### Efficacy and safety assessment
+
+The primary endpoint of this study was time from start of treatment to viral clearance, defined as conversion of SARS-CoV-2 RT-PCR results from positive to negative within 15 days as described in procedures.
+
+Prespecified secondary endpoints included time from the start of treatment (favipiravir or placebo) to clinical recovery, with normalization of fever and respiratory symptoms and relief of cough (or other relevant symptoms at enrolment) maintained for at least 72 hours; need to use antibiotics within 15 days after starting the medicine; progression of disease in a 28-day period, including hospitalization and intensive care unit admission with or without ventilation requirement; and 28-day mortality. Additional secondary safety endpoints included the occurrence of allergic reactions, medication intolerance, and liver toxicity within 15 days of taking the study drug.
+
+### Statistical analysis
+
+A one-sided test of whether the hazard ratio (HR) is 1 with an overall sample size of 576 (288 in the control group and 288 in the treatment group) achieved 90% power at a 0.025 significance level when the HR is 1.330. An interim analysis was planned after recruitment and follow-up of 40% of the total number of participants (i.e. 230). The interim analysis was designed to test for early stopping owing to futility or for efficacy and sample size re- estimation. The decision rules based on the study protocol were (a) to stop the trial for early efficacy if the interim analysis p-value was <0.01, (b) to stop the trial for futility if the interim analysis p-value was ≥0.25, or (c) to declare the trial significant if the sum of the interim analysis and final stage p-values was <0.1832 [12].
+
+The survival analysis method for interval-censored data was used to analyze the primary endpoints owing to the nature of the data collection (i.e. clearance observed at specific follow-up times). Results were reported in terms of HR and 95% CI and one-sided p-value based on the Cox proportional hazards model. A similar analysis was conducted for the secondary outcome of time to symptom resolution in the two treatment groups at 15 days. Analysis of adverse events (AEs) was primarily descriptive, using the proportion of patients who experienced AEs. More detailed analysis methods are included in the statistical analysis plan (see appendix 1 (Statistical Analysis Plan)).
+
+### Stopping the trial
+
+DSMB requested an assessment of the conditional power to form a recommendation on continuing the trial upon recruitment and follow-up of more than 40% of the estimated study sample size (231 patients). On September 21, 2021, the DSMB reviewed the interim analysis result and recommended stopping the trial owing to futility based on the calculated p-value.
+
+## Results
+
+### Participants
+
+Between July 23, 2020 and August 4, 2021, 245 patients were randomized. Among those, 231 began the study and received the assigned treatment (112 in the favipiravir group and 119 in the placebo group). Of the 14 patients excluded after randomization, one did not meet eligibility criteria, and 13 withdrew consent; none received the study treatment (Fig. 1).
+
+Fig. 1 Study flow diagram.
+
+Participants had a median age of 37 years (interquartile range (IQR): 32–44 years), and 155 (67%) were male. One patient had cardiovascular disease, 14 (6%) had hypertension, 25 (10.8%) had diabetes, and eight (3.4%) had asthma at the baseline. Approximately 39 (16.8%) were obese (body mass index >30 kg/m2). Baseline characteristics were well balanced between groups (Table 1 ) with a minor insignificant imbalance in body mass index, diabetes, and smoking.
+
+### Table 1 Demographic, clinical, and laboratory baseline characteristics
+
+In the favipiravir group, 101 (90%) completed the treatment duration (minimum 5 days total). Discontinuation of treatment before 5 days (in 10% of patients) was due to AEs in two patients, was unexplained in three patients, and was because of hospitalization in six patients. Of 119 patients in the placebo group, 113 (94.9%) completed the assigned treatment duration; discontinuation of placebo before 5 days was due to AEs in two patients, was unexplained in three patients, and was because of hospitalization in one patient. Nonetheless, all patients were evaluated for the outcome on day 28.
+
+### Efficacy
+
+The primary outcome was ascertained in all patients in the modified intention- to-treat population. Viral clearance within 15 days occurred in 42 of 112 (37.5%) in the favipiravir group and 49 of 119 (41.1%) in the placebo group. Time to viral clearance was not significantly different between the two groups (Fig. 2 ), with a median of 10 days (IQR: 6–12 days) in the favipiravir group and 8 days (IQR: 6–12 days) in the placebo group (HR = 0.87; 95% CI 0.571–1.326; p = 0.51).
+
+Fig. 2 Time to viral clearance in the modified intention-to-treat analysis. The survival curves are survival function (Kaplan-Meier) curves with a p-value calculated by the log-rank test showing time to viral clearance in the modified intention-to-treat population. There was no difference between the treatment and placebo groups in time of SARS-CoV-2 PCR converting from positive to negative. Patients were followed for 15 days after randomization.
+
+The number of patients with COVID-19–related hospital admission was six (5.3%) in the favipiravir group and two (1.6%) in the placebo group (p = 0.16). Furthermore, the median time to clinical recovery was 7 days (IQR: 4–11 days) in the favipiravir group and 7 days (IQR: 5–10 days) in the placebo group (95% CI 0.639–1.250; p = 0.51) (Fig. S1). There was no difference in the resolution of any symptoms or the need to use antibiotics. (see Table 2 )
+
+### Table 2 Clinical outcomes
+
+### Safety
+
+AEs were experienced by eight (7.1%) patients in the favipiravir group and seven (5.8%) in the placebo group; however, none were serious according to the protocol definition. AEs leading to discontinuation of the study were only recorded in four patients, two in each group. Discontinuations were mainly due to gastrointestinal symptoms, including nausea, vomiting, and abdominal pain. AEs were more common in the favipiravir group than in the placebo group, including skin rash, respiratory symptoms, and vomiting (Table S2).
+
+Significant elevations in the levels of liver enzymes (aspartate aminotransferase and alanine transaminase) were noted more often in the favipiravir group; all returned to the normal range by the day-28 follow-up. Three patients in the favipiravir group and one in the placebo group had worsened kidney function, with a drop in creatinine clearance below 60 mL/min. No patient had creatinine clearance <30 mL/min or required haemodialysis in our study.
+
+By day-28 follow-up, emergency department/urgent care visits in the favipiravir group were greater than in the placebo group: 11 (9.8%) and seven (5.8%), respectively (p = 0.36). The eight hospitalizations in both groups were related to disease progression, and none were related to treatment AEs. No other serious AEs were reported, and there were no deaths in either study group.
+
+### Subgroup and exploratory analyses
+
+The intervention did not affect the primary outcome when age, sex, obesity, and symptoms duration before enrolment were considered as subgroups. In the subgroup of those who used favipiravir within 48 hours of symptom onset, clinical improvement or the time to viral clearance were not significantly different (Fig. 3 ; Fig. S2).
+
+Fig. 3 Time to viral clearance in subgroups.
+
+## Discussion
+
+In this double-blinded, placebo-controlled, randomized trial, favipiravir was not associated with faster viral clearance or a better clinical outcome when initiated in the first 5 days of the onset of COVID-19 symptoms.
+
+Several antiviral agents with the potential ability to treat SARS-CoV-2 infection have been studied, including remdesivir, hydroxychloroquine, lopinavir-ritonavir, and interferon, in the solidarity trial and other trials and were found ineffective [5,17,18]. Owing to the lack of impact on COVID-19 mortality of the studied agents, evaluation of other potential antivirals such as favipiravir in a prospective setting was needed [19,20]. A randomized study of favipiravir in patients with mild to moderate COVID-19 failed to show statistical significance on the primary endpoint of time to RT-PCR negativity. In that trial, a significant improvement in reducing the time to clinical recovery was observed; however, the difference tends to disappear in mild cases, where median time to clinical recovery was 3 versus 4 days in favipiravir and control groups, respectively [11]. Contrary to these findings, a more recent randomized clinical trial noted positive results of favipiravir treatment in moderate COVID-19 [21]. The primary endpoint of this single- blinded trial of 156 patients was a composite of clinical, radiological, and microbiological outcomes. We previously reported the efficacy of combined favipiravir and hydroxychloroquine in treating moderate to severe COVID-19 in a prospective randomized controlled trial. When compared to the standard of care, the combination was found to be ineffective using a seven-category ordinal scale for clinical improvement [22]. The previous trial focused on moderate to severe cases and did not evaluate single favipiravir treatment. The discrepancies in results from favipiravir trials can be due to many factors, such as study design, population, and ethnicity; the inconsistency in defining COVID-19 severity could have also affected the variability of reported results.
+
+Two systematic reviews did not reveal any significant difference between favipiravir and comparators un fatality rate and mechanical ventilation requirement [23,24] but noted that it may promote viral clearance within 7 days and clinical improvement within 14 days of treatment, especially in mild to moderate COVID-19 [24]. Data on the early initiation of antiviral therapy, which could lead to a rapid and significant improvement in viral infections, support our current trial [25,26].
+
+Our data are consistent with previous studies on the absence of favipiravir's effectiveness in all examined endpoints (viral clearance, time to clinical improvement, and hospital admission), supporting the lack of effectiveness in this population. Taken together, it could be extrapolated that there is no effect of favipiravir on COVID-19, regardless of disease severity.
+
+In terms of safety, AEs reported in our trial were similar to those in previous reports [[27], [28], [29]]. Unlike our study, some trials reported chest pain and an increase in triglyceride levels as AEs after favipiravir treatment [27,28,30]. Other trials also reported hyperuricemia as a non- serious adverse drug reaction secondary to favipiravir [29,30], but uric acid was not part of our follow-up laboratory testing because we excluded all patients with gout based on the study protocol. However, although no serious AEs were observed in either group, the daily pill burden was a major challenge. The recommended daily doses to achieve acceptable plasma concentrations are 3600 mg (18 tablets) on the first day and 1600 mg (8 tablets) on the following days. Such a number of pills with unproven benefits can be undesirable owing to difficulties in administration and possible AEs.
+
+The study has also encountered some limitations due to the sample size, noncompliance, missing data, and withdrawal after randomization. Nevertheless, the study showed an almost certain result of non-efficacy of the investigational drug. Viral clearance as a primary endpoint was used commonly in viral clinical trials, including prior influenza clinical trials. Because more than 80% of COVID-19 cases would not progress to severe illness or require hospitalization, clinical improvement might not reflect the efficacy of the antiviral when symptom resolution occurs without therapy and can be very subjective. The study team favoured a more objective outcome of viral clearance. Furthermore, reducing viral clearance could strongly affect disease transmission, a critical infection control measure. The study is still considered underpowered for the secondary clinical endpoints, but it can help in designing future clinical trials and generate valuable systematic reviews and meta-analyses. To our knowledge, this is the largest double-blinded, placebo-controlled, randomized trial to evaluate the efficacy of favipiravir monotherapy in treating patients with mild COVID-19. In addition, our trial adds to the growing body of evidence on the clinical and microbiological benefits of repurposing antiviral therapy, particularly favipiravir, for SARS- CoV-2 infection.
+
+In conclusion, this randomized double-blinded placebo-controlled clinical trial found no clinical or virological benefit in treating mild COVID-19 patients with favipiravir. The trial result may influence decisions to remove favipiravir from national protocols for COVID-19 treatment.
+
+## Funding
+
+This work was supported by King Abdullah International Medical Research Center, Saudi Arabia (protocol no. RC20/220/R). The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+## Author contributions
+
+MBo, AAlh, EM, and MAb developed the study concept and design. SAlr, MBa, ZG, HAlt, KAlh, SAls, and AT participated in enrolment and data collection. AAlh, MBo, and OA participated in the acquisition, analysis, or interpretation of data. HAlq, SA, AAlh, OA, EM, and NA critically reviewed the manuscript. OA performed the statistical analysis. MBo obtained the funding. AM, MAla, RJ, KS, NA, KAA, SJ, AAls, FA, MAls, MAJ, and SAlj contributed in administrative, technical, and material support. AAla, KAla, AAls, and MBo participated in supervision. All authors critically revised the report and approved the final version to be submitted for publication. The corresponding author confirms that he had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+
+## Transparency declaration
+
+All authors declare no conflict of interest.
+
+## Acknowledgements
+
+We express our sincere gratitude to the site's team members for their great effort and help enrolling participants (names are provided in Appendix S1) and all the healthcare workers who took care of the patients during this trial. We thank Dr. Saleh Altamimi, CEO of First Riyadh Health Cluster in Saudi Arabia, and all other health care leaders in the Ministry of Health for supporting this trial. We also thank the DSMB members for their input and critical review of the data.
+
+## Notes
+
+Editor: L. Scudeller
+
+## Footnotes
+
+Appendix ASupplementary data to this article can be found online at https://doi.org/10.1016/j.cmi.2021.12.026.
+
+## Appendix A. Supplementary data
+
+The following are the Supplementary data to this article:
+
+Multimedia component 1:
+
+Click here to view.(719K, pdf)Multimedia component 1
+
+Multimedia component 2:
+
+Click here to view.(169K, docx)Multimedia component 2
+

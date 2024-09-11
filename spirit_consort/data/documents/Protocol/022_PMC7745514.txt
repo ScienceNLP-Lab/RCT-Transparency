@@ -1,0 +1,193 @@
+# Effect of a tailored multidimensional intervention on the care burden among family caregivers of stroke survivors: study protocol for a randomised controlled trial
+
+## Abstract
+
+### Introduction
+
+Caring for stroke survivors creates high levels of care burden among family caregivers. Previous initiatives at alleviating the care burden have been unsuccessful. The proposed study aims to evaluate the effect of a tailored multidimensional intervention on the care burden among family caregivers of stroke survivors. Based on the perceived needs of family caregivers, this intervention takes into account scientific recommendations to combine three different approaches: skill-building, psychoeducation and peer support.
+
+### Methods and analysis
+
+Using a prospective, randomised, open-label, parallel-group design, 110 family caregivers will be enrolled from Dakahlia Governorate, Egypt between December 2019 and May 2020, and randomly assigned to either the intervention group or the control group. The tailored multidimensional intervention will be administered for 6 months, including three home visits, six home-based telephone calls and one peer support session. The primary outcome is the care burden as measured using the Zarit Burden Interview. Secondary outcomes include changes in the family caregivers’ perceived needs (Family Needs Questionnaire-Revised), coping strategies (Brief-Coping Orientation to Problems Experienced) and quality of life (WHO Quality of Life-BREF). Outcomes evaluation will be conducted at baseline (T0), month 3 (T1) and month 6 (T2). Independent t-test will be performed to compare the mean values of study variables between the two groups at both T1 and T2. After adjusting for confounding variables, analysis of covariance will be used to assess the effect of the intervention. In addition, repeated measures analysis of variance will be conducted to assess changes in effect over time.
+
+### Ethics and dissemination
+
+This study was approved by the Research Ethics Committee of the Faculty of Nursing, Mansoura University, Mansoura, Egypt (P.0195). The results will be published in a scientific peer-reviewed journal, and findings will be disseminated at the local and international levels.
+
+### Trial registration number NCT04211662.
+
+Keywords: stroke medicine, public health, quality in health care
+
+##
+
+### Strengths and limitations of this study
+
+  * The tailored multidimensional intervention has been conceptualised based on evidence-based practice and recommendations.
+
+  * The intervention was designed and validated by an interdisciplinary team of nurses and physicians from different specialties based on the feasibility of the intervention and the implementation process.
+
+  * The evidence gained from this study will add to the knowledge base for nursing and medical practice on how to support family caregivers of stroke survivors and reduce their care burden through targeted interventions.
+
+  * Bias is anticipated in estimating the effects of the intervention due to the unblinded outcomes’ assessment and the open-label study design.
+
+  * The depressed family caregivers were not planned to be excluded at the recruitment point which may affect the results.
+
+## Introduction
+
+Stroke is one of the leading causes of severe long-term disability worldwide,1 ranking third as a cause in industrialised countries and second in developing countries.2–5 Stroke-related physical and cognitive disabilities require daily assistance for stroke survivors.6 7 The family caregiver is the person who helps the stroke survivor carry out all basic and instrumental activities of daily living.8 9 Caregivers play a key role in maintaining the continuity of the stroke survivors’ care and rehabilitation.10
+
+Caregiving role can be a valuable and worthwhile effort.11 However, stroke is an unexpected illness that forces families to care for their loved ones even when unprepared. It therefore poses many challenges to which family caregivers are required to adjust without sacrificing their personal lives.2 8 12 For instance, caregivers of stroke survivors frequently complain that they get insufficient time for sleep, socialisation and mental relaxation, which affects their well-being and health.8 13 14 Besides, caregiving for stroke survivors may also affect the caregivers’ working lives, as it is commonly associated with restrictions on working time, regular breaks or quitting.8 Moreover, it affects the relationship between caregivers and other family members.15 Therefore, caregiving for stroke survivors brings physical, psychological, social and financial burdens that leads to an imbalance between the personal lives of caregivers and their caregiving functions.8 16–21 This is likely to negatively affect all aspects of the caregivers’ quality of life (QoL),22 which, in effect, contributes to a higher care burden.23 24 Furthermore, the care burden experienced by caregivers of stroke survivors may interfere with the rehabilitation of stroke survivors.25
+
+Family caregivers of stroke survivors frequently feel insufficiently supported.26–28 Several studies have addressed the development and evaluation of interventions aimed at preparing family caregivers to fulfil their caregiving role and at the same time, reduce the care burden. However, the studies on the effectiveness of past interventions have reported contradictory and inconsistent outcomes, mainly related to the design and delivery of the interventions.29–31
+
+Systematic reviews reveal debate regarding how best to support the family caregivers of stroke survivors.32–34 Empirical evidence shows that feasible interventions that are tailored to perceived caregiver needs and concerns are more successful than rigid interventions that assume that all caregivers experience the same needs.30 35 36 Previous studies have shown that tailored interventions have a significant impact on outcomes among caregivers of stroke survivors,18 because these are perceived to reduce the severity of the care burden as experienced by caregivers.10 37 Besides, the approach of the current studies is directed at adopting the interventions that are matched to caregivers’ needs and priorities.38
+
+The literature shows that interventions based on psychoeducational approaches yield better results than those that use a pure education approach, which is mostly information providing.39–41 The psychoeducational approach has positive outcomes, as it focuses on building the family caregivers’ abilities in specific areas such as the communication skills and coping strategies to empower them to manage the psychological issues they face. This approach ensures the active application of general information to the specific situation of each caregiver.42 Interventions designed using only a purely educational approach are based on the assumption that caregivers will express new behaviour or change when they are given new information. Although the provision of information is significantly related to the acquisition of knowledge among caregivers, a lack of information is not the key risk factor for the high care burden, and it has no effect on their psychological status.17 18 Moreover, some studies have shown that using psychoeducational strategies alone has had significant caregiver outcomes, most of these outcomes suggest that while psychoeducational strategies may lead to an increase in knowledge or satisfaction, they do not improve other important psychosocial outcomes among caregivers.41 Some researchers have even suggested that the psychoeducational approach has negative impacts on caregivers, by worsening social adjustment and reducing satisfaction.29
+
+Conversely, interventions that adopted skill-building strategies such as problem-solving, stress management and goal setting were successful, resulting in significant improvements in family caregiver outcomes, including reduced care burden and depression, and enhanced competence and caring role. It is well known that the skill-building approach is effective. The literature indicates studies that incorporate skill-building to psychoeducational strategies tend to be much more effective at improving caregiver outcomes than psychoeducation alone.29 43 44 Both skill-building and psychoeducation could endow caregivers with the skills required for stroke-related care, strategies to manage their personal lives and their caregiving role,41 and methods for controlling negative thoughts and emotions.45
+
+The literature also highlights a third approach: peer support. Peer support is crucial in the context of caregiving, as it provides experience-based knowledge rather than structured training.46 47 Peers are also likely to feel more encouraged by sharing their knowledge and experiences to address caregiving difficulties among caregivers of stroke survivors.48 Studies on interventions that use the peer support approach show positive outcomes among caregivers. However, systematic reviews have reported that interventions involving peer support alone are less significant than interventions that incorporate both skill-building and psychoeducation.29 Besides, the number of peer support interventions are limited due to the difficulty in organising peer support groups.49
+
+In summary, while it is fair to assume that interventions using a single approach or strategy would be of some benefit to family caregivers of stroke survivors, it is clear the evidence in favour of this is not enough to recommend such interventions. Therefore, the current study suggests that the integration of different approaches, such as skill-building, psychoeducation and peer support, is likely to have a more positive effect on the care burden among caregivers of stroke survivors, as they can together offset the multiple stressors experienced by caregivers.
+
+However, literature related to studies on combined approach interventions is lacking, and little is known about their level of effectiveness in various settings. For instance, in Egypt, where there is no support system for family caregivers of stroke survivors, the effectiveness of this type of intervention remains unexplored. Stroke survivors in Egypt are immediately discharged from acute hospitals to their homes after treating acute signs and symptoms without any rehabilitation. There are also no specialised nursing and residential homes or home-visiting programmes.50–52 In other words, families are forced to take full responsibility for caring for their stroke-affected family members. This situation exposes caregivers in Egypt to a heightened risk of care burden.53 Moreover, the previous studies reveal caregivers in the developed countries where rehabilitation and home healthcare are well-provided, often feel care burden.12 15 54 55 It was recommended that the caregivers of stroke survivors be supported by providing community-integrated interventions which consider the continuous support after the stroke survivors’ discharge.56 57 Therefore, the results of this study may be also adapted to those developed countries.
+
+### Aim and hypothesis
+
+The proposed study aims to evaluate the effect of a tailored multidimensional intervention on the care burden among family caregivers of stroke survivors. The main hypothesis is that the family caregivers of stroke survivors who receive the tailored multidimensional intervention will perceive a reduced care burden compared with family caregivers who receive a simple educational booklet (control group/CG).
+
+## Methods and analysis
+
+### Trial design
+
+The study design is a prospective, open-label, two-arm, randomised controlled trial (RCT). All stages of the RCT have been designed in accordance with the Consolidate Standards of Reporting Trials (CONSORT)58 and the Standard Protocol Items Recommendations for Interventional Trials.59 Figure 1 gives the study flow chart. The full record is available online at https://clinicaltrials.gov/ct2/show/NCT04211662. The trial was started on 27 December 2019, and it is anticipated that the last follow-up will be completed by November 2020.
+
+Figure 1 Study flow chart.
+
+### Setting
+
+The proposed study is conducted in Dakahlia Governorate (area: 3471 km2, population: 6 million) which is located in the northeastern sector of the Nile Delta, Egypt, and includes 18 cities.60 Study participants are recruited from outpatient clinics, located in Mansoura City, the capital of Dakahlia Governorate, and surrounding cities located within a radius of 30 km from the capital city.
+
+### Study participants and eligibility criteria
+
+Study participants are family caregivers of stroke survivors. The family caregiver is defined as the primary care provider for a stroke survivor. The caregiver may be a son, a daughter, a parent, a spouse, daughter-in-law, son- in-law or other relatives. Caregivers who meet all of the following criteria are included: (1) age 18 years or older, (2) caring for a stroke survivor having a stroke within 6 months61–63 with modified Rankin Scale (mRS) scores equal 3–5 at the enrolment.64 Caregivers are excluded if stroke survivor has one of the following conditions: (1) other mobility restrictions such as fracture, dislocation, spinal cord injury, spinal vertebrae injury, and (2) terminal-stage disease such as cancer, liver disease, and kidney disease or any other diseases. Caregivers who have cognitive impairment are excluded from the study.
+
+### Recruitment procedure, obtaining consent and checking the eligibility
+
+Difficulty in recruiting appropriate study participants is one of the potential limitations of any community-based study.65 In the current study, participants are therefore approached by physicians and nurses at outpatient clinics. First, the researchers contact physicians and nurses, explain to them the aim of the study and ask them to inform family caregivers of stroke survivors about the study. The physicians and nurses inform researchers about those caregivers who are interested in participating in the study, and share their contact details with the permission of the caregivers. The researchers then contact the caregivers to explain to them the purpose of the study. Caregivers who agree to participate are asked to provide written informed consent. Data related to stroke survivors are collected, and as part of the research is conducted via home visits where the patient lives, written consent from stroke survivors is also required. The eligibility criteria are confirmed by the researchers through interviewing the caregivers, observing the stroke survivors and checking the medical records.
+
+### Allocation and randomisation
+
+In this study, a 1:1 open-label randomisation is used to assign participants to the intervention group (IG) or the CG. Participants are randomised into one of the two groups after stratifying stroke survivors according to dependency level (mRS 3 or 4 or 5)23 66 67 and by degree of dementia (Mini-Mental State Examination ≤20 or more than 20).68 69 Randomisation is performed by a trained research assistant at the randomised allocation centre who is not involved in the intervention. The research assistant then informs the researchers which participants have been assigned to the IG or the CG.
+
+### Patient and public involvement
+
+There was no patient, carer and public involvement in designing the intervention of the study.
+
+### Intervention
+
+#### General description
+
+According to the proposed conceptual framework of this study, the intervention is intended to reduce the severity of the care burden, and is designed to reduce family caregivers' perceived unmet needs using psychoeducation, skill- building and peer support approaches.16 29 70 Psychoeducation emphasises (1) imparting information on stroke and its consequences on the stroke survivors physically, cognitively, emotionally and behaviourally; (2) providing guidelines for prevention of the stroke recurrence and the complications after stroke; (3) discussing caregivers' own emotions and thoughts regarding their current roles and future responsibilities; and (4) enhancing caregivers' own coping strategies and stress management skills. Skill-building is defined in this context as training caregivers in the following skills: (1) hands-on training on positioning, transferring and mobility techniques, assistance in activities of daily living; (2) managing stroke survivor’s emotions and behaviours and impaired cognitive functions; (3) communicating with healthcare professionals and participating in stroke survivor’s management; (4) improving effective communication strategies with others to strengthen the social support network and (5) maintaining caregivers’ own healthcare needs. Peer support is described in this context as offering caregivers the opportunity to share their individual experiences of caring for stroke survivors with someone who has gone through the same experience. Peer support sessions focus on (1) recognising caregiver’s roles; (2) sharing the positive aspects of caring; and (3) addressing caregiving challenges and how these can be managed.29 43 44 An intervention plan will be tailored for each caregiver based on these three approaches (psychoeducation, skill-building and peer support) which shows the contents of the proposed intervention.
+
+The intervention is meant to meet the caregivers' perceived needs and foster improvements in their coping mechanisms. It is assumed that the positive impact of the intervention on caregivers' coping strategies and their perception of the degree to which their needs are met will lead to an improvement in their QoL and reduction of the care burden; we hypothesised that coping strategies71–73 and perceived needs of caregivers63 74–76 are the variables mediating between the intervention, QoL and the care burden of caregivers. Finally, the current study hypothesises that an improvement in the QoL would reduce the level of perceived care burden.77–79
+
+### Designing a tailored multidimensional intervention
+
+To ensure feasibility of the intervention and the implementation process,80 81 the intervention was designed by an interdisciplinary team including nine academic researchers from different specialties (experts in the fields of neurology, psychiatry, family health, chronic care, community health and public health), as well as eight intervention nurses with a bachelor’s degree in nursing and with work experience in hospital stroke units.
+
+The designing process for each family caregiver in the intervention involved the following five subsequent steps: (1) intervention nurses assess the caregiver’s needs using the Family Needs Questionnaire-Revised (FNQ-R),82 which is used to collect data on each caregiver’s unique perceived needs in caring for a family member with stroke.37 83 84 The FNQ-R enables the creation of individualised interventions tailored to each caregiver’s stated needs. Furthermore, using FNQ-R before and after the intervention helps in assessing the effectiveness of the intervention84; (2) caregiver’s needs are reviewed, identified and summarised by the interdisciplinary team; (3) telephone interviews between the intervention nurse and the caregiver are held to prioritise the summarised needs85; (4) the interdisciplinary team then creates an intervention plan based on the summarised needs in line with the appropriate skill-building and psychoeducation strategies likely to fulfil the needs identified. A peer support session is included in the intervention plan as an essential strategy; and (5) the intervention plan is shared with the caregiver to ensure participant collaboration.85
+
+### Intervention delivery
+
+The proposed intervention is administered by the intervention nurses. Interventions that are delivered using multiple modes (eg, in person, by phone and via peers) are expected to provide strong evidence of improved outcomes in family caregivers.29 42 73 86 87 The current intervention will be delivered using the various modes for 6 months. Figure 2 describes an overview of the intervention contents and schedule.
+
+Figure 2 Overview of the intervention contents and schedule.
+
+### Training of intervention nurses and quality control
+
+The intervention nurses underwent a 4-week training programme (31 hours) before the start of the study. Training was delivered using various methods: face-to-face and video lectures, role-plays, demonstrations and redemonstrations, and group discussions. Training was imparted on the following topics: family assessment and intervention models, family caregivers and their roles, effective communication skills, effective motivation skills, principles of home visiting and home-based telephone calling, principles of peer support sessions, data collection and using instruments, and designing an action plan with shared goals. In addition, nurses were taught how to deliver know-how and skills to family caregivers. The eight intervention nurses will be provided continuous mentoring and follow-up through monthly meetings of the interdisciplinary team to discuss the progress of the intervention. In addition, the researchers periodically check the plans and the notes documented by the nurses about perceived caregiver needs and the achievements of the supportive intervention, and address newly reported needs if applicable. Moreover, if there were any risks, adverse events, or limitations of the intervention and study will be documented. In addition, the caregivers were asked to report negative psychological symptoms if they feel during the study period. Those family caregivers will be referred to the specialists accordingly.
+
+### Control group
+
+The CG is provided a simple educational booklet with information on stroke and caregiving to stroke survivors, and these are explained to them during a single home visit by the intervention nurses. CG family caregivers do not receive tailored multidimensional interventions.
+
+### Data collection and outcomes
+
+Table 1 shows a summary of expected study outcomes, measurement instruments and time points. Outcomes will be assessed after the randomisation and prior to the start of the intervention (T0), 3 months after the start of the intervention (T1) and 6 months after the baseline assessment (T2). The data at three time points will be collected by the intervention nurses without blindness through visiting the caregivers’ homes.
+
+### Table 1 Study outcomes, measurement instruments and time points
+
+### Primary outcome
+
+#### Care burden
+
+The primary outcome of this study is the care burden to be measured using the short version of Zarit Burden Interview (ZBI).88 The ZBI was adapted and validated for Arabic language settings (Cronbach’s alpha: 0.77),89 and has been used in the past to measure the family caregiver’s burden of caring for stroke survivors.17 22 37 67 77 90–93 It addresses the personal strain and role strain aspects. It can be self-administered or administered by an interviewer. The tool consists of 12 questions. Items are rated on a 5-point Likert scale from 0 (never) to 4 (almost always), with higher scores representing a greater sense of burden (range 0–48).
+
+### Secondary outcomes
+
+#### Perceived family caregiver needs
+
+Perceived family caregiver needs are measured using the FNQ-R, developed by Serio et al.82 The self-report questionnaire consists of six factors (37 items): health information, instrumental support, community support network, emotional support, professional support and involvement with care.82 84 The tool was translated into Arabic and the validity and reliability will be ensured in this study. The respondent is asked to choose one of three choices ‘Y’, ‘P’ or ‘N’ to indicate whether each need has been met, partially met or not met, respectively. The sum of the number of similar responses within each domain indicates the extent to which the needs have been met. For example, the sum of the number of ‘Y’ responses within each domain indicates the number of needs met. The total of needs met can be computed by adding all ‘Y’ responses from within each of the six domains. To quantify the proportion of needs rated as met for each subscale, the proportion will be converted to a 10-point scale (with 0 indicating ‘no needs met’ and 10 indicating ‘all needs met’).
+
+### Coping strategies
+
+Coping strategies are measured using the Brief-COPE (Coping Orientation to Problems Experienced) Inventory developed by Carver.94 The inventory has been adapted and validated for Arabic contexts (Cronbach’s alpha: 0.83).95 This tool has been used to measure coping strategies of family caregivers of stroke survivors.17 96 Brief-COPE is a self-rated questionnaire and consists of 28 items in 14 domains. Each domain consists of two items. Responses range from 1 (I haven't been doing this at all) to 4 (I've been doing this a lot). Total scores of each domain range from 2 (minimum) to 8 (maximum). High scores in a particular domain show that this specific coping strategy has been used more frequently. The total inventory score can be obtained by adding the relating items for each scale.
+
+### Quality of life
+
+QoL is measured using the WHO Quality of Life-BREF (WHOQOL-BREF), developed with a cross-cultural perspective by the WHO for various languages, and used to assess the QoL of the family caregivers of stroke survivors in previous studies.22 67 77 97–100 The WHOQOL-BREF is a self-rated questionnaire consisting of 26 questions—2 general questions and 24 questions covering four domains: physical, psychological, social relationships and environment. Items are rated on a 5-point Likert scale (from 1 to 5). All four domains of the instrument have been adapted and validated for Arabic settings (Cronbach’s alpha: ≥0.75).101 There is no cut-off point for the worst or better QoL scores. Higher scores indicate better QoL.102
+
+### Sample size
+
+The sample size was estimated using G power software V.3.1.9.4 (Psychonomic Society, Madison, Wisconsin, USA)103 with an effect size of 0.72, which was based on a similar previous study on care burden among the family caregivers using ZBI.104 Assuming power analysis results for the difference between two independent means (two groups) and a confidence level of 0.95, statistical power of 0.90 and fair division, the sample size was required to be 84 caregivers. An additional 26 caregivers need to be recruited to compensate for an estimated dropout rate of 30%.105 106 The final sample size is 110 participants (55 in the IG and 55 in the CG).
+
+### Statistical analyses
+
+This will be an intention-to-treat analysis.107 108 To ensure comparability between the IG and the CG, all baseline data will be analysed using descriptive statistics. Baseline data will include general characteristics of the participating stroke survivors and their family caregivers such as age, sex, marital status, education level, place of residence (rural or urban), income (sufficient or insufficient) and the presence of chronic diseases. It will also include data regarding the kinship between the stroke survivor and their family caregiver, whether or not the caregiver has children, whether or not the caregiver is employed, duration of caregiving (in months), number of caring hours per week and availability of secondary caregivers. Baseline data will also include stroke-related information, such as time since the stroke (in months), whether first stroke or recurrent, mRS score, dementia level, difficulties associated with stroke such as aphasia, dysphagia, difficulty hearing or blurred vision. Primary and secondary outcomes will be analysed and compared with baseline data. Quantitative variables will be expressed as means and SDs. For qualitative variables, absolute and relative frequencies will be presented. The t-test, the Mann-Whitney U test, Pearson’s Χ2 test or Fisher’s exact test will be used depending on normality to compare the two groups.
+
+The independent t-test will be used to compare the mean values of the study outcomes between the two independent groups (the IG and CG) at both T1 and T2. Analysis of covariance will be used to assess the effect of the intervention on the outcomes, after adjusting for confounding variables such as age and sex of the family caregivers, the presence of children, number of caregiving hours, availability of secondary caregivers, dependency level, dementia level of stroke survivors, and other confounding variables related to the caregivers and the stroke survivors. Repeated measures analysis of variance will be conducted to assess changes in outcomes over time.
+
+All statistics will be two-sided, and the significance level will be set at <0.05. The SPSS V.22.0 will be used for analysis. Last observation carried forward will be used to compensate for missing data. As bias in estimating the effects of the intervention is anticipated due to the open-label design of the study, the analysis will be performed by an independent researcher who will not involve in the intervention or allocation of participants.
+
+### Procedures to improve the adherence level
+
+Our proposed intervention includes various ways to improve adherence. First, we only include participants who care for stroke survivors with mRS 3–5. We assume the family caregivers who provided care for stroke survivors that need a higher level of assistance resulting in a lower dropout rate among the participants. Second, the intervention is tailored to the perceived needs of the caregivers, thereby increasing the adherence level and raising the intervention effectiveness. Third, to improve adherence, we use various methods of delivery in short time intervals (biweekly). Last and foremost, we assign six or seven participants in the IG to each intervention nurse. The nurse is responsible for administering the intervention and following the participants during the study period. Participants also have the opportunity to contact the nurse to ask questions or to provide feedback.
+
+## Ethics and dissemination
+
+All procedures contributing to this study shall comply with the ethical standards of the 1975 Helsinki Declaration (2008 revised version). The study protocol has been reviewed and approved by the Research Ethics Committee of the Faculty of Nursing, Mansoura University, Mansoura, Egypt, in September 2019 (P.0195). Important protocol modifications (eg, changes to eligibility criteria, outcomes, analyses) shall be communicated to the Research Ethics Committee. All participants are provided oral and written information on the study and asked to sign an informed consent form before being enrolled. The study participants are informed that all data collected are for research purposes only, and that they have the right to withdraw from the study at any time.
+
+Data collection is fully anonymised and only accessed by authorised study staff. The permissions to use all the study tools have been granted by the original authors.
+
+## Dissemination of the research findings
+
+Study findings will be published in a scientific peer-reviewed journal according to CONSORT guidelines for RCTs.58 Participants will be informed of conference presentations and publications.
+
+## Supplementary Material
+
+Reviewer comments:
+
+Click here to view.(244K, pdf)
+
+Author's manuscript:
+
+Click here to view.(2.0M, pdf)
+
+## Acknowledgments
+
+The authors thank the Cultural Affairs and Missions Sector, Ministry of Higher Education, Cairo, Egypt, for financial support for the principal investigator’s travel to Japan, which has a better developed system (than does Egypt) in designing and implementing family caregiver supportive interventions. The authors also thank Hatano Rehabilitation Group, Aki-Ku, Hiroshima, Japan, for support and training in home visit nursing, telephone nursing interventions, whole family assessments and care management processes, and for the use of space, equipment and the preparation of educational materials for the training of intervention nurses. Lastly, the authors would like to thank Editage for providing editorial assistance.
+
+## Footnotes
+
+Contributors: MAE is the principal investigator responsible for the initial draft of this manuscript, and organising and implementing the study. MAE, MM, MMR and MK formulated the study design, developed the intervention and defined the study outcomes. MA, MHK and HZ helped in recruitment and retention of the study participants. MAE, AHE-M, MZ and MK calculated the sample size and decided on the data analysis plan. MAE, MA, MHK, AHE-M, MZ and HZ designed the tailored multidimensional plans and ensured the implementation and follow-up. MM, MMR and MK did periodic review of the implementation process and gave valuable feedback. MAE, MA, MHK, AHE-M and MZ trained the intervention nurses. All authors have read and approved the final manuscript.
+
+Funding: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+Competing interests: None declared.
+
+Patient and public involvement: Patients and/or the public were not involved in the design, or conduct, or reporting, or dissemination plans of this research.
+
+Patient consent for publication: Not required.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.
