@@ -1,6 +1,4 @@
-- For your own use, we'd recommend to specify your own arguments based on your environment.
-
-- For setup, please follow the instructions below:
+- For your own use, we'd recommend to specify your own arguments based on your environment. For setup, please follow the instructions below:
 
 ## Install dependencies
 Please install all the dependency packages using the following command lines:
