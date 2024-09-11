@@ -1,4 +1,4 @@
-- This subfolder **src_term_extraction** contains (PyTorch) code to implement training and evaluation process of our term extraction task. For your own use, we'd recommend to specify your own arguments based on your environment.
+- For your own use, we'd recommend to specify your own arguments based on your environment.
 
 - For setup, please follow the instructions below:
 
