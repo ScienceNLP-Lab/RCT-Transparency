@@ -99,10 +99,7 @@ def calculate_multilabel_instance_metrics(predictions_logits, predictions, label
                                                                                             predictions, labels,
                                                                                             label_list)
 
-    def sigmoid(x):
-        return 1 / (1 + np.exp(-x))
-
-    predictions_logits_arr = sigmoid(np.array(predictions_logits))
+    predictions_logits_arr = np.array(predictions_logits)
     labels_arr = np.array([np.array(xi) for xi in labels])
     # Averaged metrics - micro and macro
     precision_micro_average = precision_score(y_true=labels, y_pred=predictions, average='micro', zero_division=0)
