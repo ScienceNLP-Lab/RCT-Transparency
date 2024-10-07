@@ -4,7 +4,7 @@ We provide SPIRIT CONSORT dataset in this data dictionary.
 This dictionary includes the annotation guideline, all 100 pairs of articles, and the document-level, sentence-level, and term-level datasets.
 
 ---
-- **Annotation Guide and Instructions.pdf** served as the guideline for annotators to annotate all 83 items.
+- You can find the guidelines for annotating all 83 items [here](https://osf.io/ha73p).
 
 - **documents/** dictionary comprises 100 protocol articles and their 100 corresponding results articles.
 
