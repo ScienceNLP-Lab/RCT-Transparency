@@ -29,14 +29,14 @@ def merge(sentences):
         r"\b(Figs*|[Ee]t [Aa]l|et al|[Ii]\.[Ee]|[Ee]\.[Gg]|vs|[Dd]r|[Dd]rs|[Pp]rof|[Nn]o|[Nn]r|[Mm]r|[Mm]s|[Ss]r|[Jj]r|[Ss]t|[Ss]q|b\.i\.d)(\. +)$")
 
     ori_n = len(sentences[0]['sentence'])
-    sentences[0]['sentence'] = sentences[0]['sentence'].lstrip()
+    sentences[0]['sentence'] = sentences[0]['sentence']
     new_n = len(sentences[0]['sentence'])
     sentences[0]['span'][0] += new_n - ori_n
     segmentedsentence = [sentences[0]]
     j = 0
     for i in range(1, len(sentences)):
-        previous = segmentedsentence[j]['sentence'].lstrip()
-        current = sentences[i]['sentence'].lstrip()
+        previous = segmentedsentence[j]['sentence']
+        current = sentences[i]['sentence']
         if re.search(non_printable_pattern, current) or current.__len__() == 0:
             continue
         if re.search(midden_of_sentence_pattern, previous):
@@ -114,13 +114,12 @@ def segment(full_text, section_header=None):
         sentences.append({'sentence': text,
                           'span': [start, start + text.__len__() - 1]})
         start += text.__len__()
-        
     if len(sentences)>1:
         sentences = merge(sentences)
         
     for i in sentences:
         ori = len(i['sentence'])
-        i['sentence'] = i['sentence'].strip()
+        # i['sentence'] = i['sentence'].rstrip()
         after = len(i['sentence'])
         offset = ori - after
         if ori - after > 0:
@@ -137,7 +136,7 @@ def segment(full_text, section_header=None):
 
 if __name__ == '__main__':
     sentences = segment(
-        'Samples were centrifuged at 1900 g, and the supernatant was collected and stored at 4°C. J774 cells were radiolabeled for 24\u2005hours in a medium containing 2 μCi of [3H]-cholesterol per microlitre.')
+        'S. J. Dutton: Expertise in trial statistics, refinement of the study protocol, Approved the final manuscript.')
     print(sentences)
-    p = re.compile(r"\b")
-    print(re.search(p,'We \b assessed circulating EPC levels and EPC outgrowth number and function in CRS patients compared to healthy controls, and evaluated whether short-term (18 days) and long-term (52 weeks) EPO therapy improved EPC number and function in patients with CRS.\n      Methods'))
+    # p = re.compile(r"\b")
+    # print(re.search(p,'We \b assessed circulating EPC levels and EPC outgrowth number and function in CRS patients compared to healthy controls, and evaluated whether short-term (18 days) and long-term (52 weeks) EPO therapy improved EPC number and function in patients with CRS.\n      Methods'))
