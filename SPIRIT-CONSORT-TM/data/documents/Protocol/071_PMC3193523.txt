@@ -1,0 +1,242 @@
+The Lifestyle Interventions and Independence for Elders Study: Design and Methods
+
+## Abstract
+
+### Background.
+
+As the number of older adults in the United States rises, maintaining functional independence among older Americans has emerged as a major clinical and public health priority. Older people who lose mobility are less likely to remain in the community; demonstrate higher rates of morbidity, mortality, and hospitalizations; and experience a poorer quality of life. Several studies have shown that regular physical activity improves functional limitations and intermediate functional outcomes, but definitive evidence showing that major mobility disability can be prevented is lacking. A Phase 3 randomized controlled trial is needed to fill this evidence gap.
+
+### Methods.
+
+The Lifestyle Interventions and Independence for Elders (LIFE) Study is a Phase 3 multicenter randomized controlled trial designed to compare a supervised moderate-intensity physical activity program with a successful aging health education program in 1,600 sedentary older persons followed for an average of 2.7 years.
+
+### Results.
+
+LIFE's primary outcome is major mobility disability, defined as the inability to walk 400 m. Secondary outcomes include cognitive function, serious fall injuries, persistent mobility disability, the combined outcome of major mobility disability or death, disability in activities of daily living, and cost-effectiveness.
+
+### Conclusions.
+
+Results of this study are expected to have important public health implications for the large and growing population of older sedentary men and women.
+
+Keywords: Disability, Physical activity, Exercise, Geriatrics, Physical function
+
+##
+
+WITH persons aged ≥70 years representing the fastest growing segment of the U.S. population (1), preventing disability and maintaining independence throughout later life is an important public health goal (2,3). Mobility and activities of daily living are necessary for maintaining basic independent functioning (4,5). The inability to perform these tasks is a critical threshold, conferring increased risk of illness, institutionalization, reductions in quality of life, and death (6,7).
+
+Physical inactivity is one of the strongest predictors of physical disability in elders (8,9). Furthermore, exercise may benefit many conditions that underlie disability in older adults, including risk of falls (10–13), hip fracture (14,15), cardiovascular disease (16,17), respiratory diseases (18), cancer (19), diabetes (17,20,21), osteoporosis (22–24), low fitness and obesity (25,26), sleep–wake disturbances (27), depression (28,29), and dyspnea and ventilatory capacity (30,31). In longitudinal studies, regular physical activity (PA) is associated with extended longevity and reduced risk of physical disability (32–37). However, observational studies cannot establish a causal association between exercise participation and reduced disability because the differences between individuals who choose to exercise and those who do not can never be fully adjusted for.
+
+Several studies have demonstrated the beneficial effects of structured exercise programs on functional outcomes in older adults (26,38–41). Despite these results, it remains unclear whether the positive effects of regular exercise can be sustained for a sufficient duration of time or whether exercise can be maintained at an adequate intensity to prevent a clinically meaningful disability outcome, thereby prolonging independence. Additionally, it is currently not established whether comparable beneficial effects on physical function and disability can be achieved through a structured successful aging (SA) health education intervention. Finally, although evidence from short-term clinical trials supports the potential of PA and exercise to benefit brain health (42–48), long-term clinically meaningful effects of PA or health education on cognitive function have not been established (49).
+
+Because of these gaps in knowledge, a cooperative agreement between the National Institute on Aging with additional support from the National Heart, Lung, and Blood Institute and several academic institutions was established to conduct the Lifestyle Interventions and Independence for Elders (LIFE) Study. The present study was based on the conduct of a successful pilot study (LIFE-P) in which we successfully gathered preliminary data to accurately estimate the required sample size for the current trial, demonstrated the feasibility of recruitment, confirmed the adherence and safety of the intervention, finalized the choice of the primary outcome, refined the outcome assessments, and optimized the organizational infrastructure (50–53). The LIFE Study, a Phase 3 multicenter randomized controlled trial, was designed to compare a supervised moderate-intensity PA program with a SA health education program on the incidence of major mobility disability (the inability to walk 400 m) in sedentary older persons with objectively measured functional limitations who are followed for an average of 2.7 years.
+
+## PRIMARY RESEARCH OUTCOME
+
+The primary goal of the LIFE Study is to compare in 1,600 sedentary older persons the long-term effect of a moderate-intensity PA program with a SA health education program on the incidence of major mobility disability defined as the inability to walk 400 m.
+
+## METHODS
+
+### Overview
+
+One thousand six hundred sedentary older adults are being recruited at eight field centers which include the following: University of Florida, Gainesville, Florida; Northwestern University, Chicago, Illinois; Pennington Biomedical Research Center, Baton Rouge, Louisiana; University of Pittsburgh, Pittsburgh, Pennsylvania; Stanford University, Stanford, California; Tufts University, Boston, Massachusetts; Wake Forest University, Winston-Salem, North Carolina; and Yale University, New Haven, Connecticut. The Administrative Coordinating Center is housed at the University of Florida with the Data Management, Analysis and Quality Control Center (DMAQC) located at Wake Forest University School of Medicine.
+
+### Eligibility
+
+The LIFE Study eligibility criteria were designed to target older persons (age 70–89) who (a) are sedentary, as defined as spending less than 20 min/wk in the past month getting regular PA and reporting less than 125 min/wk of moderate PA (54); (b) are at high risk for mobility disability based on objectively assessed lower extremity functional limitations assessed by the Short Physical Performance Battery (SPPB; score of ≤9) (55,56); (c) can walk 400 m in 15 minutes without sitting, leaning, or the help of another person; and (d) can safely participate in the intervention (Table 1). This represents a large segment of the older population in which successful prevention of mobility disability through a lifestyle intervention would have a major public health impact (57). All study procedures have been approved by the Institutional Review Boards of all participating centers.
+
+### Table 1. Inclusion or Exclusion Criteria
+
+### Recruitment
+
+Approximately 200 participants are being recruited at each field center for a 21-month period with a goal of including at least 22.5% minorities. The researchers aim to recruit at least 720 participants (45%) with a baseline SPPB score of ≤7 to enrich the study with higher-risk participants. Each field center has a site-specific recruitment plan. Recruitment strategies include newspaper; radio and television advertisements; direct mailings to age- eligible residents; and presentations at health fairs, senior centers, medical clinics, and churches (51).
+
+### Screening and Randomization
+
+Potential participants are screened by telephone. Those who remain eligible are invited to attend a group or individual prescreening visit during which the LIFE Study is presented in a lecture or individual format. Following a question and answer session, attendees are invited to review and sign a prescreening consent form. Those still eligible after administration of the SPPB and the Community Healthy Activities Model Program for Seniors (CHAMPS-18) PA questionnaire (54) are invited to attend a first screening visit. Because many potential participants are excluded based on their SPPB and CHAMPS-18 questionnaire scores, the prescreening visits provide an efficient mechanism to identify individuals who are not eligible for LIFE. At first and second screening visits, medical and functional exclusions are assessed. After eligibility is confirmed, participants are randomly assigned (1:1 ratio) using a web-based system to either the PA or SA intervention.
+
+### Study Measures
+
+Table 2 lists the outcomes measured at first and second screening visits and during follow-up. All assessment personnel are masked to randomization assignment.
+
+### Table 2. Schedule of Outcome Assessments
+
+### Primary Study Outcome
+
+#### Four hundred–meter walk test.—
+
+After careful consideration, the time to the onset of major mobility disability was selected as the primary outcome. The objective component of the major mobility disability outcome is defined as the inability to complete a 400-m walk test within 15 minutes without sitting, leaning against the wall, or the assistance of another person or walker. Individuals who complete the walk in more than 15 minutes have an extremely slow pace (<0.45 m/s), which would make their walking capacity of little utility in daily life (58). Major mobility disability is assessed every 6 months on a 20-m walking course. In addition to the researchers’ primary outcome, several secondary and tertiary outcomes are evaluated.
+
+### Secondary Study Outcomes
+
+#### Cognitive assessment.—
+
+Cognitive function is assessed at baseline and at 24 months. The cognition secondary outcome is powered upon the Digit Symbol Substitution test and the Hopkins Verbal Learning test. The Digit Symbol Substitution test is a measure of attention and perceptual speed in which participants are given a series of numbered symbols and then asked to draw the appropriate symbols below a list of random numbers (59). The Hopkins Verbal Learning test is a 12-item learning and memory test designed for brief easy administration (60). Additional cognitive assessments include the Modified Mini-Mental Status Examination (3MSE) measuring general cognitive function (61); the Eriksen flanker task measuring response inhibition (62); the N-Back test measuring working memory (63,64); and the Task-Switching test measuring attentional flexibility (65,66).
+
+#### Serious fall injury.—
+
+Serious fall injuries include only those falls that result in a clinical fracture (nonvetebral), lead to hospitalization, or both. Serious fall injuries are assessed by participant interview every 6 months. Other falls and fractures are captured at this interview as well.
+
+#### Disability questionnaire.—
+
+Disability is assessed with the Pepper Assessment Tool for Disability (67,68). This questionnaire contains 19 items covering 3 domains: (a) basic activities of daily living (moving in and out of a chair, moving in and out of a bed, gripping with hands, using toilet, dressing, getting in and out of a car, walking across a small room, and bathing); (b) mobility (walking several blocks, lifting heavy objects, walking one block, lifting or carrying 10 lbs, climbing several flights of stairs, climbing one flight of stairs, and walking a quarter of a mile); and (c) instrumental activities of daily living (light housework, participating in community activities, managing money, visiting with relatives or friends, using the telephone, and taking care of a family member).
+
+#### Cost-effectiveness analysis.—
+
+The self-administered version of the Quality of Well-Being scale is used to assess general quality of life for the planned cost–utility analyses (69,70). The assessment covers symptoms, acute and chronic conditions and psychological well-being.
+
+Health care utilization is assessed at baseline and every 6 months using a self-administered questionnaire. The measure consists of 12 questions that ask about the frequency of specific types of health care utilization including days hospitalized, emergency care, urgent care, primary care, telephone calls, prescriptions, and medical equipment. Health care costs are calculated by multiplying the frequency of each service by the prevailing community charge.
+
+### Tertiary Outcomes
+
+Incident dementia is assessed through a screening procedure with prespecified scoring cutoffs for the 3MSE (61). Participants who demonstrate possible early cognitive impairment or dementia at 24 months undergo a more comprehensive cognitive assessment. Incident dementia, cognitive impairment without dementia, or normal cognitive function is adjudicated in a standardized manner by an expert panel.
+
+#### Short Physical Performance Battery.—
+
+The SPPB is a summary performance measure consisting of 4 m walking velocity at usual pace, a timed repeated chair stand, and three increasingly difficult standing balance tests (71). Each performance measure is assigned a categorical score ranging from 0 (inability to complete the test) to 4 (best performing). A summary score ranging from 0 (worst performers) to 12 (best performers) is calculated by summing the three component scores.
+
+#### Additional tertiary outcomes.—
+
+Additional tertiary outcomes include measures of sleep–wake disturbances: Epworth Sleepiness scale (72), Insomnia Severity Index (73), Pittsburgh Sleep Quality Index (74), and Berlin Questionnaire (75). Two questions are administered regarding napping behavior and the use of caffeine and energy drinks. Ventilatory capacity and dyspnea are assessed using hand-held spirometry; a modified version of the ATS-DLD-78-A questionnaire that assesses respiratory symptoms, prior cardiopulmonary illnesses, occupational history, and smoking exposure (76); and the Borg index for dyspnea, which is administered immediately upon completion of the 400-m walk (77). Cardiovascular events to be assessed as tertiary outcomes include hospitalization for acute myocardial infarction or angina, stroke, congestive heart failure, peripheral artery disease, coronary artery bypass surgery, abdominal aortic aneurysm, carotid endarterectomy, inpatient or outpatient coronary or lower extremity angioplasty, and cardiovascular death. Pulmonary outcomes include hospital admission for COPD or asthma, bronchitis, and pneumonia. Medical records are obtained and reviewed blinded to group assignment, and adjudication is made by an expert committee.
+
+### Study Interventions
+
+Participants are randomly assigned to the PA intervention or to the SA program. The behavior change promoted in both interventions is based on social cognitive theory principles combined with a group-mediated approach for promoting PA among older adults (78,79). Concepts from social cognitive theory are combined with strategies derived from applications of the Transtheoretical Model (eg, consciousness raising, building of self-efficacy for participation, informational exchange, and other cognitive approaches in the preparation and action phases early in the program, supplemented with ongoing reinforcement, social support, and related behavioral approaches that are continued through the later phases of the program). These are applied by using a tailored social problem-solving approach. Participants in both groups receive an initial individual 45-minute face-to-face introductory session by a health educator who describes the PA or SA intervention, communicates expectations, and answers questions.
+
+#### PA intervention.—
+
+The PA intervention that encompasses both structured exercise and PA includes aerobic, strength, flexibility, and balance training and is designed to be performed at the center (two times per week) and at home (Table 3). PA goals are individualized based on each participant's level of physical fitness. Goals are modified in response to illness, injury, or physical symptoms.
+
+### Table 3. Physical Activity Intervention Schedule
+
+Walking is the primary mode of PA, given its widespread popularity and ease of administration across a broad segment of the older adult population (80,81). Each session is preceded by a brief warm-up (walking at a slow pace) and followed by a brief cooldown period. Three times weekly, participants complete a 10-minute leg-strengthening program with ankle weights (knee extension, knee flexion, squats, side leg raises, and toe raises) after walking exercise followed by a brief lower extremity stretching routine.
+
+Instructional materials are supplied to reinforce the strength training occurring during center-based instruction, so that it can be generalized to the home environment. Balance training is introduced during the adoption phase as a complement to the aerobic and strength training (82). Progressive exercises (levels I–V) that challenge balance by first decreasing arm support, then decreasing base of support, and finally increasing the complexity of the movements are included. In addition, the intervention involves encouraging participants to increase all forms of PA throughout the day. This may include activities such as leisure sports, gardening, use of stairs as opposed to escalators, and leisurely walks with friends.
+
+#### Intensity of training.—
+
+The participants are introduced to the PA intervention in a structured way such that they begin with lighter intensity and gradually increase intensity over the first 2–3 weeks of the intervention. LIFE promotes walking for exercise at a moderate intensity and relies on ratings of perceived exertion as a method to regulate PA intensity. Using the Borg scale (77), which ranges from 6 to 20, participants are asked to walk at an intensity of 13 (activity perception “somewhat hard”). Lower extremity strengthening exercises are performed (2 sets of 10 repetitions) at an intensity of 15–16 using Borg's scale for the strength-training component.
+
+#### Contact mode and frequency.—
+
+The PA intervention includes a weekly walking goal of 150 minutes, consistent with the 2008 Physical Activity Guidelines for Americans report (83). This goal is approached progressively across the first 3 months.
+
+#### SA intervention.—
+
+The SA intervention provides age-specific health information about SA. SA consists of workshops on topics relevant to older adults (eg, how to effectively negotiate the health care system, how to travel safely, recommended preventive services and screenings at different ages, where to go for reliable health information, nutrition, etc.). An informational brochure on PA is presented to all participants during the first SA intervention session. However, during the subsequent SA session, topics related to PA are purposely avoided. The program includes a 5- to 10-minute instructor-led program of upper extremity stretching or flexibility exercises. The SA meets weekly for the first 26 weeks of the intervention. From week 27 on, SA is offered two times per month with required participation at least once per month.
+
+### Statistical Considerations
+
+The primary study outcome of the LIFE Study will be tested based on an intent- to-treat approach using a two-tailed 0.05 significance level. To compare intervention arms with respect to the distribution of times until the first postrandomization occurrence of measured inability to complete a 400-m walk in 15 minutes, the researchers will use a likelihood ratio test from a stratified Cox model using field center and gender as strata. Failure time will be measured from the time of randomization, and for those that do not fail the 400-m walk, follow-up will be censored at the time of the last 400-m walk assessment. Based on the results of LIFE-P and the Health Aging and Body Composition study follow-up data, the researchers projected an initial annual incidence rate of 18% that increases, on average, to 21% after 2 years of follow-up (7,50). The researchers will assume that loss to follow-up accumulates at 8% per year throughout LIFE and this is factored into all projections of power. Under these assumptions, the LIFE Study is projected to have >80% power to detect relative effect sizes >21% and >90% power to detect relative effect sizes >24% assuming uniform recruitment of 1,600 participants for a period of 21 months. To provide perspective for these effect sizes, based on the preliminary data collected for a period of 1 year of follow-up in LIFE-P, a 29% (hazard ratio = 0.71; 95% CI 0.44–1.20) relative reduction in mobility disability was observed in the PA group.
+
+All secondary outcomes will be analyzed using an intent-to-treat approach. Comparisons between intervention groups will be performed using a two-tailed 0.05 significance level. Analysis of covariance, with adjustment for field center, gender, and the baseline value of the outcome, will be used to assess the relative effect of randomization assignment on cognitive function measures (ie, Digit Symbol Substitution test and Hopkins Verbal Learning test ). Survival analysis (stratified Cox model using gender as a stratifying factor) will be used to compare the intervention groups with respect to the distribution of time until the first postrandomization occurrence of a serious fall injury. Due to the expected small number of injurious falls, the researchers have chosen not to use clinical center as a stratification factor in this analysis. A comparison of intervention groups with respect to the distribution of time until the first postrandomization occurrence of major mobility disability or death will use a stratified Cox model identical to that used for the primary outcome. The effect of the intervention on persistent major mobility disability, defined as having major mobility disability at two consecutive assessments, will be analyzed using transitional models for categorical endpoints. The researchers will use generalized estimating equations to assess the relative effect of randomization to the intervention on the proportion of 400-m walk failures over time. Activities of daily living endpoints will be analyzed using mixed-effects models with variables in the model representing field centers, gender, a follow-up time effect, the baseline outcome, and the intervention effect.
+
+Cost-effectiveness analyses will follow the guidelines of the Panel of Cost- Effectiveness in Health and Medicine. The ratio of direct costs of the PA intervention to the amount of quality-adjusted life years produced will be calculated. Health care costs will be estimated, and differences between intervention groups will be calculated to examine whether any cost offset may occur. Decision modeling will be used to estimate long-term cost-effectiveness beyond the 1-year time horizon for which data collection is planned. Future health care costs will be discounted at a rate of 3% for any calculations or projections beyond the first year of follow-up.
+
+#### Participant safety.—
+
+Participant safety is a priority, and multiple strategies are employed to minimize adverse events associated with participation in the study. The screening process ensures that participants are safe to participate in the planned intervention and assessments. Adverse events are closely tracked with particular emphasis on events that could be associated with participation in the study. A Data Safety Monitoring Board regularly reviews all adverse events.
+
+### Study Management
+
+#### Field centers.—
+
+Each LIFE field center recruits and enrolls participants, administers the interventions, ensures retention and adherence of participants, performs all assessments, and enters data into the web-based data entry system. Centralized study training and staff certification was completed in January 2010, and all field centers participate in biannual site visits.
+
+#### Steering Committee.—
+
+The Steering Committee provides study oversight and includes the study coprincipal investigators; field center, coordinating center, and analysis center principal investigators; selected additional investigators from these centers; and the National Institutes of Health Project Staff. The Steering Committee develops the manuals of operations and procedures, supervises the execution of the trial, generates and approves study policies, and plans and drafts study-related publications. The Steering Committee has charged the following subcommittees with specific aspects of the trial: the Measurement and Event Adjudication Committee; the Interventions and Operations Committee; the Recruitment, Adherence, and Retention Committee; the Medical Safety Committee; the Emerging Science Committee; and the Publications and Presentations Committee. All major scientific decisions are advised by the relevant subcommittees and ratified by majority vote of the Steering Committee.
+
+#### Administrative Coordinating Center.—
+
+All administrative and coordination functions are conducted by the Administrative Coordinating Center at the University of Florida.
+
+#### Data Management, Analysis and Quality Control Center.—
+
+The data are managed and analyzed by the DMAQC. The DMAQC is responsible for the development of internet-based computerized data entry screens. A web browser application is used to manage screening, randomization, and follow-up visits. Analyses and development of data monitoring reports are performed centrally by DMAQC statisticians. Only members of the DMAQC, Data Safety Monitoring Board, and National Institutes of Health program office have access to unmasked reports.
+
+#### Cognition Coordinating Center.—
+
+Training, quality control, and adjudication of cognitive classification are managed by the Kulynych Center for Memory and Cognition Research, which is housed at Wake Forest University School of Medicine. The Cognition Coordinating Center staff work closely with the Administrative Coordinating Center and DMAQC to implement all cognition-related aspects of the trial.
+
+#### Data Safety Monitoring Board.—
+
+A Data Safety Monitoring Board has been appointed by the National Institute on Aging.
+
+## DISCUSSION
+
+The LIFE Study will compare the effects of its two lifestyle interventions on the development of major mobility disability in sedentary older adults who have functional limitations at baseline. When completed, the LIFE Study will be the largest and the longest lifestyle intervention trial focused on older adults. Both interventions are fairly simple to implement, require minimal equipment, and can be delivered within community settings. Results of the LIFE Study are likely to have significant public health implications.
+
+The benefits of PA in older populations have been demonstrated primarily in the context of changes in intermediate measures of physiologic impairments, such as strength and balance, or functional limitations, such as gait speed and stair-climbing performance. No prior clinical trials have demonstrated definitively that any lifestyle intervention prevents the onset of major mobility disability in older persons who are nondisabled. The Centers for Disease Control recently highlighted the importance of expanding research on the benefits of PA to include a broader range of disability and quality-of- life measures (84). In addition, the Physical Activity Guidelines for Americans Committee report concluded “future research needs to focus on large- scale well-designed trials to ascertain whether PA programs can prevent disability and role limitations as people advance into old age” (83).
+
+Several large randomized controlled trials have demonstrated the problems of relying exclusively on observational data and intermediate or surrogate outcomes. These studies include the pharmacological treatment of arrhythmias (85), hypertension (86), and postmenopausal hormone therapy (87,88). These studies suggest that observational data and trials using surrogate outcomes may be misleading with regard to prevention of major clinical events. The LIFE Study will fill a critical knowledge gap on the ability of a lifestyle intervention to delay or prevent disability in older adults.
+
+### Selection of the Primary Outcome
+
+Continuous measures of function are sensitive indicators of the physiologic effects of interventions. These have been useful for guiding the refinement of exercise interventions. However, to move the field forward and create a clear message for public health and clinical practice, the LIFE Study is using an objectively measured outcome that identifies the ability to perform a critical task of daily living and has good measurement characteristics (53). Major mobility disability defined as the inability to walk 400 m without assistance fits this description and encompasses important aspects of independent living.
+
+Preserving the ability to walk 400 m, a proxy for community ambulation, is central to maintaining a high quality of life, including the ability to carry out many activities that are needed to be fully independent. In addition, mobility loss predicts adverse outcomes including morbidity, institutionalization, and mortality (7,89–94).
+
+### Dose of PA
+
+Based on LIFE-P, the researchers have made several enhancements to the PA intervention to improve the efficacy of the program and foster adherence over the planned intervention period. In LIFE-P, the researchers observed that most participants had difficulty transitioning through the varied frequency of the center-based intervention attendance. In particular, the reduction in group session attendance from three times per week in the adoption phase to two times per week in the transition phase and then to one time per week (optional) in the maintenance phase was not well received by the participants. Therefore, the intervention sessions are held two times per week throughout the length of the trial, with the center-based sessions combined, from the beginning of the intervention, with participation in individualized home-based PA that progresses up to 3–4 d/wk by the end of the adoption phase. This modification will likely further enhance adherence to the intervention across the longer trial duration of the LIFE Study and minimize participant confusion. Data from both PA and weight control trials support the concept that more frequent contact promotes sustained adherence (95–97). It additionally provides a means for safely and effectively restarting those participants encountering health or related difficulties that temporarily prevent them from participating in regular PA.
+
+Maintaining adherence represents a major challenge in long-term PA trials involving older adults due to illness, caregiving, environmental barriers, etc. (98,99). LIFE-P had a 65% PA attendance rate at 6 months follow-up (52). Many randomized trials of activity in older adults lasting several months to >1 year have achieved adherence rates in this same range (50%–60%), including several intervention studies that enrolled participants for 18 months up to 3 years (38,100,101). These previous studies have observed declining adherence rates that appear to stabilize between 12 and 18 months of the intervention. For example, the Diabetes Prevention Program trial reported a decline in participants’ achievement of their proposed PA goal (150 min/wk) from 74% at 24 weeks to 58% at their most recent study visit (102). Despite these less- than-optimal and declining adherence rates, these studies all demonstrated significant benefits of PA on functional outcomes and health. Recently, an age-stratified analysis of the results of the Diabetes Prevention Program revealed that adherence to the PA component of the intensive lifestyle intervention (≥150 min/wk of PA) was achieved in 48% of participants 60–85 years compared with 38% and 34% in 45- to 59-year-olds and 25- to 44-year- olds, respectively, over the approximate 3-year follow-up (103). More importantly, the observed level of adherence to the intensive lifestyle intervention in the older cohort resulted in a significant decrease in the development of type II diabetes mellitus in this group. Adherence rates to pharmacological interventions have, in general, been of a similar magnitude as those the researchers expect for PA in the LIFE Study (104–106).
+
+In conclusion, definitive evidence from Phase 3 randomized controlled trials of whether a sustained program of lifestyle intervention can prevent or delay the development of late-life disability is lacking. The LIFE Study is a Phase 3 randomized controlled trial designed to compare the efficacy of a structured PA program with a SA health education program and is expected to influence health care policy on the successful prevention and treatment of disability among older adults in the future. An especially novel feature of the LIFE Study is its inclusion of a robust set of cognitive function measures to assess the impact of the intervention on this important secondary outcome. If PA is shown to prevent mobility disability, research and training activities aimed at the translation, including community-based dissemination, and integration of this type of behavioral intervention into medical care of older persons would be of particular importance.
+
+## FUNDING
+
+The Lifestyle Interventions and Independence for Elders Study is funded by a National Institutes of Health (NIH)/National Institute on Aging Cooperative Agreement
+
+(UO1 AG22376) and a supplement from the National Heart, Lung and Blood Institute (3U01AG022376-05A2S), and sponsored in part by the Intramural Research Program, National Institute on Aging, NIH.
+
+Dr. Fielding's contribution is partially supported by the U.S. Department of Agriculture (58-1950-7-707). Any opinions, findings, conclusion, or recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the view of the U.S. Dept of Agriculture. The Tufts Field Center is also partially supported by the Boston Claude D. Pepper Older Americans Independence Center (P30AG031679). The Administrative Coordinating Center and University of Florida Field Center are partially supported by the University of Florida Claude D. Pepper Older Americans Independence Center (P30 AG028740). The Pittsburgh Field Center is partially supported by the Pittsburgh Claude D. Pepper Older Americans Independence Center (P30 AG024827). The Wake Forest University Field Center is partially supported by the Claude D. Pepper Older Americans Independence Center (P30 AG21332). Dr. Gill is the recipient of a Midcareer Investigator Award in Patient-Oriented Research (K24 AG021507) from the National Institute on Aging. The Yale Field Center is partially supported by the Claude D. Pepper Older Americans Independence Center (P30AG021342).
+
+Dr. Fragoso is the recipient of a Career Development Award from the Department of Veterans Affairs.
+
+## Acknowledgments
+
+Clinicaltrials.gov identifier  NCT01072500. Research investigators for the LIFE Study group are listed in the Appendix.
+
+## Appendix I. Research Investigators for the LIFE Study.
+
+Northwestern University, Chicago, IL—Mary M. McDermott, MD, field center principal investigator; Bonnie Spring, PhD, field center coprincipal investigator; Joshua Hauser, MD; Martha Gulati, MD; Sanjiv Shah, MD; Kathryn Domanchuk; Rex Graff; Kasia Kadela; Alvito Rego.
+
+Pennington Biomedical Research Center, LA—Timothy Church, MD, PhD, MPH, field center principal investigator; Steven Blair, PED (University of South Carolina); Valerie Myers, PhD; Ron Monce, PA-C; Nathan Britt, NP; Melissa Nauta, BS; Ami Parks, MPA, BS; Ruben Rodarte, MBA, MS, BS; Heidi Millet, BS; Catrine Tudor-Locke, PhD, FACSM; Ben Butitta, BS; Sheletta Donatto, MS, RD, LDN, CDE.
+
+National Heart, Lung and Blood Institute—Denise Bonds, PhD.
+
+National Institute on Aging—Evan C. Hadley, MD; Kushang V. Patel, PhD; Sergei Romashkan, MD, PhD.
+
+Office of Behavioral and Social Sciences Research, National Institutes of Health—Robert M. Kaplan, PhD.
+
+Stanford University, Palo Alto, CA—Abby C. King, PhD, field center principal investigator; Cynthia M. Castro, PhD; William L. Haskell, PhD; Randall S. Stafford, MD, PhD; Veronica Yank, MD; Leslie A. Pruitt, PhD; Kathy Berra, MSN, NP-C, FAAN; Carol Bell, NP; Rosita Thiessen; Kate P. Youngman, MA; Selene B. Virgen, BAS; Kristina N. Tarin, MS, CSCS; Heather Klaftenegger; Carolyn A. Prosak, RD; Ines Campero, BA; Dulce M. Garcia; José Soto, BA; Linda Chio; David Hoskins, MS.
+
+Tufts University—Roger Fielding, PhD, field center principal investigator; Miriam Nelson, PhD; Sara Folta, PhD; Edward Phillips, MD; Christine Liu, MD; Erica Cifarelli, MS; Kieran Reid, MSc, MPH; Paige Lacasse, BS; Dylan Kirn, BS; Evan Pasha, BS; Sonnly Ribourg, BS; Karen Ruais, NP; Won Kim, BS; Gregory Cloutier, BS. Dr. Fielding's contribution is under agreement No. 58-1950-7-707. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the view of the U.S. Department of Agriculture. This research is also supported by the Boston Claude D. Pepper Older Americans Independence Center (1P30AG031679).
+
+University of Florida, Gainesville, FL—Susan Nayfield, MD, MSc, field center principal investigator; Marco Pahor, MD, field center coprincipal investigator; Stephen Anton, PhD; Thomas Buford, PhD; Todd Manini, PhD; Joe Nocera, PhD; Michael Marsiske, PhD; Bhanu Sandesara, MD; Jocelyn Lee, PhD; Deborah Hiatt-Jensen, ARNP, MPH; Mieniecia Black, MS; Kimberly Case, PhD; Katherine Herring, BS; Amber Schwier-Delvisco, BS; Bill Burk; Brian Hoover, BS; Jeffrey Knaggs, BS; Allison Martin, MS, RCEP.
+
+Brooks Center for Rehabilitation Studies (Satellite Site)—Chonglun Xie, MD; Holly Morris, RN; Flo Singletary, MS, CCC-SLP; Jackie Causer; Susan Yonce, RN; Christine Del Boccio; Charles Gay, D.C.; Tangerica Peavy Alexander.
+
+Administrative Coordinating Center—Marco Pahor, MD, principal investigator of the LIFE Study; Stephen Anton, PhD; Thomas Buford, PhD; Christiaan Leeuwenburgh, PhD; Susan Nayfield, MD, MSc; Todd Manini, PhD; Connie Caudle; Lauren Crump, MPH; Latonia Holmes; Jocelyn Lee, PhD; Ronald Lester, PhD, MBA; Ching-ju Lu, MPH; Ryan O’Mara. The Administrative Coordinating Center and Field Center are partially supported by the University of Florida Claude D. Pepper Older Americans Independence Center (1 P30 AG028740).
+
+Electrocardiogram Reading Center—Carl J. Pepine MD, MACC; Mario Ariet, PhD; Eileen Handberg, PhD, ARNP; Daniel Deluca, BS; James Hill, MD, MS, FACC.
+
+University of Maryland School of Medicine, Baltimore, MD—Jack M. Guralnik, MD, PhD, coprincipal investigator of the LIFE Study.
+
+University of Pittsburgh, Pittsburgh, PA—Anne B. Newman, MD, MPH, field center principal investigator;Stephanie A. Studenski, MD, MPH, field center coprincipal investigator; Bret H. Goodpaster, PhD; Oscar Lopez, MD; Nancy W. Glynn, PhD; Janet T. Bonk, MPH, RN; Jennifer Rush, MPH; Piera Kost, BA; Allison Gerger, BS; Pamela Vincent, CMA; LaTisha Davis, BS; Mark A. Newman, PhD; George Grove, MS; Kathy Williams, RN, BSEd, MHSA. The Pittsburgh Field Center is partially supported by the Pittsburgh Claude D. Pepper Older Americans Independence Center (P30 AG024827).
+
+VA San Diego Healthcare System and University of California, San Diego, CA—Erik J. Groessl, PhD.
+
+Wake Forest University, Winston-Salem, NC—Stephen B. Kritchevsky, PhD, field center principal investigator; Anthony Marsh, PhD, field center coprincipal investigator; Tina Brinkley, PhD; Jamehl Demons, MD; Kaycee Sink, MD, MAS; Kimberly Kennedy, BA, CCRC; Rachel Shertzer-Skinner, MA, CCRC; Abbie Wrights, MS; Rose Fries, RN, CCRC; Deborah Barr, MA, RHEd, CHES. The Wake Forest University Field Center is, in part, supported by the Claude D. Pepper Older Americans Independence Center (1 P30 AG21332).
+
+Cognition Reading Center—Jeff Williamson, MD, MHS, center principal investigator; Kaycee M Sink, MD, MAS, center coprincipal investigator; Hugh C. Hendrie, MB, ChB, DSc (Indiana University); Stephen R. Rapp, PhD; Joe Verghese, MB, BS (Albert Einstein College of Medicine of Yeshiva University); Nancy Woolard.
+
+Data Management, Analysis and Quality Control Center (DMAQC)—Michael E. Miller, PhD, DMAQC principal investigator; Mark Espeland, PhD, DMAQC coprincipal investigator;Walter Ambrosius, PhD; Don Babcock, BSEE, PE; Daniel Beavers, PhD, MS; Robert P. Byington, PhD, MPH, FAHA; Delilah Cook; Curt Furberg, MD, PhD; Candace Goode; Jason Griffin, BS; Lea Harvin, BS; Leora Henkin, MPH, Med; John Hepler, BFA; Fang-Chi Hsu, PhD; Kathy Joyce; Laura Lovato, MS; Wesley Roberson, BSBA; Julia Robertson, BS; Julia Rushing, BSPH, MStat; Scott Rushing, BS; Cynthia L. Stowe, MPM; Michael P. Walkup, MS; Don Hire, BS; Jack Rejeski, PhD; Jeff Katula, PhD, MA; Peter H. Brubaker, PhD; Shannon Mihalko, PhD; Janine M. Jennings, PhD; Kathy Lane, BA.
+
+Yale University—Thomas M. Gill, MD, field center principal investigator; Robert S. Axtell, PhD, FACSM, field center coprincipal investigator (Southern Connecticut State University, Exercise Science Department); Susan S. Kashaf, MD (VA Connecticut Healthcare System); Nathalie de Renekeire, MD; Joanne M. McGloin, MDiv, MS, MBA; Raeleen Mautner, PhD; Sharon M. Huie-White, MPH; Luann Bianco, BA; Janice Zocher; Denise M. Shepard, RN, MBA; Barbara Fennelly, MA, RN; Sean Halpin, MA; Theresa Barnett, MS, APRN; Karen C. Wu, RN; Lynne P. Iannone, MS; Julie A. Bugaj, MS; Christine Bailey, MA. Dr. Gill is the recipient of a Midcareer Investigator Award in Patient-Oriented Research (K24 AG021507) from the National Institute on Aging. The Yale University Field Center is partially supported by the Claude D. Pepper Older Americans Independence Center (P30AG021342).
+
+Spirometry Reading Center—Carlos A. Vaz Fragoso, MD; Geoffrey Chupp, MD; Gail Flynn, RCP, CRFT; Thomas M. Gill, MD; John Hankinson, PhD (Hankinson Consulting, Inc.). Dr. Fragoso is the recipient of a Career Development Award from the Department of Veterans Affairs.
+
+The Lifestyle Interventions and Independence for Elders Study is funded by a National Institutes on Health/National Institute on Aging Cooperative Agreement No. UO1 AG22376 and a supplement from the National Heart, Lung and Blood Institute 3U01AG022376-05A2S and sponsored in part by the Intramural Research Program, National Institute on Aging, NIH.
+

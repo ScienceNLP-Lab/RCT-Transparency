@@ -1,0 +1,194 @@
+Treatment Effects of Interleukin-6 Receptor Antibodies for Modulating the Systemic Inflammatory Response After Out-of-Hospital Cardiac Arrest (The IMICA Trial)
+
+## Background:
+
+Patients experiencing out-of-hospital cardiac arrest who remain comatose after initial resuscitation are at high risk of morbidity and mortality attributable to the ensuing post–cardiac arrest syndrome. Systemic inflammation constitutes a major component of post–cardiac arrest syndrome, and IL-6 (interleukin-6) levels are associated with post–cardiac arrest syndrome severity. The IL-6 receptor antagonist tocilizumab could potentially dampen inflammation in post–cardiac arrest syndrome. The objective of the present trial was to determine the efficacy of tocilizumab to reduce systemic inflammation after out-of-hospital cardiac arrest of a presumed cardiac cause and thereby potentially mitigate organ injury.
+
+### Methods:
+
+Eighty comatose patients with out-of-hospital cardiac arrest were randomly assigned 1:1 in a double-blinded placebo-controlled trial to a single infusion of tocilizumab or placebo in addition to standard of care including targeted temperature management. Blood samples were sequentially drawn during the initial 72 hours. The primary end point was the reduction in C-reactive protein response from baseline until 72 hours in patients treated with tocilizumab evaluated by mixed-model analysis for a treatment-by-time interaction. Secondary end points (main) were the marker of inflammation: leukocytes; the markers of myocardial injury: creatine kinase myocardial band, troponin T, and N-terminal pro B-type natriuretic peptide; and the marker of brain injury: neuron-specific enolase. These secondary end points were analyzed by mixed-model analysis.
+
+### Results:
+
+The primary end point of reducing the C-reactive protein response by tocilizumab was achieved since there was a significant treatment-by-time interaction, P<0.0001, and a profound effect on C-reactive protein levels. Systemic inflammation was reduced by treatment with tocilizumab because both C-reactive protein and leukocyte levels were markedly reduced, tocilizumab versus placebo at 24 hours: –84% [–90%; –76%] and –34% [–46%; –19%], respectively, both P<0.001. Myocardial injury was also reduced, documented by reductions in creatine kinase myocardial band and troponin T; tocilizumab versus placebo at 12 hours: –36% [–54%; –11%] and –38% [–53%; –19%], respectively, both P<0.01. N-terminal pro B-type natriuretic peptide was similarly reduced by active treatment; tocilizumab versus placebo at 48 hours: –65% [–80%; –41%], P<0.001. There were no differences in survival or neurological outcome.
+
+### Conclusions:
+
+Treatment with tocilizumab resulted in a significant reduction in systemic inflammation and myocardial injury in comatose patients resuscitated from out- of-hospital cardiac arrest.
+
+### Registration:
+
+URL: https://www.clinicaltrials.gov; Unique identifier:  NCT03863015.
+
+Keywords: C-reactive protein, heart arrest, inflammation, intensive care units, myocardial infarction
+
+##
+
+### Clinical Perspective
+
+### What Is New?
+
+  * Systemic inflammation is a major component of the post–cardiac arrest syndrome that develops after resuscitation from cardiac arrest, and IL-6 (interleukin 6) is associated with severity of post–cardiac arrest syndrome and mortality.
+
+  * In the present phase II trial, we investigated whether blocking the IL-6 signaling pathway with tocilizumab, an IL-6 receptor antibody, could lessen systemic inflammation and possibly mitigate organ injury in patients resuscitated from out-of-hospital cardiac arrest.
+
+  * Tocilizumab greatly diminished the levels of C-reactive protein, an unspecific marker of inflammation, during the initial days after resuscitation, and it is important to note that this was accompanied by reductions in troponin T, creatine kinase myocardial band, and N-terminal pro B-type natriuretic peptide.
+
+### What Are the Clinical Implications?
+
+  * This trial demonstrates the feasibility of reducing systemic inflammation after cardiac arrest and shows an apparent cardioprotective effect as seen by reduced levels of biomarkers of myocardial injury and stress in patients treated with tocilizumab.
+
+  * Further studies are needed to determine whether these findings translate into clinical benefits for the patients.
+
+Patients resuscitated from out-of-hospital cardiac arrest (OHCA) who remain comatose at hospital admission are at high risk of morbidity and mortality, and the overall 30-day mortality remains at ≈50%.1 This has been attributed to the post–cardiac arrest syndrome (PCAS), which includes the 4 interacting components: systemic ischemia/reperfusion response, cerebral injury, myocardial dysfunction, and the persistent precipitating cause of the arrest.2 Despite emphasis on postresuscitation care by current guidelines,3,4 no specific therapies for mitigating PCAS have been implemented except for targeted temperature management.5 Consequently, research addressing specific components of PCAS is warranted. During cardiac arrest, patients are exposed to whole-body ischemia, which, after return of spontaneous circulation, is followed by reperfusion injury. Both ischemia and reperfusion injury trigger activation of inflammatory cascades leading to a systemic inflammatory response or sepsislike syndrome.6–9 High levels of inflammatory markers,9–11 including CRP (C-reactive protein)9 and IL-6 (interleukin-6),9 have been associated with an unfavorable outcome after OHCA, with IL-6 being associated with the severity of PCAS assessed by sequential organ failure assessment (SOFA) score in unconscious patients with OHCA.8 Levels of IL-6 have been shown to be independently associated with poor outcomes in unconscious patients with OHCA even after the adjustment for known risk markers.9
+
+IL-6 is a pleiotropic cytokine secreted by a variety of cells, including innate immune and endothelial cells, and the effects of IL-6 are abundant.12,13 IL-6 mediates fever and the acute phase response, increases vascular permeability, contributes to activation of the coagulation system, and can cause myocardial dysfunction.14 IL-6 is also involved in a range of pathological processes including tissue hypoxia, disseminated intravascular coagulation, and multiorgan failure,14 all of which represent parts of the systemic inflammatory response syndrome. As for the ischemia-reperfusion injury in myocardial infarction, IL-6 has been associated with the magnitude of myocardial injury, mortality, and adverse events.15–17
+
+Because of the effect of IL-6 in many inflammatory diseases, pharmacological therapy to limit the function of IL-6 has been developed, including both IL-6 receptor antibodies (IL-6RA) and antibodies directed against IL-6 itself.18 Tocilizumab is an IL-6RA approved for the treatment of various rheumatic diseases and chimeric antigen receptor T cell–induced cytokine release syndrome.14,18 In addition, tocilizumab has been suggested to have beneficial effects against some autoimmune neurological disorders.19–22 Furthermore, in patients presenting with non–ST-segment–elevation myocardial infarction, a 1-hour infusion of 280 mg tocilizumab decreased the inflammatory response assessed by CRP levels, and further decreased myocardial injury assessed by troponin-T (TnT) levels23; it is important to note that no increased risk of adverse events was observed in patients receiving tocilizumab. Results are also awaited from a randomized clinical trial investigating the effects of tocilizumab on myocardial salvage after ST-segment–elevation myocardial infarction.24
+
+In the IMICA trial (IL-6 Inhibition for Modulating Inflammation After Cardiac Arrest), we therefore studied whether a single 1-hour infusion of the IL-6RA tocilizumab initiated as soon as possible after hospital admission will reduce the systemic inflammatory response syndrome–like response assessed by high- sensitivity CRP (hsCRP) and leukocyte levels in unconscious patients with OHCA and thereby mitigate organ injury.
+
+## Methods
+
+### Trial Design
+
+The trial was an investigator-initiated, randomized, placebo-controlled, double-blinded, single-center, clinical phase II trial. After the successful completion of screening procedures, patients were randomly assigned in a 1:1 fashion to receive IL-6RA or placebo after hospital admission. Before initiation, the trial was registered at https://www.clinicaltrials.gov; Unique identifier:  NCT03863015. A comprehensive study protocol with in-depth description of trial rationale, design, safety, and statistical analyses plan has previously been published.25 The full protocol and statistical code will be available on reasonable request. Participant-level data will similarly be made available on reasonable request after full publication and approvals from relevant authorities.
+
+### Patients and Randomization Procedure
+
+Admitted patients with OHCA were screened for trial eligibility by the on-call physician and a dedicated team of research personnel, all medical doctors. Inclusion criteria (all required) were the following: OHCA of a presumed cardiac cause, age ≥18 years, unconsciousness (Glasgow Comma Scale<9), and sustained return of spontaneous circulation for >20 minutes. Exclusion criteria (all prohibitive) were the following: >240 minutes from return of spontaneous circulation until randomization, unwitnessed asystole, suspected or confirmed intracranial bleeding or stroke, pregnancy, temperature on admission <30 °C, persistent cardiogenic shock (defined as systolic blood pressure <90 mm Hg despite relevant interventions) that was not reversed within the inclusion window, any known disease making 180-day survival unlikely, known limitations in therapy, known prearrest Cerebral Performance Category of 3 to 4, known allergies to IL-6RA, known infections, and known hepatic cirrhosis.
+
+Random assignments of eligible patients were performed using a web-based secure electronic Case Report System (Zenodotus eCRF). Blinding to the allocation sequence was upheld for all treating physicians and study coordinators throughout the trial.
+
+### Intervention and Concomitant Care
+
+Patients were randomly assigned 1:1 to receive tocilizumab or placebo. Patients being allocated to IL-6RA received a 1-hour infusion of 8 mg of tocilizumab (RoActemra) per kg body weight (maximum dose 800 mg, ie, 40 mL of concentrate), the study drug was suspended in isotonic saline to a total volume of 100 mL. Patients being allocated to placebo received a 1-hour infusion of 100 mL of isotonic saline. The infusion of either IL-6RA or placebo was commenced in a blinded fashion at the earliest possible time after randomization.
+
+During the study period, patients received standard of care, including sedation with either propofol or midazolam (in case of profound hemodynamic instability) and fentanyl, at least until the completion of targeted temperature management of 36 °C for 24 hours, vasopressors and inotropes as needed, prophylactic antibiotics (intravenous piperacillin/tazobactam or, in the case of β-lactam allergy, cefuroxime) and any additional treatment at the discretion of the treating physician.
+
+### Trial End Points
+
+#### Primary Objective
+
+The primary objective of the trial was to determine the efficacy of tocilizumab compared with placebo on reducing the CRP response in comatose patients resuscitated from OHCA as determined by the end point of daily hsCRP measurements from admission and until 72 hours. We would consider tocilizumab to have an effect on the CRP response, if there was a significant treatment- by-time interaction by mixed-model analysis (power calculation was based on a 30% reduction in CRP for the active group versus placebo; see Statistics). CRP was chosen as the primary end point because CRP levels were considered to reflect the biological effects of circulating IL-6, because IL-6 regulates CRP production.14 Accordingly, in this phase II trial, we rationalized that if CRP production was significantly reduced by treatment with tocilizumab, then the chosen dosage would also be sufficient in comatose patients resuscitated from OHCA to potentially allow for other IL-6–mediated effects to be present.
+
+#### Secondary Objective
+
+The secondary objective of the trial was to determine the effects of tocilizumab on the dampening of inflammation, cardioprotection, neuroprotection, clinical end points including intensive care unit (ICU) length of stay, SOFA score (total and cardiovascular score26 on calendar days 1–3), hemodynamic data in the form of cardiac output and pulmonary capillary wedge pressure from right heart catheter, survival and neurological outcome characterized by cerebral performance category and modified Rankin scale at 30, 90, and 180 days (reported as n [%] with a cerebral performance category ≥3 and modified Rankin scale ≥4),27 and safety, as well. The biomarkers measured were inflammation: hsCRP and leukocytes; cardioprotection: TnT, creatine kinase myocardial band (CKMB) representing myocardial infarction/injury, and N-terminal pro B-type natriuretic peptide (NT-proBNP) representing myocardial stress; and neuroprotection: neuron-specific enolase (NSE).
+
+#### Biomarker Measurement Techniques and Assays
+
+hsCRP, leukocytes, TnT, CKMB, creatinine kinase, NT-proBNP, creatinine, and NSE were measured as routine biochemistry in a DS/EN ISO 15189 standardized laboratory by a COBAS 8000 (hsCRP, TnT, CKMB, creatinine kinase, NT-proBNP, creatinine, and NSE), and Sysmex XN (leukocytes); IL-6 was measured on EDTA samples from biobank that had not been thawed previously, using a BioRad 17-plex human cytokine assay. Biobank samples were spun at 20g for 10 minutes and plasma was then aliquoted and stored at –80 °C.
+
+### Approvals and Monitoring
+
+Before study initiation, the trial protocol, written information, and consent forms were approved by the regional ethics committee of The Capital Region of Denmark (Approval No. H-18037286), and the Danish Medicines Agency (Approval No. 2018-002686-19). A data handling agreement was approved by the legal department of Rigshospitalet (Approval No. VD-2019-26). Because patients were unconscious at the time of screening, a legal surrogate was consulted for informed consent before inclusion in the trial according to national legislation. Patients’ next of kin were informed and asked for consent at the earliest opportunity, as were those patients who survived. A second legal surrogate was also consulted for all patients in the follow-up period.
+
+The study was conducted in adherence to national and international standards of good clinical practice and was externally monitored by the national good clinical practice unit at the Copenhagen Good Clinical Practice center.
+
+### Safety
+
+Patients were followed for 180 days after randomization for the occurrence of adverse events (AEs). The following categories of AE were registered: bleeding, infection, renal impairment (a patient requiring continuous renal replacement therapy or intermittent hemodialysis), electrolytes (hypo- or hyperkalemia), metabolic disorders (hypo- or hyperglycemia), arrhythmia, seizures, and other (including readmissions, death attributable to withdrawal of life-sustaining therapy, and other AEs not covered by specific categories). An AE that resulted in death was life-threatening, required prolonged hospitalization, or resulted in significant disability was classified as a serious adverse event (SAE). All SAEs were evaluated by the sponsor- investigator, including for the possibility of suspected unexpected serious adverse reactions in accordance with national legislation.
+
+### Statistics
+
+The power calculation for the trial was based on a reduction in the primary end point, hsCRP of 30%, that is, 30% lower CRP levels in the active group versus placebo in the period after baseline/tocilizumab infusion.25 Tocilizumab has previously been shown to reduce hsCRP in patients with non–ST- segment–elevation myocardial infarction with a median area under the hsCRP curve reduction of 52%.23 However, because the systemic inflammatory response in a non–ST-segment–elevation myocardial infarction population is limited compared with an OHCA population,8,23 the assumption was made for a somewhat lesser reduction by tocilizumab in the present trial. A power of 0.81 would be achieved, assuming an α-level of 0.05, if 64 patients were included and data were available for all planned time points. Therefore, to account for mortality within the first 3 days, and blood samples missing, we decided to include 80 patients.
+
+Reported results are based on the modified intention-to-treat population defined as all randomly assigned patients who received the intervention and for whom the next of kin did not refuse consent to the trial intervention and procedures. Statistical analyses were performed using SAS Enterprise Guide 7.1 (SAS-Institute Inc), and IBM SPSS Statistics 25 (IBM). Markers of inflammation and cardioprotection were log2-transformed and analyzed by baseline corrected repeated measurement mixed models (SAS, PROC MIXED). These values are reported as predicted geometric means and confidence limits after antilog and as relative differences in percent for select group comparisons at specific time points on the basis of the results provided by “lsmeans” in PROC MIXED; observed values for these variables are presented in Figures I–V in the Data Supplement). By default, PROC MIXED estimates missing values based on maximum likelihood inference. For the primary end point (CRP), a prespecified limit of >5% missingness was set for when to perform multiple imputations. The remainder of continuous variables were analyzed by Mann-Whitney U test and reported as median (interquartile range). Categorical variables were analyzed with Fisher exact tests and reported as n (%); for mortality, we applied log- rank test and Kaplan-Meier estimator. A P value of <0.05 was considered statistically significant.
+
+## Results
+
+### Recruitment and Patient Characteristics
+
+Between March 4 and December 20, 2019, we screened 117 consecutive patients admitted to the Department of Cardiology, Rigshospitalet after OHCA. Of these, 85 were randomly assigned, and ultimately 80 patients were included in the modified intention-to-treat population (see Figure 1 for consort diagram). There was a balanced randomization with 39 patients randomly assigned to treatment with tocilizumab and 41 assigned to placebo with no major differences in patient baseline characteristics (see Table 1). With respect to the completeness of the data, for the primary end point, data were available for 97.2% of all planned time points (311 available of 320 planned, which also includes projected sampling of patients who died before completion of the sampling period). For the secondary end points, inflammatory and cardiac markers, the completeness was as follows: leukocytes 97%, TnT 95%, CKMB 95%, and NT-proBNP 95%. Because the missingness of data for the primary end point was less than the prespecified limit that would prompt multiple imputations, such were not performed.
+
+### Table 1. Patient Characteristics
+
+
+Figure 1. Consort flow diagram. Adapted from Consort-Statement.org. All analyses were performed on the modified intention-to-treat population as depicted in the diagram. IMICA trial indicates IL-6 Inhibition for Modulating Inflammation After Cardiac Arrest; and incl., including.
+
+### Systemic Inflammation
+
+The primary end point of reducing the CRP response in patients treated with tocilizumab was achieved (Figure 2). In the tocilizumab group, CRP levels were reduced at 24 hours by 84% [90%; 76%] P<0.0001, at 48 hours by 94% [96%; 91%] P<0.0001, and at 72 hours by 96% [97%; 94%] P<0.0001; P<0.0001 for treatment-by-time interaction. Leukocytes were also reduced at 24 hours by 34% [46%; 19%] P = 0.0001, and at 48 hours by 23% [36%; 8%] P=0.004; P=0.0005 for treatment-by-time interaction.
+
+
+Figure 2. Systemic inflammation. A, CRP. B, Leukocytes. Results are presented as means with [95% confidence limit] based on predicted values from linear mixed-model analysis with baseline correction (PROC MIXED, SAS Institute Inc). *P≤0.0001, †P=0.004 for tocilizumab vs placebo at corresponding time points using the interaction term “group*time.” For additional illustrations of observed values please see Figures I and II in the Data Supplement. CRP indicates C-reactive protein.
+
+### Myocardial Infarction/Injury and Myocardial Stress
+
+TnT and CKMB were both significantly reduced at 6 and 12 hours in the tocilizumab group (Figure 3). TnT was reduced at 6 hours by 33% [47%; 14%] P=0.0017, and at 12 hours by 36% [54%; 11%] P=0.0082, P=0.09 for treatment-by-time interaction. CKMB was reduced at 6 hours by 36% [47%; 21%] P<0.0001, and at 12 hours by 38% [53%; 19%] P=0.0006; P=0.0035 for treatment- by-time interaction. Furthermore, there was a trend for lower levels of both TnT and CKMB in the tocilizumab group at 24 hours (P=0.07 and P=0.05, respectively). Last, NT-proBNP was reduced by 65% [–80%; –41%] P=0.0002 in the tocilizumab group at 48 hours (see Figure 4).
+
+
+Figure 3. Myocardial infarction/injury. A, TnT. B. CKMB. Results are presented as means with [95% confidence limit] based on predicted values from linear mixed-model analysis with baseline correction (PROC MIXED, SAS Institute Inc). *P<0.01, †P<0.001 for tocilizumab vs placebo at corresponding time points using the interaction term “group*time.” For additional illustrations of observed values please see Figures III and IV in the Data Supplement. CKMB indicates creatine kinase myocardial band; and TnT, troponin T.
+
+
+Figure 4. Myocardial stress: NT-proBNP. Results are presented as means with [95% confidence limit] based on predicted values from linear mixed-model analysis with baseline correction (PROC MIXED, SAS Institute Inc). Shown P value is for tocilizumab vs placebo at 48 hours using the interaction term “group*time.” For additional illustrations of observed values please see Figure V in the Data Supplement. NT-proBNP indicates N-terminal pro B-type natriuretic peptide.
+
+### Safety
+
+The frequency of patients experiencing at least 1 AE or SAE was equal in the 2 groups (see Table 2), with 90% experiencing an AE and 51% experiencing an SAE in the tocilizumab group, and, in the placebo group, this was 98% and 51%, P=0.20 and P=1, respectively. Specifically, there was no group difference with respect to the frequency of an AE of infection (15% for tocilizumab and 24% for placebo, P=0.41). Nor was there a significant difference in the overall fraction of patients with an AE of infection classified as pneumonia. Last, there was no group difference either in the frequency of patients experiencing any of the prespecified SAE categories.
+
+### Table 2. Clinical Outcomes and Safety
+
+
+### Clinical Outcomes
+
+There were no group differences with respect to ICU length of stay, ventilator days, or SOFA total score on days 1 to 3. However, the SOFA Cardiovascular score was slightly lower in the tocilizumab group on day 3, with no difference on days 1 and 2. Also, there was a trend toward a lesser occurrence of a temperature >38 °C during the initial 72 hours in the tocilizumab group. Cardiac output and pulmonary capillary wedge pressure, which approximates left atrial pressure, did not differ between groups at 0 or 24 hours. The frequency of patients receiving renal replacement therapy (RRT) during ICU stay was 10 in the tocilizumab group and 3 for placebo, P=0.04 (a new-onset indication for RRT during ICU stay was registered as an AE). The mortality for patients receiving RRT in the ICU was 7 of 10 for tocilizumab and 3 of 3 for placebo. One patient in the placebo group was treated with peritoneal dialysis before OHCA. Surviving patients all regained native renal function and were discharged without dialysis from the ICU.
+
+Mortality rates were similar in both groups at 30, 90, and 180 days after OHCA, with all deaths having occurred before 30 days and before discharge in both groups (see Figure 5). Likewise, there was no significant group difference in the frequencies of death or survival with an unfavorable neurological outcome, defined as a cerebral performance category of ≥3 or a modified Rankin scale ≥4, at neither of the investigated time points. The marker of neuronal damage, NSE, did not differ between groups at the measured time points of 48 and 72 hours, P=0.22 and P=0.39, respectively.
+
+
+Figure 5. Kaplan-Meier plot. Survival stratified by treatment arm from randomization until the end of the follow-up period of 180 days. OHCA indicates out-of- hospital cardiac arrest.
+
+## Discussion
+
+The primary objective of the trial, a reduction in the CRP response in comatose patients resuscitated from OHCA by treatment with tocilizumab, was achieved. Furthermore, the tocilizumab group experienced a dampening of systemic inflammation as demonstrated by a reduction in leukocytes, and there was an apparent cardioprotective effect with a reduction in myocardial injury and myocardial stress. Also, in the tocilizumab group there was a slightly lower SOFA Cardiovascular score on day 3, and a trend for fewer patients experiencing a temperature >38 °C. There were no group differences in mortality, the distribution of unfavorable neurological outcomes, or in the predefined safety parameters.
+
+In the present trial, CRP levels were dramatically reduced, and leukocytes approached normal values faster in patients treated with tocilizumab than with placebo. Although reduction in CRP in itself is not considered a therapeutic target, the marked reduction in CRP levels by IL-6 receptor blockage with tocilizumab illustrates that the dosage was of sufficient magnitude to effectively block the IL-6 receptors and limit the synthesis of acute-phase proteins in the liver, including CRP, even after resuscitation from OHCA.14 Before initiating the trial, this was considered a prerequisite for other IL-6–mediated effects to also be sufficiently lessened. Henceforth, the reduction in CRP should rightfully not be considered a reduction in inflammation, although CRP has been suggested to be active in inflammatory processes.28 However, the accompanying reduction in leukocytes suggests that there was an anti-inflammatory effect of IL-6 receptor blockage. This was further illustrated by the trend for a lesser occurrence in the tocilizumab group of a temperature >38 °C after cessation of targeted temperature management, which is a known entity that has been termed “rebound pyrexia.”29
+
+Patients in the tocilizumab group had a substantial lowering of the markers of myocardial injury, because both TnT and CKMB peaked at lower levels than those seen for placebo. A previous study in patients with non–ST-segment–elevation myocardial infarction similarly demonstrated a reduction in TnT release and a lowering of CRP when patients were given an infusion of tocilizumab before coronary angiography.23 Although the exact mechanism is unknown, Kleveland and associates speculated that the reduction in TnT release was related to a reduction in the ischemia/reperfusion injury by treatment with tocilizumab. The levels of TnT and especially CRP in that study were comparatively lower than in the present trial, and, for our patients, the study drug infusion was generally not initiated until ICU admission after coronary angiography (if such was indicated). Ischemia/reperfusion injury is also an important component of PCAS, but here it relates to the whole body and not just the heart.2 In this context, inhaled Xenon as an adjunct to standard of care after OHCA has also been demonstrated to reduce myocardial injury as evaluated by TnT release, possibly by means of a protective postconditioning effect.30 In the present trial, the cardioprotective effect was also illustrated by the finding of a markedly reduced level of NT-proBNP in patients treated with tocilizumab. Whether this is related to a diminished ischemia/reperfusion injury or to another beneficial effect is unknown at the present. Nonetheless, NT-proBNP has previously been shown in a larger study to be predictive of death from a hemodynamic cause after OHCA.31
+
+We did not find an effect of treatment on ICU length of stay or total SOFA scores for the initial 3 days. The SOFA Cardiovascular score was slightly lower in the tocilizumab group on day 3, illustrating more stable hemodynamics with lesser vasopressor requirements. However, more patients received RRT during ICU stay in the tocilizumab group than in the placebo group. Whether this is a chance finding or is because of an unforeseen side effect of tocilizumab in this setting remains unknown, but none of the survivors had a need for dialysis after ICU discharge, and observational data suggest that tocilizumab as a treatment for rheumatoid arthritis is safe in patients with renal insufficiency.32 Also, in a recent study in a similar patient cohort from our cardiac ICU, the frequency of RRT in the active and placebo group was 24% and 23%, respectively, and thus of the same magnitude as seen in the tocilizumab group in the present study.33
+
+Although the study was not powered to detect the effects on clinical end points, no differences in mortality, unfavorable neurological outcomes, or a surrogate marker for cerebral injury (NSE) were found. There is no concluding evidence on whether tocilizumab crosses the blood-brain barrier in humans, neither in health nor during illness. However, an animal study in healthy monkeys revealed a low degree of penetration of the blood-brain barrier after intravenous administration.34 Yet, tocilizumab has been suggested as a possible treatment of autoimmune central nerve system diseases.19–21
+
+There were no significant group differences in frequencies of patients experiencing a SAE or in patients with AE infection. The observation of no increased risk of infections is a vital finding in these critically ill patients and is in line with a recent study in patients with coronavirus disease-2019 (COVID-19) treated with tocilizumab.35 This contrasts with previous findings where treatment with tocilizumab was associated with increased occurrence of infections.36 Of note, however, all patients in the present trial were treated with prophylactic antibiotics to prevent infections.37
+
+In summary, resuscitated OHCA is associated with a systemic inflammatory response, the magnitude of which has been associated with increased mortality and poor neurological outcome. In the present trial, inhibiting the IL-6–mediated immune response by infusion of tocilizumab reduced systemic inflammation and exerted apparent cardioprotective effects as evaluated by biomarkers. The trial was not powered to detect changes in survival or neurological outcome, and nor did we find a difference in mortality or unfavorable neurological outcomes. For safety aspects, however, this does seem reassuring in conjunction with the finding of no significant differences in the occurrence of infections.
+
+### Limitations
+
+This trial, which is to be considered a phase II trial, was conducted at a single center and was of limited size, not powered to detect possible group differences in mortality or neurological outcome. In addition, because all patients in the trial had experienced a cardiac arrest of presumed cardiac cause, as per the inclusion criteria, and the vast majority of patients had an initial shockable rhythm, the generalizability to noncardiac causes or initial nonshockable rhythms can be uncertain.
+
+Further studies are needed before evaluating if treatment with tocilizumab after OHCA confers a clinical benefit.
+
+### Conclusions
+
+Treatment with tocilizumab resulted in a significant reduction in systemic inflammation and myocardial injury in comatose patients resuscitated from OHCA. Further studies are warranted to evaluate if tocilizumab or similar agents should be implemented as standard of care in this setting.
+
+## Sources of Funding
+
+The study was supported by funding from: The Danish Heart Foundation (Reference No. 19-R135-A9302-22125), “Region Hovedstadens Forskningsfond til sundhedsforskning” (Capital Region Research Foundation, Denmark; Reference No. A6030), “Hjertecenterets Forskningsudvalg” (The Heart Center Research Council, Rigshospitalet), NovoNordisk Foundation (unrestricted research grant for Dr Kjaergaard, NNF17OC0028706), Lundbeck Foundation (Reference No. R186-2015-2132).
+
+## Disclosures
+
+None.
+
+## Supplemental Materials
+
+Data Supplement Figures I–V
+
+## Supplementary Material
+
+Click here to view.(833K, pdf)
+
+## Footnotes
+
+Sources of Funding, see page 1850
+
+https://www.ahajournals.org/journal/circ
+
+Continuing medical education (CME) credit is available for this article. Go to http://cme.ahajournals.org to take the quiz.
+
+The Data Supplement is available with this article at https://www.ahajournals.org/doi/suppl/10.1161/CIRCULATIONAHA.120.053318.
+

@@ -1,0 +1,209 @@
+Effect of Values Affirmation on Reducing Racial Differences in Adherence to Hypertension Medication. The HYVALUE Randomized Clinical Trial
+
+## Key Points
+
+### Question
+Does a writing intervention focused on affirming one’s personal values improve adherence to hypertension medication?
+
+### Findings
+In this randomized clinical trial including 960 adults with hypertension, patients who received a values affirmation intervention prior to a primary care visit had no significant change in 3-month or 6-month medication adherence or blood pressure compared with controls. Intervention response was comparable in self-identified Black and White patients.
+
+### Meaning
+A brief writing exercise that affirms individual values did not significantly improve adherence to medication or blood pressure for Black or White patients with hypertension.
+
+## Abstract
+
+### Importance
+
+Stereotype threat, or the fear of confirming a negative stereotype about one’s social group, may contribute to racial differences in adherence to medications by decreasing patient activation to manage chronic conditions.
+
+### Objective
+
+To examine whether a values affirmation writing exercise improves medication adherence and whether the effect differs by patient race.
+
+### Design, Setting, and Participants
+
+The Hypertension and Values trial, a patient-level, blinded randomized clinical trial, compared an intervention and a control writing exercise delivered immediately prior to a clinic appointment. Of 20 777 eligible, self- identified non-Hispanic Black and White patients with uncontrolled hypertension who were taking blood pressure (BP) medications, 3891 were approached and 960 enrolled. Block randomization by self-identified race ensured balanced randomization. Patients enrolled between February 1, 2017, and December 31, 2019, at 11 US safety-net and community primary care clinics, with outcomes assessed at 3 and 6 months. Analysis was performed on an intention-to-treat basis.
+
+### Interventions
+
+From a list of 11 values, intervention patients wrote about their most important values and control patients wrote about their least important values.
+
+### Main Outcomes and Measures
+
+The primary outcome of adherence to BP medications was measured using pharmacy fill data (proportion of days covered >90%) at baseline, 3 months, and 6 months. The secondary outcome was systolic and diastolic BP. Patient activation to manage their health was also measured.
+
+### Results
+
+Of 960 patients, 474 (286 women [60.3%]; 256 Black patients [54.0%]; mean [SD] age, 63.4 [11.9] years) were randomly assigned to the intervention group and 486 (288 women [59.3%]; 272 Black patients [56.0%]; mean [SD] age, 62.8 [12.0] years) to the control group. Baseline medication adherence was lower (318 of 482 [66.0%] vs 331 of 412 [80.3%]) and mean (SE) BP higher among Black patients compared with White patients (systolic BP, 140.6 [18.5] vs 137.3 [17.8] mm Hg; diastolic BP, 83.9 [12.6] vs 79.7 [11.3] mm Hg). Compared with baseline, pharmacy fill adherence did not differ between intervention and control groups at 3 months (odds ratio [OR], 0.91 [95% CI, 0.57-1.43]) or at 6 months (OR, 0.86 [95% CI, 0.53-1.38]). There were also no treatment effect differences in pharmacy fill adherence by patient race (Black patients at 3 months: OR, 1.08 [95% CI, 0.61-1.92]; at 6 months: OR, 1.04 [95% CI, 0.58-1.87]; White patients at 3 months: OR, 0.68 [95% CI, 0.33-1.44]; at 6 months: OR, 0.55 [95% CI, 0.24-1.27]). Immediately after the intervention, the median patient activation was higher in intervention patients than in control patients, but this difference was not statistically significant in an unadjusted comparison (75.0 [IQR, 65.5-84.8] vs 72.5 [IQR, 63.1-80.9]; P = .06). In adjusted models, the Patient Activation Measure score immediately after the intervention was significantly higher in the intervention patients than in control patients (mean difference, 2.3 [95% CI, 0.1-4.5]).
+
+### Conclusions and Relevance
+
+A values affirmation intervention was associated with higher patient activation overall but did not improve adherence or blood pressure among Black and White patients with hypertension.
+
+### Trial Registration
+
+ClinicalTrials.gov Identifier:  NCT03028597
+
+## Introduction
+
+In the US, Black individuals have a higher prevalence of uncontrolled hypertension than White individuals.1 Rates of adherence to hypertension medication are lower in Black individuals than in White individuals with hypertension in the US, and nonadherence contributes to racial and ethnic differences in hypertension control.2,3,4,5 Interventions to improve medication adherence might reduce racial and ethnic disparities in hypertension outcomes.
+
+Stereotype threat, or the threat of being identified with a negative stereotype about one’s social group (eg, race and ethnicity) may contribute to racial and ethnic differences in medication adherence.6,7 For example, if a Black patient is fearful of being subjected to the negative stereotype of being unintelligent, they may not ask questions or engage during their visit. They may leave the clinic without information and not feel activated to manage their blood pressure (BP).6,8 Patients can also experience general psychological threats to their sense of self unrelated to race and ethnicity. Those with uncontrolled hypertension might feel subject to a stereotype of being nonadherent.8,9 Interventions to support patients who are subject to stereotype threat might improve patient adherence and improve health outcomes.6,9
+
+Values affirmation interventions target stereotype threat and have reduced racial disparities in education10,11 and improved patient-clinician communication.12 These interventions ask patients to reflect on and write about values that are most important to them, such as family or religion.13 This process may remind patients of sources of support and reassurance outside the medical context and allow them to be more open to health information despite potential stereotype threat.14,15,16 The Hypertension and Values (HYVALUE) randomized clinical trial tested the hypothesis that values affirmation disrupts the negative effects of stereotype threat on the clinical interaction, improves patient activation, and improves medication adherence.6 Intervention effects were compared in self-identified non-Hispanic Black and White patients to test whether the threat ameliorated was that of racial stereotyping.
+
+## Methods
+
+### Design, Setting, and Participants
+
+The HYVALUE rationale and protocol were published6 (trial protocol in Supplement 1). In brief, the trial was a multicenter patient-level, randomized, controlled, blinded (study and medical team blinded) clinical trial. Patients enrolled between February 1, 2017, and December 31, 2019, at 11 primary care clinics from 3 sites: Denver Health, a safety-net system in Denver, Colorado; Kaiser Permanente Colorado, a community system in Denver; and Kaiser Permanente Mid-Atlantic States, a community system in Maryland. Institutional review boards at all 3 sites approved study procedures, and written consent was obtained from all patients. The study followed the Consolidated Standards of Reporting Trials (CONSORT) reporting guideline for randomized clinical trials.17
+
+Patients were eligible if they had a primary or secondary International Statistical Classification of Diseases and Related Health Problems, Tenth Revision code diagnosis of hypertension in the preceding 24 months and uncontrolled BP, which was defined as a systolic BP of 140 mm Hg or more or diastolic BP of 90 mm Hg or more at least once during the preceding 12 months.18,19 Additional inclusion criteria were age 21 years or older, self- identified race and ethnicity of non-Hispanic Black or non-Hispanic White, receiving antihypertensive medication(s) from the health system’s pharmacy, and the ability to read and write English. Participants self-reported gender. Patients who were pregnant, had pregnancy-related hypertension, or had end- stage renal disease were excluded.
+
+### Randomization and Intervention
+
+Patients were randomized into intervention and control groups by race and health system, using block randomization. The randomization was created by the data coordinating center analyst (L.H.) prior to patient recruitment using SAS, version 9.4 (SAS Institute Inc). Study personnel and the patient’s clinical team were blinded to treatment group.6
+
+All patients were randomized to either a values affirmation intervention or a control writing exercise, completed immediately before a scheduled primary care appointment. Both writing exercises asked patients to reflect on 11 values (Box). Intervention group patients picked 2 or 3 values that were most important to them and wrote a few sentences to describe why these values were important to them. Control group patients picked 2 or 3 values that were least important to them and wrote a few sentences about why these values might be important to someone else.
+
+### Box.
+
+#### List of Values for the Intervention and Control Exercises
+
+  1. Sense of humor
+
+  2. Religious values
+
+  3. Relationships with friends or family
+
+  4. Music
+
+  5. Politics
+
+  6. Membership in a community or social group
+
+  7. Living in the moment
+
+  8. Independence
+
+  9. Creativity
+
+  10. Artistic ability
+
+  11. Athletic ability
+
+### Outcomes
+
+The primary outcome was antihypertensive medication adherence, measured using pharmacy fills at baseline, 3 months, and 6 months. Pharmacy fill adherence measured the medication supply obtained during the period of observation using the proportion of days covered (PDC).20 Second, the 3-item self-report survey measured nonadherence during the previous 7 days (agreement with any question [eg, “I missed or skipped at least 1 dose”] indicated nonadherence).21 Third, pill count adherence measured the number of pills missing, divided by the number of expected pills taken since the last refill (range, 0.0-1.0).22 For each patient, pill count and PDC adherence were calculated for each antihypertensive drug and averaged across drugs into a summary measure.20
+
+The secondary outcome was study-measured BP at baseline, 3 months, and 6 months. Study BPs were measured by study staff per study protocol and guideline-recommended procedures.6,19
+
+### Patient Activation
+
+Patient activation was measured using the 13-item Patient Activation Measure (PAM).23 Each patient completed the PAM immediately after the baseline clinic visit (after intervention delivery) and repeated the PAM at each visit. PAM scores range from 0 to 100, with higher scores indicating greater activation for engagement in health care. The PAM assesses knowledge, skills, beliefs, and behaviors that a patient needs to manage chronic illness.23
+
+### Fidelity of Intervention
+
+We evaluated the writing exercises after study completion to assess patient fidelity to instruction and self-affirmation.24 We evaluated the fit of the intervention by asking about the salience of the 11 values listed (eMethods 1 in Supplement 2).
+
+### Statistical Analysis
+
+Using intention-to-treat principles, the primary analysis was at the patient level using generalized linear mixed-effects models that assessed adherence over time by study group and patient race. The 3 adherence outcomes were analyzed separately. Fixed effects included time, race, study group, and study site with random effects of clinician and patient (eMethods 2 in Supplement 2). Pharmacy fill adherence was skewed (baseline median PDC, 0.98 [IQR, 0.88-1.00]) and dichotomized as more than 90% PDC (adherent) or 90% or less PDC (nonadherent).25 Self-reported adherence was dichotomized into nonadherent (score ≥2 on any item) and adherent.21 Pill count adherence and BP were normally distributed and treated as continuous variables. Assumptions of all models were verified.
+
+Prior to analyses, we examined the data to determine patterns of missingness and found no evidence of nonignorable missingness.26,27,28 For pharmacy fills, 6.9% (66 of 960), 10.1% (97 of 960), and 12.9% (124 of 960) had missing data at baseline, 3 months, and 6 months, respectively. Owing to incomplete surveys or missed study visits, 1.9% (18 of 960), 37.0% (355 of 960), and 34.3% (329 of 960) had missing self-reported adherence at baseline, 3 months, and 6 months, respectively. Patients often forgot to bring their medications to study visits; 18.5% (178 of 960), 51.9% (498 of 960), and 56.3% (540 of 960) had missing pill counts at baseline, 3 months, and 6 months, respectively. Trial-measured BP was missing for 1.0% (10 of 960) at baseline, 37.4% (359 of 960) at 3 months, and 44.9% (431 of 960) at 6 months. Missingness did not differ by study group. We used full conditional likelihood–based methods (generalized linear mixed models) that used all available data and adjusted for covariates that were associated with missingness in the final models.26,27,28 This approach has been shown to provide relatively unbiased results and “missing at random” (MAR).
+
+The target enrollment was 1130 patients and assumed a final sample of 960 patients, giving more than 80% power to detect a between-group effect size of 0.26 or 4.7% difference in adherence between any 2 cells defined by race and study group.6 Recruitment was slower than anticipated, and 960 patients enrolled. All analysis used SAS, version 9.4. All P values were from 2-sided tests, and results were deemed statistically significant at P < .05.
+
+A data and safety monitoring board met before study initiation, approved the protocol, and met at least yearly. The board monitored study conduct, data quality, and safety; no interim efficacy analyses were planned or conducted. On review of the results, the board released the data for publication.
+
+## Results
+
+### Patient Characteristics
+
+Of the 20 777 patients who met eligibility criteria, study staff approached 3891. Of these, 2240 were not reached (nonworking telephone number, never answered, did not return message). Of the 1651 reached, 613 declined to participate and 78 did not complete an appointment. A total of 960 patients were randomized to the intervention (Figure). Compared with the eligible population, those who enrolled were more likely to be of White race, be from lower income census tracts, and have more comorbidities (eTable in Supplement 2).
+
+
+
+Figure. The Hypertension and Values (HYVALUE) Trial CONSORT Diagram
+
+Assessed for eligibility: Those who met all inclusion criteria over the study period based on electronic health record data. Eligible but not called: Lists of eligible patients exceeded study team ability to screen and call all patients. Received allocated intervention: Patient consented, completed written exercise, and saw primary care provider after intervention delivery. Did not receive allocated intervention: A total of 9 patients across the 2 study groups were enrolled on the day of a scheduled primary care visit, and the visit was canceled by the clinic after the patient was randomized. The visit was not able to be rescheduled within 1 week of randomization. Lost to all follow-up: Patient moved or otherwise relocated out of the health system and had no electronic follow-up data after study enrollment. Lost to all in- person follow-up: Patient had no in-person or telephone follow-up data. Patient relocated, did not want to schedule follow-up visit at that time, did not return messages, withdrew from further contact, or was unreachable for follow-up scheduling. Patient was unreachable for follow-up scheduling.
+
+Of the 960 patients, 474 (286 women [60.3%]; 256 Black patients [54.0%]; mean [SD] age, 63.4 [11.9] years) were randomized to the intervention group and 486 (288 women [59.3%]; 272 Black patients [56.0%]; mean [SD] age, 62.8 [12.0] years) to the control group. Patient sociodemographic and clinical factors were balanced across the study groups (Table 1).
+
+### Table 1. Study Population Characteristics by Treatment Group and Patient Race
+
+### Adherence Outcomes
+
+#### Pharmacy Fill Adherence
+
+At baseline, the proportion of those with more than 90% fill adherence was similar in the intervention and control groups (322 of 442 [72.9%] vs 327 of 452 [72.3%]; P = .87) (Table 2). Black patients had lower fill adherence than White patients (318 of 482 [66.0%] vs 331 of 412 [80.3%]; P < .001). In adjusted models, fill adherence increased significantly between baseline and 6 months in the control group (Table 3). Compared with baseline, pharmacy fill adherence did not differ between the intervention and control groups at 3 months (odds ratio [OR], 0.91 [95% CI, 0.57-1.43) or at 6 months (OR, 0.86 [95% CI, 0.53-1.38]). No significant treatment effects were seen by patient race (Black patients at 3 months: OR, 1.08 [95% CI, 0.61-1.92]; at 6 months: OR, 1.04 [95% CI, 0.58-1.87]; White patients at 3 months: OR, 0.68 [95% CI, 0.33-1.44]; at 6 months: OR, 0.55 [95% CI, 0.24-1.27]).
+
+### Table 2. Unadjusted Adherence and Blood Pressure at Enrollment Overall and by Patient Race
+
+### Table 3. Change in Adherence and Blood Pressure Overall, by Patient Race, and Comparing Treatment Effect by Patient Racea
+
+#### Self-reported Adherence
+
+Self-reported adherence was similar at baseline in the treatment and control groups (284 of 468 [60.7%] vs 290 of 474 [61.2%]; P = .88); Black patients reported lower adherence than White patients (287 of 523 [54.9%] vs 287 of 419 [68.5%]; P < .001) (Table 2). In adjusted models, self-reported adherence increased in the intervention and control groups between baseline and 3 months, with no differences between baseline and 6 months. No significant treatment effects for self-reported adherence were seen between intervention and control patients overall or by patient race (Table 3).
+
+#### Pill Count Adherence
+
+The mean (SE) baseline pill count adherence was similar in the intervention and control groups overall (0.59 [0.30] vs 0.62 [0.32]; P = .34) and by patient race (0.62 [0.31] for Black patients vs 0.59 [0.31] for White patients; P = .17) (Table 2). In adjusted models, the mean (SE) pill count adherence in the intervention group increased at 3 months (0.03 [0.02]) and 6 months (0.02 [0.02]) and decreased in the control group at 3 months (−0.05 [0.02]) and 6 months (−0.01 [0.02]) (Table 3). The change in pill count adherence at 3 months relative to baseline was significantly higher for intervention compared with control patients (mean [SE], 0.08 [0.03]; P = .01) but was not significantly higher at 6 months (Table 3).
+
+Among Black patients, mean (SE) pill count adherence improved in the treatment group (0.04 [0.03] at 3 months and 0.05 [0.03] at 6 months) and decreased in the control group (−0.04 [0.03] at 3 months and −0.01 [0.03] at 6 months), but this treatment effect was not significant (Table 3). Among White patients, pill count adherence remained the same in the intervention group at both time points. The treatment effect was not significantly different in Black compared with White patients.
+
+#### BP Outcomes
+
+Mean (SE) overall baseline BP was similar in the intervention and control groups (systolic BP, 138.9 [17.9] and 139.3 [18.6] mm Hg; P = .76; diastolic BP, 81.6 [12.0] vs 82.4 [12.4] mm Hg; P = .31), but was higher among Black patients compared with White patients overall (systolic BP, 140.6 [18.5] vs 137.3 [17.8] mm Hg; P = .005; diastolic BP, 83.9 [12.6] vs 79.7 [11.3] mm Hg; P < .001) (Table 2). Systolic BP significantly decreased at 3 and 6 months for all patients irrespective of study group. No treatment effect on systolic or diastolic BP was noted overall or by patient race (Table 3).
+
+### Patient Activation
+
+Immediately after the intervention, patient activation was higher in the intervention patients than in control patients, but this difference was not statistically significant in an unadjusted comparison (median PAM score, 75.0 [IQR, 65.5-84.8] vs 72.5 [IQR, 63.1-80.9]; P = .06). In adjusted models, the Patient Activation Measure score immediately after the intervention was significantly higher in the intervention patients than in control patients (mean difference, 2.3 [95% CI, 0.1-4.5]). In adjusted models, PAM scores did not vary by study group at the 3-month or 6-month time points.
+
+PAM scores overall were higher in Black patients than in White patients (PAM scores immediately after intervention: median, 75.0 [IQR, 65.5-84.8] vs 72.5 [IQR, 63.1-80.9]; P = .003). PAM scores did not vary by study group within patient race at any time point.
+
+### Fidelity Analysis
+
+At study conclusion, 13 writing exercises were missing. Of the 947 reviewed, 27 had no written text, 8 had illegible text, and 9 were protocol deviations; 97.7% (882 of 903) followed instructions by identifying at least one value on the list. In the intervention and control groups, 98.4% (443 of 450) and 14.1% (64 of 453), respectively, self-affirmed (eMethods 1 in Supplement 2).
+
+White patients in the intervention group were more likely than Black patients in the intervention group to agree that these values strongly influenced their lives (191 of 207 [92.3%] vs 193 of 230 [83.9%]; P = .008), were values to live up to (198 of 207 [95.7%] vs 202 of 230 [87.8%]; P = .003), were an important part of who they are (199 of 207 [96.1%] vs 201 of 230 [87.4%]; P = .001), and were values that they cared about (198 of 206 [96.1%] vs 204 of 230 [88.7%]; P = .004). Similar results were noted in the control group.
+
+## Discussion
+
+In 960 patients with hypertension, a brief values affirmation intervention immediately before a clinic visit did not significantly improve medication adherence or BP at 3 or 6 months. No difference in the intervention effect was found between Black and White patients. Patient activation was higher in patients in the intervention group immediately following intervention delivery, with no difference in intervention effect on activation by patient race. Our findings suggest that a values affirmation intervention targeting racial stereotype threat did not reduce racial differences in medication adherence or BP by patient race.
+
+The HYVALUE trial expands the literature examining interventions that target stereotype threat in health care. The threat of being subjected to negative stereotypes can impair memory or create anxiety among patients and lead them to forget or intentionally withhold important information, cause them to mistrust medical recommendations, or impair patient-clinician communication.7,8,12,29,30,31 Values affirmation targets this stereotype threat by encouraging patients to focus on important values outside the clinic setting, thereby reinforcing sources of self-worth and offsetting the potential threat of negative health information.14,15,16 Others have found that values affirmation interventions paired with health messaging (eg, reducing smoking) lead to significant improvement in self-reported health intentions and behaviors.32,33 The HYVALUE trial is one of the few studies testing the effect of values affirmation on objective clinical outcomes. A study of 256 Black patients with hypertension found that an education intervention enhanced with bimonthly positive affect induction and reminders for self-affirmation was associated with significantly higher medication adherence (assessed with electronic pill monitors) but no difference in BP compared with education alone.9 Potential reasons for differences in the prior study and the HYVALUE trial are that our intervention used only values affirmation, was delivered at a single time point, and used different adherence measures. Although we did not see improvement in clinical outcomes, our findings of higher patient activation among those who self-affirmed are similar to those of studies suggesting increased intention for health behaviors among patients who undergo a values affirmation intervention. Further research should examine the role of values affirmation on patient activation and subsequent clinical outcomes.
+
+The HYVALUE trial failed to support our hypothesis that an intervention targeting stereotype threat reduces racial differences in medication adherence or BP. Core components of successful values affirmation interventions highlight potential reasons for a lack of an effect by patient race.24 First, the values used in the intervention may not have been as salient for Black patients as for White patients. We used the same values as in other studies targeting racial and ethnic disparities, yet Black patients less often agreed that these values were important. Second, the negative effects of stereotype threat may depend on setting.34 Racial stereotype threat may be lessened in established clinical relationships. Prior work has suggested that racial and ethnic bias may have less influence on outcomes in long-standing clinical relationships.35 Third, social context influences the effectiveness of values affirmation interventions.34 Many of our clinics served large proportions of Black patients (some up to 90%), and racial stereotypes may not be as relevant as in settings where Black patients are in the minority. Fourth, we did not examine vulnerability to stereotype threat. Individuals who identify strongly with their racial and ethnic group may be more conscious of negative stereotypes about their group and more susceptible to racial and ethnic stereotype threat.29,36 We cannot determine if the lack of treatment effect by patient race is due to a limitation of the study or a lack of a salient racial stereotype threat in this setting.
+
+### Limitations
+
+Our trial has some limitations. First, our population with hypertension represents only those who were contacted and agreed to enroll. Our study population may represent individuals who are particularly motivated to participate in a trial and adhere to medications. Participants tended to have more comorbidities but otherwise were clinically similar to those who were eligible but not enrolled (eTable in Supplement 2). Second, our measures of adherence may be insensitive to effects of our intervention. We found that patient activation was higher immediately after the intervention in those who received the intervention compared with those who did not. However, we did not find a relationship between treatment group and higher patient activation at the follow-up visits. Third, participants were required to have only 1 elevated BP measure in the prior 12 months for inclusion and our population had high rates of adherence at enrollment, which may not be generalizable to broader populations. Fourth, many sociodemographic characteristics of the participants differed yet were balanced within race and treatment group. Fifth, the HYVALUE trial did not measure patient-clinician communication. Values affirmation has been shown to improve communication between Black patients and their clinicians.12 The quality of the patient-clinician relationship, which includes communication, is associated with improved health outcomes and plays an important role in reducing health disparities.37,38
+
+The HYVALUE trial and prior work suggest that a simple written intervention focused on values is associated with higher patient activation immediately after intervention delivery.12 Higher patient activation has been associated with improved knowledge and increased self-management behaviors (eg, regular exercise and taking medications).39 Therefore, our finding of higher patient activation among patients in the intervention group has implications for future work. Values affirmation is inexpensive, occurs outside of the patient- clinician interaction, and has the potential to be scaled for dissemination.40,41,42 Values affirmation targets the fear of negative stereotyping and is not specific to a disease or stereotyped group. Therefore, a scalable, pragmatic means to deliver values affirmation has the potential to improve patient-clinician communication and patient activation across a wide range of health care conditions and populations.
+
+Finally, the HYVALUE trial tested only a patient-level intervention and did not address structural racism,43,44,45,46,47,48 which is produced and perpetuated by laws, rules, and practices embedded in the health care system.49 Processes in health care such as equating race and ethnicity with other physiological variables in clinical models that influence access to treatment and using White race or non-Hispanic ethnicity as the referent “norm” critically underlie health inequities.47,48,49 Values affirmation may equip patients with resources to overcome stereotype threat when visiting a physician’s office, but it does not address structural discrimination. Future research must explore practices and policies that perpetuate health disparities and multifaceted approaches to address them.47,48
+
+## Conclusions
+
+For 960 patients with hypertension, the HYVALUE trial found that a values affirmation intervention targeting stereotype threat did not improve medication adherence or BP. Patient activation was higher in patients in the intervention group, yet these differences did not influence the intervention’s effect. We found no significant treatment effect by patient race. Our findings suggest that an intervention targeting the negative influence of stereotype threat does not significantly reduce racial disparities in medication adherence or BP.
+
+## Notes
+
+#### Supplement 1.
+
+Trial Protocol
+
+#### Supplement 2.
+
+eMethods 1. Fidelity of Intervention
+
+eMethods 2. Clinician-Level Clustering
+
+eTable. Characteristics of the Eligible, Not Enrolled to the Enrolled Study Population
+
+#### Supplement 3.
+
+Data Sharing Statement
+

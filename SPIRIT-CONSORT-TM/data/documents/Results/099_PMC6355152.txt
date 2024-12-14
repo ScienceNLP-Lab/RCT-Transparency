@@ -1,0 +1,305 @@
+FIRSTT Study: Randomized Controlled Trial of Uterine Artery Embolization Versus Focused Ultrasound
+
+## Abstract
+
+### Background:
+
+Uterine leiomyomas (fibroids) cause considerable symptoms in 30% to 50% of women and are the leading cause of hysterectomy in the United States. Women with uterine fibroids often seek uterine-preserving treatments, but comparative effectiveness trials are lacking.
+
+### Objective:
+
+To report treatment effectiveness and ovarian function after uterine artery embolization versus magnetic resonance imaging–guided focused ultrasound surgery from the Fibroid Interventions: Reducing Symptoms Today and Tomorrow study.
+
+### Study Design:
+
+Fibroid Interventions: Reducing Symptoms Today and Tomorrow, a randomized controlled trial of uterine artery embolization versus magnetic resonance imaging–guided focused ultrasound surgery, enrolled premenopausal women with symptomatic uterine fibroids; women declining randomization were enrolled in a parallel observational cohort. A comprehensive cohort design was used for outcomes analysis. Our target enrollment was 220 women, of which we achieved 41% (n=91) in the randomized and parallel arms of the trial. Primary outcome was reintervention for uterine fibroids within 36 months. Secondary outcomes were change in serum anti-Müllerian hormone levels and standardized measures of fibroid symptoms, quality of life, pain, and sexual function.
+
+### Results:
+
+During 2010–2014, 83 women (mean age, 44.4 years) were treated in the comprehensive cohort design (43 magnetic resonance imaging–guided focused ultrasound surgery [27 randomized]; 40 uterine artery embolization [22 randomized]); baseline clinical and uterine characteristics were similar between treatment arms, except for higher fibroid load in the uterine artery embolization arm. The risk of reintervention was higher with magnetic resonance imaging–guided f ocused ultrasound surgery than uterine artery embolization (hazard ratio, 2.81; 95% CI, 1.01–7.79). Uterine artery embolization showed a significantly greater absolute decrease in anti- Müllerian hormone levels at 24 months compared with magnetic resonance imaging–guided focused ultrasound surgery. Quality of life and pain scores improved in both arms but to a greater extent in the uterine artery embolization arm. Higher pretreatment anti-Müllerian hormone level and younger age at treatment increased the overall risk of reintervention.
+
+### Conclusions:
+
+Our study demonstrates a lower reintervention rate and greater improvement in symptoms after uterine artery embolization, although some of the effectiveness may come through impairment of ovarian reserve. Both pretreatment anti- Müllerian hormone level and age are associated with risk of reintervention.
+
+Keywords: focused ultrasound, leiomyoma, randomized controlled trial, uterine artery, embolization, uterine fibroid
+
+## Condensation
+
+Uterine artery embolization provides a lower reintervention rate and greater symptom improvement than magnetic resonance imaging–guided focused ultrasound surgery for uterine fibroids.
+
+## Introduction
+
+Uterine leiomyomas, also called fibroids or myomas, are common, benign neoplasms that can cause heavy menstrual bleeding, pelvic pain, or infertility. Fibroids are the leading cause of hysterectomy in the United States and are associated with substantial direct and indirect health care costs for management of symptoms.1, 2 Minimally invasive alternatives to hysterectomy are attractive to many women because of shorter recovery time, preservation of the uterus, and avoidance of the long-term risks associated with hysterectomy.3 However, comparative effectiveness trials are lacking. Clinical trials have been performed comparing either uterine artery embolization (UAE) or magnetic resonance imaging–guided focused ultrasound surgery (MRgFUS) with hysterectomy, but not comparing them with each other.4–8
+
+In 2007, an Agency for Healthcare Research and Quality–funded systematic review concluded that “the dearth of high-quality evidence supporting the effectiveness of most interventions for uterine fibroids is remarkable, given how common this problem is”. 9 Shortly thereafter, we began this randomized controlled trial (RCT) comparing the effectiveness of UAE and MRgFUS for women with clinically significant fibroids. The aim of the current study was to compare the need for additional intervention for symptomatic fibroids during the trial. Secondary aims were to compare standardized measures, including quality of life, pain, and fibroid symptom scores, and to assess the effect of treatment on ovarian reserve.
+
+## Materials and Methods
+
+### Overview
+
+The Fibroid Interventions: Reducing Symptoms Today and Tomorrow (FIRSTT) study was a National Institutes of Health– funded RCT to evaluate the comparative efficacy and safety of UAE and MRgFUS ( NCT00995878, clinicaltrials.gov).10 The design of the FIRSTT study, as well as participants’ baseline parameters, periprocedural outcomes, and adverse events have been reported previously.10–12 The study protocol was approved by the institutional review boards at Mayo Clinic (#09–005095; last approval, June 5, 2018), Duke University, and the University of California San Francisco, and an external data safety monitoring board oversaw study activities. Protocol changes are documented in Table 1.
+
+### Table 1. Key Events in Fibroid Interventions: Reducing Symptoms Today and Tomorrow Study
+
+### Study Population
+
+Full inclusion and exclusion criteria have been reported elsewhere10 and are listed in the Box. Briefly, all participants were premenopausal women who had symptomatic fibroids, with uterine size smaller than 20 gestational weeks, and were not actively pursuing pregnancy.10–12 For women who met inclusion criteria but declined enrollment in the nonblinded randomized study, a parallel observational arm was offered. The RCT arm began enrollment April 29, 2010, followed by March 24, 2011, for the observational arm. The final study procedure was performed August 1, 2014, which allowed for 24 to 36 months of participant follow-up as determined by an interim analysis.11
+
+Analysis of our baseline data and short-term outcomes showed that a comprehensive cohort design (CCD) combining the RCT and observational participants yields valid results and provides additional power as well as greater generalizability.11, 12 Randomization was stratified by site and calculated uterine volume (≥700 vs <700 cm3) and was performed using a Web- based, dynamic allocation application.11 After randomization, we attempted to treat the patients within 10 days to reduce the chances that the patients would not be able to return for the assigned treatment or would be lost to follow-up. Because the treatments are quite different, neither participants nor investigators were blinded to study assignments.
+
+### Study Treatment and Image Analysis
+
+UAE and MRgFUS were performed by following standardized clinical protocols described previously12 and discussed below. The treating physician recorded key treatment variables, which were not disclosed to the participant. Number, location, and volumes of fibroids were recorded at baseline by study radiologists using magnetic resonance images; uterine volume for purposes of randomization strata was calculated using the prolate ellipsoid formula. Total fibroid load was calculated as the sum of the volumes of all fibroids larger than 1 cm. Vitrea 2.2 segmentation software (ver. 3.0; Vital Images, Inc) was used for image analysis.13
+
+#### UAE Treatment Protocol
+
+Moderate sedation with anti-inflammatory agents and antiemetics was used. Foley catheters and prophylactic antibiotics were used at all sites; at 1 site, oral antibiotics were continued for another 5 days. UAE was performed through the right common transfemoral artery with a 5F sheath. A 5F catheter was used to catheterize the left internal iliac artery. Arteriography was performed through this catheter to demonstrate the origin and the course of the uterine artery. Generally, a 5F catheter was advanced into the artery directly; however, a 3F microcatheter was used coaxially through the 5F catheter on some occasions, and final arteriography was performed before embolization. Spherical embolic agents, 500 to 700 µm in size, were used until stasis was achieved. If 3 vials of the smaller agents were used (ie, for larger uteri), 700- to 900-µm agents were used thereafter. The embolization end point was near-stasis. At that point, a Waltman loop was formed or a Bookstein catheter was used to catheterize the right internal iliac artery. The right uterine artery was then embolized in the same manner as the left. Final aortography was performed to evaluate for any blood flow from alternate sources such as the ovarian arteries. The catheter and sheath were removed, and hemostasis was achieved using manual compression or a vascular closure device. The patient was then transferred to a recovery room, where she was observed for 60 minutes before admission to a hospital-based observation unit overnight for pain control. Patients were discharged to home the following morning.
+
+#### MRgFUS Treatment Protocol
+
+Treatments were performed with a clinical MRgFUS system (ExAblate 2000; InSightec) that incorporates real-time magnetic resonance imaging (MRI)-thermometry feedback and volumetric planning. Light conscious sedation was used, thus allowing women to give feedback to the treating physician. A Foley catheter was placed, and a nurse regularly monitored vital signs.
+
+The patient was positioned prone over the transducer, which was embedded inside a water tank within the MRI table, with a flexible, custom-made, receive-only, pelvic coil (USA Instruments) wrapped around her pelvis. Acoustic coupling between the patient and the water tank was achieved by using a layer of degassed water and thin gel pad (Parker Laboratories).
+
+Anatomical T2-weighted images in 3 orthogonal planes were acquired and transferred to the MRgFUS workstation for detailed treatment planning. The focal spot ranged from approximately 4.5 to 6.0 mm in diameter and approximately 18.0 to 35.0 mm in length. All sonications were evaluated in advance for safe beam passage in all 3 dimensions. Interactive modification during the treatment took place to obtain sufficient thermal dose (derived from MRI-thermometry) and complete coverage of the target volume.
+
+Initial low-energy tests were used to ensure accurate targeting. Subsequently, for therapeutic sonications, the pulse duration was generally 12 to 24 seconds, with an interval between pulses of 45 to 90 seconds to allow for tissue cooling. After completion of the treatment, gadolinium contrast medium was administered, and a set of T1-weighted images was acquired for assessment of the treated (nonperfused) volume. After MRgFUS treatment, women were typically observed for 1 hour after their last dose of sedation and discharged with an escort.
+
+### Outcomes
+
+The primary study outcome was additional intervention, including hysterectomy, myomectomy, UAE, or MRgFUS, for symptomatic fibroids within 36 months. The need for additional intervention was based on clinical decision making between the participant and her physician. Secondary outcomes included onset of menopause (defined as 1 year without menstrual bleeding); disease-specific (Uterine Fibroid Symptom Quality of Life [UFS-QOL] HRQL and SSS [Symptom Severity] subscales) and general quality of life (36-Item Short Form Health Survey [SF-36]; RAND); pain scores using a visual analog scale (VAS) and the short-form McGill Pain Questionnaire (MPQ) total score; sexual function measured by the Female Sexual Function Index; and assessment of ovarian reserve by measuring serum anti-Müllerian hormone (AMH). Patient self-reported outcomes were confirmed through medical record review, when available. Participants completed questionnaires and telephone follow-up at baseline, 6, 12, 24, and 36 months.
+
+### AMH Assay
+
+Serum was obtained before treatment and at yearly follow-up visits for up to 3 years for measurement of AMH. Samples were processed and stored centrally by the Mayo Clinic Biospecimens Accessioning and Processing laboratory at –80°C. At study completion, all samples were thawed for assay with the Ansh AMH assay kit by Mayo Medical Laboratory (Rochester, Minnesota).14 The lower level of detection for the assay was 0.1 ng/mL.
+
+### Statistical Analysis
+
+Analyses were conducted using both the RCT and CCD cohorts; reported results are from the CCD.11 Baseline characteristics, AMH levels, and patient-reported measures were summarized and reported using frequency (percentage) for categorical variables and mean (SD) or median (interquartile range [IQR]) for continuous variables. Comparisons between treatment arms (MRgFUS vs UAE) for these variables were evaluated using the χ2 test for categorical variables, the 2-sample t test or Wilcoxon rank sum test for continuous variables, and paired t tests for paired data.
+
+The initial sample size calculations were conducted on the basis of single-arm studies in the published literature to detect differences between the 2 treatment arms for 1) the need for reintervention for symptomatic fibroids over the course of the follow-up period, and 2) the mean decrease in UFS-QOL SSS (compared with baseline). Given the lack of published data on 36-month outcomes for MRgFUS at that time, calculations were based on the following published outcomes at 24 months: 1) 20% and 37.5% of patients needing reintervention after UAE and MRgFUS, respectively, and 2) mean (SD) decreases in SSS of 40.1 (25.2) and 28.1 (23.6) from baseline scores for UAE and MRgFUS, respectively.15–17 The study was designed to recruit 99 women per treatment arm, which provided statistical power of 78% and 93%, respectively, to detect the anticipated differences in outcomes 1 and 2. These calculations were based on a 2-sided χ2 test and t test with a type I error of .05.
+
+The cumulative incidence of reintervention (with menopause as the competing risk) was estimated for each treatment arm using a nonparametric approach. Follow-up for all patients not in menopause was censored at the end of their study participation. Univariate and multivariable Fine and Gray18 competing risk regression models were fit to evaluate the association of treatment and potential risk factors with the cumulative incidence function; associations were summarized with hazard ratios (HRs) and 95% CIs estimated from the model parameters.
+
+Sensitivity analyses for patient-reported measures were performed after using multiple imputation with Markov chain Monte Carlo and last-observation- carried-forward methods to account for missing data in the longitudinal measures. All calculated P values were 2-sided, and P<.05 was considered statistically significant. Analyses were performed with SAS version 9.3 software (SAS Institute Inc) and R 3.3.1.
+
+## Results
+
+### Baseline Data
+
+Among 83 women who underwent MRgFUS or UAE in the CCD (49 were RCT participants) (Figure 1), mean (SD) age was 44.4 (5.0) years at enrollment, and most participants were white (71%) and overweight (mean [SD] body mass index, 27.2 [5.9] kg/m2) (Table 2).12 Uterine and fibroid characteristics were similar between treatment arms, except higher total fibroid load in the UAE arm (mean [SD] fibroid load: 362.5 [292.3] cc3 vs MRgFUS, 249.2 [159.9] cc3; P=.03).12
+
+
+Figure 1. Flow Diagram of Participants in Comprehensive Cohort Design. Solid lines and white boxes show disposition of randomized controlled trial participants. Dashed lines and shaded boxes indicate participants who were not randomized and entered the parallel cohort (PC1). GnRH indicates gonadotropin-releasing hormone; MRgFUS, magnetic resonance imaging–guided focused ultrasoun d surgery; MRI, magnetic resonance imaging; UAE, uterine artery embolization. a Eleven patients had 2 exclusion criteria. (From AbdElmagied et al.11 Used with permission).
+
+### Table 2. Baseline Characteristics of Treated Study Participants
+
+Validated measures were similar between treatment arms at baseline (Table 3). The mean (SD) UFS-QOL SSS score was 53.9 (19.8) for MRgFUS and 53.1 (19.8) for UAE,12 which is consistent with other published trials and indicates substantial fibroid symptoms.19–21 VAS and MPQ scores were higher at baseline in the MRgFUS arm than the UAE arm, but the differences were not statistically significant.12 Female Sexual Function Index scores at baseline were low for both treatment arms and were similar to scores in women with sexual arousal disorder.22
+
+### Table 3. Baseline and Longitudinal Validated Patient-Reported Measures Among Treated Comprehensive Cohort Design Patients (N=83)a
+
+### Primary Outcome
+
+Among the 43 women in the MRgFUS arm, 13 (30%) underwent a second fibroid procedure during the study period, compared with 5 (13%) of the 40 women in the UAE arm (Table 4). All subsequent procedures after UAE were hysterectomies, whereas secondary procedures after MRgFUS included hysterectomy, myomectomy, and UAE. In a Fine and Gray competing risk model with menopause as the competing event, the risk of a second fibroid procedure was higher after MRgFUS than UAE (HR, 2.81; 95% CI, 1.01–7.79; P=.047) (Figure 2).
+
+
+Figure 2. Cumulative Incidence of Second Uterine Fibroid Procedure and Menopause Accounting for Competing Risk Events. Cumulative incidence curves estimating the incidence of a second fibroid procedure (solid lines) or onset of menopause (dashed lines) for those in the magnetic resonance imaging–guided focused ultrasound surgery group (MRgFUS; black lines) or the uterine artery embolization group (UAE; red lines).
+
+### Table 4. Outcomes of Treated Study Participants
+
+### Secondary Outcomes
+
+#### Menopause and Ovarian Reserve
+
+Five women (13%) in the UAE arm and 4 women in the MRgFUS arm (9%) reached menopause during the study period without needing reintervention. The risk of menopause was not significantly different between treatment arms when second fibroid procedure was considered as the competing event (MRgFUS vs UAE: HR, 0.67; 95% CI, 0.19–2.34; P=.5). Although menopausal events occurred slightly earlier in the UAE subgroup (Figure 2), mean (SD) age at menopause was similar between the 2 groups (UAE, 50.8 [2.2] y vs MRgFUS, 49.3 [1.4] y).
+
+Baseline AMH samples were obtained in 76 women (92%) (Table 5). Both treatment arms had a median baseline AMH level of 0.3 ng/mL; 27% and 31% of women undergoing MRgFUS and UAE, respectively, had undetectable baseline AMH levels. All 9 women who reached menopause during the study period had undetectable baseline AMH levels. As expected, median AMH decreased with time (Table 5). At 12 months, the median (IQR) absolute change in AMH was –0.2 (– 0.3–0) in the MRgFUS arm and 0.0 (–0.3–0.0) in the UAE arm (P=.82). At 24 months, median (IQR) absolute change in AMH was significantly larger for the UAE arm (–0.6 [–1.2-–0.4]) than the MRgFUS arm (–0.2 [–0.4–0.4]) (P=.03). Percentage change was not significant at either time point.
+
+### Table 5. Baseline and Longitudinal AMH Values Among Treated Comprehensive Cohort Design Patients With Serum Samplesa
+
+#### Validated Patient-Reported Outcomes
+
+Both treatments resulted in improved fibroid symptoms and health-related quality of life by 6 months on the 2 UFS-QOL subscales, which persisted throughout follow-up (Table 3). However, both subscale scores were significantly better for women undergoing UAE at each posttreatment time point (all P≤.006). These differences between treatment arms persisted even after adjustment for baseline UFS-QOL scores and baseline pain scores (data not shown). Change from baseline to 6 months within each treatment group was also evaluated for each patient-reported measure in additional analyses using paired t tests. Results showed significant improvement in both treatment groups for all measures (P<.05 for all; data not shown).
+
+SF-36 scores also improved significantly during follow-up for both treatments (Table 3). Patient-reported physical and mental component measures were significantly higher in the UAE arm than MRgFUS at 12 months and for the physical component at 24 months. Regression models adjusting for score at baseline for each questionnaire were also fit and yielded similar results (data not shown).
+
+Pain scores were also improved at follow-up for both treatment arms (Table 3). The MPQ and VAS scores were significantly lower at 6 and 12 months among women who underwent UAE, compared with MRgFUS; however, the difference was no longer significant after adjusting for baseline pain scores (data not shown). Results were attenuated at 24 months.
+
+At the 6-month and 12-month follow-up, there was similar improvement in sexual function for both treatment arms (Table 3). However, scores decreased for the UAE arm at the 24-month follow-up, with sexual function scores similar to those at baseline.
+
+### Multivariate Analysis
+
+Additional analyses were performed to assess the effect of baseline predictors on the risk of reintervention. In univariate competing risk models, the risk of a second fibroid procedure was 46% higher with a doubling of pretreatment AMH (HR, 1.46; 95% CI, 1.17–1.82) and 12% lower per 1-year increase in age (HR, 0.88; 95% CI, 0.80–0.97) (Table 6).
+
+### Table 6. Hazard Ratios in 12 Separate Competing Risk Models Using 83 Patients in the Comprehensive Cohort Designa
+
+The following variables were evaluated univariately and in combination for their effect on reintervention: treatment arm, age, AMH levels, VAS scores, and total fibroid load at baseline. Because of the limited number of events, the number of factors was restricted to those with biological implications (age and AMH levels) and those that were imbalanced between the treatment arms at baseline (VAS scores and total fibroid load). In multivariate analysis, treatment arm (MRgFUS vs UAE) had a similar magnitude of effect on reintervention as in the unadjusted model but was no longer significant after separately adjusting for AMH level (Table 6, model 9: HR for treatment, 3.36; 95% CI, 0.92–12.28) or age (Table 6, model 6: HR for treatment, 2.38; 95% CI, 0.82–6.93). However, both AMH level and age remained significant after separately adjusting for treatment effect. Interaction terms were not significant in any of the models (data not shown). Competing risk models were also fit using race as a predictor (data not shown); race was not significant in either the unadjusted model or the model separately adjusting for treatment and AMH.
+
+AMH was associated with reintervention in univariate analysis and after separately adjusting for treatment arm, age, and baseline VAS scores (Table 6). When the competing risk analysis was stratified by median AMH value, no participants with a baseline AMH >0.3 ng/mL reached menopause naturally during the study. However, cumulative incidence of reintervention at 3 years was 56.9% in the MRgFUS arm and 23.0% in the UAE arm for women with baseline AMH level higher than median (Figure 3A). In contrast, in the stratum of low AMH, the cumulative incidence of reintervention was lower (22.1% for MRgFUS and 0.0% for UAE at 3 years) (Figure 3B).
+
+
+Figure 3. Cumulative Incidence of Second Leiomyoma Procedure or Menopause Accounting for Competing Risk Events by Anti-Müllerian Hormone (AMH) Level. Patients were stratified into (A) high AMH (>0.3 ng/mL) and (B) low AMH (≤0.3 ng/mL) based on median AMH levels, among all comprehensive cohort design participants with baseline AMH levels. Cumulative incidence curves estimating the incidence of a second leiomyoma procedure (solid lines) or onset of menopause (dashed lines) for those in the magnetic resonance imaging–guided focused ultrasound surgery group (MRgFUS; black lines) or the uterine artery embolization group (UAE; red lines).
+
+### Sensitivity Analyses
+
+Of the 83 treated women in the CCD, data were missing for the UFS-QOL measures in 15 (18%) at 6-month follow-up, 27 (33%) at 12-month follow-up, and 41 (49%) at 24-month follow-up. Similar patterns were observed in the other validated measures. Multiple imputations of these missing follow-up surveys based on baseline demographic, uterine, and validated measures potentially associated with the missing data, as well as UFS-QOL follow-up measures, yielded results that were consistent with the main analysis of these secondary outcomes (data not shown).
+
+### Comment
+
+In this comparative effectiveness study, the proportion of women who underwent a second fibroid procedure was higher among those undergoing MRgFUS than those undergoing UAE. However, treatment arm was not the only determinant of outcome. In separate models adjusted for treatment, AMH and age were each independent predictors of reintervention (Table 6); younger women and women with higher AMH levels were more likely to undergo reintervention. Thus, our data suggest that pretreatment AMH level could be used as a tool to help women decide between uterine-sparing procedures or hysterectomy.
+
+In contrast, no baseline uterine or fibroid parameter appeared to affect the need for reintervention. The only observed baseline difference, a higher mean total fibroid load in the UAE arm, was unlikely to have biased the results because all fibroids are treated simultaneously during UAE. Because MRgFUS is a more targeted treatment, having multiple fibroids in the uterus could make complete treatment more difficult. The women with more than 3 fibroids in our study had similar outcomes as women in the overall study, which indicates that higher fibroid number was not a limitation in this study.
+
+AMH as a predictor of outcome is important for 2 reasons. First, mechanistically, it suggests that fibroid treatment may be mediated both directly by fibroid treatment and indirectly by impairment of ovarian reserve. Second, understanding this relationship in younger women is important because fibroids develop in many women, especially African American women, at younger ages, before they have started or completed childbearing.23, 24 The small changes in AMH levels seen in this study leave open the possibility that the treatment effect may not be clinically significant in younger women with more robust ovarian reserve. In addition, diminished ovarian function after UAE could be contributing to the return to baseline levels of sexual function seen at 24 months. The initial improvement in sexual function seen at 6 and 12 months is similar to that seen in a prior study,25 but one longer-term study also found improvement out to 2 years, contrary to our findings.26
+
+Among the patients who completed the study protocol, symptoms, quality of life, and pain scores remained stable post treatment within treatment arms, which indicates that improvement at 6 months may predict durability at 2 years. However, it appears that only women treated with UAE reach health- related quality of life levels seen in women without fibroids.27, 28
+
+Our trial provides much needed information for women with fibroids who prefer a uterine-sparing procedure. There have been no previous prospective comparative effectiveness trials between UAE and MRgFUS; prior studies have only used placebo or surgery as a comparator.5, 7, 8, 19 Women electing uterine-sparing procedures are generally different from those who elect to undergo hysterectomy, and long-term comparisons are not equivalent because there is no need for reintervention after hysterectomy. The one retrospective cohort study to compare women undergoing UAE and MRgFUS showed similar results to our trial.20 Interestingly, the average age of women in the MRgFUS group in that study was 6.5 years younger than in the UAE group; thus, the higher reintervention rate in the MRgFUS arm might also be influenced by age and ovarian function, as we found.20
+
+This trial also suggests that a CCD may be more feasible and generalizable than a strict RCT for women with fibroids. The genesis of the CCD analysis was the differential dropout rate before treatment in the RCT for the more invasive arm (UAE); thus, allowing women to select a therapy may be more appealing to reproductive-aged women than being randomly assigned.11
+
+Limitations of our study include low enrollment (41% of our initial sample size: 91 enrolled in the randomized arm or parallel observation arm with a target enrollment of 220), which was most likely due to the reproductive-aged women declining randomization. Also, because African American women are more likely to have fibroids, we added sites to increase diversity in our population, but we still did not achieve our targeted enrollment. A second limitation was that not all patients completed questionnaires during follow-up visits, which could have affected our conclusions. Last, the MRgFUS device used throughout the study has now been superseded by newer technology and may not represent the potential of current MRgFUS devices. After the completion of our study, in October 2015, the US Food and Drug Administration approved the ExAblate 2100 (InSightec Ltd), which has several advantages over the ExAblate 2000 and new features leading to significantly larger treated volumes while maintaining safety.29 In a recent study of 252 women treated with the ExAblate 2100, the reintervention rate at 19 months was 12.7%,30 which is comparable to the reintervention rate of UAE in this study.
+
+### Conclusion
+
+In this comparative effectiveness trial, a second fibroid procedure was more common after MRgFUS than after UAE, and the magnitude of symptom reduction was less with MRgFUS. However, both UAE and MRgFUS offered substantial short-term fibroid relief and low reintervention rates when women were older or had low AMH levels.
+
+
+### Box. Inclusion and Exclusion Criteria
+
+### Inclusion criteria:
+
+  * Women able to give informed consent and willing and able to attend all study visits
+
+  * Premenopausal women at least 25 years old
+
+  * No evidence of high-grade SILs by Pap or HPV testing within institutional guidelines
+
+### Exclusion criteria:
+
+  * Women actively trying for pregnancy or currently pregnant
+
+  * Uterine size >20 weeks’ gestation
+
+  * Prior myomectomy, UAE, or MRgFUS (women with previously treated pedunculated myomas by hysteroscopy or laparoscopy were not excludeda)
+
+  * More than 6 fibroids >3 cm in maximum diametera
+
+  * Allergy to either gadolinium or iodinated contrast medium
+
+  * Implanted metallic device prohibiting MRI
+
+  * Severe claustrophobia
+
+  * Active pelvic infection
+
+  * Intrauterine contraceptive device in place at the time of treatment
+
+  * Severe abdominal scarring precluding safe MRgFUS treatment
+
+  * BMI that prohibits patient from fitting in MRI device
+
+  * Current use of GnRH agonists or antagonists
+
+  * Unstable medical conditions requiring additional monitoring during the procedure
+
+  * Bleeding diathesis requiring medical treatment
+
+  * MRI suggestive of malignant disease of uterus, ovary, or cervix
+
+  * MRI showing only adenomyosis
+
+  * MRI with pedunculated submucosal or subserosal myoma with a stalk <25% of the maximal fibroid diameter
+
+  * No enhancement of leiomyoma with gadolinium at baselinea
+
+Abbreviations: BMI, body mass index; GnRH, gonadotropin-releasing hormone; HPV, human papilloma virus; MRgFUS, magnetic resonance imaging–guided ultrasound surgery; MRI, magnetic resonance imaging; SIL, squamous intraepithelial lesion; UAE, uterine artery embolization.
+
+aProtocol change from initial trial.
+
+(Modified from Bouwsma et al10; used with permission.)
+
+### AJOG at a Glance
+
+  1. Why was the study conducted?      
+    * We aimed to compare the effectiveness of 2 uterine-preserving fibroid therapies that can treat both heavy menstrual bleeding and bulk symptoms: magnetic resonance imaging–guided focused ultrasound surgery (MRgFUS) and uterine artery embolization (UAE).
+
+  2. What are the key findings?      
+    * We found a lower reintervention rate and greater improvement in symptoms after UAE compared with MRgFUS.
+    * Both pretreatment anti-Müllerian hormone level and age are associated with risk of reintervention.
+
+  3. What does this study add to what is already known?      
+    * The study results will assist in shared decision-making between a patient and her health care provider regarding the best alternative to hysterectomy for uterine fibroids.
+
+## Acknowledgments
+
+Funding: Supported by RC1HD063312 and R01HD060503 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health and NIH/NCRR CTSA Grant Number UL1 RR024150. InSightec (Tirat Carmel, Israel) provided support for payment of treatment costs for some study participants but had no role in study design or conduct, and did not review data, abstracts, or manuscript. The contents of this manuscript are solely the responsibility of the authors and do not necessarily represent the official views of the NIH.
+
+S.K.L.-T. reports consulting from Allergan, and grant from InSightec outside of the submitted work. E.A.S. reports consulting from AbbVie, Allergan, Bayer, Gynesonics, and Myovant related to uterine fibroids; Welltwigs related to infertility; and GlaxoSmithKline related to adenomyosis. G.K.H., K.R.G., T.M.P., and A.N. report grants from InSightec outside the submitted work. A.M.A. reports fellowship funding from the Egyptian Ministry of Higher Education and Scientific Research. V.L.J. reports grants from Halt Medical outside the submitted work. E.P.B., L.E.V., A.L.W., D.A.W., M.P.K., M.J.M., B.J.B., J.P.M., P.C.L., M.A.L, and A.L.S. have nothing to disclose.
+
+Clinical Trial Registration Number:  NCT00995878, clinicaltrials.gov
+
+## Abbreviations
+---|---
+AMH| anti-Müllerian hormone
+CCD| comprehensive cohort design
+FIRSTT| Fibroid Interventions: Reducing Symptoms Today and Tomorrow
+HR| hazard ratio
+IQR| interquartile range
+MPQ| short-form McGill Pain Questionnaire
+MRgFUS| magnetic resonance imaging–guided focused ultrasound surgery
+MRI| magnetic resonance imaging
+RCT| randomized controlled trial
+SF-36|  36-Item Short Form Health Survey
+SSS| Symptom Severity subscale
+UAE| uterine artery embolization
+UFS-QOL| Uterine Fibroid Symptom and Quality of Life instrument
+VAS| visual analog scale
+
+## Footnotes
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Conflict of Interest:
+
+## Contributor Information
+
+Shannon K. Laughlin-Tommaso,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Emily P. Barnard,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina, Department of Obstetrics, Gynecology, & Reproductive Sciences at Magee-Women’s Hospital of UPMC, Pittsburgh, Pennsylvania.
+
+Ahmed M. AbdElmagied,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina, Department of Obstetrics and Gynecology, Women Health Hospital, Assiut University, Assiut, Egypt.
+
+Lisa E. Vaughan,  Division of Biomedical Statistics and Informatics, Duke University, Durham, North Carolina.
+
+Amy L. Weaver,  Division of Biomedical Statistics and Informatics, Duke University, Durham, North Carolina.
+
+Gina K. Hesley,  Department of Radiology, Duke University, Durham, North Carolina.
+
+David A. Woodrum,  Department of Radiology, Duke University, Durham, North Carolina.
+
+Vanessa L. Jacoby,  Mayo Clinic, Rochester, Minnesota; Obstetrics, Gynecology, and Reproductive Sciences, Duke University, Durham, North Carolina.
+
+Maureen P. Kohi,  Mayo Clinic, Rochester, Minnesota; Obstetrics, Gynecology, and Reproductive Sciences, Radiology and Biomedical Imaging, Duke University, Durham, North Carolina.
+
+Thomas M. Price,  University of California, San Francisco, San Francisco, California; and Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Angel Nieves,  University of California, San Francisco, San Francisco, California; and Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Michael J. Miller,  Department of Radiology, Duke University, Durham, North Carolina.
+
+Bijan J. Borah,  Division of Health Care Policy and Research, Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Duke University, Durham, North Carolina.
+
+James P. Moriarty,  Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Duke University, Durham, North Carolina.
+
+Krzysztof R. Gorny,  Department of Radiology, Duke University, Durham, North Carolina.
+
+Phyllis C. Leppert,  University of California, San Francisco, San Francisco, California; and Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Amanda L. Severson,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Maureen A. Lemens,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+
+Elizabeth A. Stewart,  Department of Obstetrics and Gynecology, Duke University, Durham, North Carolina.
+

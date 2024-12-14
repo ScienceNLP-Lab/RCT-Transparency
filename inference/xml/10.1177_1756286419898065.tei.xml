@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName coords="1,42.52,227.88,111.27,9.18"><forename type="first">Cristina</forename><surname>Simon-Martinez</surname></persName>
+							<email>cristina.simon@kuleuven.be</email>
+						</author>
+						<author>
+							<persName coords="1,170.90,227.88,58.48,9.18"><forename type="first">Lisa</forename><surname>Mailleux</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,236.36,227.88,77.15,9.18"><forename type="first">Jasmine</forename><surname>Hoskens</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,321.07,227.88,48.47,9.18"><forename type="first">Els</forename><surname>Ortibus</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,376.41,227.88,60.11,9.18"><forename type="first">Ellen</forename><surname>Jaspers</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,42.52,239.88,78.98,9.18"><forename type="first">Nicole</forename><surname>Wenderoth</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,129.13,239.88,98.78,9.18"><forename type="first">Giuseppina</forename><surname>Sgandurra</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,235.34,239.88,62.84,9.18"><forename type="first">Giovanni</forename><surname>Cioni</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,304.77,239.88,65.52,9.18"><forename type="first">Guy</forename><surname>Molenaers</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,42.52,251.58,73.16,9.49"><forename type="first">Katrijn</forename><surname>Klingels</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,138.88,251.58,49.47,9.49"><forename type="first">Hilde</forename><surname>Feys</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,491.76,288.51,29.60,6.10"><forename type="first">K</forename><forename type="middle">U</forename><surname>Leuven</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,491.76,583.55,51.32,6.10"><forename type="first">Stella</forename><surname>Fondazione</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,544.70,583.55,15.04,6.10;1,491.76,591.55,51.02,6.10"><roleName>Calambrone, Italy</roleName><surname>Maris</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Rehabilitation Sciences</orgName>
+								<orgName type="department" key="dep2">Information Systems Institute</orgName>
+								<orgName type="institution">University of Applied Sciences Western Switzerland (HES-SO Valais) Sierre</orgName>
+								<address>
+									<addrLine>Herestraat 49, bus 1510</addrLine>
+									<postCode>3000</postCode>
+									<settlement>Leuven</settlement>
+									<country>Belgium, Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Rehabilitation Sciences</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Development and Regeneration</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Health Sciences and Technology</orgName>
+								<orgName type="laboratory">Neural Control of Movement Lab</orgName>
+								<orgName type="institution">ETH Zurich</orgName>
+								<address>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Developmental Neuroscience, IRCCS</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Clinical and Experimental Medicine</orgName>
+								<orgName type="institution">University of Pisa</orgName>
+								<address>
+									<settlement>Pisa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Rehabilitation Sciences</orgName>
+								<orgName type="department" key="dep2">Rehabilitation Research Centre</orgName>
+								<orgName type="department" key="dep3">Faculty of Rehabilitation Sciences</orgName>
+								<orgName type="institution">Hasselt University</orgName>
+								<address>
+									<settlement>Leuven, Diepenbeek</settlement>
+									<country>Belgium, Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1177/1756286419898065</idno>
+					<note type="submission">Received: 8 October 2019; revised manuscript accepted: 9 December 2019.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0-SNAPSHOT" ident="GROBID" when="2024-02-20T15:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Upper limb</term>
+					<term>Unilateral cerebral palsy</term>
+					<term>Action Observation Training</term>
+					<term>Constraint Induced Movement Therapy</term>
+					<term>Intensive training</term>
+					<term>Predictors</term>
+					<term>Randomized Controlled Trials</term>
+					<term>Corticospinal Tract Wiring Pattern</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,42.52,292.53,428.95,9.85;1,42.52,304.53,203.69,9.85">Introduction: Constraint-induced movement therapy (CIMT) improves upper limb (UL) motor execution in unilateral cerebral palsy (uCP).</s><s coords="1,248.82,304.53,203.85,9.85;1,42.52,316.53,326.61,9.85">As these children also show motor planning deficits, action-observation training (AOT) might be of additional value.</s><s coords="1,371.75,316.53,100.19,9.85;1,42.52,328.53,416.48,9.85">Here, we investigated the combined effect of AOT to CIMT and identified factors influencing treatment response.</s><s coords="1,42.52,340.54,400.06,9.85;1,42.53,352.54,436.47,10.54;1,42.54,364.54,208.91,10.54">Methods: A total of 44 children with uCP (mean 9 years 6 months, SD 1 year 10 months) participated in a 9-day camp wearing a splint for 6 h/day and were allocated to the CIMT + AOT (n = 22) and the CIMT + placebo group (n = 22).</s><s coords="1,254.06,364.54,219.55,10.54">The CIMT + AOT group received 15 h of AOT (i.e.</s><s coords="1,42.55,376.54,420.13,10.54;1,42.55,388.54,285.31,9.85">video-observation) and executed the observed tasks, whilst the CIMT + AOT group watched videos free of biological motion and executed the same tasks.</s><s coords="1,330.47,388.54,143.60,9.85;1,42.55,400.54,130.33,9.85">The primary outcome measure was bimanual performance.</s><s coords="1,175.49,400.54,284.59,9.85;1,42.55,412.54,428.22,9.85">Secondary outcomes included measures of body function and activity level assessed before (T1), after the intervention (T2), and at 6 months follow-up (T3).</s><s coords="1,42.55,424.55,342.35,9.85">Influencing factors included behavioural and neurological characteristics.</s><s coords="1,42.55,436.20,439.15,10.88;1,42.52,448.20,439.05,10.17">Results: Although no between-groups differences were found (p &gt; 0.05; η 2 = 0-16), the addition of AOT led to higher gains in children with initially poorer bimanual performance (p = 0.02; η 2 = 0.14).</s><s coords="1,42.52,460.53,419.07,9.85;1,42.52,472.20,165.64,10.87">Both groups improved in all outcome measures after the intervention and retained the gains at follow up (p &lt; 0.01; η 2 = 0.02-0.71).</s><s coords="1,210.57,472.53,261.20,9.85;1,42.52,484.20,427.14,10.17;1,42.52,496.20,292.65,10.17">Poor sensory function resulted in larger improvements in the total group (p = 0.03; η 2 = 0.25) and high amounts of mirror movements tended to result in a better response to the additional AOT training (p = 0.06; η 2 = 0.18).</s><s coords="1,337.57,496.53,126.22,9.85;1,42.52,508.53,338.09,9.85">Improvements were similar irrespective of the type of brain lesion or corticospinal tract wiring pattern.</s><s coords="1,42.52,520.53,427.24,9.85;1,42.52,532.53,228.51,9.85">Conclusions: Adding AOT to CIMT, resulted in a better outcome for children with poor motor function and high amounts of mirror movements.</s><s coords="1,273.65,532.53,204.01,9.85;1,42.52,544.53,230.72,9.85">CIMT with or without AOT seems to be more beneficial for children with poor sensory function.</s><s coords="1,42.52,556.54,418.24,9.85">Trial registration: Registered at ClinicalTrials.gov on 22nd August 2017 (ClinicalTrials.gov</s><s coords="1,42.52,568.54,117.60,9.85">identifier: NCT03256357).</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="1,42.52,677.26,55.54,9.18">Introduction</head><p><s coords="1,42.52,689.56,213.70,9.32;1,42.52,701.56,213.71,9.32;1,42.52,713.15,183.00,9.73">The quality of life of children with unilateral cerebral palsy (uCP) can be compromised by their upper limb (UL) sensorimotor problems. <ref type="bibr" coords="1,221.94,713.15,3.59,6.06" target="#b0">1</ref></s><s coords="1,229.56,713.56,26.64,9.32;1,268.21,677.56,213.66,9.32;1,268.21,689.56,124.71,9.32">In the last few decades, improving these deficits has been the focus of many studies.</s><s coords="1,399.22,689.56,82.67,9.32;1,268.21,701.56,213.69,9.32;1,268.21,713.56,213.67,9.32;1,42.52,98.76,360.30,18.36;1,42.52,121.76,394.00,18.36;1,42.52,144.76,371.80,18.36;1,42.52,167.76,319.08,18.36;1,42.52,190.76,386.62,18.36;2,113.39,72.80,113.98,9.73">Constraint-induced movement therapy (CIMT) is one of the few treatments that has been thoroughly investigated Randomized controlled trial combining constraint-induced movement therapy and action-observation training in unilateral cerebral palsy: clinical effects and influencing factors of treatment response and proven to be effective. <ref type="bibr" coords="2,223.78,72.80,3.59,6.06" target="#b1">2</ref></s><s coords="2,229.73,73.21,97.36,9.32;2,113.39,85.21,213.65,9.32;2,113.39,97.21,213.70,9.32;2,113.39,108.80,43.68,9.73">It consists of constraining the less impaired hand while intensively training the more impaired UL to promote increased use of the latter. <ref type="bibr" coords="2,153.48,108.80,3.59,6.06" target="#b2">3</ref></s><s coords="2,159.42,109.21,167.66,9.32;2,113.38,121.21,213.67,9.32;2,113.38,133.21,213.71,9.32;2,113.38,144.80,80.62,9.73">Whilst CIMT focuses on improving UL movement quality and efficiency, children with uCP also show deficits in motor representation and motor planning. <ref type="bibr" coords="2,185.13,144.80,5.92,6.06" target="#b3">4,</ref><ref type="bibr" coords="2,191.05,144.80,2.96,6.06" target="#b4">5</ref></s><s coords="2,200.25,145.21,126.82,9.32;2,113.39,157.21,213.68,9.32;2,113.39,169.21,177.00,9.32">To overcome these deficits, action-observation training (AOT) has been suggested as a potential treatment modality.</s><s coords="2,294.17,169.21,32.92,9.32;2,113.39,181.21,213.71,9.32;2,113.39,193.21,213.69,9.32;2,113.39,205.21,213.66,9.32;2,113.39,216.80,54.75,9.73">AOT is based on the well-established principle that observation of actions activates the same cortical structures that are active during the actual performance of the task. <ref type="bibr" coords="2,164.55,216.80,3.59,6.06" target="#b5">6</ref></s><s coords="2,173.24,217.21,153.82,9.32;2,113.38,229.21,213.70,9.32;2,113.38,240.80,213.69,9.73;2,113.39,253.21,213.66,9.32;2,113.39,265.21,213.68,9.32;2,113.39,277.21,153.84,9.32">Although preliminary evidence has shown positive effects of AOT on UL function in children with uCP, <ref type="bibr" coords="2,195.86,240.80,3.59,6.06" target="#b6">7</ref> it remains unknown whether the combination of CIMT and AOT would enhance the effect of CIMT on improving UL sensorimotor function in these children.</s></p><p><s coords="2,113.39,301.21,213.70,9.32;2,113.39,313.21,213.71,9.32;2,113.39,324.80,213.68,9.73;2,113.39,337.21,213.68,9.32;2,113.39,349.21,213.69,9.32;2,113.39,361.21,213.66,9.32;2,113.39,373.21,38.93,9.32">Despite increasing evidence proving the effectiveness of CIMT, the large variability in reported results leads to overall small to medium effect sizes (ESs). <ref type="bibr" coords="2,323.48,324.80,3.59,6.06" target="#b1">2</ref> Therefore, identifying factors influencing treatment response would contribute to the development of more efficient and more individualized treatment planning.</s><s coords="2,154.27,373.21,172.81,9.32;2,113.39,384.80,213.68,9.73;2,113.38,396.80,177.38,9.73">Poor initial hand function has influenced a better response to CIMT in previous studies, <ref type="bibr" coords="2,305.73,384.80,3.59,6.06" target="#b7">8</ref> but there remains controversy regarding age. <ref type="bibr" coords="2,282.01,396.80,5.83,6.06" target="#b7">8,</ref><ref type="bibr" coords="2,287.84,396.80,2.92,6.06" target="#b8">9</ref></s><s coords="2,293.70,397.21,33.37,9.32;2,113.39,409.21,213.71,9.32;2,113.39,421.21,213.67,9.32;2,113.39,432.80,32.13,9.73">In adult stroke survivors, there is preliminary evidence that sensory deficits may also influenced UL motor outcome. <ref type="bibr" coords="2,138.51,432.80,7.01,6.06" target="#b9">10</ref></s><s coords="2,147.86,433.21,179.23,9.32;2,113.39,445.21,213.66,9.32;2,113.39,457.21,172.20,9.32">We hypothesize that children with impaired sensory function might also benefit more from the intensive use of their more impaired hand.</s><s coords="2,287.62,457.21,39.43,9.32;2,113.39,469.21,213.66,9.32;2,113.39,480.80,213.67,9.73;2,113.39,493.21,117.38,9.32">Similarly, mirror movements (MM) have a negative impact on UL function, <ref type="bibr" coords="2,167.49,480.80,7.01,6.06" target="#b10">11</ref> yet their value to influence treatment response remains unknown.</s><s coords="2,234.09,493.21,93.00,9.32;2,113.39,505.21,213.67,9.32;2,113.39,517.21,213.67,9.32;2,113.39,529.21,213.68,9.32;2,113.39,541.21,213.68,9.32;2,113.39,552.80,44.13,9.73">Among potential neurological factors are the underlying lesion type (predominantly white matter versus grey matter damage) and the corticospinal tract (CST) wiring pattern, due to their value in explaining variability in UL function. <ref type="bibr" coords="2,150.51,552.80,7.01,6.06" target="#b11">12</ref></s><s coords="2,161.10,553.21,165.96,9.32;2,113.39,565.21,213.69,9.32;2,113.39,576.80,27.10,9.73">Thus far, only one small study showed improvements after CIMT regardless of the lesion type. <ref type="bibr" coords="2,133.48,576.80,7.01,6.06" target="#b12">13</ref></s><s coords="2,162.04,600.80,165.06,9.73;2,113.38,613.21,213.69,9.32;2,113.38,624.80,213.70,9.73;2,113.38,636.80,213.69,9.73">4]<ref type="bibr" coords="2,162.04,600.80,6.78,6.06" target="#b14">[15]</ref> Some studies have reported a worse outcome after CIMT in children with an ipsilateral CST wiring <ref type="bibr" coords="2,163.47,624.80,9.36,6.06" target="#b13">14,</ref><ref type="bibr" coords="2,172.83,624.80,6.24,6.06" target="#b14">15</ref> whilst others showed positive outcome irrespective of the CST wiring pattern. <ref type="bibr" coords="2,320.06,636.80,7.01,6.06" target="#b12">13</ref></s><s coords="2,113.39,649.21,213.69,9.32;2,113.39,661.21,213.68,9.32;2,113.39,673.21,24.05,9.32">evertheless, these studies had small sample sizes and did not include children with different lesion types.</s></p><p><s coords="2,113.39,697.21,213.72,9.32;2,113.39,709.21,213.69,9.32;2,339.07,73.21,213.67,9.32;2,339.07,85.21,213.70,9.32;2,339.07,97.21,213.68,9.32;2,339.07,109.21,85.80,9.32">The aim of this study was twofold: we first investigated the added value of AOT to CIMT in improving UL sensorimotor function in children with uCP; and secondly, we explored the influence of behavioural and neurological factors treatment response.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,339.07,144.91,104.14,9.18">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,339.07,168.91,51.05,9.37">Participants</head><p><s coords="2,339.07,181.21,213.70,9.32;2,339.07,192.80,213.69,9.73;2,339.07,205.21,164.17,9.32">This prospective randomized with blinded evaluation trial has been fully described elsewhere, <ref type="bibr" coords="2,545.58,192.80,7.18,6.06" target="#b15">16</ref> and will be briefly summarized here.</s><s coords="2,507.27,205.21,45.47,9.32;2,339.07,217.21,213.66,9.32;2,339.07,229.21,213.71,9.32;2,339.07,241.21,213.69,9.32;2,339.07,253.21,94.91,9.32">The study was conducted at KU Leuven and was approved by the Ethics Committee of the University Hospitals Leuven (S56513) and registered at www.clinicaltrials.gov</s><s coords="2,438.41,253.21,81.36,9.32">(ClinicalTrials.gov</s><s coords="2,524.20,253.21,28.55,9.32;2,339.07,265.21,95.01,9.32">identifier: NCT03256357).</s><s coords="2,437.13,265.21,115.63,9.32;2,339.07,277.21,213.71,9.32;2,339.07,289.21,79.04,9.32">All children agreed to participate, and their parents or caregivers signed the informed consent.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,339.07,324.91,151.46,9.37">Study population and randomization</head><p><s coords="2,339.07,337.21,213.66,9.32;2,339.07,349.21,213.66,9.32;2,339.07,361.21,213.70,9.32;2,339.07,373.21,35.32,9.32">Children with uCP were recruited between June 2014 and June 2017 via the cerebral palsy (CP) reference centre of the University Hospitals Leuven.</s><s coords="2,380.41,373.21,172.33,9.32;2,339.07,385.21,213.69,9.32;2,339.07,397.21,213.68,9.32;2,339.07,409.21,213.69,9.32;2,339.07,421.21,213.70,9.32;2,339.07,433.21,213.70,9.32;2,339.07,444.80,89.66,10.15">Inclusion criteria were (a) confirmed diagnosis of uCP, (b) aged 6-12 years, (c) sufficient cooperation to complete the activities and assessments, and (d) minimal ability to actively grasp and stabilize an object with the more impaired hand [House Functional Classification Score (HFC) ⩾ 4]. <ref type="bibr" coords="2,421.55,444.80,7.18,6.06" target="#b16">17</ref></s><s coords="2,433.09,445.21,119.65,9.32;2,339.07,457.21,213.68,9.32;2,339.07,469.21,213.69,9.32;2,339.07,481.21,25.32,9.32">Children were excluded in case of UL surgery in the last 2 years, or botulinum toxin A-injections 6 months prior to enrolment.</s><s coords="2,368.07,481.21,184.67,9.32;2,339.07,493.21,213.69,9.32;2,339.07,505.21,213.70,9.32;2,339.07,517.21,213.69,9.32;2,339.07,529.03,213.69,9.92;2,339.07,541.21,213.65,9.32">The participants were stratified according to the HFC scale (4-5 versus 6-7), age (6-9 years versus 10-12 years), and the CST wiring pattern (contralateral, bilateral, ipsilateral) and assigned to the CIMT + AOT or CIMT + placebo AOT group by using a permuted block design of two.</s><s coords="2,339.07,553.21,213.67,9.32;2,339.07,565.21,213.68,9.32;2,339.07,577.21,57.95,9.32">Randomization was performed by a researcher (HF) independent of the recruitment and evaluation sessions.</s><s coords="2,400.47,577.21,152.31,9.32;2,339.07,589.21,213.68,9.32;2,339.07,601.21,213.70,9.32;2,339.07,613.21,213.69,9.32;2,339.07,625.21,213.69,9.32;2,339.07,636.80,18.54,9.73">Sample size estimation for the primary outcome measure was conducted prior to study initiation, resulting in a total of 21 children in each group (ES = 0.9, alpha-level = 0.05, statistical power = 0.80), as described in more detailed in. <ref type="bibr" coords="2,350.43,636.80,7.18,6.06" target="#b15">16</ref></s><s coords="2,361.24,637.21,191.50,9.32;2,339.07,649.21,119.44,9.32">The sample size was increased to a total of 44 to account for dropouts.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,339.07,684.91,50.95,9.37">Intervention</head><p><s coords="2,339.07,697.21,213.66,9.32;2,339.07,709.21,213.69,9.32;3,42.52,385.21,112.56,9.32">The intervention was delivered in a day camp model during 9 out of 11 consecutive days (6 h/day, total of 54 h of therapy).</s><s coords="3,160.39,385.21,95.84,9.32;3,42.52,397.21,213.65,9.32;3,42.52,409.21,213.68,9.32;3,42.52,421.21,213.69,9.32;3,42.52,433.21,202.65,9.32">During the camp, all children wore a tailor-made hand splint on the less impaired hand while performing unimanual exercises during individual therapy (9 h), group activities (30 h), and AOT/placebo condition (15 h).</s><s coords="3,249.02,433.21,7.19,9.32;3,42.52,445.21,213.67,9.32;3,42.51,457.21,213.69,9.32;3,42.51,469.21,66.72,9.32">A day (6 h of therapy) was structured with 1 h of individual therapy, 2 h of AOT/placebo, and 3 h of group activities.</s><s coords="3,111.91,469.21,144.31,9.32;3,42.51,481.21,213.66,9.32;3,42.51,493.21,97.91,9.32">The children wore the hand splint during the whole time of the camp, as long as daily life activities (i.e.</s><s coords="3,144.48,493.21,111.72,9.32;3,42.51,505.21,33.99,9.32">eating and toileting) were feasible.</s></p><p><s coords="3,42.51,529.21,213.66,9.32;3,42.51,541.21,213.71,9.32;3,42.51,553.21,213.71,9.32;3,42.51,565.21,213.70,9.32;3,42.51,577.21,160.02,9.32">The individual therapy was based on motor learning principles of shaping and repetitive practice by focusing on four goals: (a) active wrist and elbow extension, (b) forearm supination, (c) grip strength, and (d) fine motor tasks.</s><s coords="3,207.80,577.21,48.38,9.32;3,42.51,589.21,213.68,9.32;3,42.51,601.21,213.67,9.32;3,42.51,613.21,173.02,9.32">The group activities consisted of painting, crafting, cooking, and outdoor playing, selected to stimulate the intensive use of the more impaired hand.</s><s coords="3,217.79,613.21,38.39,9.32;3,42.51,625.03,213.68,9.92;3,42.50,637.21,74.91,9.32">Children assigned to the CIMT + AOT group received 15 h of AOT sessions.</s><s coords="3,120.76,637.21,135.42,9.32;3,42.50,649.21,213.67,9.32;3,42.50,661.21,213.69,9.32;3,42.50,673.21,213.70,9.32;3,42.50,685.21,213.68,9.32;3,42.50,697.21,143.10,9.32">During these sessions, children watched video sequences showing unimanual goal-directed actions, adapted to the child's functional level: easier activities for children with a HFC level of 4-5 and more difficult activities for children with a HFC level of 6-7.</s><s coords="3,188.06,697.21,68.09,9.32;3,42.50,709.21,213.65,9.32;3,268.18,385.21,213.68,9.32;3,268.18,396.80,123.41,9.73">The description of the activities can be found in more detail elsewhere (Figure <ref type="figure" coords="3,346.26,385.21,5.52,9.32" target="#fig_0">1</ref> and Additional files of Simon-Martinez and colleagues). <ref type="bibr" coords="3,384.44,396.80,7.14,6.06" target="#b15">16</ref></s><s coords="3,396.81,397.21,85.08,9.32;3,268.20,409.21,213.67,9.32;3,268.20,421.21,188.09,9.32">Each AOT session lasted about 1 h and 15 AOT sessions were performed over 9 days (either 1 or 2 per day).</s><s coords="3,460.18,421.21,21.71,9.32;3,268.20,433.21,213.68,9.32;3,268.20,445.21,102.81,9.32">Each AOT session contained 3 sub-activities, which were watched for 3 min.</s><s coords="3,373.68,445.21,108.22,9.32;3,268.20,457.21,213.69,9.32">After watching the video, the children executed the observed task for 3 min.</s><s coords="3,268.20,469.21,213.70,9.32;3,268.20,481.21,52.41,9.32">This process was repeated a second time for each sub-activity.</s><s coords="3,323.94,481.21,157.92,9.32;3,268.20,493.21,213.72,9.32;3,268.20,505.21,179.88,9.32">The completion of the AOT session was achieved when the 3 sub-activities of the session were watched, and its tasks executed.</s><s coords="3,450.61,505.21,31.30,9.32;3,268.20,517.21,213.69,9.32;3,268.20,529.21,117.61,9.32">In conclusion, per AOT session the videos were watched for 18 min (6 times, 3 min).</s><s coords="3,388.47,529.03,93.42,9.92;3,268.20,541.21,213.67,9.32;3,268.20,553.21,19.18,9.32">The CIMT + placebo group watched video games free of human motion (e.g.</s><s coords="3,292.49,553.21,166.48,9.32">Tetris, Word Soup, Hanged Game).</s><s coords="3,464.08,553.21,17.80,9.32;3,268.20,565.21,213.70,9.32;3,268.20,577.21,189.03,9.32">The children interacted with the game whilst the therapists controlled the mouse and/or keyboard.</s><s coords="3,459.99,577.21,21.87,9.32;3,268.20,589.21,213.69,9.32;3,268.20,601.21,213.68,9.32;3,268.20,613.21,213.66,9.32;3,268.20,625.21,213.70,9.32;3,268.20,637.21,73.97,9.32">After watching the video with the sub-activity being repeated for 3 min, they executed the same subactivity for 3 min in the same order as the experimental group, for which only verbal, non-suggestive instructions (e.g.</s><s coords="3,346.47,637.21,135.40,9.32;3,268.20,649.21,112.80,9.32">try to extend your wrist, open the hand) were provided.</s><s coords="3,385.18,649.21,96.69,9.32;3,268.20,661.21,213.70,9.32;3,268.20,673.21,122.69,9.32">This ensured that the potential additional measured effect solely derived from the video-observation.</s><s coords="3,395.45,673.21,86.44,9.32;3,268.20,685.21,213.66,9.32;3,268.20,697.21,213.70,9.32;3,268.20,709.21,213.67,9.32">To account for the compliance of the video observation in the experimental group, the therapists asked a yes/no question after the second execution of each sub-activity.</s><s coords="3,158.35,293.67,300.83,8.44;3,42.52,304.17,122.05,8.44">On the top panel, the three sub-activities for children with House Functional Classification (HFC) levels 4-5.</s><s coords="3,166.81,304.17,292.91,8.44">On the bottom panel, three sub-activities for children with HFC levels 6-8.</s><s coords="3,461.96,304.17,13.44,8.44;3,42.52,314.67,421.43,8.44;3,42.52,325.18,180.05,8.44">For both levels, each consecutive sub-activity becomes one step more challenging by changing the direction of inserting the coin, as indicated by the arrows.</s><s coords="3,224.81,325.18,246.55,8.44;3,42.52,335.68,240.17,8.44">Children were shown from the first-person perspective how to grasp the poker coin and insert it in the box through the slot.</s><s coords="3,284.93,335.68,182.96,8.44;3,42.52,346.18,345.10,8.44">Note that the activities for levels 6-8 are more challenging, as they require a combination of increased wrist extension and supination.</s><s coords="4,113.39,73.21,213.67,9.32;4,113.39,85.21,213.66,9.32;4,113.39,97.21,213.67,9.32;4,113.39,109.21,18.06,9.32">These questions were not related to how the movement was performed but rather to features related to the video (e.g. is the box taken from the top?</s><s coords="4,133.69,109.21,150.87,9.32">Did you see the palm of the hand?).</s><s coords="4,286.80,109.21,40.25,9.32;4,113.39,121.21,213.67,9.32;4,113.39,133.21,63.42,9.32">This procedure kept the motivation of the child in observing attentively.</s><s coords="4,179.63,133.21,147.44,9.32;4,113.39,145.21,213.69,9.32;4,113.39,157.21,213.71,9.32;4,113.39,169.21,36.69,9.32">At the end of the intervention, the number of correct answers were summed, ranging from 0 (all answers incorrect) to 45 (all answers correct).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="4,113.39,204.91,44.20,9.37">Evaluation</head><p><s coords="4,113.39,217.21,213.70,9.32;4,113.39,229.21,213.66,9.32;4,113.39,241.21,213.69,9.32;4,113.39,253.21,213.68,9.32;4,113.39,265.21,213.70,9.32;4,113.39,277.21,145.72,9.32">An experienced physiotherapist blinded to group allocation (JH) conducted the evaluations at T0 (baseline, 3-4 months before the intervention), T1 (within 4 days before the intervention), T2 (within 4 days after the intervention), and T3 (6 months after the intervention).</s><s coords="4,262.35,277.21,64.73,9.32;4,113.39,289.21,213.69,9.32;4,113.39,301.21,213.71,9.32;4,113.39,313.21,108.34,9.32">At T0, we collected descriptive and clinical characteristics to individually set the child's therapy goals by experienced physiotherapists.</s><s coords="4,225.32,313.21,101.77,9.32;4,113.39,325.21,213.70,9.32;4,113.39,337.21,16.04,9.32">Primary and secondary outcome measures were collected at T1, T2, and T3.</s><s coords="4,132.72,337.21,194.33,9.32;4,113.39,349.21,213.66,9.32;4,113.39,361.21,213.67,9.32;4,113.39,373.21,213.68,9.32;4,113.39,385.21,187.97,9.32">At T1, we evaluated sensory function, MM, type of brain lesion, and CST wiring pattern, identified with magnetic resonance imaging (MRI) and Transcranial Magnetic Stimulation (TMS), respectively, as influencing factors.</s></p><p><s coords="4,113.39,408.91,85.39,9.37">Outcome measures.</s><s coords="4,203.78,409.21,123.30,9.32;4,113.39,421.21,214.06,9.32;4,113.39,433.21,213.66,9.32;4,113.39,444.80,202.87,9.73">The primary outcome measure was the Assisting Hand Assessment (AHA), which evaluates the spontaneous use of the impaired hand during bimanual activities. <ref type="bibr" coords="4,300.00,444.80,9.75,6.06" target="#b17">18,</ref><ref type="bibr" coords="4,309.75,444.80,6.50,6.06" target="#b18">19</ref></s><s coords="4,319.88,445.21,7.19,9.32;4,113.38,457.21,213.66,9.32;4,113.38,469.21,163.19,9.32">A certified rater scored the videos, blinded to groupallocation and time-point evaluation.</s><s coords="4,278.83,469.21,48.22,9.32;4,113.38,480.80,181.89,9.73">The smallest detectable difference is 5 AHA units. <ref type="bibr" coords="4,288.09,480.80,7.18,6.06" target="#b19">20</ref></s><s coords="4,113.39,505.21,213.68,9.32;4,113.39,517.21,213.69,9.32;4,113.39,529.21,213.69,9.32;4,113.39,541.21,213.70,9.32;4,113.39,552.80,177.98,9.73">condary outcome measures comprised body function (muscle tone, muscle strength and grip strength) and activity (unimanual movement speed and unimanual and bimanual dexterity) measures, following a valid and reliable protocol. <ref type="bibr" coords="4,284.29,552.80,7.08,6.06" target="#b20">21</ref></s><s coords="4,295.94,553.21,31.13,9.32;4,113.39,565.21,213.71,9.32;4,113.39,576.80,213.69,9.73;4,113.39,589.21,213.66,9.32;4,113.39,600.80,213.70,9.73;4,113.39,612.80,213.68,9.73;4,113.39,625.21,213.67,9.32;4,113.39,637.21,27.63,9.32">Muscle tone was assessed using the Modified Ashworth Scale, <ref type="bibr" coords="4,138.23,576.80,7.08,6.06" target="#b21">22</ref> We evaluated muscle strength using the 8-point ordinal scale of the Medical Research Council <ref type="bibr" coords="4,147.14,600.80,7.08,6.06" target="#b22">23</ref> and grip strength using the mean of three maximum contractions with the Jamar ® dynamometer (Sammons Preston, Rolyan, Bolingbrook, IL, USA).</s><s coords="4,144.91,637.21,182.18,9.32;4,113.39,648.80,157.67,9.73">Movement quality was evaluated with the Melbourne Assessment 2 (MA2). <ref type="bibr" coords="4,255.20,648.80,9.52,6.06" target="#b23">24,</ref><ref type="bibr" coords="4,264.71,648.80,6.34,6.06" target="#b24">25</ref></s><s coords="4,273.70,649.21,53.38,9.32;4,113.39,661.21,213.68,9.32;4,113.39,673.21,213.69,9.32;4,113.39,685.21,19.51,9.32">The test was scored afterwards by a trained physiotherapist blinded to group-allocation and time-point evaluation.</s><s coords="4,139.25,685.21,187.84,9.32;4,113.39,697.21,213.67,9.32;4,113.39,709.21,39.59,9.32">At activity level, we included unimanual movement speed and unimanual and bimanual dexterity.</s><s coords="4,157.29,709.21,169.79,9.32;4,339.07,73.21,213.67,9.32;4,339.07,85.21,213.70,9.32;4,339.07,96.80,59.12,9.73">Movement speed (time) was evaluated during six unimanual tasks with the modified version of the Jebsen-Taylor Hand Function test (JTHFT). <ref type="bibr" coords="4,382.33,96.80,9.52,6.06" target="#b25">26,</ref><ref type="bibr" coords="4,391.85,96.80,6.34,6.06" target="#b26">27</ref></s><s coords="4,401.74,97.21,150.99,9.32;4,339.07,109.21,213.69,9.32;4,339.07,120.80,213.68,9.73">For this test, the minimal clinically important difference has been reported to be 54.7 s in a group of children with CP (80% of uCP). <ref type="bibr" coords="4,545.68,120.80,7.08,6.06" target="#b27">28</ref></s><s coords="4,339.07,133.21,213.68,9.32;4,339.07,145.21,213.69,9.32;4,339.07,156.80,141.80,9.73">nimanual and bimanual dexterity were evaluated using the Tyneside Pegboard Test, an instrumented 9-hole pegboard test. <ref type="bibr" coords="4,473.79,156.80,7.08,6.06" target="#b28">29</ref></s><s coords="4,487.17,157.21,65.58,9.32;4,339.07,169.21,213.71,9.32;4,339.07,181.21,213.68,9.32;4,339.07,193.21,40.97,9.32">Lastly, parents were asked to complete the ABILHAND-Kids and the Children's Hand-use Experience Questionnaire (CHEQ).</s><s coords="4,382.72,193.21,170.03,9.32;4,339.07,205.21,213.66,9.32;4,339.07,217.21,147.47,9.32">More detailed information on the evaluation of the secondary outcome measures can be found in Supplementary Materials.</s></p><p><s coords="4,339.07,240.91,188.69,9.37">Influencing factors of treatment response.</s><s coords="4,532.75,241.21,20.01,9.32;4,339.07,253.21,213.69,9.32;4,339.07,265.21,213.70,9.32;4,339.07,277.21,213.68,9.32;4,339.07,288.80,213.70,9.73;4,339.07,301.21,213.71,9.32;4,339.07,312.80,78.29,9.73">Sensory assessments comprised measures of exteroception (tactile sense), proprioception (movement sense), two-point discrimination (2PD, Aesthesiometer ® ) and stereognosis (tactile object identification), which have been shown to be reliable in this population. <ref type="bibr" coords="4,410.18,312.80,7.18,6.06" target="#b20">21</ref></s><s coords="4,421.78,313.21,130.96,9.32;4,339.07,325.21,213.71,9.32;4,339.07,337.21,128.61,9.32">Tactile and movement sense were classified as normal (score 2), impaired (score 1) or absent (score 0).</s><s coords="4,470.67,337.21,82.09,9.32;4,339.07,349.21,213.65,9.32;4,339.07,361.21,213.71,9.32;4,339.07,373.21,214.07,9.32;4,339.07,384.80,45.08,9.73">2PD was classified according to the minimum width between the two points that the children could discriminate: normal (0-4 mm, score 2), or impaired (&gt;4 mm, score 1). <ref type="bibr" coords="4,376.97,384.80,7.18,6.06" target="#b29">30</ref></s><s coords="4,386.05,385.21,166.70,9.32;4,339.07,397.21,213.68,9.32;4,339.07,409.21,72.52,9.32">Tactile object identification was quantified as the number of objects that the child could recognize (0-6).</s><s coords="4,416.01,409.21,136.75,9.32;4,339.07,420.80,213.69,9.73;4,339.07,433.21,214.09,9.32;4,339.07,445.21,213.66,9.32;4,339.07,456.80,152.52,9.73">In addition, a kit of 20 nylon monofilaments (0.04-300 g) (Jamar ® Monofilaments, Sammons Preston, Rolyan, Bolingbrook, IL, USA) was used to reliably determine threshold values for touch sensation. <ref type="bibr" coords="4,475.33,456.80,9.75,6.06" target="#b30">31,</ref><ref type="bibr" coords="4,485.08,456.80,6.50,6.06" target="#b31">32</ref></s><s coords="4,494.30,457.21,58.45,9.32;4,339.07,469.21,214.09,9.32;4,339.07,481.21,213.68,9.32;4,339.07,493.21,213.68,9.32;4,339.07,505.21,214.09,9.32;4,339.07,517.21,108.55,9.32">Touch sensation was categorized as normal (0.008-0.07 g), diminished light touch (0.16-0.4 g), diminished protective sensation (0.6-2 g), loss of protective sensation (4.19-180 g) and untestable (300 g), according to the manual.</s><s coords="4,339.07,541.21,213.70,9.32;4,339.07,553.21,213.71,9.32;4,339.07,565.21,213.69,9.32;4,339.07,576.80,42.10,9.73">MM were quantitatively assessed with the grip force tracking device during a squeezing task, following the protocol defined by Jaspers and colleagues. <ref type="bibr" coords="4,373.96,576.80,7.21,6.06" target="#b32">33</ref></s><s coords="4,384.80,577.21,167.95,9.32;4,339.07,589.21,213.70,9.32;4,339.07,601.21,194.19,9.32">Before performing the task, we tested the maximum voluntary contraction of each hand, starting with the less affected hand.</s><s coords="4,538.01,601.21,14.74,9.32;4,339.07,613.21,213.65,9.32;4,339.07,625.21,213.67,9.32;4,339.07,637.21,213.66,9.32;4,339.07,649.21,163.57,9.32">We instructed the children to play a game requiring rhythmic squeezing of one handle with one hand (active hand), while holding the second handle with the other hand (passive hand).</s><s coords="4,507.07,649.21,45.71,9.32;4,339.07,661.21,213.67,9.32;4,339.07,673.21,213.71,9.32;4,339.07,685.21,213.70,9.32;4,339.07,697.21,213.69,9.32;4,339.07,709.21,85.74,9.32">The game consisted of controlling with the active hand the position of an astronaut (higher forces corresponding to a higher position on the screen), with the goal to jump over meteorites flying across the screen.</s><s coords="4,432.04,709.21,120.73,9.32;5,42.52,73.21,213.69,9.32;5,42.52,85.21,213.68,9.32;5,42.52,97.21,169.01,9.32">MM characterization was based on the comparison of grip force profiles of the active versus the passive hand and consisted of the calculation of MM amplitude.</s><s coords="5,216.08,97.21,40.15,9.32;5,42.52,109.21,213.66,9.32;5,42.52,121.21,213.69,9.32;5,42.52,133.21,213.70,9.32;5,42.52,145.21,191.09,9.32">MM frequency represents the number of squeezes in the passive hand that exceeded a predefined threshold, expressed as a percentage of the total number of squeezes produced in the active hand.</s><s coords="5,235.92,145.21,20.25,9.32;5,42.52,157.21,213.67,9.32;5,42.52,169.21,213.68,9.32;5,42.52,181.21,213.71,9.32;5,42.52,193.21,101.84,9.32">MM amplitude is the average amplitude ratio of the squeezes between both hands, based on only those squeezes in the passive hand that exceeded a predefined threshold.</s><s coords="5,147.35,193.21,108.83,9.32;5,42.52,205.21,213.68,9.32;5,42.52,217.21,213.66,9.32;5,42.52,229.21,51.25,9.32">Lastly, MM amount was computed as the frequency by amplitude product, providing an overall indication of the MM occurrence.</s><s coords="5,96.34,229.21,159.89,9.32;5,42.52,240.80,153.88,9.73">Full details on the calculation can be found in Rudisch and colleagues. <ref type="bibr" coords="5,189.20,240.80,7.21,6.06" target="#b33">34</ref></s><s coords="5,199.42,241.21,56.78,9.32;5,42.52,253.21,213.66,9.32;5,42.52,265.21,36.36,9.32">MM amount in each hand was used for further statistical analysis.</s></p><p><s coords="5,42.52,288.91,213.67,9.37;5,42.52,300.91,167.09,9.37">Brain imaging and neurophysiological evaluation were performed before the intervention.</s><s coords="5,214.51,301.21,41.70,9.32;5,42.52,313.21,213.67,9.32;5,42.52,325.21,213.70,9.32;5,42.52,337.21,162.32,9.32">The MRI was acquired with a 3T system (Achieva, Philips Medical Systems, Best, The Netherlands) equipped with a 32-channel coil.</s><s coords="5,212.22,337.21,44.00,9.32;5,42.52,349.21,213.68,9.32;5,42.52,361.21,213.69,9.32;5,42.52,373.21,158.69,9.32">Structural images were acquired using three-dimensional fluid-attenuated inversion recovery and magnetization prepared rapid gradient echo.</s><s coords="5,203.93,373.21,52.29,9.32;5,42.52,385.21,213.66,9.32;5,42.52,397.21,213.67,9.32;5,42.52,409.21,213.69,9.32;5,42.52,420.80,164.93,9.73">MRI results were used to characterize the lesion type according to the presumed timing (malformation, predominantly white matter, predominantly grey matter) <ref type="bibr" coords="5,74.81,420.80,7.18,6.06" target="#b34">35</ref> by a child neurologist (EO).</s><s coords="5,208.78,421.21,47.45,9.32;5,42.52,433.21,213.71,9.32;5,42.52,445.21,134.45,9.32">To identify the underlying CST wiring pattern, a single-pulse TMS session was conducted.</s><s coords="5,181.43,445.21,74.79,9.32;5,42.52,457.21,213.67,9.32;5,42.52,469.21,213.68,9.32;5,42.52,481.21,214.06,9.32;5,42.52,493.21,214.08,9.32">A MagStim 200 Stimulator (Magstim Ltd., Whitland, Wales, UK) equipped with a focal 70 mm figure-eight coil and a Bagnoli electromyography system (Delsys Inc., Natick, MA, USA) was used for data acquisition.</s><s coords="5,42.52,505.21,213.68,9.32;5,42.52,517.21,213.69,9.32;5,42.52,529.21,213.69,9.32;5,42.52,541.21,213.70,9.32;5,42.52,553.21,214.09,9.32">After identifying the hotspot and the rest motor thresholds, motor evoked potentials were elicited and recorded on the thumb adductor and opponent muscles on both hands to identify the wiring pattern (contralateral, bilateral or ipsilateral).</s><s coords="5,42.52,565.21,213.70,9.32;5,42.52,577.21,214.07,9.32">Children with contraindications to MRI or TMS did not undergo the respective measurement.</s><s coords="5,42.52,589.21,130.94,9.32">There were no adverse events.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="5,42.52,624.91,81.31,9.37">Statistical analyses</head><p><s coords="5,42.52,636.91,146.19,9.37">Effect of the intervention over time.</s><s coords="5,193.51,637.21,62.69,9.32;5,42.52,649.21,213.70,9.32;5,42.52,661.21,161.14,9.32">Normality was checked using the Shapiro-Wilk test and inspection of the histograms for symmetry.</s><s coords="5,205.96,661.21,50.24,9.32;5,42.52,673.21,213.70,9.32;5,42.52,685.21,213.65,9.32;5,42.52,697.21,213.67,9.32;5,42.52,709.21,213.70,9.32;5,268.20,73.21,204.27,9.32">To conduct parametric statistics, a logarithmic transformation was applied to the parameters of grip strength, the JTHFT, the instrumented pegboard test, the 'range of motion' subscale of the MA2, and the 'feeling bothered' subscale of the CHEQ questionnaire.</s><s coords="5,474.67,73.21,7.19,9.32;5,268.20,85.21,213.67,9.32;5,268.20,97.21,163.04,9.32">A reflect and square root transformation was applied to the 'accuracy' subscale of the MA2.</s><s coords="5,433.51,97.21,48.37,9.32;5,268.20,109.21,213.66,9.32;5,268.20,121.21,56.98,9.32">Descriptive statistics were reported according to the nature of the data (i.e.</s><s coords="5,329.10,121.21,152.76,9.32;5,268.20,133.21,213.67,9.32;5,268.20,145.21,103.76,9.32">means and standard deviations for continuous data and median and interquartile ranges for ordinal data).</s><s coords="5,374.63,145.21,107.28,9.32;5,268.20,157.21,214.08,9.32">Mixed models were used to study changes after the intervention over time.</s><s coords="5,268.20,169.21,213.71,9.32;5,268.20,181.21,214.09,9.32">By using random effects, these models can correct for the dependency among repeated observations.</s><s coords="5,268.20,193.21,213.66,9.32;5,268.20,205.21,213.68,9.32;5,268.20,217.21,213.67,9.32;5,268.20,228.80,36.65,9.73">Furthermore, these models deal with missing data offering valid inferences, assuming that missing observations are unrelated to unobserved outcomes. <ref type="bibr" coords="5,297.73,228.80,7.11,6.06" target="#b35">36</ref></s><s coords="5,307.98,229.21,173.89,9.32;5,268.20,241.03,200.29,9.92">Changes over time between groups were tested by including group × time interactions.</s><s coords="5,472.50,241.21,9.38,9.32;5,268.20,253.21,213.69,9.32;5,268.20,265.21,214.11,9.32">In case of a significant interaction, group-dependent changes were investigated separately in each group.</s><s coords="5,268.20,277.21,213.68,9.32;5,268.20,288.80,213.69,9.73;5,268.21,300.80,83.00,10.15;5,351.11,305.90,22.90,6.06;5,373.94,301.03,38.42,9.92;5,412.26,305.90,22.90,6.06;5,435.09,301.03,21.99,9.92;5,456.98,305.90,17.47,6.06;5,474.39,301.21,7.50,9.32;5,268.20,313.21,214.08,9.32">ESs for the full models were calculated from the F-values, according the Cohen's partial η 2 formula [partial η 2 = (F × df between )/((F × df between ) + df within )] and interpreted accordingly (small, 0.02-0.13;</s><s coords="5,268.20,325.21,89.47,9.32">medium, 0.13-0.26;</s><s coords="5,362.68,324.80,82.90,9.73">and large&gt;0.26). <ref type="bibr" coords="5,438.47,324.80,7.11,6.06" target="#b36">37</ref></s><s coords="5,451.03,325.21,30.86,9.32;5,268.21,337.21,213.70,9.32;5,268.21,349.21,214.10,9.32;5,268.21,361.21,157.67,9.32">Significant time trends were further inspected using pairwise post hoc comparisons between T1-T2, T1-T3, and T2-T3 (Bonferroni corrected).</s><s coords="5,429.29,361.21,52.62,9.32;5,268.21,373.21,213.70,9.32;5,268.21,385.21,214.09,9.32;5,268.21,397.21,35.14,9.32">The ESs of these comparisons were calculated and interpreted according to Cohen's d formula (ES-d) (small, 0.2-0.5;</s><s coords="5,305.53,397.03,148.29,9.92;5,453.71,396.80,7.11,6.06">medium, 0.5-0.8, and large &gt;0.8). <ref type="bibr" coords="5,453.71,396.80,7.11,6.06" target="#b37">38</ref></s><s coords="5,268.20,420.91,187.95,9.37">fluencing factors of treatment response.</s><s coords="5,460.95,421.21,20.94,9.32;5,268.20,433.21,213.66,9.32;5,268.20,445.21,214.10,9.32;5,268.20,457.21,213.70,9.32;5,268.20,469.21,213.70,9.32;5,268.20,481.21,213.69,9.32;5,268.20,493.21,64.60,9.32">Both behavioural (age, initial motor function based on AHA and JTHFT score at T1, sensory function, and MM amount) and neurological characteristics (type of brain lesion and CST wiring pattern) were evaluated as potential influencing factors of treatment response.</s><s coords="5,334.57,493.21,147.29,9.32;5,268.20,505.21,213.70,9.32;5,268.20,517.21,96.55,9.32">All variables were included in their original scale except for a dichotomized score for initial motor function.</s><s coords="5,368.21,517.21,113.70,9.32;5,268.20,529.03,213.70,9.92;5,268.20,541.03,213.68,9.92;5,268.20,553.21,125.88,9.32">Initial low motor function was defined as either &lt;50 in the AHA units or &gt;350 s in the JTHFT (defined as the 25th percentiles for the total group at T1).</s><s coords="5,394.57,553.21,87.32,9.32;5,268.20,565.21,213.67,9.32;5,268.20,577.21,213.67,9.32;5,268.20,589.03,213.69,9.92;5,268.20,601.21,28.99,9.32">These variables were included as covariates in the models to influence outcomes in the AHA (bimanual) and JTHFT (unimanual), together with the time × group interaction.</s><s coords="5,300.54,601.21,181.31,9.32;5,268.20,613.21,214.08,9.32">If the interaction with group was not significant, the interaction with time was examined.</s><s coords="5,268.20,625.21,213.71,9.32;5,268.20,637.21,213.70,9.32;5,268.20,649.21,213.66,9.32;5,268.20,661.21,194.95,9.32">Post hoc analyses with Bonferroni correction were conducted in case of significant interactions and trends (&lt;0.10), as this would allow us to capture tendencies immediately after the intervention.</s></p><p><s coords="5,268.20,685.21,213.69,9.32;5,268.20,697.21,213.70,9.32;5,268.20,709.21,147.47,9.32">All statistical analyses were performed using SPSS Statistics for Windows version 25.0 (IBM Corp. Armonk, NY: IBM Corp.).</s><s coords="5,418.58,709.21,63.32,9.32;6,458.74,744.66,94.02,6.10">The two-sided journals.sagepub.com/home/tan</s><s coords="6,113.39,73.21,213.70,9.32;6,113.39,85.21,74.19,9.32">5% level of significance was used for interactions and main effects.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="6,113.39,120.91,34.54,9.18">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="6,113.39,144.91,51.05,9.37">Participants</head><p><s coords="6,113.39,157.21,213.71,9.32;6,113.39,169.21,213.68,9.32;6,113.38,181.21,213.66,9.32;6,113.38,192.80,213.69,9.73;6,113.39,205.21,213.70,9.32;6,113.39,217.03,213.68,9.92;6,113.39,229.03,213.67,9.92;6,113.39,241.21,156.80,9.32">A total of 44 children participated in the study [mean age (SD) 9 years 6 months (1 year 10 months); 27 boys; 23 left-sided uCP; 9 Manual Ability Classification System I (MACS), <ref type="bibr" coords="6,302.61,192.80,7.18,6.06" target="#b38">39</ref>  <ref type="bibr" coords="6,316.03,193.21,11.04,9.32" target="#b14">15</ref> MACS II, and 20 MACS III], and were allocated to the CIMT + AOT group (n = 22) and CIMT + placebo group (n = 22) (Table <ref type="table" coords="6,318.62,229.21,4.22,9.32" target="#tab_0">1</ref>; Supporting information Table <ref type="table" coords="6,251.96,241.21,9.12,9.32" target="#tab_0">S1</ref>).</s><s coords="6,274.52,241.21,52.56,9.32;6,113.39,253.21,213.67,9.32;6,113.39,265.03,213.69,9.92;6,113.39,277.21,196.20,9.32">All children completed the intervention program (100% compliance), but two allocated to the CIMT + placebo group were lost to follow-up (Figure <ref type="figure" coords="6,297.30,277.21,4.10,9.32" target="#fig_2">2</ref>).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="6,113.39,312.91,77.93,9.37">Treatment efficacy</head><p><s coords="6,113.39,325.21,213.71,9.32;6,113.39,337.21,197.45,9.32">Table <ref type="table" coords="6,143.27,325.21,5.52,9.32" target="#tab_1">2</ref> summarizes the outcome measures for each intervention group at every time point.</s><s coords="6,314.26,337.21,12.81,9.32;6,113.39,349.21,213.70,9.32;6,113.39,361.21,213.70,9.32;6,113.39,373.21,213.67,9.32;6,113.39,385.21,213.69,9.32;6,113.39,397.21,107.90,9.32">All children who received AOT sessions showed a good compliance to the video observation, based on the number of correct answers to the videorelated questions (median = 42, interquartile range = 5, range 30-45).</s><s coords="6,224.60,397.21,102.45,9.32;6,113.39,409.21,213.69,9.32;6,113.39,421.03,197.26,9.92">No differences in hand function between groups were found at T1 (all p &gt; 0.05, Table <ref type="table" coords="6,184.08,421.21,11.56,9.32" target="#tab_1">S2</ref> Supporting information).</s></p><p><s coords="6,113.39,444.91,138.43,9.37">The added value of AOT to CIMT.</s><s coords="6,256.71,445.21,70.37,9.32;6,113.39,457.21,213.68,9.32;6,113.39,469.03,213.68,9.92;6,113.39,481.03,214.09,9.92">We did not find between-groups differences in improvements over time on the primary outcome (AHA; p &gt; 0.05) nor on the secondary outcomes (all p &gt; 0.05, Table <ref type="table" coords="6,315.29,481.21,4.06,9.32" target="#tab_1">2</ref>).</s><s coords="6,179.85,517.21,128.30,9.32"><ref type="table" coords="6,179.85,517.21,11.26,9.32" target="#tab_3">S3</ref> of Supporting information.</s><s coords="6,309.57,517.21,17.50,9.32;6,113.39,529.21,213.69,9.32;6,113.39,541.03,213.67,9.92;6,113.39,553.21,213.66,9.32;6,113.39,565.03,213.67,9.92;6,113.39,577.03,83.62,9.92">The total group improved over time in the AHA (p &lt; 0.001), with a significant mean improvement of 2.21 AHA units immediately after the intervention (T1-T2, p &lt; 0.001) and maintained at follow-up (T2-T3, p &lt; 0.001).</s><s coords="6,198.32,577.21,129.16,9.32">ESs were low (ES = 0.14-0.18).</s><s coords="6,113.39,589.21,213.71,9.32;6,113.39,601.21,213.67,9.32;6,113.39,613.03,213.68,9.92;6,113.38,625.21,100.47,9.32">Immediately after the intervention, most of the children (n = 32, 74%) improved their AHA score, of which 28% (n = 9) showed an improvement ⩾5 AHA units (Figure <ref type="figure" coords="6,194.79,625.21,11.62,9.32" target="#fig_3">3 a</ref>).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="6,113.39,504.91,213.68,9.62;6,113.39,517.21,63.44,9.32">Improvements over time. The descriptive data is shown in Table</head><p><s coords="6,113.38,649.21,172.10,9.32">Each bar represents an individual child.</s><s coords="6,288.22,649.21,38.87,9.32;6,113.38,661.21,213.67,9.32;6,113.38,673.21,213.69,9.32;6,113.38,685.21,213.69,9.32;6,113.38,697.21,71.93,9.32">The grey horizontal line represents the smallest detectable difference for the AHA test (5 AHA units) and the minimal clinically important difference for the JTHFT (54.7 s).</s></p><p><s coords="6,339.06,73.21,213.66,9.32;6,339.06,85.03,213.69,9.92;6,339.06,97.03,213.69,9.92;6,339.06,109.03,184.69,9.92">At body function level, we found an improvement in grip and muscle strength (p &lt; 0.001), occurring immediately after the intervention (p &lt; 0.001) and maintained at follow-up (p &lt; 0.001).</s><s coords="6,528.36,109.21,24.38,9.32;6,339.06,121.21,213.70,9.32;6,339.06,133.21,213.67,9.32;6,339.06,145.03,213.69,9.92;6,339.06,157.21,114.75,9.32">From the MA2 scale, only range of motion improved over time (p = 0.04), although the improvements were not immediately after the camp (p &gt; 0.05), but at follow-up (p = 0.04).</s><s coords="6,455.86,157.21,96.90,9.32;6,339.06,169.03,184.50,9.92">No significant changes were found for spasticity scores (p &gt; 0.05).</s></p><p><s coords="6,339.06,193.21,213.67,9.32;6,339.06,205.03,213.69,9.92;6,339.06,217.21,213.68,9.32;6,339.06,229.03,213.67,9.92;6,339.06,241.03,51.35,9.92">At activity level, we found large improvements in movement speed (JTHFT, p &lt; 0.001), performing on average 43 s faster after the intervention (p &lt; 0.001) and retaining the gains at follow-up (p &lt; 0.001).</s><s coords="6,395.22,241.21,157.54,9.32;6,339.06,253.21,213.68,9.32;6,339.06,265.21,213.70,9.32;6,339.06,277.21,154.05,9.32">After the intervention, 89% of the children (n = 39) improved, and 39% (n = 17) improved more than the minimal clinically important difference (54.7 s) (Figure <ref type="figure" coords="6,472.93,277.21,11.93,9.32" target="#fig_3">3 b</ref>).</s><s coords="6,495.39,277.21,57.37,9.32;6,339.06,289.21,213.69,9.32;6,339.06,301.21,213.67,9.32;6,339.06,313.21,141.94,9.32">At follow-up, 68% (n = 30) maintained the gains, and 32% (n = 14) maintained the gains beyond the minimal clinically important difference.</s><s coords="6,488.28,313.21,64.45,9.32;6,339.06,325.21,213.66,9.32;6,339.06,337.03,162.19,9.92">The improvements were also large in unimanual and bimanual dexterity (pegboard test, all p &lt; 0.02).</s><s coords="6,503.57,337.21,49.17,9.32;6,339.06,349.21,213.68,9.32;6,339.06,361.03,213.68,9.92;6,339.06,373.03,139.44,9.92">Unimanual dexterity improved immediately after the intervention (p &lt; 0.01) and improvements were retained at follow-up (p &lt; 0.05).</s><s coords="6,481.31,373.21,71.44,9.32;6,339.06,385.21,213.68,9.32;6,339.06,397.21,213.67,9.32;6,339.06,409.21,213.71,9.32;6,339.06,421.21,213.71,9.32">The 'small pegs' condition was incomplete for eight children before the camp, although six of these eight children could complete the task after the camp, and four of them still completed it at follow-up.</s><s coords="6,339.06,433.21,213.69,9.32;6,339.06,445.03,213.68,9.92;6,339.06,457.03,45.83,9.92">Bimanual dexterity also improved immediately after the intervention (p &lt; 0.01) and at follow-up (p &lt; 0.01).</s><s coords="6,389.57,457.21,163.17,9.32;6,339.06,469.21,213.69,9.32;6,339.06,481.21,213.67,9.32;6,339.06,493.21,213.67,9.32;6,339.06,505.21,213.70,9.32;6,339.06,517.21,96.18,9.32">Lastly, the CHEQ results showed a reduction in time consumption and feeling bothered while performing activities (p = 0.009 and p = 0.04, respectively), increasing by 4.47% (T1 versus T2, p = 0.008) and 5.96% (T1 versus T2, p = 0.03), respectively.</s><s coords="6,437.77,517.21,114.98,9.32;6,339.06,529.21,171.71,9.32">ABILHAND-Kids did not change after the intervention (p = 0.65).</s></p><p><s coords="6,339.06,552.80,164.43,9.73;6,504.74,553.03,48.02,9.92;6,339.07,565.21,119.11,9.32">In summary, we found large ESs (η 2 &gt; 0.26) on most outcomes over time.</s><s coords="6,463.15,565.21,89.62,9.32;6,339.07,577.21,213.68,9.32;6,339.07,589.21,92.20,9.32;6,339.07,649.21,213.71,9.32;6,339.07,661.21,213.67,9.32;6,339.07,673.21,201.32,9.32">We found improvements immediately after the intervention on muscle strength (ES-d 0. Lastly, the subscales of the CHEQ 'feeling bothered' and 'time used' improved with large (ES-d 0.85) and small (ES-d 0.31) ESs, respectively.</s><s coords="6,543.30,673.21,9.48,9.32;6,339.07,685.21,213.69,9.32;6,339.07,697.21,152.89,9.32">In addition, the retained gains were also captured by these assessments with similar ESs.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="8,113.39,528.91,79.07,9.37">Influencing factors</head><p><s coords="8,113.39,541.21,213.66,9.32;8,113.39,553.21,213.69,9.32;8,113.39,565.21,213.66,9.32;8,113.39,577.21,213.65,9.32;8,113.39,589.21,128.23,9.32">We evaluated the influence of behavioural and neurological characteristics on treatment outcome for the primary outcome measure (AHA) and for movement speed (JTHFT), as it showed the largest ES (&gt;5, Table <ref type="table" coords="8,229.33,589.21,4.10,9.32" target="#tab_1">2</ref>).</s><s coords="8,244.69,589.21,82.41,9.32;8,113.39,601.21,213.70,9.32;8,113.39,613.21,213.66,9.32;8,113.39,625.21,213.70,9.32;8,113.39,637.21,118.87,9.32">An overview of the statistical results is reported in Table <ref type="table" coords="8,276.17,601.21,4.22,9.32" target="#tab_3">3</ref>. Table <ref type="table" coords="8,315.63,601.21,11.46,9.32">S4</ref> in 'Supporting information' reports the number of children included in each category for the significant influencing factors.</s></p><p><s coords="8,113.39,660.91,213.68,9.37;8,113.39,672.91,63.76,9.37">Are there subgroups of children who respond better to AOT?</s><s coords="8,182.45,673.21,144.63,9.32;8,113.39,685.21,213.66,9.32;8,339.07,529.21,213.69,9.32;8,339.07,541.21,213.70,9.32;8,339.08,553.21,191.01,9.32">We found a trend toward a significant influence of initial hand function (AHA score) on treatment response at three time points (F = 3.00, p = 0.06; Figure <ref type="figure" coords="8,495.44,541.21,5.52,9.32" target="#fig_4">4</ref> (a), which was significant between T1-T2 (p = 0.02).</s><s coords="8,532.43,553.21,20.33,9.32;8,339.08,565.21,213.71,9.32;8,339.08,577.03,213.69,9.92;8,339.08,589.03,188.04,9.92">This interaction indicated that if the initial AHA score was low, the CIMT + AOT group benefitted more than the CIMT + placebo group.</s><s coords="8,529.27,589.21,23.49,9.32;8,339.08,601.21,213.69,9.32;8,339.08,613.21,137.69,9.32">If the initial AHA score was high, both groups improved equally (Figure <ref type="figure" coords="8,455.49,613.21,12.83,9.32" target="#fig_4">4 b</ref>).</s></p><p><s coords="8,339.08,637.21,213.67,9.32;8,339.08,649.21,213.69,9.32;8,339.08,661.21,213.69,9.32;8,339.08,673.21,213.69,9.32;8,339.08,685.21,81.29,9.32">Similarly, we found a trend toward a significant influence of MM amount in the less affected hand (more affected hand actively moving) on treatment response of bimanual performance (F = 3.21, p = 0.06, Figure <ref type="figure" coords="8,408.18,685.21,4.06,9.32" target="#fig_5">5</ref>).</s><s coords="8,422.79,685.21,129.99,9.32;11,42.52,301.21,213.72,9.32;11,42.52,313.03,213.69,9.92;11,42.52,325.03,103.52,9.92">This interaction indicated that   if the initial amount of MM was high, the CIMT + AOT group benefitted more than the CIMT + placebo group.</s><s coords="11,148.42,325.21,107.80,9.32;11,42.52,337.21,176.82,9.32">If the initial MM amount was low, both groups improved similarly.</s></p><p><s coords="11,42.52,361.21,213.71,9.32;11,42.52,373.21,213.66,9.32;11,42.52,385.03,45.83,9.92">Responsiveness to AOT did not depend on age nor sensory function for either AHA or JTHFT (p &gt; 0.05).</s><s coords="11,94.85,385.21,161.35,9.32;11,42.52,397.21,213.68,9.32;11,42.52,409.21,213.68,9.32;11,42.52,421.03,71.53,9.92">Regarding neurological characteristics, neither type of brain lesion nor CST wiring pattern had an influence on responsiveness to AOT (p &gt; 0.05).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="11,42.52,444.91,213.71,9.37;11,42.52,456.91,143.80,9.37">Are there subgroups of children who respond better to CIMT with or without AOT?</head><p><s coords="11,191.33,457.21,64.87,9.32;11,42.52,469.21,213.66,9.32;11,42.52,481.21,213.67,9.32;11,42.52,493.21,24.92,9.32">We found that sensory function was able to influence treatment response for the total group for unimanual dexterity.</s><s coords="11,70.19,493.21,186.01,9.32;11,42.52,505.21,213.70,9.32;11,42.52,517.21,102.77,9.32">More specifically, exteroception, 2PD, and touch sensation influenced the outcome of the JTHFT (p = 0.03-0.08;</s><s coords="11,147.82,517.21,108.37,9.32;11,42.52,529.21,213.69,9.32;11,42.52,541.21,214.08,9.32;11,42.52,553.21,213.68,9.32;11,42.52,565.21,69.13,9.32">Table <ref type="table" coords="11,176.05,517.21,4.10,9.32" target="#tab_3">3</ref>), indicating that children with more impaired sensory function benefitted more from the CIMT intervention, compared with those with normal sensory function (Figure <ref type="figure" coords="11,99.36,565.21,4.10,9.32" target="#fig_6">6</ref>).</s><s coords="11,114.93,565.21,141.27,9.32;11,42.52,577.21,213.67,9.32;11,42.52,589.03,85.45,9.92">Note that initial motor function did not interfere with these interactions (interaction term p &lt; 0.05).</s></p><p><s coords="11,42.52,613.21,213.67,9.32;11,42.52,625.21,213.67,9.32;11,42.52,637.03,213.69,9.92;11,42.52,649.21,41.84,9.32">The responsiveness to CIMT with or without AOT did not depend on age, initial motor function, stereognosis, nor amount of MM (p &gt; 0.05, Table <ref type="table" coords="11,72.07,649.21,4.10,9.32" target="#tab_3">3</ref>).</s><s coords="11,88.51,649.21,167.70,9.32;11,42.52,661.21,213.70,9.32;11,42.52,673.21,213.69,9.32;11,42.52,685.03,213.69,9.92;11,42.52,697.21,213.66,9.32;11,42.52,709.03,186.50,9.92">Similarly, neither type of brain lesion nor CST wiring pattern had an influence on responsiveness to CIMT with or without AOT when tested individually (p &gt; 0.05, Figure <ref type="figure" coords="11,233.53,685.21,4.69,9.32" target="#fig_7">7</ref>) or combined (interaction between CST wiring pattern and type of the brain lesion, p &gt; 0.05).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="11,268.21,300.91,48.75,9.18">Discussion</head><p><s coords="11,268.21,313.21,213.67,9.32;11,268.21,325.21,213.66,9.32;11,268.21,337.21,213.68,9.32;11,268.21,349.21,213.66,9.32;11,268.21,361.21,213.68,9.32;11,268.21,373.21,213.66,9.32;11,268.21,385.21,213.70,9.32;11,268.21,397.21,124.80,9.32">This randomized controlled trial was the first to investigate the effects of an intensive camp-based treatment model combining CIMT and AOT to improve UL function at body function and activity level, by including clinical and instrumented outcome measures, as well as both behavioural and neurological factors to determine their influence on treatment outcome.</s><s coords="11,396.58,397.21,85.32,9.32;11,268.21,409.21,213.68,9.32;11,268.21,421.21,213.69,9.32;11,268.21,433.21,213.67,9.32">The effects showed that, with or without AOT, an intensive CIMT training approach delivered in a summer camp setting leads to improvements in UL function.</s></p><p><s coords="11,268.21,445.21,213.71,9.32;11,268.21,457.21,213.65,9.32;11,268.21,469.21,213.70,9.32;11,268.21,481.21,213.66,9.32;11,268.21,493.21,72.06,9.32">Although we could not demonstrate an overall added effect of AOT, our results suggest that the addition of AOT to CIMT may be beneficial for children with initial poor hand function and high amount of MM.</s><s coords="11,343.65,493.21,138.24,9.32;11,268.21,505.21,213.68,9.32;11,268.21,517.21,167.09,9.32">In addition, we found that sensory function influenced treatment response following CIMT (with or without AOT).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="11,268.21,552.91,191.23,9.37;11,268.21,564.91,39.06,9.37">What is the added value of AOT to CIMT on UL function?</head><p><s coords="11,268.21,577.21,213.70,9.32;11,268.21,589.21,213.69,9.32;11,268.21,601.21,155.08,9.32">The novelty of this RCT lies in the investigation of the added value of AOT to a well-established therapy approach, such as CIMT.</s><s coords="11,427.89,601.21,53.99,9.32;11,268.21,613.21,213.69,9.32;11,268.21,625.03,195.82,9.92">Overall, our results show similar improvements in the CIMT + AOT and CIMT + placebo group.</s><s coords="11,398.22,660.80,83.67,9.73;11,268.20,673.21,213.66,9.32;11,268.20,685.21,213.67,9.32;11,268.20,697.21,213.65,9.32;11,268.20,709.21,117.77,9.32">1]<ref type="bibr" coords="11,398.22,660.80,6.60,6.06" target="#b41">[42]</ref> However, these studies investigated the effect of AOT alone compared with a placebo or no observation, and not the added effect of AOT to a well-established UL therapy, such as CIMT.</s><s coords="11,393.09,709.21,88.77,9.32;13,42.52,625.21,213.68,9.32;13,42.52,637.21,213.69,9.32;13,42.52,648.80,120.14,9.73">Our results are in  agreement with Kirkpatrick and colleagues who found no effect of AOT compared with repetitive practice in a home setting. <ref type="bibr" coords="13,155.48,648.80,7.18,6.06" target="#b42">43</ref></s><s coords="13,144.58,696.80,7.04,6.06;13,268.20,625.21,213.68,9.32;13,268.20,637.21,213.69,9.32;13,268.20,649.21,213.68,9.32;13,268.20,661.03,213.68,9.92;13,268.20,673.21,25.76,9.32"><ref type="bibr" coords="13,144.58,696.80,7.04,6.06" target="#b45">[46]</ref> Interestingly, we identified that children with initially poorer hand function (lower than 50 AHA units) benefitted more from the combined approach CIMT + AOT compared with CIMT alone.</s><s coords="13,306.55,673.21,175.34,9.32;13,268.20,685.03,213.67,9.92;13,268.20,697.03,213.69,9.92;14,113.39,589.21,100.47,9.32">On average, the group receiving CIMT + AOT with initially poorer AHA scores improved 4 AHA units, while the CIMT + placebo  group did not improve.</s><s coords="14,216.95,589.21,110.13,9.32;14,113.39,601.21,213.70,9.32;14,113.39,613.21,213.67,9.32;14,113.39,625.21,213.69,9.32;14,113.39,637.21,213.69,9.32;14,113.39,648.80,41.82,9.73">Sgandurra and colleagues recently reported that poorer bimanual performance, measured with the AHA, was indicative of a more lateralized mirror neuron system in children with uCP (toward the non-lesioned hemisphere). <ref type="bibr" coords="14,148.07,648.80,7.14,6.06" target="#b46">47</ref></s><s coords="14,158.13,649.21,168.95,9.32;14,113.39,661.21,213.66,9.32;14,113.39,673.21,213.70,9.32;14,113.39,685.21,213.72,9.32;14,113.39,697.21,213.70,9.32;14,113.39,709.21,52.57,9.32">Given these results, it makes sense that the additional AOT intervention for children who had poorer bimanual performance was more effective, as AOT may have facilitated the activation of their mirror neuron system through the videoobservation.</s><s coords="14,168.95,709.21,158.11,9.32;14,339.07,589.21,213.70,9.32;14,339.07,601.21,213.66,9.32;14,339.07,613.21,213.72,9.32;14,339.07,625.21,213.71,9.32;14,339.07,637.21,213.66,9.32;14,339.07,649.21,187.04,9.32">For those children who showed high bimanual performance, it seems plausible that the mirror neuron system cannot be further facilitated, as this may be intact, and other sensorimotor brain regions would need to be stimulated to further increase their motor function, for example to facilitate inter-hemisphere connectivity.</s><s coords="14,530.75,649.21,22.00,9.32;14,339.07,661.21,213.68,9.32;14,339.07,673.21,213.67,9.32;14,339.07,685.21,213.70,9.32;14,339.07,697.21,213.67,9.32;14,339.07,709.21,213.67,9.32;15,42.52,73.21,63.90,9.32">Also, in contrast to other studies, the current study only included unimanual tasks to fit the unimanual concept of CIMT, although more challenging bimanual AOT tasks may be needed to further improve UL function in children with initially better  hand function.</s><s coords="15,109.64,73.21,146.56,9.32;15,42.52,85.21,213.70,9.32;15,42.52,97.21,213.71,9.32;15,42.52,109.21,73.04,9.32">While this finding is clinically relevant, further studies are clearly needed to confirm our results, as well as to define the best delivery of AOT.</s></p><p><s coords="15,249.71,624.80,6.50,6.06">nd smaller ESs (0.16-0.28) in children aged similar to our study. <ref type="bibr" coords="15,137.07,648.80,9.50,6.06" target="#b12">13,</ref><ref type="bibr" coords="15,146.56,648.80,9.50,6.06" target="#b49">50,</ref><ref type="bibr" coords="15,156.06,648.80,6.33,6.06" target="#b50">51</ref></s><s coords="15,42.52,637.21,16.25,9.32">According to Hung and colleagues, the AHA measures the quality of the assisting hand while performing bimanual movements and misses the spatiotemporal control of bimanual functioning. <ref type="bibr" coords="15,168.04,696.80,7.18,6.06" target="#b51">52</ref></s><s coords="15,64.37,637.21,31.26,9.32">A measure of spatiotemporal control of bimanual function would show the coupling between both hands while performing a bimanual activity.</s><s coords="15,101.23,637.21,26.97,9.32">This coupling should be effective (accurate in space by having a good movement trajectory) and synchronized (accurate in time by reaching the target timely with both hands).</s><s coords="15,128.20,637.21,9.39,9.32">A three-dimensional movement analysis <ref type="bibr" coords="15,278.83,144.80,9.75,6.06" target="#b33">34,</ref><ref type="bibr" coords="15,288.58,144.80,6.50,6.06" target="#b51">52</ref> or placing accelerometers on each hand <ref type="bibr" coords="15,474.71,144.80,7.18,6.06" target="#b34">35</ref> during the execution of a bimanual task will capture how coupled the hands are and how effective and accurate the executed movements are.</s></p><p><s coords="15,268.20,193.21,213.69,9.32;15,268.20,205.21,182.15,9.32">Integrating other measures of spatiotemporal control may help to capture these aspects.</s></p><p><s coords="15,268.20,229.21,213.69,9.32;15,268.20,241.21,213.68,9.32;15,268.20,253.21,213.67,9.32;15,268.20,264.80,156.21,9.73">In most measures, we found that the improvements were not only seen immediately after the therapy, but also after 6 months, which is in agreement with previous studies. <ref type="bibr" coords="15,384.91,264.80,6.08,6.06" target="#b8">9,</ref><ref type="bibr" coords="15,390.99,264.80,9.11,6.06" target="#b12">13,</ref><ref type="bibr" coords="15,400.10,264.80,9.11,6.06" target="#b26">27,</ref><ref type="bibr" coords="15,409.22,264.80,9.11,6.06" target="#b49">50,</ref><ref type="bibr" coords="15,418.33,264.80,6.08,6.06" target="#b50">51</ref></s><s coords="15,426.66,265.21,55.22,9.32;15,268.20,277.21,213.69,9.32;15,268.20,289.21,131.34,9.32">This maintenance is of clinical relevance, as intensive therapies are given in shorter periods.</s><s coords="15,405.15,289.21,76.72,9.32;15,268.20,301.21,213.69,9.32;15,268.20,313.21,213.71,9.32;15,268.20,325.21,213.68,9.32;15,268.20,337.21,213.68,9.32;15,268.20,348.80,71.39,9.73">Charles and colleagues showed, however, that between 6 months and 1 year after the first camp, children typically showed a slight functional decline, and a second CIMT dose 1 year after resulted in continued improvements. <ref type="bibr" coords="15,332.45,348.80,7.14,6.06" target="#b52">53</ref></s><s coords="15,342.40,349.21,139.48,9.32;15,268.20,361.21,213.67,9.32;15,268.20,373.21,179.13,9.32">Boosts of intensive interventions with 6-months or 1-year intervals may result in long-lasting and clinically relevant effects.</s></p><p><s coords="15,268.20,397.21,213.70,9.32;15,268.20,409.21,213.70,9.32;15,268.20,421.21,213.67,9.32;15,268.20,433.21,115.08,9.32">Interestingly, we also found that children with impaired sensory function benefitted more from the intervention compared with children with normal sensory function.</s><s coords="15,389.46,433.21,92.39,9.32;15,268.20,445.21,213.70,9.32;15,268.20,457.21,213.71,9.32;15,268.20,469.21,190.91,9.32">To the best of our knowledge, this is the first time that sensory function is investigated as an influencing factor of response to CIMT in children with uCP.</s><s coords="15,463.99,469.21,17.90,9.32;15,268.20,481.21,213.71,9.32;15,268.20,493.21,213.67,9.32;15,268.20,505.21,191.54,9.32">The sensory deficits may lead to a failure to use the motor functions and capacities of the more affected UL for spontaneous use in daily life.</s><s coords="15,462.02,505.21,19.88,9.32;15,268.20,517.21,213.70,9.32;15,268.20,528.80,38.44,9.73">This phenomenon is known as developmental disregard. <ref type="bibr" coords="15,290.39,528.80,9.75,6.06" target="#b53">54,</ref><ref type="bibr" coords="15,300.14,528.80,6.50,6.06" target="#b54">55</ref></s><s coords="15,312.20,529.21,169.68,9.32;15,268.20,541.21,213.67,9.32;15,268.20,553.21,213.66,9.32;15,268.20,565.21,22.60,9.32">It is hypothesized that children with developmental disregard may respond better to CIMT due to the forced use of the more affected limb.</s><s coords="15,295.42,565.21,186.46,9.32;15,268.20,577.21,213.71,9.32;15,268.20,589.21,202.17,9.32">The positive effects are however partially lost at follow-up, potentially due to the lack of ongoing stimulation of the more affected limb.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="15,268.20,624.91,175.08,9.37;15,268.20,636.91,169.70,9.37">Does the response to CIMT depend on the underlying neurological characteristics?</head><p><s coords="15,268.20,649.21,213.66,9.32;15,268.20,661.21,213.69,9.32;15,268.20,673.21,116.46,9.32">In our study, we found that all children improved after a CIMT program, irrespective of their lesion type or CST wiring pattern.</s><s coords="15,386.88,673.21,94.98,9.32;15,268.20,684.80,182.21,9.73">Interestingly, and adding to the controversy in the literature, <ref type="bibr" coords="15,434.17,684.80,6.50,6.06" target="#b12">[13]</ref><ref type="bibr" coords="15,440.67,684.80,3.25,6.06" target="#b13">[14]</ref><ref type="bibr" coords="15,443.92,684.80,9.75,6.06" target="#b14">[15]</ref><ref type="bibr" coords="15,453.67,684.80,6.50,6.06" target="#b55">56</ref> having an ipsilateral CST wiring pattern did not impede improvement after treatment as these children improved almost 5 AHA units after CIMT (with or without AOT) (see Figure <ref type="figure" coords="16,265.25,85.21,4.00,9.32" target="#fig_7">7</ref>). Sta</s><s coords="15,450.42,684.80,3.25,6.06">dt and colleagues proposed that one neurological factor is insufficient to impact treatment response after CIMT, <ref type="bibr" coords="16,144.82,120.80,7.08,6.06" target="#b56">57</ref> and a multifactorial model including several neurological characteristics may have larger influence than any factor alone.</s><s coords="15,453.67,684.80,6.50,6.06">Nevertheless, our study did not find that the interaction between the lesion type and the CST wiring pattern had a larger influence on treatment outcome.</s><s coords="15,463.50,685.21,18.39,9.32;15,268.21,697.21,13.14,9.32">Our study results highlight the variability within each group, suggesting the influence of other factors.</s><s coords="15,287.64,697.21,10.37,9.32">We hypothesize that functional measures of both sensory and motor function, and how these functions are integrated in the brain (sensorimotor integration), may be an important influencing factor of treatment outcome.</s><s coords="15,304.30,697.21,40.26,9.32">Further investigations including both clinical and neurophysiological measures of the motor and sensory system (motor and sensory evoked potentials), as well as of sensorimotor integration (e.g. with the short latency afferent inhibition protocol) <ref type="bibr" coords="16,300.93,312.80,7.08,6.06" target="#b57">58</ref> are warranted.</s></p><p><s coords="16,113.39,349.21,213.71,9.32;16,113.39,361.21,213.70,9.32;16,113.39,373.21,213.71,9.32;16,113.39,385.21,45.95,9.32">Whilst this study was the first to investigate the merit of AOT in combination with CIMT in a camp model, its limitations should also be addressed.</s><s coords="16,167.47,385.21,159.61,9.32;16,113.39,397.21,213.69,9.32;16,113.39,408.80,111.97,9.73">Firstly, we included 44 children according to the power calculation for the primary outcome measure. <ref type="bibr" coords="16,218.19,408.80,7.18,6.06" target="#b15">16</ref></s><s coords="16,228.21,409.21,98.84,9.32;16,113.38,421.21,213.70,9.32;16,113.38,433.21,213.67,9.32;16,113.38,445.21,96.57,9.32">This sample size could be too low when investigating influencing factors of treatment response, particularly for the neurological characteristics.</s><s coords="16,214.12,445.21,112.92,9.32;16,113.38,457.21,213.67,9.32;16,113.38,469.21,143.38,9.32">A larger sample size may have also resulted in groups with more homogeneous characteristics at baseline.</s><s coords="16,260.25,469.21,66.79,9.32;16,113.38,481.21,213.67,9.32;16,113.38,493.21,213.69,9.32;16,113.38,505.21,213.70,9.32;16,113.38,517.21,213.67,9.32;16,113.38,529.03,213.67,9.92;16,113.38,541.03,170.48,9.92">Although baseline characteristics were not significantly different between groups, the groups were not completely similar with regard to the type if the lesion (e.g. 5 children with a periventricular (PV) lesion in the CIMT + placebo group versus 12 children with a PV lesion in the CIMT + AOT group).</s><s coords="16,286.75,541.21,40.30,9.32;16,113.38,553.21,213.69,9.32;16,113.38,565.21,213.67,9.32;16,113.38,576.80,69.90,9.73">A second limitation is the lack of a specific outcome measure that evaluates motor planning as targeted with the AOT. <ref type="bibr" coords="16,179.69,576.80,3.59,6.06" target="#b6">7</ref></s><s coords="16,187.23,577.21,139.86,9.32;16,113.39,589.21,213.71,9.32;16,113.39,601.21,213.67,9.32;16,113.39,612.80,53.54,9.73">Future studies investigating the added effect of AOT should also include such outcome measures, for example the end-posture comfort. <ref type="bibr" coords="16,150.68,612.80,9.75,6.06" target="#b58">59,</ref><ref type="bibr" coords="16,160.43,612.80,6.50,6.06" target="#b59">60</ref></s><s coords="16,169.65,613.21,157.43,9.32;16,113.38,625.21,213.70,9.32;16,113.38,637.21,213.69,9.32;16,113.38,649.21,213.69,9.32;16,113.38,661.21,64.89,9.32">Lastly, it remains debatable whether a two-week camp can be translated to routine clinical practice, as it demands high commitment from both the parents and the children during the holiday period.</s><s coords="16,180.57,661.21,146.51,9.32;16,113.38,673.21,213.66,9.32;16,113.38,685.21,213.71,9.32;16,113.38,697.21,57.73,9.32">In our study, despite a good cooperation during the AOT intervention, the children generally reported that the AOT sessions were monotonous.</s><s coords="16,176.01,697.21,151.06,9.32;16,113.38,709.21,213.67,9.32">Hence, we advocate for trainings that are engaging and motivating for the children.</s></p><p><s coords="16,339.07,72.80,213.68,9.73;16,339.07,85.21,213.68,9.32;16,339.07,97.21,213.66,9.32;16,339.07,109.21,156.59,9.32">For example, a virtual reality environment <ref type="bibr" coords="16,536.51,72.80,9.75,6.06" target="#b60">61,</ref><ref type="bibr" coords="16,546.26,72.80,6.50,6.06" target="#b61">62</ref> where the child sees himself as an avatar, could serve as a more motivating, engaging, and potentially more effective AOT approach.</s></p><p><s coords="16,339.07,133.21,213.70,9.32;16,339.07,145.21,213.70,9.32;16,339.07,157.21,213.66,9.32;16,339.07,169.21,213.67,9.32;16,339.07,181.21,213.68,9.32;16,339.07,193.21,119.94,9.32">In the future, it is crucial that forces between centres and institutions are joined to coordinate multicentre RCTs, which will contribute to fine-tune the identification of responders versus non-responders through clinical and neurological predictors in a statistically powerful study.</s><s coords="16,464.49,193.21,88.27,9.32;16,339.07,205.21,213.67,9.32;16,339.07,217.21,162.83,9.32">Furthermore, future studies should investigate the neuroplastic changes derived from an intensive intervention.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="16,339.07,252.91,50.06,9.18">Conclusion</head><p><s coords="16,339.07,265.21,213.67,9.32;16,339.07,277.21,213.69,9.32;16,339.07,289.21,213.71,9.32;16,339.07,301.21,81.12,9.32">AOT did not show an overall added effect on improving UL function in children with uCP when combined with CIMT in an intensive training approach.</s><s coords="16,422.87,301.21,129.90,9.32;16,339.07,313.21,213.66,9.32;16,339.07,325.21,213.66,9.32;16,339.07,337.21,213.70,9.32;16,339.07,349.21,35.89,9.32">Still, AOT seemed to have an additional positive value in children with poor motor function and high amount of MM, suggesting that the responsiveness to AOT is patient specific.</s><s coords="16,380.84,349.21,171.93,9.32;16,339.07,361.21,213.69,9.32">Such insights provide a further step toward patient-tailored intervention approaches.</s></p><p><s coords="16,339.07,373.21,213.70,9.32;16,339.07,385.21,213.67,9.32;16,339.07,397.21,213.72,9.32;16,339.07,409.21,213.69,9.32;16,339.07,421.21,213.69,9.32;16,339.07,433.21,77.01,9.32">The findings of this study also confirm the efficacy of intensive models of CIMT interventions (with or without AOT), with large ESs found in unimanual and bimanual dexterity, which seems to be more beneficial for children with impaired sensory function.</s><s coords="16,420.02,433.21,132.71,9.32;16,339.07,445.21,213.68,9.32;16,339.07,457.21,213.69,9.32;16,339.07,469.21,213.67,9.32;16,339.07,481.21,213.69,9.32;16,339.07,493.21,45.33,9.32">The novelty of this study lies within the exploration of behavioural and neurological influencing factors on treatment response, which paves the way toward an effective and individualized treatment planning for children with uCP.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="3,42.52,283.16,414.07,8.44;3,42.52,293.67,416.65,8.44;3,42.52,304.17,432.87,8.44;3,42.52,314.67,421.43,8.44;3,42.52,325.18,428.84,8.44;3,42.52,335.68,425.38,8.44;3,42.52,346.18,345.10,8.44"><head>Figure 1 .</head><label>1</label><figDesc><div><p><s coords="3,42.52,283.16,36.22,8.26">Figure 1.</s><s coords="3,83.24,283.16,373.35,8.44;3,42.52,293.67,113.59,8.44">Illustration of a goal-directed activities used for the action-observation Training (AOT) for each different hand function level.</s><s coords="3,158.35,293.67,300.83,8.44;3,42.52,304.17,122.05,8.44">On the top panel, the three sub-activities for children with House Functional Classification (HFC) levels 4-5.</s><s coords="3,166.81,304.17,292.91,8.44">On the bottom panel, three sub-activities for children with HFC levels 6-8.</s><s coords="3,461.96,304.17,13.44,8.44;3,42.52,314.67,421.43,8.44;3,42.52,325.18,180.05,8.44">For both levels, each consecutive sub-activity becomes one step more challenging by changing the direction of inserting the coin, as indicated by the arrows.</s><s coords="3,224.81,325.18,246.55,8.44;3,42.52,335.68,240.17,8.44">Children were shown from the first-person perspective how to grasp the poker coin and insert it in the box through the slot.</s><s coords="3,284.93,335.68,182.96,8.44;3,42.52,346.18,345.10,8.44">Note that the activities for levels 6-8 are more challenging, as they require a combination of increased wrist extension and supination.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="6,431.27,589.21,121.49,9.32;6,339.07,601.21,213.70,9.32;6,339.07,613.21,213.65,9.32;6,339.07,625.21,213.69,9.32;6,339.07,637.21,213.67,9.32"><head></head><label></label><figDesc><div><p><s coords="6,431.27,589.21,121.49,9.32;6,339.07,601.21,213.70,9.32;6,339.07,613.21,213.65,9.32;6,339.07,625.21,23.33,9.32">93) and grip strength (ES-d 0.16), on unimanual dexterity measured with the JTHFT (ES 5.81) and in unimanual (ES-d 0.65-1.57)</s><s coords="6,366.87,625.21,185.89,9.32">and bimanual dexterity (ES-d 0.85-1.44)</s><s coords="6,339.07,637.21,213.67,9.32">measured with the instrumented pegboard test.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="8,113.39,479.00,418.84,8.44;8,113.39,489.51,63.83,8.44"><head>Figure 2 .</head><label>2</label><figDesc><div><p><s coords="8,113.39,479.00,418.84,8.44;8,113.39,489.51,63.83,8.44">Figure 2. CONSORT flowchart with number of participants and reasons for missing data in each group, at each time point.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="11,42.52,247.16,422.35,8.44;11,42.52,257.67,268.75,8.44"><head>Figure 3 .</head><label>3</label><figDesc><div><p><s coords="11,42.52,247.16,422.35,8.44;11,42.52,257.67,268.75,8.44">Figure 3. Individual change in Assisting Hand Assessment (AHA) (a) and Jebsen-Taylor Hand Function test (JTHFT) (b) scores immediately after the intervention (T1 versus T2).</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="13,42.52,269.96,405.52,8.44;13,42.52,280.47,401.97,9.04;13,42.52,290.97,402.78,9.04;13,42.52,301.47,426.45,8.44;13,42.52,311.98,86.43,8.44;13,42.52,322.18,187.60,7.50"><head>Figure 4 .</head><label>4</label><figDesc><div><p><s coords="13,42.52,269.96,405.52,8.44;13,42.52,280.47,401.97,9.04;13,42.52,290.97,201.02,9.04">Figure 4. Interaction over time between intervention group and initial bimanual performance score (a, low initial score, n = 6 in CIMT + placebo group, n = 7 in CIMT + AOT group; b, high initial score, n = 16 in CIMT + placebo group, n = 15 in CIMT + AOT group).</s><s coords="13,245.78,290.97,199.51,8.44;13,42.52,301.47,426.45,8.44;13,42.52,311.98,86.43,8.44">With low initial bimanual performance, the actionobservation training showed an added value to modified constraint-induced movement therapy immediately after the intervention.</s><s coords="13,42.52,322.18,187.60,7.50">EMM, estimated marginal means; SE, standard error.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="13,42.52,545.93,424.35,8.44;13,42.52,556.44,422.56,8.44;13,42.52,566.94,416.21,9.04;13,42.52,577.44,420.13,8.44;13,42.52,587.94,134.67,8.44"><head>Figure 5 .</head><label>5</label><figDesc><div><p><s coords="13,42.52,545.93,424.35,8.44;13,42.52,556.44,39.79,8.44">Figure 5. Impact of amount of mirror movements (MM) in the less affected hand on bimanual performance over time.</s><s coords="13,84.55,556.44,380.53,8.44;13,42.52,566.94,416.21,9.04;13,42.52,577.44,25.53,8.44">Whilst children with low amount of MM responded similarly to either training, children with high amount of MM seemed to improve more after the CIMT + AOT training compared with the CIMT + placebo group.</s><s coords="13,70.29,577.44,272.71,8.44">Children are divided according to their MM amount (cut-off = 2311.13,</s><s coords="13,345.24,577.44,117.41,8.44;13,42.52,587.94,134.67,8.44">derived from the linear mixed model) for visualization purposes.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="14,113.39,233.48,428.62,8.44;14,113.39,243.99,418.98,8.44;14,113.39,254.49,416.09,8.44;14,113.39,264.99,432.57,8.44;14,113.39,275.50,431.93,8.44;14,113.39,286.00,412.88,8.44;14,113.39,296.50,417.96,8.44;14,113.39,307.01,384.56,8.44"><head>Figure 6 .</head><label>6</label><figDesc><div><p><s coords="14,113.39,233.48,36.22,8.26">Figure 6.</s><s coords="14,154.11,233.48,387.89,8.44;14,113.39,243.99,277.80,8.44">Interaction between sensory function modalities and improvement in hand dexterity, as measured with the Jebsen-Taylor Hand Function test (JTHFT) for the total group.</s><s coords="14,393.43,243.99,138.93,8.44;14,113.39,254.49,416.09,8.44;14,113.39,264.99,432.57,8.44;14,113.39,275.50,84.57,8.44">(a) Exteroception (n = 1 absent; n = 5 impaired; n = 35 normal); (b) Two-point discrimination (n = 22 impaired, n = 18 normal); (c) Touch sensation (n = 3 untestable; n = 8 loss of protective sensation; n = 5 diminished protective sensation; n = 0 diminished light touch; n = 26 normal).</s><s coords="14,200.20,275.50,345.11,8.44;14,113.39,286.00,273.20,8.44">Children with impaired sensory function benefitted more from the training immediately after the intervention, although had difficulties in retaining the gains.</s><s coords="14,388.82,286.00,137.44,8.44;14,113.39,296.50,124.31,8.44">Data at each time point represents the estimated marginal means.</s><s coords="14,239.93,296.50,291.41,8.44;14,113.39,307.01,99.40,8.44">Standard errors are not plotted as they are not visible at the current scale [exteroception (1.13-2.14</s><s coords="14,213.91,307.01,151.93,8.44">s), two-point discrimination (1.15-1.80</s><s coords="14,366.96,307.01,117.47,8.44">s), touch sensation (1.15-1.56</s><s coords="14,485.55,307.01,12.39,8.44">s)].</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7" coords="14,113.39,533.55,431.78,8.44;14,113.39,544.06,432.09,8.44;14,113.39,554.56,119.84,8.44"><head>Figure 7 .</head><label>7</label><figDesc><div><p><s coords="14,113.39,533.55,314.66,8.44">Figure 7. Improvement over time according to the neurological characteristics.</s><s coords="14,430.28,533.55,114.88,8.44;14,113.39,544.06,432.09,8.44;14,113.39,554.56,119.84,8.44">(a) Type of corticospinal tract (CST) wiring pattern and (b) type of the lesion (predominantly grey matter, cortico-subcortical; predominantly white matter, periventricular).</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="7,42.52,72.12,425.14,636.01"><head>Table 1 .</head><label>1</label><figDesc><div><p><s coords="7,78.58,72.12,233.17,8.44">Demographic characteristics of the participants per group.</s></p></div></figDesc><table coords="7,48.51,91.12,419.15,530.99"><row><cell></cell><cell></cell><cell>CIMT + placebo group</cell><cell>CIMT + AOT group</cell><cell>p-value</cell></row><row><cell></cell><cell></cell><cell>(n = 22)</cell><cell>(n = 22)</cell><cell></cell></row><row><cell>Age</cell><cell>mean (SD)</cell><cell>9 years 6 months</cell><cell>9 years 6 months</cell><cell>0.89 1</cell></row><row><cell></cell><cell></cell><cell>(1 year 10 months)</cell><cell>(1 year 11 months)</cell><cell></cell></row><row><cell>Sex</cell><cell>n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Boys</cell><cell></cell><cell>12 (55)</cell><cell>15 (68)</cell><cell>0.35 2</cell></row><row><cell>Girls</cell><cell></cell><cell>10 (45)</cell><cell>7 (32)</cell><cell></cell></row><row><cell cols="2">More affected side n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Left</cell><cell></cell><cell>14 (64)</cell><cell>9 (41)</cell><cell>0.13 2</cell></row><row><cell>Right</cell><cell></cell><cell>8 (36)</cell><cell>13 (59)</cell><cell></cell></row><row><cell>MACS</cell><cell>n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell></cell><cell>3 (14)</cell><cell>6 (27)</cell><cell>0.39 2</cell></row><row><cell>II</cell><cell></cell><cell>7 (32)</cell><cell>8 (36.5)</cell><cell></cell></row><row><cell>III</cell><cell></cell><cell>12 (55)</cell><cell>8 (36.5)</cell><cell></cell></row><row><cell>HFC system</cell><cell>n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Levels 4-5</cell><cell></cell><cell>18 (82)</cell><cell>16 (73)</cell><cell>0.47 2</cell></row><row><cell>Level 6-8</cell><cell></cell><cell>4 (18)</cell><cell>6 (27)</cell><cell></cell></row><row><cell>Lesion type</cell><cell>n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Malformation</cell><cell></cell><cell>0 (0)</cell><cell>1 (4.5)</cell><cell>0.18 2</cell></row><row><cell>PV lesion</cell><cell></cell><cell>5 (23)</cell><cell>12 (54.5)</cell><cell></cell></row><row><cell>CSC lesion</cell><cell></cell><cell>13 (59)</cell><cell>7 (32)</cell><cell></cell></row><row><cell>Acquired</cell><cell></cell><cell>1 (4.5)</cell><cell>0 (0)</cell><cell></cell></row><row><cell>Other</cell><cell></cell><cell>3 (13.5)  §</cell><cell>0 (0)</cell><cell></cell></row><row><cell>Unknown</cell><cell></cell><cell>0 (0)</cell><cell>2 (9) $</cell><cell></cell></row><row><cell>CST wiring</cell><cell>n (%)</cell><cell></cell><cell></cell><cell>0.42 2</cell></row><row><cell>Contralateral</cell><cell></cell><cell>1 (5)</cell><cell>3 (14)</cell><cell></cell></row><row><cell>Bilateral</cell><cell></cell><cell>8 (36)</cell><cell>5 (23)</cell><cell></cell></row><row><cell>Ipsilateral</cell><cell></cell><cell>7 (32)</cell><cell>8 (36)</cell><cell></cell></row><row><cell>Unknown  ‡</cell><cell></cell><cell>6 (27)</cell><cell>6 (27)</cell><cell></cell></row></table><note><p><s coords="7,48.52,634.13,386.83,7.50;7,48.52,643.63,411.45,7.50;7,48.52,653.12,139.23,7.50;7,48.52,662.39,105.46,7.75">2OT, action-observation training; CIMT, constraint-induced movement therapy; CSC, cortico-subcortical; CST, corticospinal tract; HFC, House Functional Classification; MACS, Manual Ability Classification System; MRI, Magnetic resonance imaging; PV: periventricular.§Other:brainstemtumour(n=</s><s coords="7,154.98,662.63,97.77,7.50;7,48.52,671.89,244.35,7.75;7,48.52,681.39,129.03,7.75;7,48.52,690.89,102.35,7.75;7,48.52,700.39,76.68,7.75">1), hemispherectomy (n = 2).$NoMRIperformed(n= 1 panic attack, n = 1 refused to complete MRI).‡TMS not performed or inconclusive.1Independentsamplest-test.2Pearsonchi-squared</s><s coords="7,127.19,700.63,15.54,7.50;8,25.51,744.66,3.39,6.10">test.8</s><s coords="8,458.74,744.66,94.02,6.10">journals.sagepub.com/home/tan</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="9,45.72,68.03,523.57,649.67"><head>Table 2 .</head><label>2</label><figDesc><div><p><s coords="9,46.00,641.36,8.44,40.28;9,46.00,603.37,8.44,35.76;9,46.00,574.19,8.44,26.94;9,46.00,534.16,8.44,37.79;9,46.00,508.63,8.44,23.28;9,46.00,498.79,8.44,7.60;9,46.00,462.08,8.44,34.47;9,46.00,420.19,8.44,39.65;9,46.00,410.23,8.44,7.72;9,46.00,389.01,8.44,18.97;9,46.00,368.83,8.44,17.95;9,46.00,344.21,8.44,22.37;9,46.00,327.27,8.44,14.70;9,46.00,286.39,8.44,38.64;9,46.00,237.20,8.44,46.95;9,46.00,187.70,8.44,47.26;9,46.00,159.36,8.44,26.10;9,46.53,152.44,7.79,4.68;9,45.72,149.39,5.49,3.05;9,46.00,141.46,8.44,7.93">Estimated marginal means (standard error) of outcome measures at each time point, and statistical comparison [F(p-values; partial η 2 )].</s></p></div></figDesc><table coords="9,64.71,161.28,7.34,67.76"><row><cell>Total group (n = 44)</cell></row></table><note><p><s coords="10,466.73,670.60,7.50,41.10;10,466.73,661.74,7.50,6.86;10,466.73,648.36,7.50,11.39;10,466.73,637.80,7.50,8.56;10,466.73,613.29,7.50,22.52;10,466.73,602.74,7.50,8.56;10,466.73,556.85,7.50,43.90">*Significant at the T1 versus T3 comparison.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="10,29.60,635.66,8.44,82.04"><head>Table 2 .</head><label>2</label><figDesc></figDesc><table coords="10,29.60,635.66,8.44,45.98"><row><cell>(Continued)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="12,25.51,72.12,512.77,624.92"><head>Table 3 .</head><label>3</label><figDesc><div><p><s coords="12,61.57,72.12,455.92,8.44;12,25.51,82.35,134.67,8.72">Statistical inference overview of the influencing value of behavioural, and neurological characteristics on treatment response [F (p-values; partial η 2 )].</s></p></div></figDesc><table coords="12,338.83,103.84,183.97,16.34"><row><cell>Bimanual performance</cell><cell>Unimanual dexterity</cell></row><row><cell>(AHA)</cell><cell>(JTHFT)</cell></row></table><note><p><s coords="12,31.46,679.48,98.53,7.50">*Significant between T1-T2.</s><s coords="12,31.51,688.76,110.59,8.28">$ In favour of CIMT + AOT group.</s><s coords="13,42.52,744.66,94.02,6.10">journals.sagepub.com/home/tan</s><s coords="13,562.98,744.66,6.79,6.10">13</s></p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">journals.sagepub.com/home/tan</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="16,339.07,516.91,89.06,9.18">Acknowledgements</head><p><s coords="16,339.07,529.21,213.69,9.32;16,339.07,541.21,213.66,9.32;16,339.07,553.21,25.96,9.32">We would like to express our deepest gratitude to the children and families who participated in this study.</s><s coords="16,369.97,553.21,182.80,9.32;16,339.07,565.21,213.68,9.32">We also thank Catherine Huenaerts and Saranda Bekteshi for scoring the video-based</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="16,339.07,577.21,213.68,9.32;16,339.07,589.21,152.45,9.32">assessments, as well as Katrien Fagard for her assistance in the recruitment phase.</s><s coords="16,494.48,589.21,58.25,9.32;16,339.07,601.21,213.70,9.32;16,339.07,613.21,213.66,9.32;16,339.07,625.21,79.89,9.32">We are grateful to the master students of physiotherapy who participated in the summer camps and assisted in the measurements.</s><s coords="16,421.08,625.21,131.69,9.32;16,339.07,637.21,213.70,9.32;16,339.07,649.21,213.71,9.32;16,339.07,661.21,213.26,9.32">We also thank the schools (Sint Gerardus School in Diepenbeek, DVC Sint-Jozef in Antwerp, VZW Sint-Lodewijk in Wetteren) that let us organize the summer camps in their centres.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="16,339.07,684.91,36.70,9.18">Funding</head><p><s coords="16,339.07,697.21,213.68,9.32;16,339.07,709.21,213.68,9.32;17,42.52,73.21,213.68,9.32;17,42.52,85.21,213.68,9.32;17,42.52,97.21,213.67,9.32;17,42.52,109.21,213.68,9.32;17,42.52,121.21,182.17,9.32">The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work is funded by the Fund Scientific Research Flanders (FWO-project, grant G087213N) and by the Special Research Fund, KU Leuven (OT/14/127, project grant 3M140230).</s><s coords="17,228.86,121.21,27.35,9.32;17,42.52,133.21,213.68,9.32;17,42.52,145.21,213.68,9.32;17,42.52,157.21,213.67,9.32;17,42.52,169.21,54.16,9.32">These sources had no role in the study design, data collection or analysis, writing of the report, and in the decision to submit the manuscript for publication.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="17,42.52,192.91,132.71,9.18">Conflict of interest statement</head><p><s coords="17,42.52,205.21,213.65,9.32;17,42.52,217.21,35.11,9.32">The authors declare that there is no conflict of interest.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="17,42.52,240.91,40.48,9.18">ORCID iD</head><p><s coords="17,42.52,253.21,113.96,9.32;17,183.72,253.21,72.49,9.32">Cristina Simon-Martinez https://orcid.org/</s><s coords="17,42.52,265.21,99.27,9.32">0000-0001-6694-6358</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="17,42.52,288.91,104.65,9.18">Supplemental material</head><p><s coords="17,42.52,301.21,213.69,9.32;17,42.52,313.21,29.91,9.32">Supplemental material for this article is available online.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="17,60.52,375.89,188.47,8.39;17,60.52,386.89,190.62,8.39;17,60.52,397.89,162.24,8.39;17,60.52,408.89,190.06,8.39;17,60.52,419.89,52.00,8.39" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Determinants of participation in leisure activities in children and youth with cerebral palsy: systematic review</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Shikako-Thomas</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Majnemer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Law</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Occup Ther Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="155" to="169" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shikako-Thomas K, Majnemer A, Law M, et al. Determinants of participation in leisure activities in children and youth with cerebral palsy: systematic review. Phys Occup Ther Pediatr 2008; 28: 155-169.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,436.89,166.09,8.39;17,60.52,447.88,162.47,8.39;17,60.52,458.88,186.56,8.39;17,60.52,469.88,153.88,8.39" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Constraint-induced movement therapy in children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">J</forename><surname>Hoare</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A</forename><surname>Wallen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">N</forename><surname>Thorley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">D004149</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hoare BJ, Wallen MA, Thorley MN, et al. Constraint-induced movement therapy in children with unilateral cerebral palsy. Cochrane Database Syst Rev 2019; 4: CD004149.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,486.88,184.36,8.39;17,60.52,497.88,171.83,8.39;17,60.52,508.88,176.95,8.39;17,60.52,519.88,191.53,8.39;17,60.52,530.87,77.00,8.39" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Constraintinduced movement therapy: a new family of techniques with broad application to physical rehabilitation-a clinical review</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Taub</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Uswatte</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Pidikiti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Rehabil Res Dev</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="237" to="251" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Taub E, Uswatte G and Pidikiti R. Constraint- induced movement therapy: a new family of techniques with broad application to physical rehabilitation-a clinical review. J Rehabil Res Dev 1999; 36: 237-251.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,547.87,188.59,8.39;17,60.52,558.87,173.77,8.39;17,60.52,569.87,163.14,8.39;17,60.52,580.87,163.35,8.39;17,60.52,591.87,178.42,8.39;17,60.52,602.86,67.07,8.39" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impaired motor planning and motor imagery in children with unilateral spastic cerebral palsy: challenges for the future of pediatric rehabilitation</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Steenbergen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Jongbloed-Pereboom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Spruijt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="43" to="46" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Steenbergen B, Jongbloed-Pereboom M, Spruijt S, et al. Impaired motor planning and motor imagery in children with unilateral spastic cerebral palsy: challenges for the future of pediatric rehabilitation. Dev Med Child Neurol 2013; 55: 43-46.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,619.87,184.98,8.39;17,60.52,630.86,182.26,8.39;17,60.52,641.86,183.06,8.39;17,60.52,652.86,97.22,8.39" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Anticipatory planning deficits and task context effects in hemiparetic cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Mutsaarts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Steenbergen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Bekkering</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="151" to="162" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mutsaarts M, Steenbergen B and Bekkering H. Anticipatory planning deficits and task context effects in hemiparetic cerebral palsy. Exp Brain Res 2006; 172: 151-162.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,669.86,194.42,8.39;17,60.52,680.86,183.01,8.39" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The mirror-neuron system</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Rizzolatti</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Craighero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="169" to="192" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rizzolatti G and Craighero L. The mirror-neuron system. Annu Rev Neurosci 2004; 27: 169-192.</note>
+</biblStruct>
+
+<biblStruct coords="17,60.52,697.86,156.37,8.39;17,60.52,708.86,184.82,8.39;17,286.20,72.85,181.18,8.39;17,286.20,83.85,161.46,8.39;17,286.20,94.85,183.83,8.39" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Randomized trial of observation and execution of upper extremity actions versus action alone in children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Sgandurra</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Ferrari</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Cossu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurorehabil Neural Repair</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="808" to="815" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sgandurra G, Ferrari A, Cossu G, et al. Randomized trial of observation and execution of upper extremity actions versus action alone in children with unilateral cerebral palsy. Neurorehabil Neural Repair 2013; 27: 808-815.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,111.85,164.99,8.39;17,286.20,122.85,192.56,8.39;17,286.20,133.85,189.82,8.39;17,286.20,144.85,126.73,8.39" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Best responders after intensive upper-limb training for children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Sakzewski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ziviani</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">N</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Phys Med Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="578" to="584" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sakzewski L, Ziviani J and Boyd RN. Best responders after intensive upper-limb training for children with unilateral cerebral palsy. Arch Phys Med Rehabil 2011; 92: 578-584.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,161.85,178.82,8.39;17,286.20,172.84,172.28,8.39;17,286.20,183.84,178.05,8.39;17,286.20,194.84,185.08,8.39;17,286.20,205.84,128.17,8.39" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Efficacy of constraint-induced movement therapy on involved upper-extremity use in children with hemiplegic cerebral palsy is not age-dependent</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Charles</forename><forename type="middle">J</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="e363" to="e373" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon AM, Charles J and Wolf SL. Efficacy of constraint-induced movement therapy on involved upper-extremity use in children with hemiplegic cerebral palsy is not age-dependent. Pediatrics 2006; 117: e363-e373.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,222.84,164.03,8.39;17,286.20,233.84,187.07,8.39;17,286.20,244.84,189.00,8.39;17,286.20,255.83,163.10,8.39;17,286.20,266.83,36.94,8.39" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Robotic assistance for training finger movement using a hebbian model: a randomized controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">B</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">L</forename><surname>Ingemanson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurorehabil Neural Repair</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="769" to="780" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rowe JB, Chan V, Ingemanson ML, et al. Robotic assistance for training finger movement using a hebbian model: a randomized controlled trial. Neurorehabil Neural Repair 2017; 31: 769-780.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,284.83,191.63,8.39;17,286.20,295.83,181.79,8.39;17,286.20,306.83,174.03,8.39;17,286.20,317.83,183.90,8.39;17,286.20,328.82,36.94,8.39" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Do mirror movements relate to hand function and timing of the brain lesion in children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Klingels</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Jaspers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Staudt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="735" to="742" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klingels K, Jaspers E, Staudt M, et al. Do mirror movements relate to hand function and timing of the brain lesion in children with unilateral cerebral palsy? Dev Med Child Neurol 2016; 58: 735-742.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,346.82,166.05,8.39;17,286.20,357.82,186.06,8.39;17,286.20,368.82,163.27,8.39;17,286.20,379.82,182.24,8.39;17,286.20,390.82,158.49,8.39" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Corticospinal tract wiring and brain lesion characteristics in unilateral cerebral palsy: determinants of upper limb motor and sensory function</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Simon-Martinez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Jaspers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Mailleux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Plast</title>
+		<imprint>
+			<biblScope unit="volume">2018</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Simon-Martinez C, Jaspers E, Mailleux L, et al. Corticospinal tract wiring and brain lesion characteristics in unilateral cerebral palsy: determinants of upper limb motor and sensory function. Neural Plast 2018; 2018: 1-13.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,408.82,175.01,8.39;17,286.20,419.81,174.01,8.39;17,286.20,430.81,191.03,8.39;17,286.20,441.81,188.75,8.39;17,286.20,452.81,185.81,8.39;17,286.20,463.81,36.94,8.39" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Is outcome of constraint-induced movement therapy in unilateral cerebral palsy dependent on corticomotor projection pattern and brain lesion characteristics</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Nordstrand</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Holmström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="252" to="258" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Islam M, Nordstrand L, Holmström L, et al. Is outcome of constraint-induced movement therapy in unilateral cerebral palsy dependent on corticomotor projection pattern and brain lesion characteristics? Dev Med Child Neurol 2014; 56: 252-258.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,481.81,169.66,8.39;17,286.20,492.80,194.25,8.39;17,286.20,503.80,178.06,8.39;17,286.20,514.80,186.12,8.39;17,286.20,525.80,124.32,8.39" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Do patients with congenital hemiparesis and ipsilateral corticospinal projections respond differently to constraint-induced movement therapy</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Kuhnke</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Juenger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Walther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="898" to="903" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuhnke N, Juenger H, Walther M, et al. Do patients with congenital hemiparesis and ipsilateral corticospinal projections respond differently to constraint-induced movement therapy? Dev Med Child Neurol 2008; 50: 898-903.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,543.80,144.71,8.39;17,286.20,554.80,169.21,8.39;17,286.20,565.79,181.13,8.39;17,286.20,576.79,180.21,8.39;17,286.20,587.79,164.39,8.39;17,286.20,598.79,160.49,8.39;17,286.20,609.79,71.99,8.39" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Transcranial direct current stimulation and constraint-induced therapy in cerebral palsy: a randomized, blinded, sham-controlled clinical trial</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Gillick</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Nemanich</surname></persName>
+		</author>
+		<idno>DOI: 10.1016/j. ejpn.2018.02.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Paediatr Neurol</title>
+		<imprint>
+			<date type="published" when="2018-02" />
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print 11</note>
+	<note type="raw_reference">Gillick B, Rich T, Nemanich S, et al. Transcranial direct current stimulation and constraint-induced therapy in cerebral palsy: a randomized, blinded, sham-controlled clinical trial. Eur J Paediatr Neurol. Epub ahead of print 11 February 2018. DOI: 10.1016/j. ejpn.2018.02.001.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,626.79,168.68,8.39;17,286.20,637.78,185.43,8.39;17,286.20,648.78,164.39,8.39;17,286.20,659.78,156.29,8.39;17,286.20,670.78,187.18,8.39;17,286.20,681.78,32.60,8.39" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Combining constraint-induced movement therapy and action-observation training in children with unilateral cerebral palsy: a randomized controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Simon-Martinez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Mailleux</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Ortibus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">250</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Simon-Martinez C, Mailleux L, Ortibus E, et al. Combining constraint-induced movement therapy and action-observation training in children with unilateral cerebral palsy: a randomized controlled trial. BMC Pediatr 2018; 18: 250.</note>
+</biblStruct>
+
+<biblStruct coords="17,286.20,698.78,174.63,8.39;17,286.20,709.78,183.93,8.39;18,131.39,72.89,185.10,8.39;18,131.39,83.89,163.98,8.39" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Quantification of upper extremity function and range of motion in children with cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">A</forename><surname>Koman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Rmm</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="910" to="917" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koman LA, Williams RMM, Evans PJ, et al. Quantification of upper extremity function and range of motion in children with cerebral palsy. Dev Med Child Neurol 2008; 50: 910-917.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,100.89,187.38,8.39;18,131.39,111.89,153.92,8.39;18,131.39,122.89,167.38,8.39;18,131.39,133.89,187.23,8.39;18,131.39,144.88,77.00,8.39" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The assisting hand assessment: current evidence of validity, reliability, and responsiveness to change</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Krumlinde-Sundholm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Holmefur</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Kottorp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="259" to="264" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krumlinde-Sundholm L, Holmefur M, Kottorp A, et al. The assisting hand assessment: current evidence of validity, reliability, and responsiveness to change. Dev Med Child Neurol 2007; 49: 259-264.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,162.88,169.79,8.39;18,131.39,173.88,183.11,8.39;18,131.39,184.88,188.51,8.39;18,131.39,195.88,194.60,8.39;18,131.39,206.88,86.82,8.39" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Development of the assisting hand assessment: a rasch-built measure intended for children with unilateral upper limb impairments</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Krumlinde-Sundholm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Eliasson A-C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Occup Ther</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="16" to="26" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krumlinde-Sundholm L and Eliasson A-C. Development of the assisting hand assessment: a rasch-built measure intended for children with unilateral upper limb impairments. Scand J Occup Ther 2003; 10: 16-26.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,224.88,180.22,8.39;18,131.39,235.87,170.41,8.39;18,131.39,246.87,189.13,8.39;18,131.39,257.87,36.94,8.39" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Reporting outcomes of the assisting hand assessment: what scale should be used</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Krumlinde-Sundholm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="807" to="808" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krumlinde-Sundholm L. Reporting outcomes of the assisting hand assessment: what scale should be used? Dev Med Child Neurol 2012; 54: 807-808.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,275.87,169.38,8.39;18,131.39,286.87,182.24,8.39;18,131.39,297.87,193.07,8.39;18,131.39,308.86,183.10,8.39;18,131.39,319.86,36.94,8.39" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Upper limb motor and sensory impairments in children with hemiplegic cerebral palsy. Can they be measured reliably?</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Klingels</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Pde</forename><surname>Cock</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Molenaers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Disabil Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="409" to="416" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Klingels K, Cock PDE, Molenaers G, et al. Upper limb motor and sensory impairments in children with hemiplegic cerebral palsy. Can they be measured reliably? Disabil Rehabil 2010; 32: 409-416.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,337.86,162.32,8.39;18,131.39,348.86,192.60,8.39;18,131.39,359.86,157.82,8.39" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interrater reliability of a modified Ashworth scale of muscle spasticity</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">W</forename><surname>Bohannon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Ther</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="206" to="207" />
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bohannon RW and Smith MB. Interrater reliability of a modified Ashworth scale of muscle spasticity. Phys Ther 1987; 67: 206-207.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,377.86,183.14,8.39;18,131.39,388.86,190.04,8.39;18,131.39,399.85,175.96,8.39;18,131.39,410.85,97.08,8.39" xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Daniels and Worthingham&apos;s muscle testing: techniques of manual examination and performance testing</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Hislop</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Avers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Elsevier Saunders</publisher>
+			<pubPlace>Missouri</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hislop HJ, Avers D and Brown M. Daniels and Worthingham&apos;s muscle testing: techniques of manual examination and performance testing. Missouri: Elsevier Saunders, 2013.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,428.85,194.09,8.39;18,131.39,439.85,170.26,8.39;18,131.39,450.85,193.45,8.39;18,131.39,461.85,156.70,8.39" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Psychometric and clinimetric properties of the melbourne assessment 2 in children with cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">N</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Phys Med Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="1836" to="1841" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang TN, Liang KJ, Liu YC, et al. Psychometric and clinimetric properties of the melbourne assessment 2 in children with cerebral palsy. Arch Phys Med Rehabil 2017; 98: 1836-1841.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,479.85,174.77,8.39;18,131.39,490.84,156.76,8.39;18,131.39,501.84,179.97,8.39;18,131.39,512.84,104.35,8.39" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Rasch analysis of the Melbourne assessment of unilateral upper limb function</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Randall</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Imms</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">M</forename><surname>Carey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="665" to="672" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Randall M, Imms C, Carey LM, et al. Rasch analysis of the Melbourne assessment of unilateral upper limb function. Dev Med Child Neurol 2014; 56: 665-672.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,530.84,194.75,8.39;18,131.39,541.84,192.34,8.39;18,131.39,552.84,77.00,8.39" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Evaluation of hand function in children</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">L</forename><surname>Sand</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">H</forename><surname>Jebsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Phys Med Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="129" to="135" />
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Taylor N, Sand PL and Jebsen RH. Evaluation of hand function in children. Arch Phys Med Rehabil 1973; 54: 129-135.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,570.84,194.05,8.39;18,131.39,581.83,177.39,8.39;18,131.39,592.83,186.65,8.39;18,131.39,603.83,191.33,8.39;18,131.39,614.83,57.60,8.39" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Efficacy of a child-friendly form of constraint-induced movement therapy in hemiplegic cerebral palsy: a randomized control trial</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">L</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">635</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Charles JR, Wolf SL, Schneider JA, et al. Efficacy of a child-friendly form of constraint-induced movement therapy in hemiplegic cerebral palsy: a randomized control trial. Dev Med Child Neurol 2006; 48: 635.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,632.83,189.34,8.39;18,131.39,643.83,172.60,8.39;18,131.39,654.82,176.05,8.39;18,131.39,665.82,182.47,8.39;18,131.39,676.82,156.23,8.39" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Reliability and responsiveness of the Jebsen-Taylor test of hand function and the box and Block test for children with cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Araneda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Ebner-Karestinos</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Paradis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1182" to="1188" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Araneda R, Ebner-Karestinos D, Paradis J, et al. Reliability and responsiveness of the Jebsen- Taylor test of hand function and the box and Block test for children with cerebral palsy. Dev Med Child Neurol 2019; 61: 1182-1188.</note>
+</biblStruct>
+
+<biblStruct coords="18,131.39,693.82,181.95,8.39;18,131.39,704.82,193.66,8.39;18,357.07,72.82,191.52,8.39;18,357.07,83.82,146.30,8.39" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Tyneside Pegboard test: development, validation, and observations in unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">V</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="314" to="321" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Basu AP, Kirkpatrick EV, Wright B, et al. The Tyneside Pegboard test: development, validation, and observations in unilateral cerebral palsy. Dev Med Child Neurol 2018; 60: 314-321.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,100.82,173.51,8.39;18,357.07,111.82,186.98,8.39;18,357.07,122.82,72.04,8.39" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Normal values for the two-point discrimination test</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">B</forename><surname>Cope</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename><surname>Antony</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr Neurol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="251" to="254" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cope EB and Antony JH. Normal values for the two-point discrimination test. Pediatr Neurol 1992; 8: 251-254.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,139.82,147.89,8.39;18,357.07,150.82,184.17,8.39;18,357.07,161.81,167.64,8.39;18,357.07,172.81,36.94,8.39" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The repeatability of testing with Semmes-Weinstein monofilaments</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Bell-Krotoski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Tomancik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hand Surg Am</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="155" to="161" />
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bell-Krotoski J and Tomancik E. The repeatability of testing with Semmes-Weinstein monofilaments. J Hand Surg Am 1987; 12: 155-161.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,189.81,143.05,8.39;18,357.07,200.81,194.08,8.39;18,357.07,211.81,180.45,8.39;18,357.07,222.81,105.86,8.39" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reproducibility of tactile assessments for children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">L</forename><surname>Auld</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">S</forename><surname>Ware</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">N</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Occup Ther Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="151" to="166" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Auld ML, Ware RS, Boyd RN, et al. Reproducibility of tactile assessments for children with unilateral cerebral palsy. Phys Occup Ther Pediatr 2012; 32: 151-166.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,239.81,185.30,8.39;18,357.07,250.81,193.09,8.39;18,357.07,261.80,193.54,8.39;18,357.07,272.80,148.45,8.39" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">GriFT: a device for quantifying physiological and pathological mirror movements in children</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Jaspers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Klingels</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Simon-Martinez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans Biomed Eng</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="857" to="865" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jaspers E, Klingels K, Simon-Martinez C, et al. GriFT: a device for quantifying physiological and pathological mirror movements in children. IEEE Trans Biomed Eng 2018; 65: 857-865.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,290.30,168.23,8.39;18,357.07,301.30,186.37,8.39;18,357.07,312.29,195.41,8.39;18,357.07,323.29,184.95,8.39" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Kinematic parameters of hand movement during a disparate bimanual movement task in children with unilateral cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Rudisch</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Izadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Mov Sci</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="239" to="250" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rudisch J, Butler J, Izadi H, et al. Kinematic parameters of hand movement during a disparate bimanual movement task in children with unilateral cerebral palsy. Hum Mov Sci 2016; 46: 239-250.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,340.79,154.66,8.39;18,357.07,351.79,180.50,8.39;18,357.07,362.78,178.31,8.39;18,357.07,373.78,190.91,8.39;18,357.07,384.78,127.36,8.39" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Assessment of upper limb use in children with typical development and neurodevelopmental disorders by inertial sensors: a systematic review</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Braito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Maselli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Sgandurra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neuroeng Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">94</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Braito I, Maselli M, Sgandurra G, et al. Assessment of upper limb use in children with typical development and neurodevelopmental disorders by inertial sensors: a systematic review. J Neuroeng Rehabil 2018; 15: 94.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,402.28,180.39,8.39;18,357.07,413.27,189.95,8.39" xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Linear mixed models for longitudinal data</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Verbeke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Springer</publisher>
+			<pubPlace>New York, NY; New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verbeke G. Linear mixed models for longitudinal data. New York, NY: Springer New York, 1997.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,430.77,182.81,8.39;18,357.07,441.77,186.80,8.39;18,357.07,452.77,77.00,8.39" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Eta-Squared and partial Eta-Squared in fixed factor anova designs</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educ Psychol Meas</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="107" to="112" />
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cohen J. Eta-Squared and partial Eta-Squared in fixed factor anova designs. Educ Psychol Meas 1973; 33: 107-112.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,470.26,186.19,8.39;18,357.07,481.26,179.95,8.39;18,357.07,492.26,54.79,8.39" xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Applied statistics for the behavioral sciences</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">E</forename><surname>Hinkle</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Wiersma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<pubPlace>Boston, MA; Houghton Mifflin</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hinkle DE and Wiersma W. Applied statistics for the behavioral sciences. Boston, MA: Houghton Mifflin, 1998.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,509.75,186.37,8.39;18,357.07,520.75,187.72,8.39;18,357.07,531.75,182.30,8.39;18,357.07,542.75,162.22,8.39;18,357.07,553.75,166.13,8.39;18,357.07,564.74,36.94,8.39" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The manual ability classification system (MACS) for children with cerebral palsy: scale development and evidence of validity and reliability</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Krumlinde-Sundholm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Rösblad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="549" to="554" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eliasson AC, Krumlinde-Sundholm L, Rösblad B, et al. The manual ability classification system (MACS) for children with cerebral palsy: scale development and evidence of validity and reliability. Dev Med Child Neurol 2006; 48: 549-554.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,582.24,188.16,8.39;18,357.07,593.24,164.60,8.39;18,357.07,604.24,194.88,8.39;18,357.07,615.23,137.11,8.39" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The effect of the action observation physical training on the upper extremity function in children with cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Kim</forename><forename type="middle">J</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exerc Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="176" to="183" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim J, Kim J and Ko E. The effect of the action observation physical training on the upper extremity function in children with cerebral palsy. J Exerc Rehabil 2014; 10: 176-183.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,632.73,183.12,8.39;18,357.07,643.73,168.36,8.39;18,357.07,654.73,183.83,8.39;18,357.07,665.72,187.54,8.39;18,357.07,676.72,52.00,8.39" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Improving upper limb motor functions through action observation treatment: a pilot study in children with cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Buccino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Arisi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Gough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="822" to="828" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buccino G, Arisi D, Gough P, et al. Improving upper limb motor functions through action observation treatment: a pilot study in children with cerebral palsy. Dev Med Child Neurol 2012; 54: 822-828.</note>
+</biblStruct>
+
+<biblStruct coords="18,357.07,693.72,193.36,8.39;18,357.07,704.72,169.43,8.39;19,60.52,72.89,185.51,8.39;19,60.52,83.89,175.80,8.39;19,60.52,94.89,120.55,8.39" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Action observation treatment improves upper limb motor functions in children with cerebral palsy: a combined clinical and brain imaging study</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Buccino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Molinaro</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Ambrosi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Plast</title>
+		<imprint>
+			<biblScope unit="volume">2018</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buccino G, Molinaro A, Ambrosi C, et al. Action observation treatment improves upper limb motor functions in children with cerebral palsy: a combined clinical and brain imaging study. Neural Plast 2018; 2018: 1-11.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,111.89,185.19,8.39;19,60.52,122.89,182.47,8.39;19,60.52,133.89,186.34,8.39;19,60.52,144.88,175.80,8.39;19,60.52,155.88,114.29,8.39" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Effect of parent-delivered action observation therapy on upper limb function in unilateral cerebral palsy: a randomized controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Pearse</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>James</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1049" to="1056" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirkpatrick E, Pearse J, James P, et al. Effect of parent-delivered action observation therapy on upper limb function in unilateral cerebral palsy: a randomized controlled trial. Dev Med Child Neurol 2016; 58: 1049-1056.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,172.88,186.95,8.39;19,60.52,183.88,185.87,8.39;19,60.52,194.88,177.65,8.39;19,60.52,205.88,47.00,8.39" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Efficacy of upper limb therapies for unilateral cerebral palsy: a meta-analysis</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Sakzewski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ziviani</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">N</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="e175" to="e204" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sakzewski L, Ziviani J and Boyd RN. Efficacy of upper limb therapies for unilateral cerebral palsy: a meta-analysis. Pediatrics 2014; 133: e175-e204.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,222.88,192.23,8.39;19,60.52,233.88,190.74,8.39;19,60.52,244.87,170.07,8.39;19,60.52,255.87,182.16,8.39;19,60.52,266.87,186.62,8.39;19,60.52,277.87,52.00,8.39" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Effectiveness of constraint-induced movement therapy on upperextremity function in children with cerebral palsy: a systematic review and meta-analysis of randomized controlled trials</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">P</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Tyler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="939" to="953" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen YP, Pope S, Tyler D, et al. Effectiveness of constraint-induced movement therapy on upper- extremity function in children with cerebral palsy: a systematic review and meta-analysis of randomized controlled trials. Clin Rehabil 2014; 28: 939-953.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,294.87,166.12,8.39;19,60.52,305.87,191.35,8.39;19,60.52,316.87,184.41,8.39;19,60.52,327.86,168.52,8.39;19,60.52,338.86,37.57,8.39" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Constraint-induced movement therapy improves upper limb activity and participation in hemiplegic cerebral palsy: a systematic review</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">C</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Ada</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiother</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="130" to="137" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chiu HC and Ada L. Constraint-induced movement therapy improves upper limb activity and participation in hemiplegic cerebral palsy: a systematic review. J Physiother 2016; 62: 130-137.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,355.86,150.72,8.39;19,60.52,366.86,192.47,8.39;19,60.52,377.86,166.54,8.39;19,60.52,388.86,185.89,8.39;19,60.52,399.85,92.55,8.39" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Reorganization of the action observation network and sensory-motor system in children with unilateral cerebral palsy: an fMRI study</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Sgandurra</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Biagi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Fogassi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Plast</title>
+		<imprint>
+			<biblScope unit="volume">2018</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sgandurra G, Biagi L, Fogassi L, et al. Reorganization of the action observation network and sensory-motor system in children with unilateral cerebral palsy: an fMRI study. Neural Plast 2018; 2018: 1-15.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,416.86,173.41,8.39;19,60.52,427.85,174.55,8.39;19,60.52,438.85,176.72,8.39;19,60.52,449.85,182.65,8.39;19,60.52,460.85,163.10,8.39;19,60.52,471.85,36.94,8.39" xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Effectiveness of modified constraint-induced movement therapy in children with unilateral spastic cerebral palsy: a randomized controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">B</forename><surname>Aarts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">H</forename><surname>Jongerius</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">A</forename><surname>Geerdink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurorehabil Neural Repair</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="509" to="518" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aarts PB, Jongerius PH, Geerdink YA, et al. Effectiveness of modified constraint-induced movement therapy in children with unilateral spastic cerebral palsy: a randomized controlled trial. Neurorehabil Neural Repair 2010; 24: 509-518.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,488.85,188.29,8.39;19,60.52,499.84,177.87,8.39;19,60.52,510.84,164.89,8.39;19,60.52,521.84,190.93,8.39;19,60.52,532.84,104.35,8.39" xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Effects of constraint-induced movement therapy in young children with hemiplegic cerebral palsy: an adapted model</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Krumlinde-Sundholm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="266" to="275" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eliasson AC, Krumlinde-Sundholm L, Shaw K, et al. Effects of constraint-induced movement therapy in young children with hemiplegic cerebral palsy: an adapted model. Dev Med Child Neurol 2005; 47: 266-275.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,549.84,154.66,8.39;19,60.52,560.84,193.85,8.39;19,60.52,571.84,157.93,8.39;19,60.52,582.83,191.45,8.39;19,60.52,593.83,160.56,8.39" xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Randomized trial of constraint-induced movement therapy and bimanual training on activity outcomes for children with congenital hemiplegia</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Sakzewski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ziviani</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">F</forename><surname>Abbott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="313" to="320" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sakzewski L, Ziviani J, Abbott DF, et al. Randomized trial of constraint-induced movement therapy and bimanual training on activity outcomes for children with congenital hemiplegia. Dev Med Child Neurol 2011; 53: 313-320.</note>
+</biblStruct>
+
+<biblStruct coords="19,60.52,610.83,166.28,8.39;19,60.52,621.83,164.19,8.39;19,60.52,632.83,182.24,8.39;19,60.52,643.83,185.86,8.39;19,60.52,654.82,52.00,8.39" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Bimanual training and constraint-induced movement therapy in children with hemiplegic cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">C</forename><surname>Hung</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Brandao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurorehabil Neural Repair</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="692" to="702" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon AM, Hung YC, Brandao M, et al. Bimanual training and constraint-induced movement therapy in children with hemiplegic cerebral palsy. Neurorehabil Neural Repair 2011; 25: 692-702.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,72.82,161.97,8.39;19,286.20,83.82,171.62,8.39;19,286.20,94.82,164.78,8.39;19,286.20,105.82,189.38,8.39;19,286.20,116.81,46.87,8.39" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The effect of intensive bimanual training on coordination of the hands in children with congenital hemiplegia</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">C</forename><surname>Hung</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Casertano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Hillman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res Dev Disabil</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="2724" to="2731" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hung YC, Casertano L, Hillman A, et al. The effect of intensive bimanual training on coordination of the hands in children with congenital hemiplegia. Res Dev Disabil 2011; 32: 2724-2731.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,133.81,186.35,8.39;19,286.20,144.81,187.56,8.39;19,286.20,155.81,181.40,8.39;19,286.20,166.81,77.00,8.39" xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A repeated course of constraint-induced movement therapy results in further improvement</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="770" to="773" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Charles JR and Gordon AM. A repeated course of constraint-induced movement therapy results in further improvement. Dev Med Child Neurol 2007; 49: 770-773.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,183.81,166.16,8.39;19,286.20,194.81,176.35,8.39;19,286.20,205.81,178.88,8.39;19,286.20,216.80,173.15,8.39" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A neurocognitive perspective on developmental disregard in children with hemiplegic cerebral palsy</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Houwink</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">B</forename><surname>Aarts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C</forename><surname>Geurts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res Dev Disabil</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="2157" to="2163" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Houwink A, Aarts PB, Geurts AC, et al. A neurocognitive perspective on developmental disregard in children with hemiplegic cerebral palsy. Res Dev Disabil 2011; 32: 2157-2163.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,233.80,189.44,8.39;19,286.20,244.80,161.24,8.39;19,286.20,255.80,167.06,8.39;19,286.20,266.80,190.28,8.39;19,286.20,277.80,53.49,8.39" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Intensive pediatric constraint-induced therapy for children with cerebral palsy: randomized, controlled, crossover trial</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">C</forename><surname>Deluca</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Echols</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">R</forename><surname>Law</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="931" to="938" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Deluca SC, Echols K, Law CR, et al. Intensive pediatric constraint-induced therapy for children with cerebral palsy: randomized, controlled, crossover trial. J Child Neurol 2006; 21: 931-938.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,294.80,176.82,8.39;19,286.20,305.80,165.64,8.39;19,286.20,316.79,163.74,8.39;19,286.20,327.79,175.37,8.39;19,286.20,338.79,193.49,8.39;19,286.20,349.79,108.68,8.39" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Two types of exercise-induced neuroplasticity in congenital hemiparesis: a transcranial magnetic stimulation, functional MRI, and magnetoencephalography study</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Juenger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Kuhnke</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Braun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="941" to="951" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Juenger H, Kuhnke N, Braun C, et al. Two types of exercise-induced neuroplasticity in congenital hemiparesis: a transcranial magnetic stimulation, functional MRI, and magnetoencephalography study. Dev Med Child Neurol 2013; 55: 941-951.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,367.79,186.88,8.39;19,286.20,378.79,184.68,8.39;19,286.20,389.78,168.78,8.39;19,286.20,400.78,173.63,8.39;19,286.20,411.78,36.94,8.39" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Is constraint-induced movement therapy harmful in unilateral spastic cerebral palsy with ipsilateral cortico-spinal projections</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Staudt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Berweck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev Med Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="202" to="203" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Staudt M and Berweck S. Is constraint-induced movement therapy harmful in unilateral spastic cerebral palsy with ipsilateral cortico-spinal projections? Dev Med Child Neurol 2014; 56: 202-203.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,429.78,185.72,8.39;19,286.20,440.78,188.94,8.39;19,286.20,451.78,170.27,8.39;19,286.20,462.77,36.94,8.39" xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Short-latency afferent inhibition during selective finger movement</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Voller</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>St Clair Gibson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Dambrosia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="226" to="231" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Voller B, St Clair Gibson A, Dambrosia J, et al. Short-latency afferent inhibition during selective finger movement. Exp Brain Res 2006; 169: 226-231.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,480.77,183.24,8.39;19,286.20,491.77,195.47,8.39;19,286.20,502.77,195.69,8.39;19,286.20,513.77,159.31,8.39" xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Time course of movement planning: selection of handgrips for object manipulation</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">A</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Vaughan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Psychol Learn Mem Cogn</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1058" to="1073" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenbaum DA, Vaughan J, Barnes HJ, et al. Time course of movement planning: selection of handgrips for object manipulation. J Exp Psychol Learn Mem Cogn 1992; 18: 1058-1073.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,531.77,190.96,8.39;19,286.20,542.77,193.64,8.39;19,286.20,553.76,67.07,8.39" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Motor planning in congenital hemiplegia</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Steenbergen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Verrel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Disabil Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="13" to="23" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Steenbergen B, Verrel J and Gordon AM. Motor planning in congenital hemiplegia. Disabil Rehabil 2007; 29: 13-23.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,571.76,152.90,8.39;19,286.20,582.76,166.71,8.39;19,286.20,593.76,184.06,8.39;19,286.20,604.76,116.01,8.39" xml:id="b60">
+	<analytic>
+		<title level="a" type="main">The clinical utility of virtual reality in neurorehabilitation: a systematic review</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Massetti</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">D</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">B</forename><surname>Crocetta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cent Nerv Syst Dis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Massetti T, da Silva TD, Crocetta TB, et al. The clinical utility of virtual reality in neurorehabilitation: a systematic review. J Cent Nerv Syst Dis 2018; 10: 1-18.</note>
+</biblStruct>
+
+<biblStruct coords="19,286.20,621.76,192.31,8.39;19,286.20,632.76,173.30,8.39;19,286.20,643.75,176.90,8.39;19,286.20,654.75,156.09,8.39" xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Addition of motivational interventions to exercise and traditional physiotherapy: a review and metaanalysis</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Mcgrane</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Galvin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Cusack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiotherapy</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McGrane N, Galvin R, Cusack T, et al. Addition of motivational interventions to exercise and traditional physiotherapy: a review and meta- analysis. Physiotherapy 2015; 101: 1-12.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

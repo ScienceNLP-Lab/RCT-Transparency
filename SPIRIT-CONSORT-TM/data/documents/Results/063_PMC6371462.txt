@@ -1,0 +1,237 @@
+Illness management and recovery: one-year follow-up of a randomized controlled trial in Danish community mental health centers: long-term effects on clinical and personal recovery
+
+## Abstract
+
+### Abstract
+
+Background: Illness Management and Recovery (IMR) is a curriculum-based rehabilitation program for people with severe mental illness with the short- term aim of improving illness self-management and the long-term aim of helping people achieve clinical and personal recovery.
+
+### Method
+
+Participants with schizophrenia or bipolar disorders were recruited from three community mental health centers in the Capital Region of Denmark and randomized to receive group-based IMR and treatment as usual or only the usual intervention. All outcomes were assessed at baseline, postintervention, and the one-year follow-up. Long-term outcomes were categorized according to clinical recovery (i.e., symptoms, global functioning, and hospitalization) and personal recovery (i.e., hope and personal agency). Generalized linear mixed model regression analyses were used in the intent-to-treat analysis.
+
+### Results
+
+A total of 198 participants were included. No significant differences were found between the IMR and control groups in the Global Assessment of Functioning one year after the intervention, nor were there significant differences in symptoms, number of hospital admissions, emergency room visits, or outpatient treatment.
+
+### Conclusion
+
+The present IMR trial showed no significant effect on clinical and personal recovery at the one-year follow-up. Together with the results of other IMR studies, the present study indicates that the effect of IMR on symptom severity is unclear, which raises questions regarding the impact of IMR on functioning. Additionally, IMR did not affect personal recovery. Although more research is needed, the results indicate that the development of other interventions should be considered to help people with severe mental illness achieve a better level of functioning and personal recovery.
+
+### Trial registration
+
+Trial registered at http://www.clinicaltrials.gov ( NCT01361698).
+
+Keywords: Illness management and recovery, Rehabilitation, Psychoeducation, Randomized clinical trial, One-year follow-up, Community mental health, Severe mental illness
+
+## Background
+
+The Illness Management and Recovery (IMR) program is a manualized, curriculum- based, recovery-oriented, rehabilitation program for people with schizophrenia or a major mood disorder [1]. Typically, IMR is delivered by mental healthcare professionals with an aim of helping individuals set and pursue personal recovery goals and learn illness management skills to facilitate their attainment of these goals [1]. Clinical recovery refers to a reduction in the signs and symptoms of the mental illness and restoration of cognitive, social, and occupational functioning, whereas personal recovery refers to the process of constructing a personally meaningful life within and beyond the limits of one’s mental illness [2–5]. The IMR program is based on two theoretical models: the transtheoretical model and the stress-vulnerability model. The transtheoretical model proposes that motivation to change develops over a series of stages (precontemplation, contemplation, preparation, action, maintenance) and that facilitating change requires stage-specific interventions. The stress-vulnerability model posits that the course and outcome of schizophrenia is determined by the dynamic interplay of biological vulnerability, stress, and coping. The IMR-program is aimed at interrupting the cycle of stress and vulnerability that leads to relapse and poor functioning [1, 4, 6]. Therefore, the long-term outcomes of IMR are to improve both personal and clinical recovery, as illustrated in Fig. 1. 
+
+Fig. 1 Hypothesized short-term and long-term outcome of the Illness Management and Recovery Program
+
+The present study focuses on the long-term effects of the IMR program. The literature review on the IMR program by McGuire et al. (2014) [7] found two randomized clinical trials (RCTs) [8, 9] and one quasi-experimental trial [10] with results on the long-term effects of IMR. Two subsequent RCTs examined the long-term effects of IMR [11, 12], and one RCT preplanned a long-term follow- up but instead conducted a qualitative study at one year of follow-up [13]. Three of the trials revealed that the participants who received IMR had greater reductions in symptoms and increases in functioning posttreatment than those who received the usual services and that they maintained these improvements during follow-up [8, 9, 12]. However, all three trials had methodological limitations, such as not establishing a primary outcome, conducting assessments with nonblinded interviewers, and failing to perform a sample size calculation. In contrast, two RCTs by Salyers et al. (2010/2014) reported no group differences in favor of IMR at either the posttreatment or follow-up time points [10, 11]. However, these two RCTs also had methodological limitations (i.e., not including assessor-blinded interviews and primary outcomes, as noted below). The early systematic review concluded that the IMR-program was an effective intervention, but later studies have cast doubt.
+
+Two important issues must be considered when evaluating research on the IMR- program. The first issue is exposure to IMR, which can be measured by the number of IMR sessions attended. The second issue is fidelity to the principles of the IMR program, which can be measured with the IMR Fidelity Scale [14]. One RCT that also used a modified IMR (i.e., it excluded three IMR modules) did not report the number of sessions attended or the fidelity score [15]. Another RCT reported a high degree of exposure to IMR; however, the study did not perform fidelity assessments, which limited the ability to estimate the quality of IMR implementation [9]. Levitt et al. (2009) reported high fidelity but a lower degree of exposure than Färdig et al. (2011), with 54% of participants attending more than 20 sessions [8, 9]. The two studies by Salyers et al. (2010/2014) showed a good to high fidelity score; however, the authors reported low exposure to IMR [10, 11]. Together, the five RCTs had limitations in either IMR exposure or fidelity assessment.
+
+The present RCT was designed to improve upon the methodological limitations of previous IMR research and to evaluate whether participants in the IMR program exhibited improved clinical and personal recovery and illness management postintervention and at the one-year follow-up [16]. The IMR program was implemented with high fidelity but, unfortunately, with lower exposure to IMR than desired and reported in the study by Levitt et al. (2009), with 47% of the participants attending more than 20 sessions. No differences in any postintervention outcomes were found [17]. This article reports the one-year follow-up outcomes for clinical and personal recovery.
+
+## Methods
+
+### Design
+
+This study was a prospective, assessor-blinded, RCT performed in three community mental health centers (CMHCs) in the Capital Region of Denmark, which covers a population of approximately 1.8 million people. The IMR program was provided as an add-on to treatment as usual (TAU) care in the intervention group. The trial design is described in detail elsewhere and therefore will only be described briefly here [16]. Participants were included from March 2011 to December 2013. Assessments were conducted at baseline, posttreatment, and one year following the end of treatment, with follow-up data collection conducted between December 2013 and December 2014. The present article focuses on the one-year follow-up data.
+
+### Participants
+
+We included participants based on diagnostic interviews with the Present State Examination [18] conducted by a psychiatrist or trained psychologist to verify the diagnosis of schizophrenia (F20.x) or bipolar disorder (F31.x) according to the ICD-10 criteria. Additional inclusion criteria were as follows: a) 18 years of age or older, b) sufficient fluency in Danish to participate in the IMR program, and c) willingness to provide informed consent. The exclusion criteria were as follows: a) having a guardian or a forensic arrangement, b) meeting the criteria for the ICD-10 diagnosis of dementia or mental retardation, c) having an active substance use disorder, d) living in a community residential home, or e) being involved in a psychoeducational course at the time of inclusion.
+
+### Randomization and blinding
+
+Patients were recruited from three CMHCs in the Capital Region of Denmark. Diagnostic eligibility for the study was established with the Present State Examination (PSE) administered by a trained psychiatrist or a psychologist [16, 17]. The randomization was performed centrally and by telephone by the Copenhagen Trial Unit to conceal the allocation sequence. The allocation sequence was computer-generated using permuted blocks in varying sizes of 6, 8, and 10. The level of blinding at the one-year follow-up was focused on the assessor-blinded interviews, because blinding at the data analysis level was compromised during the posttreatment investigation.
+
+## Interventions
+
+### The IMR program
+
+Participants randomized to the IMR intervention group were offered an IMR course in addition to TAU as provided by CMHCs in the Capital Region of Denmark. The IMR program lasted 9 months with weekly group sessions, and each closed-enrollment group included ten patients. The group sessions were conducted by two or three clinicians at CMHCs. All patients receiving IMR were given educational hand-outs corresponding to the eleven different module topics (see Table 1).
+
+### Table 1 Modules in the Illness Management and Recovery Program
+
+### Treatment as usual (TAU)
+
+TAU consisted of an individually adapted interdisciplinary treatment containing medication, individual case manager support, individual and group therapy, and unstandardized psychoeducation. The staff of the CMHCs were trained mental health professionals, including nurses, psychiatrists, psychologists, physiotherapists, occupational therapists, and licensed social workers. Every patient in the CMHC had a case manager who together with the patient selected the elements of the individual’s treatment plan. The patient met with the case manager once a week (or more or less frequently depending on the state and preference of the patient) [16, 17].
+
+### IMR Fidelity scale
+
+The IMR fidelity assessments were performed four months after initiating the study and again at the end of each IMR group. Staff specially trained in IMR fidelity assessment from one participating community mental health centers was conducting the assessments at the other community mental health centers’ groups and vice versa. A multiple data approach was used including: interviews, observation of the IMR group, an audit of the patient’s service records as well as audit of the IMR notes of progress. Two raters independently scored each session and then discussed any discrepancies and reached a consensus rating.
+
+## Outcomes
+
+The assessment of clinical recovery (i.e., functioning and symptoms) was conducted through interviews with an assessor who was blinded to the treatment group allocation. Assessment of personal recovery was obtained through the participants’ self-reports. Information on illness management and recovery was obtained by the staff and was self-reported by the participants. All outcomes were assessed postintervention and again at the one-year follow-up. The primary outcome was the Global Assessment of Functioning (GAF) assessed by the GAF-F postintervention. Therefore, all one-year follow-up outcomes are secondary or explorative outcomes.
+
+The GAF is a generic rating scale ranging from 1 (lowest) to 100 (highest) that was developed as an overall measure of the patient’s social, psychological, and occupational functioning. The GAF can be rated with a single score that reflects both the symptom severity and functional impairment or with separate scores for symptoms (GAF-S) and functioning (GAF-F) [19]. For the present study, both the GAF-F and GAF-S scores were obtained.
+
+The Personal and Social Performance (PSP) scale measures social functioning within four domains: socially useful activities, personal and social relationships, self-care, and disturbing and aggressive behavior. The PSP provides a score between one and one hundred using a six-point severity scale for each domain. The ratings are based on the outcome of a structured clinical interview. A high score indicates higher personal and social functioning [20].
+
+The Positive and Negative Syndrome Scale (PANSS) is a semi-structured interview pertaining to the patient’s symptoms over the past month [21, 22]. The PANSS includes 30 items with a seven-point rating that represents increasing levels of psychopathology. The PANSS includes three subscales: the Positive Scale (7 items), the Negative Scale (7 items), and the General Psychopathology Scale (16 items). The PANSS total and subscales scores are calculated by summing the ratings of all items on the total scale and each subscale (range for total: 30–210, range for Positive and Negative Scales: 7–49, and range for General Psychopathology Scale: 16–112) [22].
+
+The 6-item Hamilton Rating Scale for Depression (HAM) is an interview-based measure of depression that includes the following six items: depressed mood, work and activities, sleep disturbance, guilt, anxiety, and retardation [23]. The HAM-D6 is interview-based and clinician-rated on a five-point scale (0–4), except for sleep disturbance, which is rated on a three-point scale (0–2). The HAM-D6 minimum score is zero, and the maximum score is 22.
+
+The Young Mania Rating Scale (YMRS) are composed of the following 11 item scale as follows: 1. Elevated Mood, 2. Increased Motor Activity-Energy, 3. Sexual Interest, 4. Sleep, 5. Irritability, 6. Speech Rate and Amount, 7. Language Thought Disorder, 8. Content, 9. Disruptive-Aggressive Behavior, 10. Appearance, and 11. Insight [24]. The YMRS is a clinician-rated instrument that is used to assess the severity of mania; items 1, 2, 3, 4, 7, 10, and 11 use a five-point scale, and items 5, 6, 8, and 9 use a nine-point scale. The YMRS minimum score is zero, and the maximum score is sixty [25].
+
+The IMR scale (IMRS) was developed to measure illness self-management outcomes based on the stress-vulnerability model and is an integrated part of the IMR program’s Implementation Toolkit. Each item is rated on a five-point scale, with lower scores reflecting lower levels of illness management. The IMRS can be scored by summing up all items on the scale for the total score (range: 15–75) or for three subscales based on factor analyses with a three-factor solution for the subscales (Recovery scale, Management scale, and Biology scale) [13, 26].
+
+The Mental Health Recovery Measure (MHRM) is a self-reported 30-item scale that assesses perceived recovery for individuals with a serious mental illness [27]. The items are rated on a five-point scale ranging from zero (strongly disagree) to four (strongly agree), creating a total score range of zero to 120. Higher MHRM scores indicate higher self-reported levels of mental health recovery.
+
+The Adult Hope Scale is a self-reported six-item scale that assesses the level of hope. The items are assessed using an eight-point Likert scale ranging from definitely false to definitely true [28]. The measure consists of two subscales: agency (goal determination) and pathways (extent of belief in ability to achieve goals). The Hope Scale minimum score is six, and the maximum score is 48.
+
+The Client’s Satisfaction Questionnaire measures the participants’ satisfaction with community mental health treatment [29], with a score range of 8–32.
+
+Finally, we collected data from the following national registers for all participants regarding their service utilization: the Civil Registration System (CPR-register), Danish Psychiatric Central Research Register (PCRR), Danish Register of Causes of Death, and Danish National Patient Register- Psychiatry [30]. We collected data on the number of hospital admissions, length of admissions in days, and number of emergency service visits. Every inhabitant of Denmark is given a unique ten-digital personal identification number, and therefore, complete follow-up using national databases is possible.
+
+## Statistical analysis
+
+A detailed statistical analysis plan was created before performing any analyses. The sample size calculation was conducted for the posttreatment investigation but not for the one-year follow-up. The analyses were conducted according to the intent-to-treat principle, with the two-tailed level of significance for all statistical tests set at 0.05. For the one-year follow-up analyses, we used generalized linear mixed-effects regression analyses. The relative changes in the GAF-F and social scores, psychiatric symptoms and illness management, and recovery were evaluated postintervention and at the one-year follow-up using the baseline data as covariates. Missing data were handled through multiple imputations, which were conducted with a linear mixed model, with post-intervention and follow-up as repeated measurements, baseline as a fixed effect covariate, and an unstructured covariance matrix. We assumed and estimated a time trend for the measures for the postintervention and one- year follow-up measurements. Furthermore, the linear mixed models were selected for their capacity to handle missing longitudinal data. The fixed values were the baseline values of GAF-F, GAF-S, PSP, PANSS, subscale PANSS, Negative Scale, Subscale PANSS Positive Scale, Subscale PANSS General Psychopathology Scale, HAM-D6, YMRS, CSQ, IMRS-P, IMRS-S, AHS, randomizing, sex, age, diagnosis, and CMHC. The automatic procedure in SPSS to produce missing imputed data values was used with 100 imputation estimates. Outliers were identified through Cooks’ D Diagram, and all outliers were included in all analyses. Residuals were tested for normality, linearity, and homoscedasticity, including using Spearman’s rank-order correlation. Also, complete case analysis was conducted where it is assumed that the missing data are missing completely at random and excluded in the analysis. In complete case analysis it is presumed to describe data where the observed complete cases are representative of the sample [31].
+
+The per-protocol analysis was performed to explore whether attendance at the IMR groups influenced the results. One-way ANOVA was conducted to evaluate attendance at the IMR groups as a continuous variable and to treat attendance as a dichotomous variable (0–10 sessions vs. > 10 sessions); the latter measure was used for non-exposure vs. exposure. Subgroup analyses were conducted to evaluate whether the diagnosis or sex interacted with treatment for the secondary outcomes.
+
+In addition, a post hoc analysis was performed to determine whether the subscale measurements of symptoms were influenced by IMR attendance as shown in other trials using one-way ANOVA [26]. The other post hoc analysis analyzed the IMRS as a three-factor solution. Also, we examined within-group changes at long-term follow-up by linear mixed model, with post-intervention and follow- up as repeated measurements, baseline as a fixed effect covariate, and an unstructured covariance matrix only focusing on time effect within groups.
+
+Poisson regression analysis was used for the count outcomes (i.e., hospital admission, emergency room visits, and outpatient treatment). Descriptive analyses were used to explore whether the data were zero-inflated, and a negative binominal model was conducted when the data were zero-inflated. IBM SPSS Statistics (version 19) for Windows was used for the statistical analysis.
+
+## Results
+
+Figure 2 shows the trial flowchart. A total of 198 patients completed the baseline interview, and 69% of the participants were available at the one-year follow-up. In total, 31 participants from the IMR group and 33 from the control group did not participate in the one-year follow-up. No differences were found in the demographic and clinical characteristics between the IMR and TAU groups at the one-year follow-up and Table 2 presents the baseline demographics on the participants.
+
+Fig. 2 Flow Diagram for the Danish Illness Management and Recovery trial
+
+### Table 2 Demographic and clinical characteristics of the patients at the baseline
+
+### Intent-to-treat analyses
+
+Table 3 shows the results of the one-year follow-up, intent-to-treat analysis, and complete case analysis. In the GAF-F, a nonsignificant group indicated a difference of 0.8 in favor of the IMR group (95% confidence interval [CI]: − 4.7 to 3.0 points, t = − 0.42 p = 0.45). Table 3 summarized the analysis of the group means over time and revealed no significant differences between the IMR and control groups in clinical recovery symptoms (i.e., GAF-S, PSP, PANSS, HAM-D, and YMRS). Analyses of changes in personal recovery based on the MHRM, Hope, and Client’s Satisfaction Questionnaire also showed no differences between the IMR and control groups between either the baseline and one-year follow-up or the postintervention and one-year follow-up time points. As a post hoc analysis, we examined the time effect and while both groups improved on functioning and personal recovery, there was no differences on symptoms and illness management (data not shown).n
+
+### Table 3 Recovery and illness self-management outcomes at the one-year follow-up
+
+### Complete case analyses
+
+Similar results were found between the complete case analyses and the intent- to-treat analyses for the GAF-F, PSP, and PANSS. Furthermore, no between-group differences were observed in any of the other assessments, including the GAF-S, HAM-D, YMRS, Adult State of Hope, MHRM, Client’s Satisfaction Questionnaire, or the two versions of the IMRS.
+
+### Service utilization
+
+No significant differences were found in the number of hospital admissions (mean difference 0.49, 95% CI: 0.67–1.48, p = 1.0), days of hospital admission (mean difference 19.4 95% CI: -0.76-0.5, p = 0.5), or number of emergency room visits (mean difference 0.63, 95% CI: 0.81–1.54, p = 0.51) between the IMR and control groups.
+
+### Fidelity
+
+The IMR Fidelity mean scores across the three participating CMHCs assessed half-way at 4 months were CMHC 1: 4.3 (SD 0.9), CMHC 2: 4.1 (SD 0,1) and CMHC 3: 4.1 (SD 0.3) indicating good fidelity. The mean scores at the end assessment were CMHC 1: 4.2 (SD 0.7), CMHC 2: 4.0 (SD 0.8), and CMHC 3: 4.2 (SD 0.9) indicating high fidelity. For further information see Dalum et al. (2018) [17].
+
+### Subgroup and subscale analyses
+
+No association was found between a higher number of sessions attended and the GAF-F score at the one-year follow-up (see Table 4). The subgroup analyses showed no differences in the effect of IMR according to the participant diagnosis or sex on the outcomes of the GAF-F, PSP, or PANSS (see Table 4). We also performed post hoc analyses to investigate whether specific symptoms were influenced by IMR, as shown in other trials. When performing complete case analyses using univariate ANOVA with postintervention as a covariate, no significant difference was found between the intervention and control groups. A p-value of 0.05 was found for the PANSS positive symptoms favoring the TAU group; however, when considering the multiple statistical tests conducted, this result cannot be considered significant. We planned to analyze the IMRS as the total scale score (see Table 3), but post hoc we also analyzed the IMRS as three-factor solution subscales (the Recovery, Management, and Biology scales) [26]; however, the results were not significant (data not shown).
+
+### Table 4 Per-protocol and post-hoc subgroup analysis at one-year-follow-up
+
+## Discussion
+
+The aim of the present study was to examine the long-term outcomes of an IMR trial, because the hypothesis behind the IMR program is that clinical and personal recovery can occur over a considerable timeframe after attending the program (Fig. 1). Overall, the study revealed no difference between the IMR and TAU groups in clinical recovery, personal recovery, illness self- management, and service utilization at the one-year follow-up. This result was similar to the findings at the end of the intervention [17].
+
+### Fidelity and exposure to IMR
+
+As mentioned in the introduction, two important issues should be considered in addition to the RCT design when interpreting the results: the fidelity of the IMR program and the participant’s exposure to the IMR program. The fidelity assessments showed good implementation at the program level [32]. The high fidelity can be explained by that all IMR facilitators went through a specific course of education prior to the intervention, had supervision during the intervention and held planned meetings during the intervention with the research team, leaders of the CMHC and IMR-instructors to evaluate the implementation of the IMR-program. Among the participants randomized to the IMR group, 13% did not attend a single IMR session, and 46.5% attended more than 20 sessions, resulting in an average session number of 16.4 (SD ±13.3) [17]. We had hoped for a higher participation rate. This result is a limitation, although the analyses showed no differences in the outcomes at the one-year follow-up between the participants who attended 0–10 sessions and those who attended 10+ sessions.
+
+### Trial results in the context of previous IMR trials
+
+In terms of symptoms, the review by McGuire et al. (2014) [7] found two RCTs [8, 9] supporting the hypothesis that IMR reduced symptoms, which aligned with the conclusion of a later study using a modified version of the IMR program [12]. However, the findings of the present study align with those of the study by Salyers et al. (2014) [11]. Thus, the results appear to be contradictory. Currently, a Cochrane review of IMR is being conducted; a meta-analysis will be conducted as part of this review if the symptom data are adequate, which will provide a better understanding of the effect of IMR on symptoms [33]. Furthermore, after a Dutch feasibility study of the IMR program, the authors proceeded to a RCT; the results from this RCT will contribute to clarifying the effect of IMR on symptoms [34].
+
+The present study found no effect of IMR on improved functioning, which was in accordance with the study by Salyers et al. (2014) [11] but differed from the study by Levitt et al. (2009) [8]. Altogether, the results raise questions regarding the impact of IMR on functioning as a long-term effect. Personal recovery, such as hope [28], and a person’s experience with recovery (i.e., pursuing personal goals or taking social initiatives) were measured in three other trials, none of which reported significant improvement for the participants in IMR [9–11]. Therefore, the results of the present trial are in accordance with these results and suggest that IMR does not seem to impact the participants’ personal recovery at the long-term follow-up.
+
+According to the conceptual framework underlying the IMR program, illness self-management is central for the ability of individuals to achieve clinical and personal recovery from mental illness [1]. All five trials assessed illness self-management with the IMRS. In three of the trials, both the patient (IMR-patient) and staff (IMR-staff) versions were used [8–10]. In contrast to our study, these three studies reported significant improvements resulting from IMR. Because the other RCTs had methodological limitations regarding the effect of IMR on illness self-management, examining the effect of IMR in a meta-analysis to obtain an integrated view of the effect is important [33]. The review by McGuire et al. (2014) [7] found that independent-assessor rated outcomes were more likely to show significant changes, although the present trial did not support these results. In our study we found time effect in both groups on functioning and personal recovery, but not on symptoms and illness management, indicating that services and/or time were generally associated with some improvement but IMR was not associated with additional benefit. One possible explanation for our null findings may be that the IMR-program is not as effective as earlier reviewer concluded. A recent Cochrane review showed that psychoeducational programs affected the participants’ symptom severity but not their daily functioning [35]. IMR is more than a psychoeducational program. In psychoeducational programs strategies are considered to be important for shared decision-making; however, other behavioral-based illness management strategies are also included in IMR, such as relapse prevention training and training in coping skills [36]. The results on the Cochran review on psychoeducational programs together with the results from IMR trials indicate the necessity of considering the need for programs with other conceptual frameworks to support people with severe mental illnesses in achieving functional and personal recovery. The results of present trial indicate that the IMR-program’s theoretical foundation, which is listed in Fig. 1 may be flawed.
+
+### Strengths and limitations
+
+The present RCT has several strengths. The trial was conducted according to the best methods available to reduce the risk of systematic, random, and design errors. The trial was conducted with adequate generation of the allocation sequence, adequate allocation concealment, adequate blinding wherever possible, adequate reporting of all relevant outcomes, and an intent- to-treat-analysis [37–40]. Moreover, sample size calculations were conducted prior to participant recruitment.
+
+However, the trial also has some limitations. Although all centers reported high fidelity, reflecting good implementation of IMR in the CMHCs [32], none scored high on the fidelity item pertaining to the involvement of participants’ families or significant others [32]. A limitation in the fidelity assessment was that the IMR treatment integrity scale (IT-IS) to measure the therapeutic skills of the IMR-instructors or assessment to measure the implementation of IMR at organization level by the General organizational index (GOI-scale) was not applied in this trial. As previously mentioned, another limitation was that exposure to IMR was lower than we had hoped. However, no difference between the non-exposed participants (attending 0–10 sessions) and the exposed participants (attending 10+ sessions) was found at the one-year follow-up, which was in accordance with the fact that we also found no postintervention differences between the two groups. Postintervention, we performed post hoc analyses to address the exposure issue; however, none of our findings indicated that this problem had affected our results [17]. The exposure to IMR in the present study may better reflect a “real-world setting” than high IMR exposure. We can expect that some participants may not want to continue after a few IMR sessions and that some may not be able to participate in all sessions over a nine-month period. Furthermore, the waiting time from randomization to the first IMR group session was, on average, 87 days, which might have affected the results; indeed, providing psychosocial treatment when an individual is interested in and motivated to participate in such treatment is important. However, analyses to determine whether this wait affected the results did not indicate any effect [17]. In the present RCT, some of the IMR instructors were case managers for patients in the control group, and therefore, a spill-over effect in the control group was possible. However, the IMR instructors were educated to use only the IMR material for the IMR group participants. Furthermore, they were told to consult a well-experienced psychiatrist in only performing TAU, in case they were unsure whether specific elements could be regarded as part of TAU. A critical limitation is the high number of incomplete observed data due to a high lost to follow-up rate. Furthermore, a limitation is that nearly one-third of the participants did not complete the self-report instruments a long-term follow-up. To address these missing data, a mixed model with multiple imputations was generated to estimate and improve the statistical test values. Furthermore, the analyses were conducted according to the intent- to-treat principle, with the two-tailed level of significance for all statistical tests set at 0.05. Because all outcomes were exploratory, the risk of type 1 error was considerable. However, because none of the outcomes were statistically significant, the risk of type 1 error was ruled out. The participants who did not attend at the one-year follow-up may have recovered; however, these participants had significantly more hospitalizations, longer hospital admissions, and low attendance to the IMR program (see Table 4). When we conducted the present trial, we might have been too optimistic, because the trial was based on the number of participants needed to assess a 6-point difference on the GAF-F scale postintervention. Therefore, our sample size may be too small to state whether an observed difference of 0.8 is in fact a true difference at the one-year follow-up, but this finding most likely does not have clinical relevance.
+
+## Conclusion
+
+The present study showed no significant effect of IMR on clinical and personal recovery at the one-year follow-up. Together with previous RCTs with long-term follow-up, the findings raise questions about the effect of IMR on symptom severity. Altogether, the results of existing RCTs that have investigated IMR raise questions regarding the impact of IMR on functioning and do not suggest any effects on personal recovery. One possible explanation for our null findings is that the IMR-program is not as effective as earlier reviewer concluded. Hopefully, ongoing research on IMR [33, 41] will provide a more solid answer on this matter. However, the results suggest the need to consider the development of interventions based on other conceptual frameworks to help people with severe mental illnesses gain a better level of functioning and achieve personal recovery.
+
+## Acknowledgements
+
+We are grateful for the participation of the patients and the assistance of the clinical staff at each community mental health center.
+
+### Funding
+
+This study was sponsored by grants from the Residential Skovvaenget from the Mental Health Services in the Capital Region of Denmark and the TRYG Foundation.
+
+### Availability of data and materials
+
+The data are not publicly available because permission to release the data was not gained from the participants. This restriction has been imposed by the Danish Data Protection Agency. However, the data can be requested by contacting videnscenterfordataanmeldelser.rigshospitalet@regionh.dk.
+
+## Abbreviations
+---|---
+GAF-F| Global Assessment of Functioning–Functioning scale
+GAF-S| Global Assessment of Symptom–Symptom scale
+HAM| Hamilton Scale of Depression six items
+Hope| Snider’ Adult Hope scale
+IMR| The Illness Management and Recovery Program
+IMRS| The Illness Management and Recovery Scale
+MHRM| Mental Health Recovery Measure
+NS| Not Significant
+PSP| Personal and Social Performance scale
+RCT| Randomized Clinical Trial
+TAU| Treatment as Usual
+YMRS| Young’s Mania Rating Scale
+
+## Authors contributions
+
+Background SBJ, HSD, LK, JHM, KT, KK, MO, JL, MN, LFE. Methods HSD, LK, JHM, KT, KK, MO, JL, MN, LFE. Design: HSD, LK, JHM, KT, KK, MO, JL, MN, LFE. Data curation: SBJ. Statistical analysis: SBJ, CH, KTM, LFE. Formal analysis: SBJ, CH, LFE. Results: SBJ, CH, KTM, LFE. Discussion: SBJ, HSD, LK, JHM, KT, KK, MO, JL, MN, LFE. Funding acquisition: KK, MO, LFE. Project administration: LFE. Resources: LFE. Supervision: KTM, CH, LFE. Writing - original draft: SBJ. Writing - review & editing: HSD, LK, CH, JHM, KT, KK, MO, JL, KTM, MN, LFE. All authors read and approved the final manuscript.
+
+## Notes
+
+## Ethics approval and consent to participate
+
+The trial was approved by the Ethics Committee in the Capital Region of Denmark (H-1-2010-134), reported to the Danish Data Protection Agency (RHP-2011-09), and registered on www.clinicaltrials.gov ( NCT01361698) before recruitment began.
+
+The trial followed the international ethical guidelines for informed consent in clinical trials. Consent was voluntary, informed, and given both verbally and in writing. The participants did not receive a fee for their participation.
+
+## Consent for publication
+
+Not applicable.
+
+## Competing interests
+
+The sponsors played no role in the study design, data collection, data analysis, data interpretation, or writing of the report. Except for Professor Kim Mueser, all authors declare that they have no conflicts of interests. Professor Kim Mueser declares that he was one of the original developers of the IMR program but holds no financial interest in its use.
+
+## Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Contributor Information
+
+Sofie Bratberg Jensen, Email: kd.hnoiger@grebtarB.eifoS.
+
+Helle Stentoft Dalum, Email: moc.liamg@mulad.tfotnets.elleh.
+
+Lisa Korsbek, Email: kd.hnoiger@nesnetsirhc.kebsrok.asil.
+
+Carsten Hjorthøj, Email: kd.hnoiger@jeohtrojh.netsrac.
+
+John Hagel Mikkelsen, Email: kd.tenldad@mhj.
+
+Karin Thomsen, Email: kd.tenldad@nesmoht.k.
+
+Kristen Kistrup, Email: kd.dnalleajsnoiger@iKrrk.
+
+Mette Olander, Email: kd.emliam@rednalO.etteM.
+
+Jane Lindschou, Email: kd.utc@LJ.
+
+Kim T. Mueser, Email: ude.ub@reseum.
+
+Merete Nordentoft, Email: kd.tenldad@nm.
+
+Lene Falgaard Eplov, Email: kd.hnoiger@volpE.draaglaF.eneL.
+

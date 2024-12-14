@@ -1,0 +1,141 @@
+The Mothers, Omega-3, and Mental Health Study: a double-blind, randomized controlled trial
+
+## Abstract
+
+### OBJECTIVES
+
+Maternal deficiency of the omega-3 fatty acid, docosahexaenoic acid (DHA), has been associated with perinatal depression, but there is evidence that supplementation with eicosapentaenoic acid (EPA) may be more effective than DHA in treating depressive symptoms. This trial tested the relative effects of EPA- and DHA-rich fish oils on prevention of depressive symptoms among pregnant women at an increased risk of depression.
+
+### STUDY DESIGN
+
+We enrolled 126 pregnant women at risk for depression (Edinburgh Postnatal Depression Scale score 9–19 or a history of depression) in early pregnancy and randomly assigned them to receive EPA-rich fish oil (1060 mg EPA plus 274 mg DHA), DHA-rich fish oil (900 mg DHA plus 180 mg EPA), or soy oil placebo. Subjects completed the Beck Depression Inventory (BDI) and Mini-International Neuropsychiatric Interview at enrollment, 26–28 weeks, 34–36 weeks, and at 6–8 weeks’ postpartum. Serum fatty acids were analyzed at entry and at 34–36 weeks’ gestation.
+
+### RESULTS
+
+One hundred eighteen women completed the trial. There were no differences between groups in BDI scores or other depression endpoints at any of the 3 time points after supplementation. The EPA-and DHA-rich fish oil groups exhibited significantly increased post-supplementation concentrations of serum EPA and serum DHA respectively. Serum DHA- concentrations at 34–36 weeks were inversely related to BDI scores in late pregnancy.
+
+### CONCLUSION
+
+EPA-rich fish oil and DHA-rich fish oil supplementation did not prevent depressive symptoms during pregnancy or postpartum.
+
+Keywords: depression, docosahexaenoic acid, eicosapentaenoic acid, fish oil, supplementation
+
+##
+
+Depressive symptoms are associated with significant morbidity in pregnancy and postpartum. Perinatal depression may be associated with impaired mother-infant bonding and may also be associated with adverse outcomes of pregnancy, such as preterm birth and low birthweight.1 Although antidepressant medications of the selective serotonin reuptake inhibitor category are readily prescribed, these medications have been associated with both major cardiovascular malformations and poor neonatal adaptation syndromes.2 For this reason, there has been interest to test alternative medicine modalities that might prevent or treat this debilitating condition without associated deleterious effects.
+
+Over the past decade, there has been considerable interest in the omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), as possible preventive or therapeutic modalities for depression. In animal studies, dysregulation of the innate immune response has been associated with diets low in omega-3 fatty acids; this immune dysfunction has also been implicated in mood disorders.3 Human observational evidence has suggested that deficiency of DHA may predispose to perinatal depression.4,5 DHA is preferentially transferred from the maternal to fetal compartment in the third trimester of pregnancy, leaving many mothers relatively DHA deficient.6
+
+Several early trials have suggested that fish oil supplementation may be beneficial in treating perinatal depression.7–9 However, several larger, blinded trials of maternal DHA supplementation have failed to show a benefit for this intervention.10–12 One potential reason for this disparity in the observational and interventional studies is that EPA rather than DHA may be the more active fatty acid in the prevention or treatment of mood symptoms. Three systematic reviews comparing DHA and EPA for the prevention or treatment of mood disorders among nonpregnant and pregnant individuals have suggested that EPA rather than DHA may have beneficial effects.13–15 Likewise, a recently randomized controlled trial comparing 1 g of EPA, 1 g of DHA, and coconut oil placebo for mild to moderate depression in nonpregnant individuals found EPA to be superior to DHA and placebo in treating depressive symptoms.16
+
+We carried out this study to directly compare EPA-rich fish oil, DHA-rich fish oil, and soy oil placebo for the prevention of depressive symptoms among pregnant women at an increased risk for depression. We hypothesized that the EPA- or DHA-rich fish oil supplementation would reduce the Beck Depression Inventory (BDI) score at 6 weeks postpartum by 50% compared with placebo.
+
+## Materials and Methods
+
+### Details of ethics approval
+
+This study was approved by the institutional review boards of the University of Michigan Health System (Ann Arbor, MI) and St Joseph Mercy Health System (Ypsilanti, MI). Enrolled participants provided written informed consent.
+
+### Study design
+
+The protocol for this study has been previously described.17 We solicited permission to determine eligibility from pregnant women presenting for prenatal care at 2 health systems in southeastern Michigan: the University of Michigan Health System and St Joseph’s Mercy Hospital Health System. We used the Edinburgh Postnatal Depression Scale (EPDS), a widely used 10 item measure of perinatal mood, to screen potential subjects for depression risk.18 Inclusion criteria included past history of depression, an EPDS score 9–19 (at risk for depression or mildly depressed), singleton gestation, a maternal age of 18 years or older, and a gestational age of 12–20 weeks. Potential subjects were excluded if they had a history of a bleeding disorder, thrombophilia requiring anticoagulation, multiple gestation, bipolar disorder, current major depressive disorder, current substance abuse, lifetime substance dependence, or schizophrenia. Women were also ineligible if they were currently taking omega-3 fatty acid supplements or antidepressant medications or eating more than 2 fish meals per week.
+
+For a final determination of eligibility, study staff with training in clinical psychology administered the Mini-International Neuropsychiatric Interview (MINI). The MINI is a structured interview for diagnosis of Diagnostic and Statistical Manual of Mental Disorders-IV and International Classification of Diseases, 10th revision, psychiatric disorders.19 We used the MINI to exclude current major depressive disorder (MDD), bipolar disorder, current substance abuse or dependence, suicidal ideation, or schizophrenia.17
+
+### Sample size considerations
+
+Our sample size calculation was based on the premise that supplementation with either EPA-rich or DHA-rich fish oil would result in a 50% reduction in the mean BDI score at 6 weeks postpartum. The test characteristics of the BDI as a depression screen among pregnant populations have been well characterized.20,21 The BDI has been used in perinatal psychiatric studies as a measure of severity of depressive symptoms.22,23
+
+Sample size calculations were generated in nQuery Advisor version 6.01 (STATCON, Witzenhausen, Germany). The sample size was chosen based on the expected BDI scores using postpartum BDI scores from a previous study of pregnant women.24 For this calculation we used a mean BDI score of 8.4 and SD of 6.4 expected among postpartum mothers at risk for depression. Assuming a significance level of P = .05, a 1-way analysis of variance test, a variance of means (variance of the individual group means) of 3.920, a SD of 6.4, and an effect size (the index of the separation expected among the observed means) of 0.0957, we planned to recruit 105 pregnant women (35 pregnant women in each of the 3 groups) to have 80% power to detect at least 1 group difference in the mean BDI score. The sample size was increased by 20% to account for anticipated study dropouts and women who were expected to start antidepressant treatment. Our decision to hypothesize a 50% reduction in the mean BDI score between intervention and control groups was based on results from published studies.7,8
+
+Women who met all eligibility criteria and who agreed to participate were randomly assigned to receive one of the following: (1) EPA-rich fish oil supplementation (1060 mg EPA plus 274 mg DHA); (2) DHA-rich fish oil supplement (900 mg DHA plus 180 mg EPA); or (3) a soy oil placebo (control arm). Randomization was carried out using a random number table maintained in the University of Michigan Investigational Drug Service.
+
+The intervention supplements and placebo were provided by Nordic Naturals Corporation in Watsonville, CA. The EPA-rich fish oil (ProEPAXtra, Nordic Naturals) contained an approximate 4:1 ratio of EPA to DHA (1060 mg EPA plus 274 mg DHA), whereas the DHA-rich oil (ProDHA, Nordic Naturals) contained DHA and EPA in an approximate 4:1 ratio (900 mg DHA plus 180 mg EPA). The placebos were formulated to be identical in appearance to both the EPA- and DHA-rich supplements and contained 98% soybean oil and 1% each of lemon and fish oil. The supplements were molecularly distilled and free of industrial contaminants, mercury, and organochlorines.
+
+Because the EPA and DHA capsules were not identical in appearance, we used a double-dummy design to maintain blinding. The EPA group received 2 large EPA- rich fish oil capsules and 4 small placebo capsules formulated to appear identical to the DHA-rich fish oil capsules. The DHA group received 2 large placebo capsules formulated to appear identical to the EPA-rich fish oil capsules and 4 small DHA-rich fish oil capsules. The placebo group received 2 large and 4 small placebo capsules daily. Adherence to the protocol was assessed by self-report as well as by capsule counts. Subjects were asked to return unused capsules to study staff at each study visit. We also assessed omega-3 highly unsaturated fatty acid levels before and after supplementation as a measure of compliance.
+
+Enrolled subjects attended 4 study visits. The BDI and MINI were administered at each of these 4 time points: visit 1 at 12–20 weeks’ gestation, visit 2 at 26–28 weeks’ gestation, visit 3 at 34–36 weeks’ gestation, and visit 5 at 6–8 weeks’ postpartum. At visits 2, 3, and 5, the MINI was readministered to diagnose MDD. Subjects who met criteria for MDD at any time during study participation continued in the study but were also referred to mental health providers for standard care. Obstetrical and mental health providers were free to prescribe antidepressant medications, if indicated.
+
+Maternal blood was drawn at enrollment as well and at 34–36 weeks’ gestation after a fast of at least 4 hours. Umbilical cord blood (mixed arterial and venous) was collected from infants born to mothers who participated in the study. All samples were centrifuged before separation into the 6 aliquots and were stored at −70 degrees C.
+
+Fatty acid analyses were carried out on thawed serum aliquots. Total serum fatty acids were first extracted with Folch reagent and then converted to fatty acid methyl esters. Quantitation was done using gas chromatography with mass spectral detection as previously described.25 Results were expressed as percentage of total fatty acids.
+
+The Fisher exact test was used to compare categorical variables. For continuous variables, 1-way analysis of variance (ANOVA) was used to compare groups. The change in fatty acid levels was assessed using the paired Student t tests, the Wilcoxon signed rank test, and the Kruskal-Wallis nonparametric test. Analysis of covariance (ANCOVA) was used to evaluate the role of serum EPA and DHA as predictors of the BDI score.
+
+This study’s identifier is  NCT00711971.
+
+## Results
+
+Between October 2008 and May 2011, 2657 women granted permission to determine eligibility and were screened for depression in early pregnancy. Of these, 161 women who met initial entry criteria underwent a final determination of eligibility with the MINI. Thirty-five women were excluded after undergoing the MINI, with reasons for exclusion being current major depressive disorder, bipolar disorder, and substance dependence. There were 126 women who enrolled in the study and who were randomly assigned to receive EPA-rich fish oil, DHA- rich fish oil, or placebo. There were 8 women who discontinued trial participation. One of the subjects in the DHA-rich fish oil group experienced a second-trimester pregnancy loss attributed to cervical insufficiency. The remaining 7 subjects were lost to follow-up and information was not available on the study outcomes for these subjects.
+
+There remained 39 women who received EPA-rich fish oil, 38 women who received DHA-rich fish oil, and 41 women who received placebo supplementation. During the course of the trial, there were 16 ongoing subjects who discontinued taking the study supplement before the final study visit at 6–8 weeks’ postpartum. These subjects were analyzed in the intent-to-treat analysis. Reasons for discontinuation included side effects (mostly nausea, belching, and fishy aftertaste as well as forgetting to take capsules or becoming too busy to take study capsules). The Consort flow diagram of subject recruitment and participation is in the Figure. The baseline characteristics of the study participants are detailed in Table 1.
+
+FIGURE Consolidated Standards of Reporting Trials 2010 flow diagram
+This figure describes the recruitment and determination of eligibility process for this trial.
+
+### TABLE 1 Baseline characteristics
+
+BDI scores at 34–36 weeks’ gestation and at 6–8 weeks’ postpartum were compared between groups in an ANCOVA with the baseline score as a covariate. There were no significant differences in the change in the BDI scores between enrollment and the 34–36 weeks’ gestation visit or the 6–8 week postpartum visit among the randomized groups. There were no differences in the mean BDI scores among the groups at entry or at any of the study visits after supplementation. There were no statistically significant differences among the groups in the proportion of women who started antidepressant medications or in antidepressant dose requirements (Table 2).
+
+### TABLE 2 Intent-to-treat analysis
+
+There were no significant differences in the proportion of subjects who complained of gastrointestinal side effects (nausea, belching, and fishy aftertaste) among the randomized treatment groups. There were no significant differences between the randomized groups in measures of adherence (Table 3). Based on self-reported adherence, a per-protocol analysis was carried out, excluding those subjects who reported stopping their capsules early (n = 16) and those whose capsule continuation was unable to be ascertained (n = 4). There were no significant differences in BDI scores in the per-protocol analysis (Table 4).
+
+### TABLE 3 Measures of capsule compliance
+
+### TABLE 4 Per-protocol analysis
+
+Supplementation significantly increased serum EPA in the EPA group and significantly increased serum DHA in the DHA-rich fish oil group (Table 5). To evaluate the relationship between maternal serum EPA and DHA and BDI scores at visits 3 and 5, we fit the following variables in an ANCOVA model: BDI at enrollment, group allocation, smoking, body mass index at enrollment, admission to having stopped taking capsules, admission to have started antidepressant medications, serum EPA at 34–36 weeks, serum DHA at 34–36 weeks, and total omega-3 highly unsaturated fatty acids at 34–36 weeks.
+
+### TABLE 5 Maternal fatty acids
+
+The initial evaluation found the variables BDI at enrollment, admission to having stopped taking capsules, serum EPA, and serum DHA to be significant predictors of the BDI score at visit 3. Because of skewed distributions, we log transformed serum EPA and DHA values and performed regression analyses to evaluate the relationship of these variables with the BDI scores at visits 3 and 5.
+
+Because EPA and DHA were highly correlated, they were modeled separately. The BDI score at visit 3 was significantly predicted by serum DHA (P < .05), BDI at enrollment (P < .001) and admission to having stopped taking capsules (P < .01). Serum DHA was inversely related to BDI scores. The model including DHA, BDI score at visit 1 and admission to having stopped capsules accounted for 31% of the variance in the BDI score at visit 3. Serum EPA did not significantly predict the BDI score at visit 3. Neither serum EPA nor DHA significantly predicted BDI scores at 6–8 weeks postpartum.
+
+Supplementation with DHA-rich fish oil significantly lengthened gestation (40.4 weeks) compared with EPA (39.1 weeks) and placebo (39.1 weeks) (P < .0001) but did not result in significant differences in labor inductions. There were no significant differences in any other maternal outcomes (Table 6).
+
+### TABLE 6 Maternal outcomes
+
+There were 119 babies born to continuing trial participants, included 1 set of twins. The twin gestation was undiagnosed at the time of enrollment; both neonates were analyzed based on intent-to-treat principles. Supplementation resulted in higher birthweight in the DHA group compared with the EPA and placebo groups (P < .001). Five minute Apgar scores were significantly higher in the DHA group than the EPA and placebo groups combined, an effect without clinical significance. There were no differences in any other neonatal outcome measure among the groups (Table 7).
+
+### TABLE 7 Neonatal outcomes
+
+Maternal DHA-rich fish oil supplementation significantly increased umbilical cord serum DHA proportion. Umbilical cord serum EPA and DHA concentrations in babies born to mothers who had received EPA-rich fish oil were not significantly different from umbilical cord serum concentrations from babies born to mothers in the placebo group (Table 8).
+
+### TABLE 8 Fatty acids in umbilical cord serum, as percent of total fatty acids
+
+## Comment
+
+Our study did not support the hypothesis that EPA-rich fish oil or DHA-rich fish oil would prevent depressive symptoms in pregnant women at risk for depression. However, DHA levels did predict BDI score at 34–36 weeks. Strengths of our study are that it was carried out in a population of women at risk for depression; we chose to carry out our study among women with predisposition to depression so that our primary outcome would be sufficiently frequent. The blinded design of the trial was a strength; our analyses of side effects showed that the proportion of women who reported gastrointestinal side effects with the intervention did not differ between the groups, suggesting that the placebo intervention was appropriately masked. The comparison of fish oils that were high in either DHA or EPA was a strength as well. To our knowledge this is the first study to compare fish oils of these differing compositions among pregnant women.
+
+A weakness of our study was that it had statistical power to detect differences in depressive symptoms but not in diagnoses of major depressive disorder. Adherence to the protocol in our study was not ideal; 14% of continuing subjects discontinued taking their capsules during their trial participation. The nonsignificant increases in DHA and EPA concentrations in the EPA-rich fish oil group compared with placebo suggest suboptimal compliance in the EPA group, although compliance measures did not differ according to group assignment. However, we found no evidence of benefit in the per-protocol analysis. This study may represent outcomes that might be encountered in actual clinical practice.
+
+We found that serum DHA concentrations at 34–36 weeks significantly predicted BDI scores in late pregnancy but did not predict scores at 6–8 weeks’ postpartum. All groups experienced improvement in the BDI scores at 6–8 weeks’ postpartum, suggesting a possible placebo effect. The soy oil placebos used in this study contained a very small amount of fish oil for masking as well as a small amount of alpha linolenic acid, which may be endogenously converted to DHA and EPA, thus possibly serving as an active placebo. However, the DHA and EPA concentrations did not significantly increase over time in the placebo group, and available literature suggests that the endogenous conversion of linolenic acid to EPA and DHA is very low.26
+
+Our findings are in agreement with those of Makrides et al,11 who found no benefit for DHA-rich fish oil for prevention of depressive symptoms among pregnant women who were not selected based on predisposition for depression. These findings are also compatible with those of Freeman et al,27 who found no additional benefit for EPA-predominant fish oil compared with interpersonal psychotherapy alone. Our findings do not agree with those of Su et al9 and earlier open-label studies by Freeman et al,7,8 which were suggestive of benefit. One possible reason that our results differed from those of Freeman and Su is that we tested lower doses of EPA and DHA than were used in those studies. However, Freeman’s dose-ranging trial found that higher doses of EPA plus DHA were not more effective than lower doses.8
+
+Our trial was a prevention trial carried out among women who without a diagnosis of MDD at entry. It is possible that omega-3 fatty acids are effective for treatment rather than prevention of perinatal depression.
+
+The prolongation of pregnancy noted in the DHA group is consistent with prior reports.11,28 Our study did not show an increased need for labor inductions in the supplemented group, but our sample size may have been insufficient to demonstrate such a difference.
+
+In summary, we found no benefit for EPA-rich fish oil or DHA-rich fish oil supplementation to prevent depressive symptoms in pregnancy and postpartum. We demonstrated that maternal serum DHA concentrations at 34–36 weeks were significantly predictive of depression scores at the same time point. Further research is needed to clarify the mechanism underlying this relationship.
+
+## Acknowledgments
+
+This study was supported by National Institutes of Health (NIH) grant R21 AT004166-03S1 (National Center for Complementary and Alternative Medicine) and a University of Michigan Clinical Research Initiatives grant and by the University of Michigan General Clinical Research Center, now the Michigan Clinical Research Unit. This study was also supported (in part) by the NIH through the University of Michigan’s Cancer Center Support Grant (P30 CA046592). This study was also supported in part by the National Center for Research Resources and the National Center for Advancing Translational Sciences, NIH, through grant 8UL1TR000041, for the Clinical and Translational Science Center, University of New Mexico. The Nordic Naturals Corporation donated both active supplements and placebos to the trial.
+
+The Nordic Naturals Corporation donated both active supplements and placebos to the trial. The Nordic Naturals Corporation had no role in the interpretation or reporting of results. The Data Monitoring Committee included the following: Barbara Luke, ScD, Michigan State University; Charles Neal, MD, University of Hawaii; Mel Barclay, MD (deceased), University of Michigan; and Dwight Rouse, MD, Brown University. No funding or compensation was provided for service on the Data Monitoring Committee. Assistance for this study’s database construction was provided by Ms Michelle Housey, who was a student at the University of Michigan School of Public Health. Her assistance to this study was funded by Dr Marjorie Treadwell’s University of Michigan Outstanding Clinician Award. Delia Vazquez, MD, University of Michigan Department of Pediatrics, assisted with the study design and enrollment infrastructure and had 1–2% effort on the R21 grant that supported this trial during 2 years of the trial period. The principal investigator would also like to acknowledge Ms Babett Riblett, RN; Ms. Mary Beaupre, LPN; Ms Joanne Wiklund, RN; Ms Lori Crimando, NP Joanne Bailey, CNM; Joyce Baker, CNM; and Mary McGuiness, CNM. All of those listed previously are employed by the University of Michigan and assisted with subject recruitment. Dr Jennifer Williams assisted with subject recruitment and data collection from the Integrated Health Associates/St Joseph Mercy Hospital site. None of these persons received any compensation or funding for their roles in this study.
+
+## Footnotes
+
+E.L.M. was an invited speaker at the Nutracon 2012 Conference, sponsored by the Global Organization for EPA and DHA Omega-3s (GOED), Anaheim, CA, March 7–8, 2012, and received reimbursement for travel expenses.
+
+The remaining authors report no conflict of interest.
+
+Presented at the 33rd annual meeting of the Society for Maternal-Fetal Medicine, San Francisco, CA, Feb. 11–16, 2013.
+
+The racing flag logo above indicates that this article was rushed to press for the benefit of the scientific community.
+
+Reprints not available from the authors.
+

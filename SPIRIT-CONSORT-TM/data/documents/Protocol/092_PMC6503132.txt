@@ -1,0 +1,272 @@
+Design and methods for the Ranger Resilience and Improved Performance on Phospholipid bound Omega-3's (RRIPP-3 study)
+
+## Abstract
+
+Intake of nutrients fundamental for optimal neuronal function is of increasing interest. The potential importance of omega-3 highly unsaturated fatty acids (HUFAs) for optimizing emotional states, cognitive function, and mental health has been demonstrated in observational studies and randomized controlled trials. Omega-3 (HUFAs), specifically EPA (eicosapentaenoic acid) and docosahexaenoic acid (DHA), are concentrated in neural tissues and are essential for neural function, normative neurodevelopment, neurotransmitter, and neural immune functions. Omega-3 HUFAs must be obtained from the diet, predominantly from marine sources such as fish and other seafood. HUFAs also can be found in a variety of dietary supplements (omega-3 fatty acid esters, fish oil and krill oil). As dietary supplements, omega-3 HUFAs (fatty acid esters, fish and krill oils) differ substantially in their physicochemical properties and nutrient content. Here we present the design and methods for the Ranger Resilience and Improved Performance on Phospholipid bound Omega-3's (RRIPP-3) study. RRIPP-3 was a double blind, randomized, controlled trial among individuals in the United States (US) Army Infantry Basic Officer Leaders Course (IBOLC) and following US Ranger School training (RC) at Fort Benning, GA of omega-3 HUFA on krill oil versus placebo supplementation. The RRIPP-3 study sought to determine if krill oil supplementation with omega-3 HUFAs supports aspects of cognitive functioning critical to battlefield success when measured immediately after an intense combat simulation. Sub- analyses addressed basic improvements in IBOLC performance. We also describe additional outcome measures critical for interpretation of the study results, such as diet and other dietary supplement use.
+
+Keywords: Omega-3 fatty acids, Cognition, Krill oil, US Army officers, Phospholipids, Resilience
+
+## Abbreviations
+
+ADHD  attention deficit hyperactivity disorder
+AE  adverse events
+AMPM  Automated Multiple Pass Method 
+APP  As Per Protocol 
+BOLC  Basic Officer Leadership Course 
+CD-RISC  Connor-Davidson Resilience Scale 
+DHA  docosahexaenoic acid 
+DHQ  Diet History Questionnaire 
+EPA  eicosapentaenoic acid 
+FDA  Food and Drug Administration 
+FFQ  food frequency questionnaire 
+FCPAT  Figural Continuous Paired Associates Test 
+GLMM  generalized linear mixed models 
+GMP  Good Manufacturing Practice 
+IBOLC  Infantry Basic Officer Leaders Course 
+IND  Investigator New Drug 
+ITT  Intention to Treat 
+LC-PUFAs  long-chain omega-3 polyunsaturated fatty acids 
+lyso-PC  lysophosphatidylcholine 
+MUSC  Medical University of South Carlina 
+NPI  Narcissistic Personality Inventory 
+n-3 HUFAs  Omega-3 highly unsaturated fatty acids 
+OCS  Officer Candidate School 
+OPFOR  opposition force 
+PC  phosphatidylcholine 
+PDI  Peritraumatic Distress Inventory 
+PL  phospholipid 
+POMS-Bipolar  Profile of Mood States – Bipolar 
+PROMIS  Patient Reported Outcomes Measurement Information System 
+RCT  randomized controlled trial 
+REDCap  Research Electronic Data Capture 
+RRRIPP-3  Ranger Resilience and Improved Performance on Phospholipid bound Omega-3's 
+RC  Ranger Course 
+TG  triglycerides 
+ROTC  Reserve Officer Training Corps 
+STAI  Spielberger State/Trait Anxiety Inventory 
+US  United States 
+USDA  United States Department of Agriculture 
+USMA  United States Military Academy
+
+## 1. Introduction
+
+In 2013, the Defense Science Board of the United States (US) Secretary of Defense identified nutritional neuroscience as a key research priority to improve warfighter cognitive effectiveness and emotional resilience [1]. They specifically mentioned omega-3 highly unsaturated fatty acids (HUFAs), which are concentrated in neural tissues and are essential for neural and neurotransmitter function [2], and normative neurodevelopment [3]. The potential importance of omega-3 HUFAs in emotional state, cognitive function, and mental health has been demonstrated in observational studies and randomized controlled trials (RCTs). For example, a meta-analysis of ten RCTs found that omega-3 HUFA supplementation reduced attention deficit hyperactivity disorder symptoms with low heterogeneity [4] and several meta- analyses have reported efficacy in treating clinical depressions with omega-3 HUFAs comparable to antidepressants [5]. Previous research also has demonstrated a positive link between increases in omega-3 HUFAs consumption and beneficial effects in pro-inflammatory diseases and optimal surgical outcomes [[6], [7], [8], [9], [10]].
+
+Sufficient omega-3 and omega-6 HUFAs cannot be synthesized in the body and must be obtained from dietary sources. The essential HUFAs eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are predominantly obtained from dietary marine sources such as fish and other seafood. Over the last century, the average US dietary intake of omega-3 fats has remained stable, while energy from omega-6 fats has increased from approximately 1% to more than 8%. The increased omega-6 intake is primarily attributable to increased dietary soy and corn consumption. These dietary shifts have caused marked declines in the proportion of omega-3 HUFAs to omega-6 HUFAs in body tissues [11].
+
+DHA cannot be de novo synthesized in the brain and must be imported across the blood–brain barrier. Nguyen et al. [12] identified Mfsd2a as the likely major transporter for DHA into the brain as lysophosphatidylcholine (lyso-PC). In addition to food, dietary supplements made from omega-3 fatty acid esters, fish oil, and krill oil are available, which differ significantly in their physicochemical properties. In fish oil, EPA and DHA are predominantly bound to triglycerides (TG), whereas in krill oil, the fraction of EPA and DHA bound to phospholipids (PL) is very high. The ratio of EPA:DHA is approximately 1:1 in fish oil, while the ratio is krill oil is approximately 2:1. Also, krill oil has low omega-6 HUFA (arachidonic acid) content such that the omega-3/omega-6 ratio is high. The most abundant PL in krill oil concentrate is phosphatidylcholine (PC), potentially an advantage for DHA transport into the brain. Krill oil also is a source of dietary choline, which is critical for optimal neurodevelopment, may reduce risk for cognitive decline, and may improve normative cognitive function in adults [13].
+
+The primary aims of the Ranger Resilience and Improved Performance on Phospholipid bound Omega-3's (RRIPP-3) study were to determine if supplementation with krill oil improves outcomes on cognitive tests that underlie key performance elements during US Army Infantry Basic Officer Leaders Course (IBOLC: Phase I) and after subsequent Ranger Course (RC: Phase II), as compared to placebo. Specifically, RRIPP- 3 sought to assess if those who consumed krill oil were more resilient to the psychophysiological stresses associated with an intense competitive three-day military exercise as indicated by heightened performance on cognitive tests relevant to battlefield performance, and assessments of resiliency and mood.
+
+## 2. Methods/design
+
+### 2.1. Study overview
+
+The RRIPP-3 study, was a randomized double-blinded, placebo-controlled dietary supplementation intervention trial (RCT), which had the goal of enrolling 268 IBOLC students. The study was approved by the Medical University of South Carolina (MUSC) Institutional Review Board (IRB) and is registered as ClinicalTrials.gov protocol  NCT02908932. The RRIPP3 study also was approved by the US Army Training and Doctrine Command (TRADOC) Research Protection Administrative Review and TRADOC US Army Center for Initial Military Training. As detailed below, study enrollment and participation began in August 2016 and concluded in November 2018.
+
+The primary outcome was to assess if supplementation with krill oil would improve performance on tests of cognitive function including inhibition, rule- monitoring, focused attention, and information processing speed, as well as psychological resiliency, mental clarity, fatigue, and sleep deprivation from baseline to mid-points (prior to and after a physically and mentally intensive maneuver training week) and conclusion of IBOLC. The secondary outcomes included changes in additional facets of cognitive functioning including working memory, reasoning, risk-taking/disinhibition, visual attention, and measures of psychological functioning: anxiety, stress response, and mood state.
+
+Outcomes were assessed at study visits during IBOLC (Phase I): 1) screening/enrollment at baseline (week 0); 2) pre-field maneuver training at 14 weeks; and 3) post-field maneuver training at approximately 16 weeks. Participant dietary assessments were conducted at baseline and prior to entering U.S. Army Ranger Course (RC: Phase II). After ending RC, study participants were assessed for the full set of study measurements. Study participants consumed dietary supplements containing krill oil or placebo during IBOLC training and while waiting to enter RC but not during RC. During IBOLC, at 8 weeks, participants attended a “safety check” visit at which only blood samples were obtained, and adverse events (AEs) and changes in medications and supplements were documented.
+
+### 2.2. Location and study population
+
+RRIPP-3 was a single-site study, located at US Army base, Fort Benning, GA. The study was managed by staff at a large academic university and teaching hospital in the Southeastern US with an onsite team of study coordinators in partnership with the National Institutes of Health (NIH), the Infantry Basic Officer Leader Course (IBOLC), and the US Army Ranger Course (RC) at Fort Benning, GA.
+
+Junior officers enter the Army predominantly through one of three pathways: Officer Candidate School (OCS), Reserve Officer Training Corps (ROTC), or the United States Military Academy (USMA). The Army's Basic Officer Leadership Course (BOLC) programs certify and train the professional competencies associated with specific Army career fields (Infantry, Armor, Finance, Signal, Intelligence, etc.). IBOLC trains those officers who have volunteered to serve in the infantry. At 17–19 weeks, IBOLC is the longest of the BOLCs in the Army, and generally is considered the most physically demanding. Additionally, the majority of officers who graduate from IBOLC volunteer to attend the Army's RC immediately following IBOLC. RC represents another 62 days of physical rigor considered among the toughest in the Army. Throughout both courses, these junior officers learn and practice small-unit tactics in a variety of challenging environments and conditions. At times, training deliberately includes calorie restriction, sleep deprivation, intense physical exertion, rough terrain, inclement weather, incomplete information, and resource limitations. The design of these exercises emphasizes situational awareness, critical analysis, and decision-making while under acute stress.
+
+During IBOLC, officers progress through a series of field training exercises interspersed with academic instruction on relevant military skills (land navigation, marksmanship, radio procedures, night movement, etc.). In the final two weeks of the course, the officers test these skills during “Leader Forge,” IBOLC's “culminating exercise.” Leader Forge represents nine days of near-continuous field training executed in two field deployments with a 24-h break in the middle for feedback, resupply, equipment maintenance, and transition between training areas. While the specific training areas and methods of evaluation for Leader Forge have evolved to match changes on the contemporary battlefield, the types of cognitive and physical stress have remained relatively consistent over the past decade. Leader Forge, with very rare exception, always includes night movements carrying full combat load, a training scenario that necessitates a 24-h security posture, a mandatory rotation of student leadership positions, and a dynamic “opposition force” (OPFOR). These factors combine to demand critical problem solving under high- stress while in varying levels of physical and cognitive exhaustion. Leader Forge seeks to replicate a combat environment as realistically as possible, and the Army hopes to evaluate objectively a junior officer's ability to perform in combat by assessing performance during Leader Forge.
+
+### 2.3. Interventions
+
+#### 2.3.1. Intervention group
+
+During IBOLC, the intervention group received capsules containing concentrated krill oil extracted from Euphausia superba, an Antarctic krill species rich in omega-3 HUFAs. Krill is a species of zooplankton invertebrate that move in large swarms throughout the waters of the Antarctic and feed on microscopic algae. EPA (C20:5n3) and DHA (C22:6n3), mainly are found in the PL fraction of the oil of marine sources and krill. In the intervention capsules, the PL fraction has been concentrated relative to what it is in innate krill oil, and contains ≥560 mg/g. EPA and DHA also were increased and are present in concentrations of ≥150 mg/g and ≥70 mg/g, respectively and yielding in the capsules ≈2.3 g/d omega-3 HUFAs with the EPA to DHA ratio of approximately 2:1. The main PL in krill oil is PC, resulting in a concentration of choline of ≥70 mg/g. In addition, krill oil contains astaxanthin, which has antioxidative properties and also gives krill oil its characteristic red color.
+
+The intervention and placebo products were produced and supplied by Aker BioMarine Antarctic AS, Fjordalleen 16, 0115 Oslo, Norway. Aker krill oil capsules received a GRAS status approval from the US Food and Drug Administration (FDA) in 2010. The Aker krill oil-based dietary supplements are produced under food Good Manufacturing Practice (GMP) regulations. The US FDA determined that an Investigator New Drug (IND) Application was not required for the RRIPP-3 study. The shelf life of the active supplement and placebo were determined by the manufacturer to be at least 24 months from the date of manufacturing. Over the course of the study two batches of active supplement and placebo were created (June 2016 and June 2017) and consistency of concentrations and capsule content were confirmed by an independent laboratory.
+
+#### 2.3.2. Control group
+
+During IBOLC, the control group received capsules that contained macadamia nut oil, with matching colorant to the intervention group, in equal amounts. Macadamia nut oil contains no EPA or DHA and its main fatty acids are oleic acid (C18:1n9) and palmitoleic acid (C16:1n7), which are uncommon in US diets. The placebo capsules were analyzed by an independent laboratory and found to contain between 53 and 67% oleic acid, and 16 and 24% palmitoleic acid. Macadamia nut oil thus provided a unique fatty acid blood marker to assess adherence in the placebo group.
+
+Neither intervention nor control groups received supplements during RC.
+
+### 2.4. Intervention products
+
+Both the krill oil and the placebo oil were encapsulated in gelatin capsules with added iron oxide black and ethyl vanillin. As a result, the krill oil and placebo capsules had an identical black color as well as identical size and smell. Each capsule contained 1 g of oil.
+
+Experimental and placebo capsules were provided in 8 daily dose blister packs. Both groups were asked to consume the 8 capsules each day, preferably 4 in the morning and 4 in the evening. Daily blister packs were packed in boxes which contained one week's supply of supplements. RRIPP-3 study participants received an 8-week supply of supplements during Part I IBOLC study visits which were scheduled at 8-week intervals. When receiving a new allotment of capsules, participants were asked to return any remaining capsules from their previous allotment. Participants received 3–4 allotments of dietary supplements (containing either placebo or omega-3 HUFA) across the course of the study depending upon their length of time in IBOLC.
+
+### 2.5. Participants and recruitment method
+
+#### 2.5.1. Participant eligibility
+
+Table 1 displays inclusion and exclusion criteria for the target population which included US Army IBOLC students, who were planning to enter RC and had no previous injuries or existing physical limitations that would impede their successful performance in IBOLC or RC. Potential participants needed to be willing to stop consuming any dietary supplements that were deemed to conflict with the study goals and be willing to consume the 8 dietary supplement capsules per day for the duration of IBOLC training and continuing until immediately prior to the start of their RC.
+
+### Table 1 RRIPP-3 study inclusion and exclusion criteria.
+
+Eleven IBOLC classes typically are held each year: one in each of 11 months. The monthly class size is variable from approximately 125 to 175 students. To achieve the study sample (see below), this study recruited during the first week of 12 IBOLC classes held from August, 2016 through February, 2018. From 2016 through 2017, the IBOLC training program duration was 17 weeks duration; in 2018 the program was extended to 19 weeks. For this study, volunteers were expected to participate in 5 experimental sessions during Phase I: IBOLC (baseline, a check-in, two mid-points prior to and after the culminating maneuver training week, a dietary visit post graduation), and 1 session during the Phase II RC study (within 48 h of leaving RC).
+
+Each IBOLC class represented a unique set of students that had a specific internal culture (developing an intra-class correlation). As a result, the sampling frame was consistent for each IBOLC class in that the study attempted to recruit equal numbers of individuals from each class.
+
+This study was initiated as an adaptive recruitment design that would confirm and establish the validity of assumptions on percent of IBOLC participants consenting to study and entering RC. From this information, we adjusted the sample frame accordingly to accommodate minor imbalance in recruiting size per IBOLC class. The project, a priori, considered the potential for imbalance and thus could accommodate for imbalance in the final statistical analysis.
+
+#### 2.5.2. Recruitment
+
+Recruitment occurred at the first assembly during the initial morning of IBOLC training. Study staff made a presentation as part of the introductory remarks. Additional volunteer information and sign-up sheets were available at that time as well as a brochure with information about the study and study coordinators who could answer questions. Individuals who volunteered at the IBOLC assembly selected a time slot for a screening/enrollment meeting with study staff to view informational videos, sign an informed consent, and participate in baseline assessment. Potential participants were provided with a carrier bag and requested to bring all dietary supplements and medications they were taking to the screening/enrollment visit. Fig. 1 provides an overall flow diagram of the RRIPP-3 study.
+
+Fig. 1 RRIPP-3 study flow.
+
+### 2.6. Assessments
+
+#### 2.6.1. Screening
+
+The RRIPP-3 study used two short videos to ensure that all potential participants received the same information about the study itself and the informed consent process. The RRIPP-3 study video was shown to all potential participants individually when they first arrived at the study rooms. If the participant was still interested in potentially enrolling in the study after seeing the study video, then he/she was shown a separate video that explained the informed consent, the Health Insurance Portability and Accountability Act (HIPAA) process, and its interpretation for the RRIPP-3 study. Interested individuals then were asked to sign the informed consent in the presence of the study staff.
+
+At the baseline visit, a study coordinator reviewed and individually discussed with potential participants the dietary supplements they were currently consuming. Study volunteers were asked to stop taking all dietary supplements that contained omega-3 fatty acids for the duration of the study. Potential participants who were taking other supplements, for which the product label either did not provide complete ingredient information, or where the ingredients were known to provide potential risk to individuals participating in strenuous outdoor exercise, were asked to cease taking those products as well.
+
+Study coordinators also reviewed the inclusion/exclusion information and women interested in the study were asked to participate in a pregnancy test to ensure they were not pregnant. Those individuals meeting the study inclusion criteria and interested in study participation then signed the informed consent and completed the baseline enrollment assessments. The RRIPP-3 staff on site at Fort Benning managed the scheduling of the study visits, the distribution of supplements, and assessments with the study participants. Dietary supplements were distributed through Phase I of the study at 8 week intervals (during study visits) until RC participation.
+
+#### 2.6.2. Study visits and safety
+
+Table 2 displays the schedule of study visits and assessments conducted at each visit including the safety check visit at week 8, which provided a touch- stone for the participants and recorded any AEs. The RRIPP-3 study team physician medical monitor reviewed and approved all aspects of the study protocol prior to the study onset. The medical monitor was available as needed throughout the study, and reviewed all AEs within 24-h of their being reported. During the RRIPP3 study, all study volunteers understood that they were to contact study staff immediately if they had any concerns about AEs that might potentially be related to the study protocol. All serious AEs were reported to the MUSC IRB.
+
+### Table 2 Schedule of RRIPP-3 study visits and assessments.
+
+#### 2.6.3. Primary outcome assessments
+
+The RRIPP-3 study sought to determine if:
+
+Hypotheses 1
+
+Dietary supplementation with krill oil concentrate would improve scores on tests of cognitive function including inhibition, rule-monitoring, focused attention and information processing speed, from baseline to mid-points (prior to and after Leader Forge) and conclusion of IBOLC training, as compared to placebo.
+
+Inhibition and rule-making were measured by the Stroop test [14]. This task is a computer-based variant of the classic test that requires the examinee to inhibit the pre-potent response of reading versus color naming. In this adaption, a color word is presented on the left along with a color word on the right. For both words, the color of the ink used may or may not be congruent with the word itself (e.g., the word “Blue” shown in blue ink, or the word “Blue” shown in yellow ink).
+
+Focused Attention and Information processing speed were measured by the Digit- Symbol Coding task, which is an adaptation of the Digit-Symbol Substitution Test [15] that has been integrated in numerous cognitive batteries for its sensitivity to integrity of brain function. In the current computerized version, a “key” linking nonverbal symbols to digits (0–9) is presented at the top of the screen, and a series of symbols are presented one at a time to the examinee. The examinee enters the corresponding number as quickly as possible. Speed and accuracy are equally important, as discrimination efficiency is calculated by subtracting incorrect from correct responses over a 120 s period.
+
+Hypothesis 2
+
+Supplementation with krill oil concentrate will improve scores on tests of psychological and physiological resiliency from baseline to mid-points (prior to and after Leader Forge) and conclusion of IBOLC training as compared to placebo.
+
+Psychological Resiliency was measured by the Connor-Davidson Resilience Scale (CD-RISC). The CD-RISC [16] is a brief self-report inventory of individual characteristics associated with resilience from psychosocial stressors. A total score is calculated based on responses to 25 items rated on a 5-point scale (0–4), with higher scores reflecting greater resilience.
+
+Physiological Resiliency was measured using a composite score from Patient Reported Outcomes Measurement Information System (PROMIS), v. 1.0 [17] for mental clarity, fatigue, and sleep deprivation. The mental clarity test (PROMIS version 1.0: short form 8a) is an 8-item self-report measure that queries critical facets of cognition, including attention, concentration, memory, and reasoning. The fatigue test (PROMIS version 1.0: short form 8a) is an 8-item self-report questionnaire of behavioral, physical, and cognitive struggles associated with fatigue. The sleep deprivation test (PROMIS version 1.0: short form 8a) is an 8-item questionnaire that addresses cognitive and emotional dysfunction, which an individual attributes to inadequate sleep. For all three of these tests, responses are registered using a 5-point Likert-type scale to reflect subjective experiences over the past 7 days.
+
+Hypothesis 3
+
+Supplementation with krill oil concentrate will improve student scores in land navigation as measured by the IBOLC training program, as compared to placebo. Land navigation tests the ability of candidates to navigate from one point to another using a map and compass while equipped with their individual combat gear and is measured by the IBOLC training program with grades included in an overall individual student gradebook.
+
+Hypothesis 4
+
+Supplementation with krill oil concentrate will improve student scores in visual psychomotor control by marksmanship - as measured by the IBOLC training program, as compared to placebo. Controlled and accurate use of firearms is essential for the warfighter. In addition to understanding the physics and mathematical adjustment for environmental conditions, marksmanship requires proper body mechanics, focus, breath control, and visual psychomotor skills. Individual marksmanship scores are maintained in the IBOLC gradebooks.
+
+#### 2.6.4. Secondary outcome assessments
+
+Additional facets of cognitive functioning and psychological state were recorded at each study visit as part of RRIPP-3. As described below, these measures were included because previous lines of research demonstrated sensitivity to sleep deprivation, fatigue, and/or stress in healthy young adults, and the underlying constructs were considered by IBOLC command to be relevant to effective battlefield performance.
+
+Working Memory was tested using the Figural Continuous Paired Associates Test (FCPAT) [18]. The structure of the FCPAT is based on the Continuous Paired Associates Test [19], which in turn is based on a task created by Atkinson, Brelsford, and Shiffrin [20] for computational modeling of short-term working memory. During the test conditions, a non-verbalizable visual design in a particular orientation, using a small blue circle for reference, is presented for 3 s with the same design in three other orientations. The participants’ task is to identify the shape in the orientation previously shown. The test and study conditions intervening between presentation of the target word and testing of item recognition are study lags, which vary throughout the test. Computational modeling of performance data has shown utility of measuring individual-specific effects of sleep deprivation on component processes of working memory [18,21].
+
+Reasoning was tested using language-based logical reasoning by the Grammatical Reasoning Test [22]. In each trial, a logical statement, such as “A is preceded by B,” is followed by the letters AB or BA; the examinee indicates whether each statement correctly describes the order of the two letters. Thirty-two trials are administered over approximately 5 min.
+
+The Balloon Analogue Risk Task (BART) [23] was used to provide an ecologically-valid assessment of Risky Decision Making and Risk Taking Behavior more generally. Participants were presented with a very small graphic of a balloon. They were then instructed to press a button on keyboard to inflate the balloon. Each press added 5 cents to a temporary bank, the contents of which were not displayed. Each balloon had different bursting points (randomly selected between 1 and 30 presses). Whenever a balloon burst or the participant chose to bank money, he or she would start with a new balloon. Risk taking behavior is indexed by the number of balloon explosions the participant experiences during the task, and by the adjusted average number of balloon pumps.
+
+Visual Attention was measured using the Four-Choice Visual Reaction Time Test [24]. This test assesses ability to respond rapidly and accurately to simple visual stimuli. A series of visual stimuli are presented at one of four different spatial locations on the computer screen, and participants indicate the spatial location of each stimulus by pressing one of four adjacent keys on the keyboard. Accuracy and reaction time are primary outcome measures.
+
+The Spielberger State/Trait Anxiety Inventory (STAI) [25]; assesses both dispositional/trait anxiety, and reactive/state anxiety. It is particularly useful in identifying elevations from baseline in individuals who are experiencing situational anxiety in both experimental and clinical settings.
+
+Peritraumatic Distress Inventory (PDI) [26] is a 13-item self-report measures of acute stress symptoms associated with trauma. It has been well-validated in studies involving civilian and military populations.
+
+Mood State was measured by the Profile of Mood States-Bipolar (POMS-Bipolar) [27]. The POMS-Bipolar assesses transient, fluctuating active mood states. Scores are provided for six subscales: Tension-Anxiety, Anger-Hostility, Fatigue-Inertia, Depression-Dejection, Vigor-Activity, and Confusion- Bewilderment.
+
+Narcissism was measured by the Narcissistic Personality Inventory [28] (NPI), which is a 40-item, forced-choice, measure of egocentric beliefs and behaviors. Analysis for the RRIPP-3 study will examine individual scores on the three scales identified in factor analyses by from the elements identified by Ackerman et al. [29]: Leadership/Authority, Grandiose/Exhibitionism, and Entitlement/Exploitativeness. Scores will be included as potential mediators or moderators of treatment effect.
+
+#### 2.6.5. Dietary assessments
+
+Officers enrolled in IBOLC are given Meals Ready to Eat (MREs) when training in the field. Lunch is offered at a cafeteria on days when training on campus, but students also have the ability to bring food from home and purchase meals from restaurants (primarily fast food) on the military base. Most students lived in an apartment or home with a full kitchen. About 75% lived off the military base. As such, nutritional intake was known a priori to vary considerably amongst participants. Dietary habits were characterized using the United States Department of Agriculture (USDA) Automated Multiple Pass Method (AMPM) 24-h dietary recalls with an in-person interview at baseline and at the end of IBOLC prior to RC [30], and the Diet History Questionnaire (DHQ)/Food Frequency Questionnaire-30 day [31]. The 30-day food frequency questionnaire (FFQ), when combined with the AM/PM USDA 24-h recall, mathematically represents the current best estimation tool for determining usual intake of food and nutrients.
+
+#### 2.6.6. Blood sample assessments
+
+Blood spot samples were obtained at baseline and at all visits for analysis of fatty acids. Samples of non-fasting capillary blood were collected on BHT/EDTA impregnated filter paper through the fingertip prick method. This uses a high flow 18 G safety lancet (Assure Haemolance Plus) which was made by Arkay Inc. (Edina, MN, USA). Samples were air–dried for 3 h at room temperature and stored in a closed sample container overnight during transportation. Samples were shipped to the NIH. Fatty acid compositions were analyzed as previously described [32].
+
+#### 2.6.7. Participant compensation
+
+US military personnel are not permitted to accept compensation for volunteering in research studies. In addition, no “in kind” compensation such as greater likelihood to succeed in training, nor punishment for failing to participant were provided. The Fort Benning IBOLC program does permit provision of inexpensive study-related items. Study participants were met by RRIPP-3 staff during week 4 of the study and given a small waterproof, plastic field case in which they could transport RRIPP-3 blister packs, a cell phone etc. while in the field. Each participant received a complementary supply of krill oil supplements, in an unlabeled container, at the end of their participation in the study. This enabled all participants to receive the treatment supplements and remain blinded.
+
+### 2.7. Data management and analytic approach
+
+#### 2.7.1. Randomization
+
+Historically, the key variables among the IBOLC students, that were associated with success in RC, were the student source of previous training (commissioning) and student preferred destination after completion of IBOLC. To ensure that the two treatment groups were balanced with respect to, commissioning source (Army ROTC vs. USMA vs. OCS), and post-graduation destination (Armored (ABCT), Stryker (SBCT), Infantry-airborne (IBCT-ABN) and Infantry-not airborne (IBCT-Light), a stratified blocked design was developed to assure balance between treatment groups. The block size was known only to the statistician leading the study and was unknown to the investigators. The assignments (to experimental or control group) were randomly arrayed and balanced within each block.
+
+#### 2.7.2. Sample size
+
+A total analytic sample size of 268 participants (134 per group) was required to determine whether the experimental group has a statistically significant improvement in the outcome variables during the study period, as compared to the placebo group. The sample size calculation was based on differences in the Stroop Color-Word Inhibition Errors Score between placebo and treatment groups in a prior RCT of omega-3 supplementation involving healthy young adults [33].
+
+Various power levels were assessed to detect a mean difference of 2 errors in a design with three repeated measures, and significance levels of 0.05 and 0.01 for a 2-sided test. Other assumptions include a standard deviation of 5.37, between level correlation of 0.38 using an auto-regressive covariance structure and 50% participation attrition. When the sample size is 67 in each group, a 2-sided test in a repeated measures design with a 0.05 significance level will have 80% power to detect a difference in treatment means of 2 errors, for a total sample size of 134. Assuming a 50% attrition rate, the total number of participants needed for enrollment was 268. Power calculations were made using nQuery Advisor (2013) software (Statistical Solutions Ltd, 4500 Avenue 4000, Cork Airport Business Park, Cork, T12 NX7D, Ireland).
+
+#### 2.7.3. Data acquisition and security
+
+With the exception of the informed consent and HIPAA documents, all data collected for the RRIPP-3 study were entered by the study participants or study staff into laptop computers connected to a secure university server. Each participant was assigned a study ID at enrollment and all data was associated with the study ID. Participants received a schedule of their appointments at their initial visit. RRIPP-3 study team members coordinated reminders of visits with the various classes throughout the study by telephone and text messages. The study data were collected and managed using REDCap (Research Electronic Data Capture) electronic data capture tools hosted at MUSC [34]. REDCap is a secure, web-based application designed to support data capture for research studies, providing 1) an intuitive interface for validated data entry; 2) audit trails for tracking data manipulation and export procedures; 3) automated export procedures for seamless data downloads to common statistical packages; and 4) procedures for importing data from external sources.
+
+The AMPM dietary recalls were collected using the USDA provided software (USDA, http://www.ars.usda.gov/Services/), which is a computerized method for collecting interviewer-administered 24-h dietary recalls either in person or by telephone. The AMPM is a research-based, multiple-pass approach employing five steps designed to enhance complete and accurate food recall and reduce respondent burden [35].
+
+At the end of each study visit, completion of all study assessments was verified in REDCap by study coordinators and all data was uploaded onto the secure server.
+
+#### 2.7.4. Analytic approach
+
+All main analyses will be assessed by both ‘Intention to Treat’ (ITT) and ‘As Per Protocol’ (APP) approaches. Specifically, if there is significant non- adherence, the ITT approach is less likely to find a statistically significant effect since non-adherent individuals are included with their assigned adherent participants. The degree of adherence in both the intervention and placebo group will be determined and reported. The subsequent APP approach only includes adherent participants in the active, as defined by blood elevations in omega-3 HUFAs, and adherent participants in placebo groups, as defined by increases in blood 16:1 n-7, and seeks to assess whether oral supplementation is an efficacious strategy to improve outcomes. All participants with higher blood levels of omega-3 HUFAs (as defined as a 25% increase from baseline in the % omega-3 in HUFA (% omega-3 in HUFA = [(EPA+ DPAn-3 +DHA)/(EPA+ DPAn-3+DHA+AA+DPAn-6)]+100) in either serum or whole blood) will be compared (on all outcome metrics) to all participants with higher blood levels of 16:1 n-7.
+
+Descriptive statistics (e.g. means, standard deviations, medians, interquartile ranges, percentages) will be used to characterize the 2 treatment groups. T-tests, chi-square tests, or non-parametric tests (Wilcoxon rank sum, Fisher's exact) will be used to compare baseline characteristics between groups. The randomization process should result in groups balanced on these characteristics, but should any variable be found to be significantly (p < 0.05) different between treatment groups, that variable may be included as a covariate in the subsequent regression analysis assessing group differences in any of the previously described outcomes, depending on its clinical relevance. As class unit may represent an intra-class correlation, a variable will be created to represent class representation in the combined model.
+
+The primary analyses will involve generalized linear mixed models (GLMMs) (with random subject effects) performed to determine whether group assignment to active or placebo treatment improves scores on cognitive function and psychological assessments. The primary outcomes measure for cognitive function from the cognitive and psychological measures are outlined above. Unadjusted, as well as, adjusted models will be assessed to include other intermediary variables. Hypothesis tests will be 2-tailed, and p-values will be compared to an overall alpha level of 0.05.
+
+Secondary analyses will be conducted to examine treatment efficacy in subject subgroups, as appropriate, since the statistical power may be lower for any such analyses given the reduced sample size. GLMMs and non-linear mixed models with random subject and intra-class cluster effects will be used, as appropriate.
+
+Exploratory analyses will be conducted to examine treatment efficacy in select outcome measures of interest. GLMMs and non-linear mixed models with random subject effects will be used as appropriate.
+
+## 3. Discussion
+
+This paper describes the design and methodology for a dietary intervention study that recruited from a specific highly trained, and physically fit military officer population as they begin to undergo a 5-month intensive training program, IBOLC. The IBOLC places these young men and women under both physical and mental stress and the study sought to determine if consistent, supplementation with krill oil could improve cognitive performance both during and after the most stressful phases of their training. This population was selected because the individual volunteers were highly motivated to be successful in this key training program, they would be tested both physically and mentally during this training, and they were cognizant of the potential role dietary nutrients could play in their success.
+
+Researchers have reported different findings related to mood and cognitive functioning with omega-3 HUFA supplementation. Hallahan et al. found that omega-3 HUFA supplementation reduced perceived stress by 30%, and increased reports of happiness by 33% [36]. In a pilot study of neurocognitive functioning, sleepiness and mood among US Army personnel deployed to Iraq, Dretsch and colleagues [37] found that while short-term treatment (60 days) of 2.5 g of omega-3 HUFAs did not result in differences between placebo and treatment groups in measure of neurocognitive function of psychological health, there was evidence for a significant difference in daytime sleepiness, with the treatment group reporting being significantly more alert. Dretsch and colleagues cautioned that the study was considerably underpowered for the variables under review and urged that additional research was needed in this area [37]. Other analyses however, have reported that omega-3 HUFAs can improve mood [38,39] and cognitive function [[40], [41], [42]].
+
+Specifically, among the increasing body of literature examining relationships between cognition and omega-3 HUFA intake, results from several recent RCTs of omega-3 HUFA supplementation in healthy middle-aged and older adults have shown specific benefit for measures of sustained attention, inhibition, and cognitive control [41,[43], [44], [45], [46]]. One fMRI-based study found a dose response of increased dietary DHA intake and associated elevations in erythrocyte DHA composition on alterations in functional activity in cortical attention networks during sustained attention in healthy boys [47]. During sustained attention, both DHA high and low dose groups had significantly greater changes from baseline in activation of the dorsolateral prefrontal cortex. These data provide the first neurophysiological basis of omega-3 HUFAs in one cognitive parameter: attention.
+
+Neurobiological correlates of this stress-diathesis implicate involvement of the serotonergic, noradrenergic and endocannabinoid systems, and involvement of the ventromedial prefrontal cortex. Excessive activity of the limbic forebrain, including amygdala and anterior cingulate, mediating excessive emotional activation without sufficient cortical and executive restraint, is characteristic of aggressive and impulsive behaviors provoked by negative affect [48].
+
+Elevating levels of omega-3 HUFAs appears to reduce negative affect, dampen excessive emotional reactivity, and restore cortical regulation of negative affect. Conversely, deficiencies in omega-3 fatty acids result in neurobiological abnormalities including hypofunction of the serotinergic system or dopaminergic neurotransmitter systems regulating reward, increased stress reactivity of the hypothalamic-pituitary-adrenal “stress” axis, and hyperfunction of the endocannabinoid system. In a series of studies, Sublette and colleagues [49,50] demonstrated that low DHA plasma levels were associated with hyperfunction of the limbic forebrain and hypofunction of the parietal and temporal cortex.
+
+Animal studies have indicated that omega-3 HUFA deficiencies cause deficits in serotonergic function and human data are consistent with these findings. Deficiencies in omega-3 HUFAs cause serotonin levels to be reduced by nearly 50% in frontal cortex in animal studies [51], and in human studies, lower levels of plasma DHA correlate to lower levels of CSF 5-HIAAA [52].
+
+This study will provide information that will support the role for dietary supplementation of omega-3 HUFA to improve performance under stress in healthy adults. The study has several unique design features and a comprehensive assessment package to not only evaluate the efficacy of omega-3 HUFA on cognitive function but also understand a number of psychological issues that all individuals face when being tested under stress.
+
+The RRIPP-3 study was carefully designed to provide computerized randomization and self-checking data intake using REDCap to improve data quality. Other strengths of this study design include use of cognitive tests measuring constructs with specific relevance to battlefield performance (e.g., attentional control, risky decision-making, processing speed, etc.). Also, in contrast to studies using clinical tests that were developed to identify impairment, we selected very challenging tests designed to discriminate amongst levels of healthy performance. Another strength of this study was the ability to leverage the intense, three-day combat simulation provided during the Leader-Forge event to assess the putative benefit of omega-3 supplementation on resiliency. Finally, dietary assessment at baseline and prior to Ranger Course entry enables characterization of nutritional intake of the study participants.
+
+The US Army invests significant time and money in training its leaders. Individuals who choose the Army Infantry as their career expend significant time, energy, and commitment to self-development to achieve their career goals. Omega-3 HUFAs, specifically DHA are concentrated in neural tissues, are essential for neural function [2], and must be obtained from dietary sources. US food production practices over the last century have resulted in a dramatic change in the fatty acid profile of the US diet. At the same time, evidence continues to build regarding the potential importance of omega-3 HUFAs on emotional state, cognitive function and mental health. US military personnel frequently have low omega-3 HUFA status [53]. The purpose of this study was to investigate whether supplementation with omega-3 HUFAs from a krill oil concentrate (PL), with its possible advantages in bioavailability and high amount of PC, will improve emotional status and related cognitive performance under stress among IBOLC students (Phase I) and subsequent RC (Phase II). More broadly, approximately 35% of military spouses report stress related psychiatric illnesses [54]. A potential impact of this study would be information that would support the role for krill oil concentrate containing omega-3 HUFAs in contributing to improving mood, emotional status and cognitive performance among the US population in general [55].
+
+## Conflicts of interest
+
+The authors state that they have no competing interests to report. Aker Biomarine Antarctic AS had no influence on the conduct of the study, will have no access to study data prior to analysis, and will have no influence on the interpretation of study results or preparation of the resulting manuscripts.
+
+## Acknowledgements
+
+The RRIPP-3 study is sponsored by award # 8B422-01 from Aker Biomarine Antarctic AS to the Medical University of South Carolina. The intramural program of the National Institute on Alcohol Abuse and Alcoholism, NIH, also provided support for this study. The MUSC study team is particularly appreciative of the assistance provided by the military personnel, staff and contractors at Fort Benning. The RRIPP3 study could not have been conducted without their foresight, thoughtful suggestions, and behind the scenes support. All views and opinions expressed herein are those of the authors and do not necessarily reflect the funding organization.
+
+## Footnotes
+
+Appendix ASupplementary data to this article can be found online at https://doi.org/10.1016/j.conctc.2019.100359.
+
+## Contributor Information
+
+RRIPP-3 Group:  
+
+Lindsay S. Nicholas, Carlyn J. Taylor, Anja M. Velez Landivar, Anita D. Deveaux, Rebecca A. Atkinson, Ashlea L. Sikon, and Jacqueline S. Ross
+
+## Appendix A. Supplementary data
+
+The following is the Supplementary data to this article:
+
+Multimedia component 1:
+
+Click here to view.(267 bytes, xml)Multimedia component 1
+

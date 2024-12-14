@@ -1,0 +1,241 @@
+Efficacy and Safety of AmBisome in Combination with Sodium Stibogluconate or Miltefosine and Miltefosine Monotherapy for African Visceral Leishmaniasis: Phase II Randomized Trial
+
+## Abstract
+
+### Background
+
+SSG&PM over 17 days is recommended as first line treatment for visceral leishmaniasis in eastern Africa, but is painful and requires hospitalization. Combination regimens including AmBisome and miltefosine are safe and effective in India, but there are no published data from trials of combination therapies including these drugs from Africa.
+
+### Methods
+
+A phase II open-label, non-comparative randomized trial was conducted in Sudan and Kenya to evaluate the efficacy and safety of three treatment regimens: 10 mg/kg single dose AmBisome plus 10 days of SSG (20 mg/kg/day), 10 mg/kg single dose AmBisome plus 10 days of miltefosine (2.5mg/kg/day) and miltefosine alone (2.5 mg/kg/day for 28 days). The primary endpoint was initial parasitological cure at Day 28, and secondary endpoints included definitive cure at Day 210, and pharmacokinetic (miltefosine) and pharmacodynamic assessments.
+
+### Results
+
+In sequential analyses with 49–51 patients per arm, initial cure was 85% (95% CI: 73–92) in all arms. At D210, definitive cure was 87% (95% CI: 77–97) for AmBisome + SSG, 77% (95% CI 64–90) for AmBisome + miltefosine and 72% (95% CI 60–85) for miltefosine alone, with lower efficacy in younger patients, who weigh less. Miltefosine pharmacokinetic data indicated under-exposure in children compared to adults.
+
+### Conclusion
+
+No major safety concerns were identified, but point estimates of definitive cure were less than 90% for each regimen so none will be evaluated in Phase III trials in their current form. Allometric dosing of miltefosine in children needs to be evaluated.
+
+### Trial Registration
+
+The study was registered with ClinicalTrials.gov, number  NCT01067443
+
+## Author Summary
+
+Visceral leishmaniasis, or kala-azar, is a parasitic disease which is fatal without treatment. A 17-day treatment of sodium stibogluconate (SSG) with paromomycin (PM) is the recommended treatment in eastern Africa, but requires painful injections, causes adverse events, and patients need to stay in the hospital during treatment. An affordable, safe and effective oral treatment would be preferable. Whilst research to identify entirely new drugs is underway, existing treatments are being optimized as a short-term solution. Combination regimens based on AmBisome and miltefosine have been shown to be safe and effective in treating Indian patients, but there are no published data from use of these drugs in combination regimens from Africa, where efficacy of treatments can be different from India. Three regimens were evaluated for treating VL in eastern Africa, using AmBisome in combination with SSG or miltefosine, or miltefosine alone. Once again, drugs which are effective in India were found to be less so in African patients, and none of the regimes tested showed sufficiently high definitive cure rates to evaluate in Phase III trials. The results also suggest miltefosine was under-dosed in children and so allometric dosing, which takes into account the differences in drug metabolism seen in children compared to adults, needs to be studied.
+
+## Introduction
+
+Visceral leishmaniasis (VL), caused by L. donovani, is a neglected disease in eastern Africa, where it affects mostly the very poor. The disease burden is high, with an estimated 29,400 to 56,600 cases annually[1]. VL is fatal if left untreated, but with access to early diagnosis and treatment the case fatality rate is low[2].
+
+For decades, treatment with pentavalent antimonials (sodium stibogluconate- SSG) was the first-line regimen in Africa despite a risk of cardiotoxicity, liver and pancreatic toxicity and 4 weeks of hospitalization [3]. A 17-day regimen of SSG in combination with paromomycin (PM) demonstrated high efficacy six months post end of treatment in a Phase III trial (91%) and is recommended as first line treatment in the eastern African countries, Sudan, South Sudan, Kenya, Uganda, Ethiopia, and Somalia [4,5]. Still, this short-course treatment is considered suboptimal in terms of route of administration, duration of treatment and potential adverse drug reactions, and there is a need for new treatments.
+
+An oral, safe, inexpensive, highly effective, short course treatment suitable for use in pregnancy is also urgently needed to control VL in the region [6], and research is currently underway to identify and evaluate potential new candidates. In the meantime, as a short-term strategy, it was considered relevant to assess the efficacy of combination therapy with currently available treatment options. Combination regimens are generally recommended on the basis of potential additive or synergistic activity, increasing efficacy and allowing for shorter course durations, in turn leading to increased compliance, shorter hospitalization and reduced drug costs [6]. The rationale on the choice of drugs to combine is described below.
+
+A short course of AmBisome (5mg/kg on day 1) plus miltefosine (2.5 mg/kg on days 2–8) in India achieved six months cure in 98% (93–99%) of patients aged 6–58 years [7]. At the time of this trial’s design, single and multiple doses of AmBisome were under evaluation in eastern Africa. The recommended regimen of AmBisome monotherapy in Asia is 3-5mg/kg over 3–5 days (total dose of 15mg/kg) or 10mg/kg as single dose administration, whereas in eastern Africa a total dose of 30mg/kg is needed to achieve satisfactory efficacy. On the other hand, to make this combination treatment more field-adapted, one single administration of AmBisome was proposed. A high dose and longer duration of AmBisome and miltefosine respectively were needed in the region, however 10mg/kg AmBisome was considered to be the maximum dose to be used as single administration due to safety concerns. Repeated doses of AmBisome and longer duration of miltefosine would diminish treatment practicality, potentially impact compliance and increase the cost of the regimen. AmBisome 10mg/kg was therefore considered the appropriate option to be administered as a single dose in eastern Africa, in combination with either miltefosine or SSG.
+
+Miltefosine administered as a 28 day course of 2.5mg/kg/day achieved 94% (95% CI: 91–97%) cure at six months post end of treatment in patients 12 years and above in India [9]. In a subsequent study in Indian children aged 2–11 years, cure at six months was 94% (86–98%) [10]. In HIV negative adult males (15 years and above) in Ethiopia, this regimen achieved lower cure at six months in 89% (81–94%) of patients [11]. Most detailed pharmacokinetic data for miltefosine came from a relatively healthy adult European patient group with cutaneous leishmaniasis [12]. While little is known about miltefosine pharmacokinetics in adult or paediatric patients in general, no such data are available in African VL patients. Regional pharmacokinetic data are needed to guide further dose optimization of miltefosine (combination) therapy for VL in eastern Africa. SSG 10-day regimen was defined based on its well characterized efficacy in the region [4], to reduce hospitalization and improve the safety profile of the treatment.
+
+We report the results of a phase II randomized trial, conducted in Africa, to assess the safety, efficacy and pharmacokinetic properties of two 11-day treatment regimens combining AmBisome with SSG and AmBisome with miltefosine, and a 28-day miltefosine monotherapy [13]. The hope was that at least one regimen would reach 90% efficacy at initial and definitive cure.
+
+## Methods
+
+### Trial design
+
+The trial used a sequential design with a triangular continuation region [14]. The null hypothesis was that the proportion cured at day 28 (p) is less than or equal to a value p0 which we set to 75%. The alternative hypothesis is that p>p0. If the upper boundary is crossed during an interim analysis, then the null hypothesis is rejected and we conclude p>75%. Crossing the lower boundary at the time of an interim analysis implies that null hypothesis (proportion cured ≤75%) is not rejected and there is specified power to exclude a proportion cured of pa, for which we chose a value of 90%. The type I error rate and power of the study were pre-specified as 5% and 95%, respectively (α = β = 0.05). Interim analyses were specified after every 15 patients in each arm. The maximum sample size per arm was 63.
+
+### Participants
+
+Patients were recruited from Kimalel Health Centre in Kenya (Baringo district), and Dooka and Kassab hospital (Gedaref State) in Sudan. These study sites are located in areas of stable endemicity. Eligible patients were HIV negative, and aged between 7 and 60 years with parasitologically confirmed VL who signed an informed consent (if aged 18y and over) or whom the parent or legal guardian consented to participate in the study (if under 18y). The target population was primary cases, so known relapse cases, or receipt of any anti-leishmanial drugs in the previous 6 months, was an exclusion criterion. Other exclusion criteria were: severe protein and/or caloric malnutrition defined as kwashiorkor or marasmus in children and BMI <15 in adults; previous history of hypersensitivity reaction to SSG or amphotericin B; concomitant severe infection such as TB or other serious underlying disease which would preclude evaluation of patients response to the study medication; other conditions associated with splenomegaly such as schistosomiasis; previous history of cardiac arrhythmia or an abnormal ECG; Hb<5 g/dL; WBC <103/mm3; platelets <40,000/mm3, abnormal liver function tests (ALT and AST) of more than three times the upper limit of the normal range, serum creatinine outside the normal range for age and gender, and major surgical intervention within two weeks prior to enrolment. Due to the potential teratogenicity of miltefosine, females of child bearing age were also excluded.
+
+### Interventions
+
+The three treatment regimens were as follows:
+
+  * AmBisome 10 mg/kg single dose (IV) on day 1 followed by 10 days of SSG (IM) 20 mg/kg from day 2–11.
+
+  * AmBisome 10 mg/kg single dose (IV) on day 1 followed by 10 days of miltefosine 2.5mg/kg/day (oral) from day 2–11 (up to a maximum dose of 150mg)
+
+  * Miltefosine 2.5 mg/kg/day (oral) from day 1–28 (up to a maximum dose of 150mg).
+
+AmBisome (liposomal amphotericin B, 50 lyophilized powder in vials, Gilead Pharmaceuticals, USA) was given as a single dose on day 1 at a dose of 10 mg/kg body weight, infused in 5% dextrose over 1–2 hours. Miltefosine (Impavido, Zentaris) was provided as foil-wrapped blister packs. The dose was calculated on a basis of 2.5 mg/kg body weight daily, up to a maximum of 150 mg. However, since 10 and 50 mg capsules were available, the actual doses given were: 30mg for 10-<14kg; 40mg for 14-<18kg; 50mg for 18-<22kg; 60mg for 22-<26kg; 70mg for 26-<30kg; 100mg for 30-<50kg and 150mg for ≥ 50kg. This resulted in a dose range of 2.0–3.33 mg/kg/day of miltefosine. SSG (30 ml vials, each containing 100 mg/ml SSG, produced by Albert David, India) was given as an intramuscular (IM) injection once daily, in a dose of 20 mg/kg body weight.
+
+Rescue treatment was AmBisome 30 mg/kg Intravenously (IV) split into multiple doses (according to country protocol) or SSG 20 mg/kg IM for 30–60+ days for patients not responding to initial rescue treatment or for patients requiring treatment for severe PKDL.
+
+Patients who did not meet inclusion criteria were offered free treatment outside the trial, according to national treatment protocols [15]. All patients were offered counseling and screening for HIV. Patients who tested positive were referred for appropriate treatment to the national HIV control programme and treated according to national treatment guidelines, surveillance and follow up according to the national protocol for HIV positive patients.
+
+### Outcomes
+
+Two efficacy endpoints were defined. The primary endpoint was parasitological cure at Day 28 (initial cure), determined as absence of parasites on microscopy. This was used for interim analysis decisions. Patients who died or required rescue before study treatment could be completed were considered initial treatment failures. The secondary endpoint was assessed at Day 210 (six months post end of treatment), representing final (or definitive) cure status. This was defined as lack of VL signs and symptoms, and no requirement for rescue treatment during the trial. Any patients with signs or symptoms of VL at any time during participation in the trial underwent confirmatory parasitological testing.
+
+Slow responders were defined as patients who had not cleared parasites at Day 28 (D28), but who were clinically well, did not require rescue treatment at D28 and remained clinically well throughout follow-up. These patients had a subsequent parasitological assessment at D56. If microscopy was positive, the patient received rescue medication regardless of clinical presentation. The treatment outcome was classified as failure from the time point rescue was received.
+
+Parasitological assessment by microscopy was done on lymph node aspirates (Dooka, Kassab), spleen aspirates (Kimalel) or bone marrow samples (all sites). In Kimalel, 49 patients who had unpalpable spleen on D28 had bone marrow aspirate while 27 patients had splenic aspirate. Aspirates were smeared on two slides per sample, stained and graded according to the standard logarithmic criteria.
+
+Safety outcomes were the number (%) of patient experiencing a serious adverse event at any time, frequency of adverse event within 60 days of treatment onset and an adverse drug reaction (ADR) within 60 days.
+
+### Sample size
+
+The study was designed and analyzed according to sequential methods, which have been developed to allow for discrete data analysis after a pre-specified number of patients are recruited. The triangular test is one such method and uses straight line stopping boundaries [13]. The continuation region is closed, which ensures a maximum sample size.
+
+A minimum sample size of 30 per arm was imposed to allow for adequate PK assessment. The trial was non-comparative and the sequential analysis was applied to each arm independently, allowing them to potentially stop at different times.
+
+### Randomization
+
+Subjects were randomly allocated using block randomization, stratified by site (Dooka, Kassab and Kimalel). Site investigators were blinded to block size and codes were concealed in sealed sequentially numbered, opaque envelopes under the control of the site investigator. The treating physician and patients were aware of the treatment given; miltefosine is oral medication and AmBisome and SSG are administered intravenously (IV) and IV or intramuscularly (IM) respectively. The laboratory technologists reading the slides were blind to treatment allocation.
+
+### Pharmacokinetics & pharmacodynamics
+
+The pharmacokinetics of miltefosine were assessed in the two arms receiving miltefosine. In the AmBisome + miltefosine arm human sodium heparin samples were nominally collected on day 2, 4, 7, 11, 60, 210 (adults) or day 2, 7, 11, 60, 210 (children); and in the miltefosine monotherapy arm on day 1, 3, 7, 14, 21, 28, 60, 210 (adults) or day 1, 7, 14, 28, 60, 210 (children). On the first day of miltefosine treatment, blood samples were drawn prior to the first dose, 4 hours and 8 hours post first dose; whereas for all other time points blood samples were drawn prior to the first miltefosine administration of that day. Samples were stored and transported frozen at minimally -20°C until analysis. Sample preparation and miltefosine quantification were performed using a validated liquid chromatography tandem mass spectrometry assay with a lower limit of quantitation of 4 ng/mL (LC-MS/MS)[16]. End-of-treatment concentrations of miltefosine were compared with a Welch two sample t-test.
+
+Repeated measurements of the Leishmania parasite load in whole blood were performed using a qRT-PCR method targeting Leishmania kDNA. These pharmacodynamic samples were collected from all participants in all three treatment arms prior to treatment and on Day 3, 7, 14, 28, 60, 210. DNA/RNA isolation was performed partially on site using a modified Boom method [17], where silica samples were stored and transported at minimally -20°C until the moment of further extraction and analysis. The qRT-PCR analysis was performed using a Bio-Rad CFX-96 real-time machine (Bio-Rad, Veenendaal, the Netherlands). Parasite clearance rates were calculated as relative decreases from baseline of all patients who had a detectable parasite load at baseline. A linear mixed-effects model was fitted in R using the maximum likelihood method, with treatment day and arm as fixed effects and subject as a random effect.
+
+### Statistical analysis
+
+Data analysis was performed using STATA, version 13 [18]. The primary analysis was by intention-to-treat (ITT).
+
+Interim analyses were conducted once every 15 patients had reached D28 primary endpoint assessment, using all available data and were based on the ITT analysis population. During each interim analysis, triangular region tests were performed [14] and a decision was taken whether to continue or stop recruitment in each arm based on the position of the test statistic being within or outside the triangular region.
+
+Once a decision was reached for each arm to stop, a point and interval estimate for the overall proportion cured at Day 28 (p) was obtained following Whitehead [19] based on all patient data using the ITT analysis population.
+
+The proportion of patients cured at day 210 is subject to sequential stopping as far as day 28, but not thereafter. To take account of this, the probability of treatment success at D210 was estimated by a probability tree argument, using the delta method for its standard error [20]. This method takes account of the occurrence of slow response to treatment and relapse captured between D28 and D210. Relapse patients are those without detectable parasites at D28, but who develop signs and symptoms of VL during the follow-up period and have a confirmatory parasitological diagnosis anytime between D28 and D210. This analysis was based on the ITT analysis population.
+
+A pre-specified subgroup analysis was to compare cure by sites using a χ2 or Fisher’s exact test at D210, based on the ITT analysis population. Due to the relative geographical proximity and small numbers, data from the Sudanese sites were combined, post hoc, to conduct the subgroup analysis by country. Also, efficacy at Day 210 is compared by age groups split at 12 years, rather than the pre-specified 18 years.
+
+All adverse events were coded to have lower level preferred term, higher level term and system organ class classifications according to MedDRA, Version 12.0.
+
+Safety outcomes were calculated as risk measures (number and percent of patients out of those randomized) where patients with multiple AEs or ADRs were only counted once. The incidence of ADRs was calculated as the number and percentage of patients experiencing each type of AE.
+
+### Ethical approval
+
+Ethical approval was obtained from national and local Ethics Committees in Kenya and Sudan prior to the start of the trial in each country. Ethical approval was also granted by LSHTM’s Ethics Committee (#5543), and the Academic Medical Center Medical Ethics Committee issued a 'declaration of no objection'. Study participants or their parents/guardians (for children) gave a written signed informed consent before enrollment into the study.
+
+The study was registered with ClinicalTrials.gov, number  NCT01067443.
+
+## Results
+
+### Participants
+
+A total of 151 patients were enrolled in the study (Fig 1). The most common reasons for exclusion amongst patients with detectable parasites (n = 531) were age less than seven years (20.5%), abnormal biological parameters (19.2%), being female of child bearing age (8.9%) and refusal of consent (7.5%). Patients were recruited from May 2010 to Feb 2012. All patients remained hospitalized from screening until completion of D28 assessment. Follow up was completed in Oct 2012. The three arms appeared balanced with respect to baseline characteristics (Tables 1–4).
+
+Fig 1 Participant Flow.
+
+### Table 1 Baseline demographic characteristics.
+
+### Table 4 Baseline laboratory parameters.
+
+### Table 2 Baseline biological markers.
+
+### Table 3 Baseline parasite count.
+
+### Analysis populations
+
+Data from all 151 enrolled patients were available for the intention-to-treat analysis: 51 for the AmBisome + SSG arm, 49 for the AmBisome + miltefosine arm and 51 for the miltefosine monotherapy arm. There were four major protocol deviations. In three patients (one from each treatment arm), body mass index at baseline was recorded as 15kg/m2. One patient in the miltefosine monotherapy arm was discovered to have epilepsy and should also have been excluded during screening due to severe concomitant condition.
+
+Therefore, 147 patients were included in the per-protocol (PP) population, 50 for the AmBisome + SSG arm, 48 for the AmBisome + miltefosine arm and 49 for the miltefosine monotherapy arm.
+
+### Interim analyses
+
+The first and second interim analyses indicated that all arms should continue (Fig 2; Table 5). The decision to stop recruitment was made after the third sequential analysis for promising D28 efficacy in all three arms based on crossing the upper triangular boundary.
+
+Fig 2 Sequential stopping for the three arms.
+The horizontal axis (V) is proportional to sample size. The vertical axis (Z) is the observed minus expected number of cures, so higher values are more favourable. Each arm is shown by a line with three points representing, from left to right, the first interim analysis (decision: continue for all arms), the second interim analysis (decision: continue for all arms) and the final analysis. The final analysis (shown here) includes patients whose follow-up was still in progress at the time of the third interim analysis, and confirmed the ‘stop’ decisions. Having all stopped at the same analysis, the point estimates of proportion cured are the same for all arms (85%), as are the 95% confidence intervals (77–97%). Based on the probability tree method, the point estimate at day 210 for AmBisome + SSG is 87% (95% CI 77–97%); for AmBisome + Miltefosine it is 77% (64–90%) and for Miltefosine 72% (60–85%).
+
+### Table 5 Outcomes and events during treatment: Efficacy.
+
+### Initial response to treatment (D28 efficacy)
+
+When accounting for the sequential trial design, cumulative efficacy at D28 was 85% (95% CI: 73%–92%) in all three arms (see Table 5). Results from the per protocol analysis were similar to the ITT population.
+
+### Final cure at 6 months post end of treatment (D210 efficacy)
+
+No patients were lost to follow up. One slow responder occurred in each treatment arm. Relapse occurred in one, seven and eight patients in the AmBisome + SSG, AmBisome + Miltefosine and Miltefosine arms respectively. When accounting for the sequential trial design and change of status between D28 and D210, the D210 efficacy was 87% (95% CI: 77–97%) for the AmBisome + SSG arm, 77% (95% CI: 64–90%) for the AmBisome + miltefosine arm and 72% (95% CI: 60–85%) for the miltefosine arm (see Table 5).
+
+### Sub-group analysis
+
+D210 cure was consistently lower in Sudan (Table 6) than in Kenya for each treatment, especially for the AmBisome + miltefosine arm (p = 0.074). The age distribution differed by country with more younger patients recruited in Sudan; 49 (65%) Sudanese patients were aged less than 12 years compared to 25 (33%) Kenyan patients (chi-squared test p<0.0001). Age, as a possible proxy for weight, could therefore be a realistic biological explanation for a difference in treatment response by country, although additional differences in parasite susceptibility and host factors cannot be excluded. In the present study population, age <12y was correlated with weight <30kg. Therefore post- hoc stratified analyses were conducted by age group (<12 years, ≥12 years) and country. An age cut-off of 12 years was chosen based on the observed differences in drug exposure between those two groups. Cure rates were consistently lower in patients aged less than 12 years in each arm in both countries (Table 6).
+
+### Table 6 Stratified D210 efficacy.
+
+### Safety
+
+There were four SAEs, occurring in two patients in each of the AmBisome containing arms (4% of patients randomised to each short-course arm; Table 7). Three patients discontinued treatment.
+
+### Table 7 Safety summary.
+
+One SAE in each AmBisome arm was a serious adverse drug reaction (SADR); in the AmBisome + SSG arm, severe anaemia resulted in death at day 20, and in the AmBisome + miltefosine arm, renal failure at day 3 which was resolved. The two unrelated SAE were upper respiratory tract infection and pneumonia. There were two deaths, one in each combination arm. These were severe pneumonia in the AmBisome + Miltefosine arm which was considered not related to study drug and severe anemia in the AmBisome + SSG arm which was considered possibly related.
+
+The proportion of patients with at least one treatment emergent adverse event (TEAE) was between 80 and 90% in each arm. The proportion of patients with at least one ADRs was between 73 and 78% in each arm, while the proportion of patients with at least one AE not related to study drug was between 33 and 45%.
+
+Treatment was stopped in 1 patient due to a non-serious, moderate increase in serum creatinine and elevation of blood urea after 14 days of miltefosine monotherapy treatment. Two patients in the AmBisome + miltefosine arm stopped treatment early (due to serious renal insufficiency after 3 days of treatment and moderate non-serious increased blood creatinine after 7 days).
+
+The median number of adverse effects experienced was two per patient for each arm. Of all non-serious drug related events, three were severe and occurred in the miltefosine monotherapy arm: two cases of anaemia and one case of gastro- intestinal pain. In the AmBisome + SSG and in the AmBisome + miltefosine arms, all non-serious drug-related events were categorized as mild to moderate.
+
+Approximately 20% of patients in each arm treated with AmBisome experienced adverse events during infusion, and approximately 20% of patients in each arm treated with miltefosine vomited at least one dose. The overall occurrence of vomiting was 21% in all patients treated with miltefosine. The occurrence of repeated vomiting of the same dose was relatively low (6% of patients overall in both miltefosine arms). All treatment arms showed CTCAE grade 1 or grade 2 aspartate aminotransferase increase (14–29%) and grade 1 hypomagnesaemia (14–20%) (Table 8).
+
+### Table 8 Incidence of adverse drug reactions.*
+
+The only arm to contain SSG (combined with AmBisome) showed low levels of cardiac disorders (<5%), similar to that of the AmBisome + MF arm. PKDL occurred in eight Sudanese patients, 2 in the AmBisome+SSG arm, 1 in the AmBisome+Miltefosine arm and 5 in the miltefosine monotherapy arm. All cases were mild or moderate and did not require treatment.
+
+### Pharmacokinetics & pharmacodynamics
+
+Miltefosine end of treatment concentrations were available for 42 patients from the AmBisome + miltefosine arm and for 45 patients from the miltefosine alone arm. Miltefosine keeps accumulating until the end of treatment, so the end-of-treatment concentration (day 11 for the AmBisome + miltefosine arm and day 28 for the miltefosine alone arm) is representative for total exposure. The mean (SD) miltefosine concentration at the end-of-treatment was 16.47 (5.89) μg/mL for the AmBisome + miltefosine arm and 26.42 (8.66) μg/mL for the miltefosine alone-arm. There were no significant differences in miltefosine end-of-treatment concentrations between Sudanese and Kenyan patients. As depicted in Fig 3, patients with a body weight <30 kg (n = 38, of which 97% aged ≤12 yrs) were significantly less exposed to miltefosine than patients with a higher body weight of ≥30 kg (n = 49, of which 84% aged >12 yrs): for the AmBisome + miltefosine arm the difference in end-of-treatment concentration was 36% (p<0.0001) and for the miltefosine alone arm 32% (p<0.0001).
+
+Fig 3 Comparison of the end-of-treatment miltefosine plasma concentrations between body weight categories.
+The left plot shows the AmBisome + miltefosine arm (10 days of miltefosine), the right plot the miltefosine alone arm (28 days of miltefosine).
+
+In total, for 77% of all patients there was a blood parasite load available at baseline, with various reasons for non-availability (e.g. no baseline sample available, issues with DNA extraction or no parasite load detectable). Only the first week of treatment was taken into account to assess the parasite clearance rate, since levels dropped to undetectable levels >1 week of treatment for many patients. The effect of the treatment arm on the parasite clearance rate in the first week of treatment was evaluated and is illustrated in Fig 4. The parasite clearance rate was slower in the miltefosine alone arm compared to the AmBisome + miltefosine arm (p<0.0001), while there was no significant difference between the two combination arms (p = 0.605). After 1 week of treatment, almost all individuals in both combination treatment arms had regressed towards 0% parasite load, while the miltefosine monotherapy arm was on average still >10% of the initial parasite load level (Fig 4).
+
+Fig 4 Parasite clearance from the blood in the first week of treatment.
+All parasite blood loads are relative to the individual parasite load at baseline. The full lines indicate the mean and the error bars its 95% confidence interval, stratified per treatment arm.
+
+A more extensive in-depth analysis of the pharmacokinetic and pharmacodynamics results of this study will be reported elsewhere.
+
+## Discussion
+
+This was the first phase II randomized trial of short course combination therapies containing AmBisome for VL in Africa. Neither of the two AmBisome combinations (single daily dose of AmBisome with 10 days of SSG or miltefosine) nor the 28 day miltefosine monotherapy (previously used in India) achieved more than 90% cure. There were no unexpected safety signals detected in the trial, although there is very little power to detect unexpected events given the small number of patients treated. Our recent study showed that multiple daily doses of 3 mg/kg body weight of AmBisome maybe more beneficial to parasite clearance than a single 10 mg/kg dose at day 1 [8], suggesting that a more frequent administration of AmBisome may result in higher cure rates.
+
+Pharmacodynamic data showed faster parasitic clearance with both AmBisome combinations than with miltefosine monotherapy. Our study was not designed or powered to detect differences in efficacy between adults and children, however patients with low body weight (<30kg), almost all of whom were children under 12 years of age, were found to be significantly underexposed to miltefosine compared to those with higher body weight, whether treated with miltefosine alone or in combination with AmBisome.
+
+The lack of efficacy compared to that seen previously in Southeast Asia, particularly with regard to miltefosine, could be due to genetic diversity and differences in drug susceptibility between east African and Indian Leishmania strains. However, results from Nepal and India recently demonstrated a high relapse rate 6–12 months after miltefosine monotherapy (75–90% efficacy), and more frequently in patients under the age of 15 years, suggesting a possible drug underexposure effect [21,22]. Pharmacokinetic studies on miltefosine exposure in adults and children from both countries show that the current 2.5 mg/kg/day miltefosine monotherapy dose results in low exposure in children and that a proposed allometric dosing algorithm could provide a higher and more optimal exposure in both adults and children [23]. Similar lower drug exposure in children has been observed for antimonials (meglumine antmoniate) in cutaneous leishmaniasis using a linear weight-adjusted dosage[24].
+
+Our results confirmed a good tolerability of all treatments tested and no major safety concerns were identified. Despite the higher exposure of miltefosine in adults, this does not seem to be associated with higher safety risks. The frequency and severity of increase in creatinine observed in this trial were not different from what had been already described.
+
+In conclusion, as none of the treatment regimens tested achieved target efficacy they will not be developed further. Miltefosine, as an oral drug treatment, is still of interest and so an allometric dosing study is now underway to assess the safety and appropriate treatment dose of miltefosine, particularly in children, in eastern Africa ( NCT02431143).
+
+This study highlights, once again, the difficulties faced when developing treatments for VL in eastern Africa. In addition to improvements based on existing drugs, early drug discovery efforts are ongoing, and several new chemical entities have been identified which will hopefully give rise to safe, effective, oral treatments for the region in the future.
+
+## Supporting Information
+
+#### S1 Checklist
+
+CONSORT 2010 checklist.
+
+Information to be included according to the 2010 Consolidated Standards of Reporting Trials (CONSORT).
+
+(DOC)
+
+#### S1 Protocol
+
+Clinical trial protocol.
+
+Protocol for a Phase II Randomized, Parallel Arm, Open-Labeled Clinical Trial to Assess the Safety and Efficacy of the Combination of Sodium Stibogluconate Plus Single Dose Ambisome, Miltefosine Plus Single Dose Ambisome and Miltefosine Alone for the Treatment of Primary Visceral Leishmaniasis in Eastern Africa.
+
+(PDF)
+
+## Acknowledgments
+
+The trial was conducted by the Leishmaniasis East Africa Platform (LEAP), in collaboration with the trial sites, and coordinated and implemented by the Drugs for Neglected Diseases initiative (DNDi). The authors would like to thank all members of the field teams, including nurses and laboratory technicians in all study sites, clinical monitors and Data Safety Monitoring Board for their contribution to the study. We would also like to thank the Ministries of Health of Kenya and Gedaref State, Sudan for their support. The authors also acknowledge Joy Malongo for administrative support and editing of the manuscript.
+
+All authors read and approved the final manuscript. This manuscript is published with permission from the Director of KEMRI.
+
+## Funding Statement
+
+This work was supported through DNDi by the Médecins Sans Frontières International; the Medicor Foundation; Department for International Development (DFID), UK; the Ministry of Foreign and European Affairs (MAEE), France; the Spanish Agency of International Cooperation for Development (AECID), Spain; the Dutch Ministry of Foreign Affairs (DGIS), the Netherlands; Federal Ministry of Education and Research (BMBF) through KfW and part of the EDCTP2 programme supported by the European Union, Germany; and Swiss Agency for Development and Cooperation (SDC), Switzerland. DNDi was responsible for the study design, development of study protocol, informed consent and study related materials, training of clinical trial sites, monitoring of the study, data management, interpretation of results, and development of the clinical study report.
+
+## Data Availability
+
+All relevant data are within the paper.
+

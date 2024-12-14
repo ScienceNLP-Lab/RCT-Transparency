@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Multi-centre Randomised Controlled Trial of a Smartphone-based Event Recorder Alongside Standard Care Versus Standard Care for Patients Presenting to the Emergency Department with Palpitations and Pre-syncope: The IPED (Investigation of Palpitations in the ED) study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-03-03">3 March 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,42.52,244.58,77.12,9.99"><forename type="first">Matthew</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+							<email>matthew.reed@nhslothian.scot.nhs.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<orgName type="institution" key="instit1">Royal Infirmary of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">51 Little France Crescent</orgName>
+								<address>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Edinburgh Acute Care</orgName>
+								<orgName type="department" key="dep2">College of Medicine and Veterinary Medicine</orgName>
+								<orgName type="department" key="dep3">The Chancellor&apos;s Building</orgName>
+								<orgName type="institution" key="instit1">Usher Institute of Population Health Sciences and Informatics</orgName>
+								<orgName type="institution" key="instit2">University of Edinburgh</orgName>
+								<address>
+									<addrLine>49 Little France Crescent</addrLine>
+									<postCode>EH16 4SB</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,143.32,244.58,62.48,9.99"><forename type="first">Neil</forename><forename type="middle">R</forename><surname>Grubb</surname></persName>
+							<email>neil.grubb@nhslothian.scot.nhs.uk</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Royal Infirmary of Edinburgh</orgName>
+								<address>
+									<addrLine>51 Little France Crescent</addrLine>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,216.40,244.58,91.80,9.99"><forename type="first">Christopher</forename><forename type="middle">C</forename><surname>Lang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution">Royal Infirmary of Edinburgh</orgName>
+								<address>
+									<addrLine>51 Little France Crescent</addrLine>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,318.74,244.58,68.56,9.99"><forename type="first">Rachel</forename><surname>O'brien</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<orgName type="institution" key="instit1">Royal Infirmary of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">51 Little France Crescent</orgName>
+								<address>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,398.32,244.58,71.18,9.99"><forename type="first">Kirsty</forename><surname>Simpson</surname></persName>
+							<email>kirsty.simpson@nhslothian.scot.nhs.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<orgName type="institution" key="instit1">Royal Infirmary of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">51 Little France Crescent</orgName>
+								<address>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,480.47,244.58,70.06,9.99"><forename type="first">Mia</forename><surname>Padarenga</surname></persName>
+							<email>mia.padarenga@nhslothian.scot.nhs.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<orgName type="institution" key="instit1">Royal Infirmary of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">51 Little France Crescent</orgName>
+								<address>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,42.52,257.56,58.41,9.99"><forename type="first">Alison</forename><surname>Grant</surname></persName>
+							<email>alison.grant@nhslothian.scot.nhs.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<orgName type="institution" key="instit1">Royal Infirmary of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">51 Little France Crescent</orgName>
+								<address>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,111.29,257.56,57.87,9.99"><forename type="first">Sharon</forename><surname>Tuck</surname></persName>
+							<email>sharon.tuck@ed.ac.uk</email>
+							<affiliation key="aff3">
+								<orgName type="department">Edinburgh Clinical Research Facility, Epidemiology and Statistics Core</orgName>
+								<orgName type="institution" key="instit1">University of Edinburgh</orgName>
+								<orgName type="institution" key="instit2">Western General Hospital</orgName>
+								<address>
+									<addrLine>Crewe Road South</addrLine>
+									<postCode>EH4 2XU</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,180.28,257.56,56.65,9.99"><forename type="first">Liza</forename><surname>Keating</surname></persName>
+							<email>liza.keating@royalberkshire.nhs.uk</email>
+							<affiliation key="aff4">
+								<orgName type="department">Emergency Department</orgName>
+								<orgName type="institution">Royal Berkshire NHS Foundation Trust</orgName>
+								<address>
+									<postCode>RG1 5AN</postCode>
+									<settlement>Reading</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,247.35,257.56,58.44,9.99"><forename type="first">Frank</forename><surname>Coffey</surname></persName>
+							<email>frank.coffey@nottingham.ac.uk</email>
+							<affiliation key="aff5">
+								<orgName type="department">DREEAM -Department of Research and Education in Emergency medicine, Acute medicine and Major trauma</orgName>
+								<orgName type="institution">Nottingham University Hospitals NHS Trust</orgName>
+								<address>
+									<addrLine>Queen&apos;s Medical Centre Derby Road</addrLine>
+									<postCode>NG7 2UH</postCode>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,314.78,257.56,48.92,9.99"><forename type="first">Lucy</forename><surname>Jones</surname></persName>
+							<email>ljones24@nhs.net</email>
+							<affiliation key="aff6">
+								<orgName type="institution" key="instit1">Chesterfield Royal Hospital NHS Foundation Trust</orgName>
+								<orgName type="institution" key="instit2">Chesterfield Rd</orgName>
+								<address>
+									<postCode>S44 5BL</postCode>
+									<settlement>Calow</settlement>
+									<region>Chesterfield</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,374.40,257.56,49.29,9.99"><forename type="first">Tim</forename><surname>Harris</surname></persName>
+							<email>tim.harris@bartshealth.nhs.uk</email>
+							<affiliation key="aff7">
+								<orgName type="institution">Barts Health NHS Trust</orgName>
+								<address>
+									<postCode>E1 1BB</postCode>
+									<settlement>Whitechapel, London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,434.89,257.56,55.35,9.99"><forename type="first">Gavin</forename><surname>Lloyd</surname></persName>
+							<email>gavin.lloyd@nhs.net</email>
+							<affiliation key="aff8">
+								<orgName type="institution">Royal Devon and Exeter Hospital</orgName>
+								<address>
+									<addrLine>Barrack Rd</addrLine>
+									<postCode>EX2 5DW</postCode>
+									<settlement>Exeter</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,498.84,257.56,53.89,9.99"><forename type="first">James</forename><surname>Gagg</surname></persName>
+							<email>james.gagg@tst.nhs.uk</email>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Emergency Medicine</orgName>
+								<orgName type="institution" key="instit1">Musgrove Park Hospital</orgName>
+								<orgName type="institution" key="instit2">Taunton &amp; Somerset NHS Foundation Trust</orgName>
+								<address>
+									<postCode>TA1 5DA</postCode>
+									<settlement>Taunton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,42.52,270.49,67.09,9.99"><forename type="first">Jason</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+							<email>jasonesmith@nhs.net</email>
+							<affiliation key="aff10">
+								<orgName type="department">Emergency Department</orgName>
+								<orgName type="institution">University Hospitals Plymouth NHS Trust</orgName>
+								<address>
+									<postCode>PL6 8DH</postCode>
+									<settlement>Plymouth</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,121.10,270.49,46.90,9.99"><forename type="first">Tim</forename><surname>Coats</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Cardiovascular Sciences</orgName>
+								<orgName type="laboratory">Emergency Medicine Academic Group</orgName>
+								<orgName type="institution">University of Leicester</orgName>
+								<address>
+									<addrLine>University Road</addrLine>
+									<postCode>LE1 7RH</postCode>
+									<settlement>Leicester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Emergency Medicine, Royal Infirmary of Edinburgh</orgName>
+								<orgName type="laboratory">Emergency Medicine Research Group Edinburgh (EMERGE)</orgName>
+								<address>
+									<addrLine>51 Little France Crescent</addrLine>
+									<postCode>EH16 4SA</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Multi-centre Randomised Controlled Trial of a Smartphone-based Event Recorder Alongside Standard Care Versus Standard Care for Patients Presenting to the Emergency Department with Palpitations and Pre-syncope: The IPED (Investigation of Palpitations in the ED) study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-03-03">3 March 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.eclinm.2019.02.005</idno>
+					<note type="submission">Received 4 November 2018 Received in revised form 7 February 2019 Accepted 15 February 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0-SNAPSHOT" ident="GROBID" when="2024-02-20T15:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Ambulatory electrocardiography monitoring Cardiac arrhythmias Palpitations Pre-syncope</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,206.93,449.12,354.65,6.79;1,206.93,458.70,277.62,6.79">Background: Patients with palpitations and pre-syncope commonly present to Emergency Departments (EDs) but underlying rhythm diagnosis is often not possible during the initial presentation.</s><s coords="1,486.48,458.70,75.08,6.79;1,206.93,468.23,354.60,6.79;1,206.93,477.81,354.64,6.79;1,206.93,487.39,133.76,6.79">This trial compares the symptomatic rhythm detection rate of a smartphone-based event recorder (AliveCor) alongside standard care versus standard care alone, for participants presenting to the ED with palpitations and pre-syncope with no obvious cause evident at initial consultation.</s><s coords="1,206.93,496.97,201.45,6.79">Methods: Multi-centre open label, randomised controlled trial.</s><s coords="1,410.29,496.86,151.27,7.17;1,206.93,506.50,89.18,6.79">Participants ≥16 years old presenting to 10 UK hospital EDs were included.</s><s coords="1,297.98,506.50,263.58,6.79;1,206.93,516.08,294.06,6.79">Participants were randomised to either (a) intervention group; standard care plus the use of a smartphone-based event recorder or (b) control group; standard care alone.</s><s coords="1,503.09,516.08,58.35,6.79;1,206.93,525.66,163.16,6.79">Primary endpoint was symptomatic rhythm detection rate at 90 days.</s><s coords="1,371.68,525.66,189.94,6.79">Trial registration number NCT02783898 (ClinicalTrials.gov).</s><s coords="1,206.93,535.18,279.44,6.79">Findings: Two hundred forty-three participants were recruited over an 18-month period.</s><s coords="1,487.79,535.18,73.83,6.79;1,206.93,544.76,211.29,6.79">A symptomatic rhythm was detected at 90 days in 69 (n = 124; 55.6%; 95% CI 46.9-64.4%)</s><s coords="1,419.70,544.76,141.92,6.79;1,206.93,554.34,267.85,6.79">participants in the intervention group versus 11 (n = 116; 9.5%; 95% CI 4.2-14.8) in the control group (RR 5.9, 95% CI 3.3-10.5;</s><s coords="1,476.67,554.24,39.12,7.17">p b 0.0001).</s><s coords="1,517.72,554.34,43.83,6.79;1,206.93,563.87,354.66,6.79;1,206.93,573.34,180.40,7.17">Mean time to symptomatic rhythm detection in the intervention group was 9.5 days (SD 16.1, range 0-83) versus 42.9 days (SD 16.0, range 12-66; p b 0.0001) in the control group.</s><s coords="1,389.14,573.45,172.39,6.79;1,206.93,583.03,161.65,6.79">The commonest symptomatic rhythms detected were sinus rhythm, sinus tachycardia and ectopic beats.</s><s coords="1,370.43,583.03,191.07,6.79;1,206.93,592.61,128.24,6.79">A symptomatic cardiac arrhythmia was detected at 90 days in 11 (n = 124; 8.9%; 95% CI 3.9-13.9%)</s><s coords="1,336.93,592.61,224.58,6.79;1,206.93,602.14,181.22,6.79">participants in the intervention group versus 1 (n = 116; 0.9%; 95% CI 0.0-2.5%) in the control group (RR 10.3, 95% CI 1.3-78.5;</s><s coords="1,389.99,602.14,37.36,6.79">p = 0.006).</s><s coords="1,206.93,611.72,354.63,6.79;1,206.93,621.19,228.03,7.17">Interpretation: Use of a smartphone-based event recorder increased the number of patients in whom an ECG was captured during symptoms over five-fold to more than 55% at 90 days.</s><s coords="1,436.82,621.30,124.71,6.79">This safe, non-invasive and easy to use</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="2,44.22,206.66,230.07,7.02;2,44.22,217.15,230.09,7.02;2,44.22,227.58,100.84,7.02">Palpitations and pre-syncope are together responsible for 300,000 annual Emergency Department (ED) attendances in the United Kingdom (UK) alone.</s><s coords="2,147.29,227.58,127.01,7.02;2,44.22,238.07,230.10,7.02;2,44.22,248.50,230.07,7.02;2,44.22,258.99,27.82,7.02">Diagnosis of the underlying rhythm is difficult as many patients are fully recovered by the time of attendance, and examination and presenting ECG are commonly normal.</s><s coords="2,74.72,258.99,199.57,7.02;2,44.22,269.42,230.20,7.02;2,44.22,279.91,22.97,7.02">Palpitations are typically intermittent, and a diagnosis can only be made through establishing a symptom-rhythm correlation.</s><s coords="2,70.64,279.91,203.62,7.02;2,44.22,290.34,230.08,7.02;2,44.22,300.83,187.81,7.02">There have been few studies investigating the use of smartphone-based event recorders; none have been randomised trials and none have studied acute or ED populations.</s><s coords="2,234.02,300.83,40.30,7.02;2,44.22,311.26,230.13,7.02;2,44.22,321.75,218.22,7.02">Most previous research in this area has focused on primary and secondary prevention of stroke through the detection of atrial fibrillation.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,44.22,342.66,78.29,7.48">Added Value of Study</head><p><s coords="2,44.22,363.59,230.09,7.02;2,44.22,374.02,230.10,7.02;2,44.22,384.51,85.31,7.02">This trial sought to clarify whether there is any benefit to adding a smartphone-based electrocardiogram (ECG) monitoring event recorder to standard care.</s><s coords="2,131.64,384.51,142.73,7.02;2,44.22,394.94,230.15,7.02;2,44.22,405.43,34.97,7.02">The trial recruited patients presenting to the ED with palpitations and pre-syncope and no obvious cause in the ED.</s><s coords="2,81.35,405.43,193.00,7.02;2,44.22,415.86,191.55,7.02">The principal outcome measure was the rate of detection of the underlying symptomatic rhythm at 90 days.</s><s coords="2,237.48,415.86,36.83,7.02;2,44.22,426.35,230.19,7.02;2,44.22,436.78,230.05,7.02;2,44.22,447.27,205.29,7.02">This study shows that use of a smartphone-based event recorder increased the number of patients in whom an ECG was captured during symptoms over five-fold to more than 55% at 90 days.</s><s coords="2,252.11,447.27,22.16,7.02;2,44.22,457.70,230.16,7.02;2,44.22,468.19,122.00,7.02">These are clinically significant rhythms as they diagnose the underlying cause of the patient's symptoms.</s><s coords="2,168.43,468.19,105.93,7.02;2,44.22,478.62,230.03,7.02;2,44.22,489.11,68.24,7.02">The smartphone-based event recorder also increased the number of patients diagnosed with cardiac arrhythmia.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="2,44.22,510.02,145.51,7.48">Implications of All the Available Evidence</head><p><s coords="2,44.22,530.95,230.12,7.02;2,44.22,541.43,230.18,7.02;2,44.22,551.86,140.96,7.02">A smartphone-based event recorder should be considered as part of on-going care for all patients presenting acutely to EDs with unexplained palpitations or pre-syncope.</s><s coords="2,187.88,551.86,86.44,7.02;2,44.22,562.35,230.04,7.02;2,44.22,572.78,230.10,7.02;2,44.22,583.27,230.20,7.02;2,44.22,593.70,39.73,7.02">It is safe, non-invasive, easy to use and far more efficient at diagnosing the underlying cause of the patient's symptoms than current standard care, which in the healthcare system studied does not serve this patient group well.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." coords="2,33.73,643.62,53.80,7.54">Background</head><p><s coords="2,45.70,664.42,240.43,7.97;2,33.73,674.97,252.36,7.54;2,33.73,685.46,252.26,7.54;2,33.73,695.89,204.67,7.54">Palpitations (the noticeable pounding, fluttering or irregular beating of the heart) and pre-syncope (the sense of impending loss of consciousness) are together responsible for 1% of Emergency Department (ED) visits (300,000 annual ED attendances in the UK) <ref type="bibr" coords="2,219.69,695.89,9.36,7.54" target="#b0">[1,</ref><ref type="bibr" coords="2,229.05,695.89,6.24,7.54" target="#b1">2]</ref>.</s><s coords="2,241.00,695.89,44.97,7.54;2,33.73,706.37,252.37,7.54;2,33.73,716.81,147.27,7.54">Diagnosis of the underlying rhythm is difficult as many patients are fully recovered by the time that they are seen in the ED.</s><s coords="2,183.23,716.81,102.84,7.54;2,33.73,727.29,179.09,7.54">Examination and presenting electrocardiogram (ECG) are commonly normal.</s><s coords="2,215.60,727.29,70.42,7.54;2,33.73,737.73,252.29,7.54;2,301.72,157.13,251.05,7.54;2,301.72,167.56,120.31,7.54">Once captured, the symptomatic rhythm underlying about 9 in 10 episodes is benign, e.g., normal sinus rhythm, sinus tachycardia or frequent ectopics (extra or skipped heart beats) <ref type="bibr" coords="2,410.29,167.56,8.81,7.54" target="#b2">[3]</ref>.</s><s coords="2,424.06,167.56,128.69,7.54;2,301.72,178.05,212.16,7.54">However around 1 in 10 patients do have a cardiac arrhythmia as their symptomatic rhythm <ref type="bibr" coords="2,502.19,178.05,8.77,7.54" target="#b2">[3]</ref>.</s></p><p><s coords="2,313.68,188.48,239.07,7.54;2,301.72,198.97,129.59,7.54">The only way to establish the underlying heart rhythm is to capture an ECG whilst the patient has symptoms.</s><s coords="2,432.83,198.97,119.94,7.54;2,301.72,209.40,251.07,7.54">Many patients go for years without diagnosis due to the difficulty in capturing the underlying heart rhythm.</s><s coords="2,301.72,219.77,251.03,7.97;2,301.72,230.32,251.06,7.54;2,301.72,240.81,251.05,7.54">Recommended first line investigation of 12-lead ECG <ref type="bibr" coords="2,482.29,219.89,9.79,7.54" target="#b3">[4]</ref> and conventional ambulatory monitoring (Holter or event monitoring) <ref type="bibr" coords="2,486.26,230.32,7.41,7.54" target="#b4">[5]</ref><ref type="bibr" coords="2,497.37,230.32,7.41,7.54" target="#b5">[6]</ref> are of limited efficacy due to the infrequency of symptoms in many patients <ref type="bibr" coords="2,521.86,240.81,10.30,7.54" target="#b4">[5,</ref><ref type="bibr" coords="2,532.16,240.81,3.43,7.54" target="#b6">[7]</ref><ref type="bibr" coords="2,535.60,240.81,3.43,7.54" target="#b7">[8]</ref><ref type="bibr" coords="2,535.60,240.81,3.43,7.54" target="#b8">[9]</ref><ref type="bibr" coords="2,539.03,240.81,10.30,7.54" target="#b9">[10]</ref>.</s><s coords="2,301.72,251.24,251.03,7.54;2,301.72,261.73,250.98,7.54;2,301.72,272.16,222.71,7.54">Most patients are discharged from the ED and asked to represent or call an ambulance should they get further symptoms in the hope of increasing the chances of capturing the episode on a standard 12-lead ECG.</s></p><p><s coords="2,313.68,282.65,239.07,7.54;2,301.72,293.08,251.06,7.54;2,301.72,303.57,251.05,7.54">If patients are referred to cardiology services for assessment, investigation usually starts with a Holter monitor but non-compliance and lack of extended monitoring reduces diagnostic yield to less than 20% <ref type="bibr" coords="2,536.43,303.57,13.07,7.54" target="#b10">[11]</ref>.</s><s coords="2,301.72,314.00,251.14,7.54;2,301.72,324.49,251.13,7.54;2,301.72,334.92,250.99,7.54;2,301.72,345.41,132.33,7.54">Traditional event recorders, external continuous loop recorders and implantable loop recorders are expensive and not recommended for a patient group who rarely have malignant arrhythmias and may have prolonged periods between episodes.</s></p><p><s coords="2,313.68,355.84,239.08,7.54;2,301.72,366.33,183.36,7.54">Recent technological advances have led to several novel ECG monitoring devices appearing on the market <ref type="bibr" coords="2,457.17,366.33,13.95,7.54" target="#b11">[12,</ref><ref type="bibr" coords="2,471.12,366.33,10.46,7.54" target="#b12">13]</ref>.</s><s coords="2,488.69,366.33,63.97,7.54;2,301.72,376.76,251.14,7.54;2,301.72,387.24,251.04,7.54;2,301.72,397.68,16.22,7.54">The pocket sized AliveCor (now Kardia) mobile (AliveCor, San Francisco, USA) is a monitoring device that requires the patient to trigger the ECG recording <ref type="bibr" coords="2,301.72,397.68,12.98,7.54" target="#b13">[14]</ref>.</s><s coords="2,320.03,397.56,232.72,7.97;2,301.72,408.16,251.03,7.54;2,301.72,418.60,250.98,7.54;2,301.72,429.08,206.31,7.54">With minimal training, two fingers from each hand are placed on the monitor (which can be connected to the back of a smartphone) for 30 s to take an ECG recording, which is transmitted wirelessly to the app, analysed and synchronised to an encrypted server.</s><s coords="2,510.57,429.08,42.19,7.54;2,301.72,439.52,251.04,7.54;2,301.72,450.00,76.72,7.54">The patient can then alert their healthcare professional to allow their ECG to be viewed securely <ref type="bibr" coords="2,362.04,450.00,13.12,7.54" target="#b13">[14]</ref>.</s><s coords="2,380.64,450.00,172.12,7.54;2,301.72,460.43,251.04,7.54;2,301.72,470.92,251.04,7.54;2,301.72,481.35,251.05,7.54;2,301.72,491.84,250.97,7.54;2,301.72,502.33,46.05,7.54">The device is supported for clinical use by a National Institute for Health and Care Excellence (NICE) technology appraisal <ref type="bibr" coords="2,327.51,470.92,14.58,7.54" target="#b13">[14]</ref> and was initially developed for detecting AF, for which the automatic diagnostic algorithm has excellent sensitivity (96.6%) and specificity (94%) for correctly interpreting AF versus normal sinus rhythm <ref type="bibr" coords="2,331.20,502.33,13.25,7.54" target="#b14">[15]</ref>.</s><s coords="2,349.97,502.33,202.80,7.54;2,301.72,512.76,251.01,7.54;2,301.72,523.25,250.99,7.54;2,301.72,533.68,103.02,7.54">There have been several studies investigating the use of smartphone-based event recorders including AliveCor for population screening for AF in various settings <ref type="bibr" coords="2,434.38,523.25,12.32,7.54" target="#b15">[16]</ref><ref type="bibr" coords="2,446.70,523.25,4.11,7.54" target="#b16">[17]</ref><ref type="bibr" coords="2,446.70,523.25,4.11,7.54" target="#b17">[18]</ref><ref type="bibr" coords="2,446.70,523.25,4.11,7.54" target="#b18">[19]</ref><ref type="bibr" coords="2,446.70,523.25,4.11,7.54" target="#b19">[20]</ref><ref type="bibr" coords="2,450.81,523.25,12.32,7.54" target="#b20">[21]</ref> and feasibility for other rhythm disorders <ref type="bibr" coords="2,367.88,533.68,11.06,7.54" target="#b2">[3,</ref><ref type="bibr" coords="2,378.94,533.68,7.37,7.54" target="#b21">[22]</ref><ref type="bibr" coords="2,386.31,533.68,3.69,7.54" target="#b22">[23]</ref><ref type="bibr" coords="2,390.00,533.68,11.06,7.54" target="#b23">[24]</ref>.</s><s coords="2,407.06,533.68,145.65,7.54;2,301.72,544.17,251.05,7.54;2,301.72,554.60,251.04,7.54;2,301.72,565.09,129.04,7.54">Whilst AliveCor has now undergone assessment against conventional care for AF detection <ref type="bibr" coords="2,491.42,544.17,13.16,7.54" target="#b24">[25]</ref>, it has yet to be assessed against standard care for the broader investigation of palpitations and arrhythmia assessment.</s><s coords="2,432.90,565.09,119.88,7.54;2,301.72,575.53,243.56,7.54">There have been no studies in an acute or ED population, where large numbers of patients present <ref type="bibr" coords="2,533.59,575.53,8.77,7.54" target="#b1">[2]</ref>.</s></p><p><s coords="2,313.68,586.02,239.06,7.54;2,301.72,596.45,251.04,7.54;2,301.72,606.94,251.13,7.54;2,301.72,617.37,250.99,7.54;2,301.72,627.85,218.27,7.54">The primary aim of this study is to compare the symptomatic rhythm detection rate at 90 days of a smartphone-based event recorder (AliveCor) alongside standard care, compared to standard care alone, for participants presenting to the ED with palpitations and presyncope with no obvious cause evident at initial consultation.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." coords="2,301.72,654.10,40.98,7.54">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1." coords="2,301.72,675.02,36.87,7.54">Design</head><p><s coords="2,313.68,695.94,239.09,7.54;2,301.72,706.37,251.06,7.54;2,301.72,716.86,36.31,7.54">Multi-centre open label randomised controlled trial in EDs and Acute Medical Units (AMU) of 10 tertiary and district general hospitals in the UK.</s><s coords="2,340.38,716.86,212.28,7.54;2,301.72,727.29,251.04,7.54;2,301.72,737.78,89.24,7.54">A favourable ethical opinion was obtained from the South East Scotland Research Ethics Committee 02 (REC reference: 16/SS/ 0074) and from the HRA.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2." coords="3,42.52,57.81,54.37,7.54">Participants</head><p><s coords="3,54.48,78.73,239.08,7.54;3,42.52,89.16,251.03,7.54;3,42.52,99.65,203.53,7.54">Participants aged 16 years or over presenting with an episode of palpitations or pre-syncope and whose underlying ECG rhythm during these episodes remains undiagnosed after ED assessment.</s><s coords="3,247.86,99.65,45.81,7.54;3,42.52,110.08,140.35,7.54">Written consent was obtained from all participants.</s></p><p><s coords="3,54.48,120.57,164.53,7.54">Table <ref type="table" coords="3,75.57,120.57,4.56,7.54" target="#tab_0">1</ref> shows inclusion and exclusion criteria.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." coords="3,42.52,142.90,65.51,7.54">Randomisation</head><p><s coords="3,54.48,163.82,239.16,7.54">Participants were equally distributed between the two study groups.</s><s coords="3,42.52,174.26,251.04,7.54;3,42.52,184.74,251.00,7.54;3,42.52,195.18,225.08,7.54">To balance site-level characteristics and ensure investigators could not predict the group allocation of the next-to-be enrolled patient, randomisation was by permuted block randomisation by site.</s><s coords="3,269.91,195.18,23.66,7.54;3,42.52,205.54,250.99,7.97;3,42.52,215.98,251.04,7.97;3,42.52,226.58,69.01,7.54">Sealed opaque envelopes containing either 'Standard Care plus Device' or 'Standard Care' cards were prepared by a central administrator not involved in the study.</s><s coords="3,113.27,226.58,180.38,7.54;3,42.52,237.07,251.10,7.54;3,42.52,247.50,98.25,7.54">Blocks were randomly labelled using random number generation with site-specific study participation numbers and sent to each local study team.</s><s coords="3,144.79,247.50,148.71,7.54;3,42.52,257.99,251.04,7.54;3,42.52,268.42,147.52,7.54">Participants eligible for inclusion were randomised by the local study team by taking the next lowest consecutively numbered sealed opaque envelope.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." coords="3,42.52,290.76,50.33,7.54">Procedures</head><p><s coords="3,54.48,311.68,239.08,7.54;3,42.52,322.11,251.02,7.54;3,42.52,332.60,28.38,7.54">The local direct care team screened and identified potential participants using ED or the AMU triage information and clinical or electronic records.</s><s coords="3,72.96,332.60,220.67,7.54;3,42.52,343.09,110.50,7.54">Potentially eligible participants were assessed for study inclusion by the attending clinician.</s><s coords="3,155.17,343.09,138.39,7.54;3,42.52,353.52,250.97,7.54;3,42.52,364.01,21.44,7.54">If the potential participant fulfilled the study eligibility criteria, they were given a Participant Information Sheet.</s><s coords="3,65.99,364.01,183.80,7.54">Afterwards, if agreeable, written consent was taken.</s><s coords="3,251.71,364.01,41.93,7.54;3,42.52,374.44,251.15,7.54;3,42.52,384.92,251.04,7.54;3,42.52,395.36,190.04,7.54">Participants were allocated either (a) INTERVENTION group; standard care plus the use of a smartphone-based event recorder or (b) CONTROL group; standard care, depending on study envelope allocation.</s><s coords="3,235.16,395.36,58.33,7.54;3,42.52,405.84,251.05,7.54;3,42.52,416.28,250.97,7.54;3,42.52,426.76,19.90,7.54">All intervention group participants were given an AliveCor Heart Monitor and trained in the use of the device and app in the ED or AMU by the research team.</s><s coords="3,64.12,426.76,204.44,7.54">Control group participants received no other intervention.</s><s coords="3,270.25,426.76,23.41,7.54;3,42.52,437.19,251.04,7.54;3,42.52,447.68,222.92,7.54">Participants in both groups were admitted, referred or discharged by the treating clinician according to current local hospital protocols.</s><s coords="3,267.58,447.68,26.02,7.54;3,42.52,458.11,251.10,7.54;3,42.52,468.60,250.98,7.54;3,42.52,479.03,184.32,7.54">Participants in both groups were followed up at 90 days through hospital record systems (paper or electronic depending on local policy), GP records and by telephone by the local study team.</s><s coords="3,229.21,479.03,64.30,7.54;3,310.51,57.80,230.07,7.54">Participants were also asked to complete a standardised written questionnaire.</s><s coords="3,543.74,57.80,17.75,7.54;3,310.51,68.24,251.00,7.54;3,310.51,78.72,223.00,7.54">They also received a follow-up telephone call from the local study team enquiring about symptoms and contact with medical services.</s><s coords="3,535.63,78.72,26.01,7.54;3,310.51,89.15,202.35,7.54">Participants were also asked about satisfaction and compliance.</s></p><p><s coords="3,322.47,99.64,239.08,7.54;3,310.51,110.07,251.04,7.54;3,310.51,120.56,251.01,7.54;3,310.51,131.05,139.60,7.54">If a participant allocated to the intervention group had an episode of palpitations or pre-syncope and was able to record an AliveCor Heart Monitor ECG during the episode, the participant emailed the ECG at a convenient time to the secure (nhs.net)</s><s coords="3,451.90,131.05,109.65,7.54;3,310.51,141.48,103.98,7.54">email address of the coordinating Edinburgh research team.</s><s coords="3,416.35,141.48,145.31,7.54;3,310.51,151.85,251.04,7.97;3,310.51,162.40,251.03,7.54;3,310.51,172.89,164.10,7.54">This email included a Portable Document Format (pdf) file attachment of the ECG tracing along with the participant's AliveCor app login (which was their study number; no identifiable participant data left the local site).</s></p><p><s coords="3,322.47,183.32,239.09,7.54;3,310.51,193.81,218.22,7.54">The AliveCor app rhythm analysis algorithm automatically reported any ECG recorded as Normal, Atrial Fibrillation or Unclassified.</s><s coords="3,530.42,193.81,31.13,7.54;3,310.51,204.24,251.10,7.54;3,310.51,214.73,219.46,7.54">The duty Consultant Emergency Physician at the coordinating Edinburgh centre along with a trial team Emergency Physician reviewed the ECG.</s><s coords="3,531.38,214.73,30.27,7.54;3,310.51,225.16,251.10,7.54;3,310.51,235.65,33.18,7.54">The central study team contacted the local study team to arrange follow-up if required.</s><s coords="3,345.94,235.65,215.56,7.54;3,310.51,246.08,104.94,7.54">In cases of disagreement, the central cardiology team were contacted for further opinion.</s></p><p><s coords="3,322.47,256.57,239.06,7.54;3,310.51,267.00,251.03,7.54;3,310.51,277.49,251.00,7.54;3,310.51,287.92,111.58,7.54">If specialist follow-up of the ECG tracing was not required, the local study team wrote to the participant informing them and asked them to arrange follow-up with their general practitioner (GP) who was also contacted with the report.</s><s coords="3,424.29,287.92,137.29,7.54;3,310.51,298.40,251.05,7.54;3,310.51,308.84,251.04,7.54;3,310.51,319.32,126.61,7.54">Participants continued to record ECGs for the duration of the study period, but the participant and GP were not contacted again if participants recorded further ECGs that similarly did not require specialist follow-up.</s></p><p><s coords="3,322.47,329.76,232.84,7.54">If the participant's ECG recorded a serious cardiac arrhythmia, i.e.,</s></p><p><s coords="3,310.51,349.54,106.79,7.97;3,310.51,360.02,131.83,7.97;3,310.51,370.45,251.03,7.97;3,317.14,381.06,228.72,7.54;3,310.51,391.37,44.75,7.97;3,310.51,401.86,151.14,7.97;3,310.51,426.02,251.03,7.54;3,310.51,436.51,250.99,7.54;3,310.51,446.94,251.04,7.54;3,310.51,457.43,121.92,7.54">• ventricular tachyarrhythmia • complete or 3rd degree heart block • second degree heart block type II (assumed to be symptomatic given the participant had chosen to record an ECG during the episode) • pause N 6 s • symptomatic bradycardia b 40 beats/min during the study period, the central study team contacted the local study team who alerted the participant immediately by telephone, and referred them urgently to their local ED or cardiac electrophysiology service (as per local protocol).</s></p><p><s coords="3,322.47,472.06,239.09,7.54;3,310.51,482.55,251.05,7.54;3,310.51,492.98,231.34,7.54">Participants were asked to use a participant symptom diary to record any symptoms and include time and date, type of symptom and whether they were able to record an ECG during the symptoms.</s><s coords="3,543.96,492.98,17.67,7.54;3,310.51,503.47,251.03,7.54;3,310.51,513.90,251.00,7.54;3,310.51,524.39,251.04,7.54;3,310.51,534.82,66.57,7.54">They returned this diary to the local study team along with the participant satisfaction and compliance questionnaire, and smartphone-based event recorder at the end of the 90 days in a pre-paid stamped, addressed envelope.</s><s coords="3,380.13,534.82,181.42,7.54;3,310.51,545.31,25.02,7.54">Participants failing to do this were reminded by phone.</s><s coords="3,339.53,545.31,222.01,7.54;3,310.51,555.74,251.00,7.54;3,310.51,566.23,251.14,7.54;3,310.51,576.66,251.13,7.54;3,310.51,587.15,168.05,7.54">Participant study information identified by study number alone, was collected on a paper Case Report Form and then entered into a specially designed password protected online accessed secure database (REDCAP; http://www.project-redcap.org), the server of which was held within the University of Edinburgh.</s><s coords="3,481.21,587.15,80.34,7.54;3,310.51,597.58,137.88,7.54">The primary outcome was assessed by each local study team.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." coords="3,310.51,618.50,46.06,7.54">Outcomes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1." coords="3,310.51,639.42,73.83,7.54">Primary Outcome</head><p><s coords="3,310.51,660.34,251.03,7.54;3,320.65,670.83,240.90,7.54;3,320.65,681.26,16.56,7.54">1. Symptomatic rhythm detection rate of a smartphone-based event recorder for symptomatic rhythm detection at 90 days versus standard care.</s></p><p><s coords="3,322.47,706.25,239.07,7.97;3,310.51,716.86,251.04,7.54;3,310.51,727.29,30.51,7.54">A 'symptomatic rhythm' will be any ECG rhythm recorded during an episode of palpitations or pre-syncope allowing symptom-rhythm correlation.</s><s coords="3,344.24,727.29,217.25,7.54;3,310.51,737.78,80.63,7.54">This can be either via the AliveCor Heart Monitor ECG or through standard care.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="4,120.83,450.10,10.64,43.47;4,120.83,423.89,10.64,23.39;4,136.64,433.60,10.64,50.27;4,387.92,461.52,31.98,9.86">Baseline data collecƟon n =117</head><p><s coords="4,244.74,739.35,17.26,6.03">Fig. <ref type="figure" coords="4,256.76,739.35,2.62,6.03">1</ref>.</s><s coords="4,263.57,739.35,78.17,6.03">Study recruitment diagram.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3." coords="6,33.73,57.81,151.54,7.54">Assessment of Safety and Adverse Events</head><p><s coords="6,45.69,78.73,223.89,7.54">Serious outcomes were routinely collected as part of the study.</s><s coords="6,271.61,78.73,13.16,7.54;6,33.73,89.16,251.11,7.54;6,33.73,99.65,193.15,7.54">The only adverse events recorded were those directly related to the use of the smartphone-based event recorder and application.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4." coords="6,33.73,120.57,78.39,7.54">Statistical Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4.1." coords="6,33.73,141.49,60.05,7.54">Sample Size</head><p><s coords="6,45.69,151.97,239.02,7.54;6,33.73,162.41,250.97,7.54;6,33.73,172.89,251.01,7.54;6,33.73,183.33,235.51,7.54">Using a symptomatic rhythm detection rate at 90 days of 25% <ref type="bibr" coords="6,274.51,151.97,10.20,7.54" target="#b3">[4]</ref> versus standard care (10%), we estimated that 110 participants in each group would have 80% power to determine an absolute 15 percentage point improvement in symptomatic rhythm detection.</s><s coords="6,272.29,183.33,12.44,7.54;6,33.73,193.81,251.04,7.54;6,33.73,204.24,130.40,7.54">We aimed to recruit an extra 10% in each group to allow for drop out (i.e., 121 participants in each group).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4.2." coords="6,33.73,225.22,47.88,7.54">Analysis</head><p><s coords="6,45.69,235.65,239.09,7.54;6,33.73,246.14,46.41,7.54">Descriptive analysis of participants are presented split by allocated study group.</s><s coords="6,82.71,246.14,202.04,7.54;6,33.73,256.57,250.99,7.54;6,301.72,57.81,18.29,7.54">Baseline to 90-day change in diagnostic yield between the two study groups was analysed using comparison of proportions tests.</s><s coords="6,321.68,57.81,231.08,7.54;6,301.72,68.24,251.13,7.54;6,301.72,78.73,251.15,7.54;6,301.72,89.16,24.07,7.54">Additional comparison of proportions tests were used to compare further categorical binary variables between study groups (where expected counts were small the p-value from the Fisher's test was used instead).</s><s coords="6,327.57,89.04,163.53,7.97;6,490.96,87.60,3.42,5.03;6,496.23,89.04,38.23,7.97;6,534.39,87.60,3.42,5.03;6,539.66,89.16,13.19,7.54;6,301.72,99.65,86.81,7.54">Categorical variables were compared using a χ 2 test (and χ 2 test for trend if appropriate).</s><s coords="6,390.50,99.65,162.27,7.54;6,301.72,110.08,251.03,7.54;6,301.72,120.57,251.01,7.54;6,301.72,131.05,171.28,7.54">Log-rank tests and Kaplan-Meier curves were used to examine if the smartphone recorder had an effect on the time to detection of symptomatic rhythm and symptomatic cardiac arrhythmia separately up to 90 days versus standard care.</s><s coords="6,475.48,131.05,77.22,7.54;6,301.72,141.49,133.63,7.54">All participants were analysed on an intention to treat basis.</s><s coords="6,436.81,141.49,115.95,7.54;6,301.72,151.85,251.04,7.97;6,301.72,162.41,251.08,7.54;6,301.72,172.89,78.92,7.54">Statistical significance was determined as p b 0.05 for all outcomes with an acknowledgment of increased type I error risk in the secondary outcomes not considered in the power calculation.</s></p><p><s coords="6,301.72,193.81,24.92,7.54">5.4.2.1.</s><s coords="6,329.21,193.81,67.05,7.54">Economic Analysis.</s><s coords="6,398.89,193.81,153.80,7.54;6,301.72,204.30,251.00,7.54;6,301.72,214.73,118.43,7.54">Overall and median healthcare utilisation costs (primary/community/secondary care and intervention costs) were calculated for both groups.</s><s coords="6,422.47,214.73,130.26,7.54;6,301.72,225.22,251.00,7.54;6,301.72,235.65,96.16,7.54">The costing scope included primary care, secondary care and community NHS costs obtained from 2016/ 17 NHS reference cost data.</s><s coords="6,399.57,235.65,153.30,7.54;6,301.72,246.14,251.04,7.54;6,301.72,256.57,90.55,7.54">A Mann-Whitney test was used to examine the overall cost-effectiveness between the smartphone-based event recorder and standard care.</s><s coords="6,394.30,256.57,158.44,7.54;7,42.52,57.81,250.96,7.54;7,42.52,68.30,251.02,7.54;7,42.52,78.78,79.29,7.54">Healthcare utilisation costs per symptomatic  rhythm diagnosis were calculated for both groups using overall healthcare utilisation cost and number of patients with a symptomatic rhythm in each group.</s><s coords="7,54.48,89.22,223.33,7.54">Analyses were performed in SAS 9.4 (SAS Institute, Cary NC).</s><s coords="7,280.17,89.22,13.36,7.54;7,42.52,99.70,251.07,7.54">The sponsor deemed that a data monitoring committee was not required.</s><s coords="7,42.52,110.14,156.93,7.54">This trial was registered at ClinicalTrials.gov</s><s coords="7,201.54,110.14,92.08,7.54;7,42.52,120.62,201.84,7.54">(trial registration number NCT02783898), and the protocol published in Trials <ref type="bibr" coords="7,228.19,120.62,12.93,7.54" target="#b25">[26]</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." coords="7,42.52,141.54,35.20,7.54">Results</head><p><s coords="7,54.48,162.46,239.07,7.54;7,42.52,172.89,251.04,7.54;7,42.52,183.38,251.11,7.54;7,42.52,193.81,251.01,7.54;7,42.52,204.30,184.83,7.54">Between 4 July 2016 and 9 January 2018, 243 participants were recruited to the study at 10 centres (Edinburgh 66 participants, 27.2%, Reading 57, 23.5%, Royal London 43, 17.7%, Exeter 24, 9.9%, Plymouth 15, 6.2%, Chesterfield 12, 4.9%, Leicester 12, 4.9%, Musgrove Park 5, 2.1%, Nottingham 5, 2.1%, Whipps Cross 4, 1.6%).</s><s coords="7,230.57,204.30,62.99,7.54;7,42.52,214.73,251.04,7.54;7,42.52,225.22,98.09,7.54">Fig. <ref type="figure" coords="7,246.39,204.30,4.56,7.54">1</ref> details the study recruitment diagram, and Table <ref type="table" coords="7,176.49,214.73,4.56,7.54" target="#tab_2">2</ref> details the baseline characteristics of enrolled participants.</s><s coords="7,142.52,225.22,151.03,7.54;7,42.52,235.65,233.37,7.54">One hundred twenty-six participants were allocated to the intervention group and 117 to the control group.</s><s coords="7,278.02,235.65,15.53,7.54;7,42.52,246.14,251.06,7.54;7,42.52,256.57,119.63,7.54">Two hundred nineteen (90.5%) participants presented with palpitations and 23 (9.5%) with pre-syncope.</s><s coords="7,164.52,256.57,129.02,7.54;7,42.52,267.06,251.07,7.54;7,42.52,277.49,111.16,7.54">One participant was removed from the study by the local study team after being randomised, as they did not meet the inclusion criteria.</s><s coords="7,155.79,277.49,137.85,7.54;7,42.52,287.98,251.03,7.54;7,42.52,298.41,22.86,7.54">Baseline data were therefore collected on 125 participants in the intervention group and 117 in the control group.</s><s coords="7,67.52,298.41,226.03,7.54;7,42.52,308.90,62.40,7.54">Participants ranged from 17 to 74 years of age with a mean age of 39.5 (SD 13.7).</s><s coords="7,106.98,308.78,186.60,7.97;7,42.52,319.33,48.60,7.54">Table <ref type="table" coords="7,128.30,308.90,4.56,7.54" target="#tab_3">3</ref> details examination findings, initial ECG and management.</s><s coords="7,92.92,319.33,200.64,7.54;7,42.52,329.82,251.03,7.54;7,42.52,340.25,63.92,7.54">One participant in each group was lost to follow-up leaving 124 participants available for analysis in the study group and 116 in the control group.</s></p><p><s coords="7,54.48,350.74,239.05,7.54;7,42.52,361.17,91.64,7.54">A symptomatic rhythm was detected at 90 days in 69 (n = 124; 55.6%; 95% CI 46.9-64.4%)</s><s coords="7,135.95,361.17,157.70,7.54;7,42.52,371.66,251.13,7.54;7,42.52,382.09,32.89,7.54">participants in the intervention group versus 11 (n = 116; 9.5%; 95% CI 4.2-14.8) in the control group (RR 5.9, 95% CI 3.3-10.5;</s><s coords="7,77.39,381.97,42.55,7.97">p b 0.0001).</s><s coords="7,121.83,382.09,171.74,7.54;7,42.52,392.58,183.03,7.54">A symptomatic cardiac arrhythmia was detected at 90 days in 11 (n = 124; 8.9%; 95% CI 3.9-13.9%)</s><s coords="7,227.74,392.58,65.82,7.54;7,42.52,403.01,251.15,7.54;7,42.52,413.49,129.80,7.54">participants in the intervention group versus 1 (n = 116; 0.9%; 95% CI 0.0-2.5%) in the control group (RR 10.3, 95% CI 1.3-78.5;</s><s coords="7,174.27,413.49,41.51,7.54">p = 0.006).</s></p><p><s coords="7,54.48,423.98,239.06,7.54;7,42.52,434.41,251.04,7.54;7,42.52,444.78,202.66,7.97">The mean time to symptomatic rhythm detection in the intervention group was 9.5 days (SD 16.1, range 0-83) versus 42.9 days (SD 16.0, range 12-66) in the standard care group (p b 0.0001).</s><s coords="7,247.86,444.90,45.72,7.54;7,310.51,57.80,251.04,7.54;7,310.51,68.23,251.04,7.54">Fig. <ref type="figure" coords="7,263.11,444.90,4.56,7.54" target="#fig_1">2</ref> shows the Kaplan-Meier curve of proportion of participants undiagnosed versus time up to 90 days for the intervention and control groups.</s><s coords="7,310.51,78.72,251.14,7.54;7,310.51,89.15,250.99,7.54;7,310.51,99.64,41.82,7.54">Commonest symptomatic rhythms detected were sinus rhythm (in 53 participants; 66.3%), sinus tachycardia (19; 23.8%) and ectopic beats (13; 16.3%).</s><s coords="7,353.82,99.64,207.76,7.54;7,310.51,110.07,33.48,7.54">Some participants had more than one symptomatic rhythm recorded.</s><s coords="7,345.77,110.07,215.76,7.54;7,310.51,120.44,251.03,7.97;7,310.51,130.93,251.06,7.97;7,310.51,141.48,116.12,7.54">Eighty participants had a symptomatic rhythm detected with 12 of these having a symptomatic cardiac arrhythmia (atrial fibrillation or flutter, SVT and sinus bradycardia) and 68 having sinus rhythm, sinus tachycardia or ectopics [Table <ref type="table" coords="7,417.43,141.48,3.07,7.54">4</ref>].</s><s coords="7,428.54,141.48,133.11,7.54;7,310.51,151.97,251.04,7.54;7,310.51,162.40,224.08,7.54">There were four cases where the central cardiology team were required for further ECG opinion after review by both the central on call and trial team Emergency Physicians.</s><s coords="7,536.20,162.40,25.36,7.54;7,310.51,172.89,200.16,7.54">Table <ref type="table" coords="7,557.01,162.40,4.56,7.54">4</ref> also details how the diagnosis was made in both groups.</s></p><p><s coords="7,322.47,183.32,239.08,7.54;7,310.51,193.81,251.06,7.54;7,310.51,204.24,211.47,7.54">The mean time to symptomatic cardiac arrhythmia detection in the intervention group was 9.9 days (SD 15.6, range 1-55) versus 48.0 days (1 participant) in the control group (p = 0.0004).</s><s coords="7,523.90,204.24,37.75,7.54;7,310.51,214.72,251.13,7.54;7,310.51,225.16,251.00,7.54;7,310.51,235.53,231.48,7.97">Symptomatic cardiac arrhythmias were AF (8 intervention, 0 standard care), SVT (3 intervention, 0 standard care), sinus bradycardia (0 intervention, 1 standard care) and atrial flutter (1 intervention, 0 standard care).</s></p><p><s coords="7,322.47,246.09,239.17,7.54;7,310.51,256.57,170.62,7.54">Serious outcome at 90 days in the intervention group was 11 (8.9%) versus 2 (1.7%) in the control group (p = 0.02).</s><s coords="7,483.13,256.57,78.41,7.54;7,310.51,267.00,250.98,7.54;7,310.51,277.49,251.00,7.54;7,310.51,287.92,154.88,7.54">At 90 days, 12 participants in the intervention group were subsequently undergoing (or planning to undergo) treatment for symptomatic cardiac arrhythmia versus 6 in the control group (p = 0.192).</s><s coords="7,467.77,287.92,93.71,7.54;7,310.51,298.41,251.04,7.54">Table <ref type="table" coords="7,489.66,287.92,4.56,7.54">5</ref> details the results of the participant satisfaction and monitor compliance questionnaire.</s><s coords="7,310.51,308.84,250.98,7.54;7,310.51,319.33,14.30,7.54">Eighty of 92 (87.0%) participants found the AliveCor monitor easy to use.</s><s coords="7,328.42,319.33,233.07,7.54;7,310.51,329.76,251.05,7.54;7,310.51,340.25,44.24,7.54">There were more ED presentations (after index visit) due to palpitations/pre-syncope in the intervention group (12/124; 9.7%; 95% CI 4.5-14.9%</s><s coords="7,356.77,340.25,204.84,7.54;7,310.51,350.68,173.68,7.54">with 1 or more non index ED presentations) compared to the control group (3/116; 2.6%; 95% CI 0.0-5.5%;</s><s coords="7,486.25,350.68,42.02,7.54">p = 0.031).</s><s coords="7,530.42,350.68,31.18,7.54;7,310.51,361.17,251.04,7.54;7,310.51,371.60,251.04,7.54;7,310.51,382.09,230.92,7.54">The only death in the study was in the intervention group in a participant known to have treated congenital structural heart disease whose death was thought unrelated to his initial presentation to the ED.</s></p><p><s coords="7,322.47,392.52,239.13,7.54;7,310.51,403.01,251.11,7.54;7,310.51,413.44,251.09,7.54;7,310.51,423.93,114.90,7.54">There was no difference in the number of participants with one or more inpatient hospital days (over all admissions) due to palpitations or pre-syncope in the intervention group (2; n = 122; 2 patients with no data; 1.6%; 95% CI 0.0-3.8%)</s><s coords="7,427.75,423.93,133.79,7.54;7,310.51,434.36,105.25,7.54">compared to the control group (1; n = 116; 0.9%; 95% CI 0.0-2.5%;</s><s coords="7,417.48,434.24,144.17,7.97;7,310.50,444.85,251.09,7.54;8,33.73,518.10,251.14,7.54;8,33.73,528.53,251.06,7.54;8,33.73,539.02,25.66,7.54">p N 0.999), number of outpatient presentations due to palpitations or pre-syncope (p = 0.058), number of GP presentations due to palpitations or pre-syncope (p = 0.312) or number of ECGs performed due to palpitations or pre-syncope (p = 0.143).</s><s coords="8,61.85,539.02,222.88,7.54;8,33.73,549.45,251.07,7.54;8,33.73,559.94,99.93,7.54">Median overall healthcare utilisation cost (primary/community/secondary care and intervention costs) in the intervention group was £108 (IQR 99.0-246.50,</s><s coords="8,135.66,559.94,149.12,7.54;8,33.73,570.37,90.21,7.54">range 99-2697) versus £0 in the standard care group (IQR 0-120.0,</s><s coords="8,126.14,570.37,101.55,7.54">range 0-4161; p = 0.0001).</s><s coords="8,229.89,570.37,54.90,7.54;8,33.73,580.86,251.01,7.54;8,33.73,591.29,250.97,7.54;8,33.73,601.78,53.92,7.54">Cost per symptomatic rhythm diagnosis was £921 less per patient per symptomatic rhythm in the intervention group (£474) compared to the control group (£1395).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7." coords="8,33.73,622.70,48.11,7.54">Discussion</head><p><s coords="8,45.69,643.61,239.10,7.54;8,33.73,653.98,251.04,7.97;8,33.73,664.53,35.13,7.54">Use of a smartphone-based event recorder increases the symptomrhythm correlation rate over five-fold at 90 days with a reduced cost per diagnosis.</s><s coords="8,70.86,664.53,213.91,7.54;8,33.73,675.02,165.92,7.54">These are clinically significant rhythms as they diagnose the underlying cause of the patient's symptoms.</s><s coords="8,202.62,675.02,82.15,7.54;8,33.73,685.45,250.99,7.54;8,33.73,695.94,250.99,7.54;8,33.73,706.37,251.05,7.54;8,33.73,716.86,251.04,7.54">In patients presenting with palpitations or near syncope the incorporation of a patientactivated detection device into routine practice may overcome some of the current difficulties in diagnosis caused by the normalisation of cardiac rhythm by the time the patient undergoes a clinical assessment.</s><s coords="8,33.73,727.29,251.11,7.54;8,33.73,737.66,251.14,7.97;8,301.72,476.25,251.04,7.54;8,301.72,486.69,168.27,7.54">Given the frequency of patients presenting to the ED with palpitations and pre-syncope, our study findings suggest that a smartphone-based event recorder should be considered as part of on-going care of all patients presenting acutely with these symptoms.</s></p><p><s coords="8,313.68,497.17,239.13,7.54;8,301.72,507.61,251.03,7.54;8,301.72,518.09,72.75,7.54">There are different potential ways of incorporating the technology into patient care, which may depend on the configuration of local healthcare systems.</s><s coords="8,377.18,518.09,175.53,7.54;8,301.72,528.52,251.04,7.54;8,301.72,539.01,251.04,7.54;8,301.72,549.44,241.55,7.54">In this study the devices and instructions were given to patients in the ED by a researcher, but this could also be undertaken at a follow-up appointment with a specialist nurse or family practitioner, where there is less time pressure than in emergency care.</s><s coords="8,545.55,549.44,7.22,7.54;8,301.72,559.93,251.04,7.54;8,301.72,570.36,251.04,7.54;8,301.72,580.85,196.62,7.54">In this study, the ECGs were transmitted for central analysis; however, an alternative approach may be for the patient to show, on their phone, any recorded ECGs at a follow-up appointment.</s><s coords="8,500.48,580.85,52.27,7.54;8,301.72,591.28,251.04,7.54;8,301.72,601.77,251.04,7.54">This would remove the need for the transfer of sensitive patient data and mean that a clinical system to respond to emailed ECGs would not be required.</s><s coords="8,301.72,612.20,251.03,7.54;8,301.72,622.57,251.15,7.97;8,301.72,633.12,93.66,7.54">The AliveCor app rhythm analysis algorithm automatically reports any ECG recorded as normal, atrial fibrillation or unclassified with excellent sensitivity and specificity.</s><s coords="8,397.59,633.12,155.15,7.54;8,301.72,643.61,251.05,7.54;8,301.72,654.04,251.10,7.54;8,301.72,664.53,224.28,7.54">Features such as this that are also found in other devices such as the newly launched Apple Watch Series 4 should allow ECG interpretation and patient education to be delivered at the time of ECG recording thereby reducing demand on physicians.</s></p><p><s coords="8,313.68,674.96,239.06,7.54;8,301.72,685.45,124.70,7.54">More patients had a subsequent ED attendance in the intervention group compared the control group.</s><s coords="8,428.37,685.45,124.38,7.54;8,301.72,695.88,251.04,7.54;8,301.72,706.37,148.56,7.54">Whilst this number is small, it may be that the remote transmission of an ECG did not give the patient the immediate reassurance that they required.</s><s coords="8,451.61,706.37,101.25,7.54;8,301.72,716.68,251.06,7.97;8,301.72,727.29,251.04,7.54;8,301.72,737.72,208.63,7.54">The psychology of patient interaction with 'smart' personal medical devices is an emerging field, and better understanding of patient/device interaction is likely to be important in realising the potential benefits of new technologies.</s><s coords="9,54.48,57.81,150.47,7.54">The patients found the monitor easy to use.</s><s coords="9,206.47,57.81,87.12,7.54;9,42.52,68.24,251.03,7.54;9,42.52,78.73,251.02,7.54;9,42.52,89.16,251.04,7.54;9,42.52,99.65,229.28,7.54">This reinforces data from previous work in ED patients which showed that 74% found it acceptable to use a smartphone to monitor their health, 79% to use a medical device connecting to a smartphone to monitor their health, and 77% reported that they would feel confident to use such technology <ref type="bibr" coords="9,255.63,99.65,12.93,7.54" target="#b26">[27]</ref>.</s><s coords="9,273.26,99.65,20.30,7.54;9,42.52,110.08,251.10,7.54;9,42.52,120.57,250.99,7.54;9,42.52,131.05,251.04,7.54;9,42.52,141.49,236.87,7.54">There is a concern that self-monitoring may lead to increased anxiety; however when the Arrhythmia Alliance <ref type="bibr" coords="9,177.73,120.57,14.95,7.54" target="#b13">[14]</ref> distributed AliveCor Heart Monitors to 1500 people of all ages, only one returned their monitor because it caused them to worry and check their heart rate too often.</s></p><p><s coords="9,54.48,151.97,239.07,7.54;9,42.52,162.41,196.96,7.54">We found that the commonest reason for a patient not to be able to participate was that they did not possess a smartphone.</s><s coords="9,241.45,162.41,52.10,7.54;9,42.52,172.89,251.13,7.54;9,42.52,183.32,21.78,7.54">We did not record the age of non-participants, but it is likely that these were older patients.</s><s coords="9,66.39,183.32,227.25,7.54;9,42.52,193.81,250.99,7.54;9,42.52,204.24,251.14,7.54;9,42.52,214.73,251.03,7.54;9,42.52,225.16,176.95,7.54">However, whilst smartphone ownership decreases with age our previous research shows 64% of those aged 50-75 and 30% over 75 years of age own a smartphone <ref type="bibr" coords="9,166.17,204.24,12.93,7.54" target="#b26">[27]</ref>, and in the Arrhythmia Alliance study, older people were noted to be regular users of mobile technology and gave positive feedback about the system <ref type="bibr" coords="9,203.30,225.16,12.93,7.54" target="#b13">[14]</ref>.</s></p><p><s coords="9,54.48,235.65,239.06,7.54;9,42.52,246.08,251.05,7.54">This study confirms previous evidence that most symptomatic rhythms in patients with palpitations or pre-syncope are benign <ref type="bibr" coords="9,277.11,246.08,13.16,7.54" target="#b27">[28]</ref>.</s><s coords="9,42.52,256.57,251.03,7.54;9,42.52,267.00,251.03,7.54;9,42.52,277.49,251.14,7.54;9,42.52,287.92,41.11,7.54">Only 12 of 240 participants in the study experienced a symptomatic cardiac arrhythmia; the remaining 68 with symptomatic palpitations or pre-syncope were found to have sinus rhythm, sinus tachycardia or ectopic beats.</s><s coords="9,85.83,287.92,207.72,7.54;9,42.52,298.41,251.14,7.54;9,42.52,308.84,91.80,7.54">Even in the absence of underlying arrhythmia, previously unexplained symptoms can cause anxiety and can have a significant impact on quality of life <ref type="bibr" coords="9,118.20,308.84,12.89,7.54" target="#b28">[29]</ref>.</s><s coords="9,136.06,308.84,157.50,7.54;9,42.52,319.33,251.12,7.54;9,42.52,329.76,251.10,7.54;9,42.52,340.25,250.99,7.54;9,42.52,350.68,251.14,7.54;9,42.52,361.17,148.03,7.54">With such a low incidence of cardiac diagnoses in this population, it is perhaps appropriate that follow-up of these patients is in community care rather than in cardiology clinics (where currently these conditions account for up to one-fifth of all referrals) <ref type="bibr" coords="9,42.52,350.68,11.21,7.54" target="#b29">[30]</ref><ref type="bibr" coords="9,53.72,350.68,3.74,7.54" target="#b30">[31]</ref><ref type="bibr" coords="9,53.72,350.68,3.74,7.54" target="#b31">[32]</ref><ref type="bibr" coords="9,57.46,350.68,11.21,7.54" target="#b32">[33]</ref>, with only patients diagnosed with a symptomatic cardiac arrhythmia being referred to specialist care.</s></p><p><s coords="9,54.48,371.60,239.07,7.54;9,42.52,382.09,60.33,7.54">This study suggests that the AliveCor technology performs effectively and safely.</s><s coords="9,104.93,382.09,188.65,7.54;9,42.52,392.52,157.28,7.54">The randomised, prospective design with systematic data collection is a key strength of the study.</s><s coords="9,201.59,392.52,92.07,7.54;9,42.52,403.01,251.02,7.54;9,42.52,413.32,251.10,7.97;9,42.52,423.93,251.13,7.54;9,42.52,434.36,20.82,7.54">Whilst there was a potential variation in standard care between sites, this element of pragmatic design ensures our findings are generalisable across all types of standard care in the UK National Health Service without compromising validity.</s><s coords="9,65.65,434.36,227.86,7.54;9,42.52,444.85,251.04,7.54;9,42.52,455.28,251.04,7.54;9,42.52,465.76,114.36,7.54">Potential limitations of our study include a large proportion of recruitment occurring in office hours largely by research staff in research active hospitals and the use of a central ECG reading service not available in routine practice.</s></p><p><s coords="9,54.48,476.25,239.12,7.54;9,42.52,486.68,76.66,7.54">Only one type of device was studied and many similar devices are entering the market.</s><s coords="9,121.89,486.68,171.67,7.54;9,42.52,497.17,251.14,7.54;9,42.52,507.60,102.91,7.54">We think that the results of this study will be generalisable across many forms of patient-activated, symptom-based home ECG recording devices.</s><s coords="9,147.40,507.60,146.25,7.54;9,42.52,518.09,251.06,7.54;9,42.52,528.52,183.92,7.54">Subtle differences in design or incorporation into clinical workflow may have an influence on effectiveness, so novel devices should undergo clinical evaluation.</s><s coords="9,229.32,528.52,64.18,7.54;9,42.52,539.01,251.06,7.54;9,42.52,549.44,251.03,7.54;9,42.52,559.93,79.83,7.54">It is also possible that patients choosing to take part in a study of new technology may be more motivated to use the device, and it may not perform as well in a non-study setting.</s></p><p><s coords="9,54.48,570.36,239.16,7.54;9,42.52,580.85,250.98,7.54;9,42.52,591.28,227.60,7.54">In summary, this study demonstrates the ability of a smartphonebased event recorder to improve clinical care and patient experience for those suffering undiagnosed palpitations and pre-syncope.</s><s coords="9,272.46,591.28,21.06,7.54;9,42.52,601.65,251.14,7.97;9,42.52,612.20,251.09,7.54;9,42.52,622.69,142.62,7.54">These findings are likely to be generalisable from Emergency Medicine to General/Internal/Acute Medicine and General (Family) Practice in a broad range of developed healthcare systems.</s><s coords="9,187.25,622.69,106.37,7.54;9,42.52,633.12,251.10,7.54;9,42.52,643.61,251.04,7.54;9,42.52,654.04,81.70,7.54">A safe, non-invasive and easy to use smartphone-based event recorder should be considered part of on-going care of all patients presenting acutely with unexplained palpitations or pre-syncope.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="7,107.38,738.95,389.30,6.03"><head>Fig. 2 .</head><label>2</label><figDesc><div><p><s coords="7,107.38,738.95,389.30,6.03">Fig. 2. Kaplan-Meier curve showing number of participants undiagnosed (y axis) versus time up to 90 days (x axis) in both study groups.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="3,42.52,522.67,244.47,217.60"><head>Table 1</head><label>1</label><figDesc><div><p><s coords="3,42.52,531.23,89.50,6.03">Inclusion and exclusion criteria.</s><s coords="3,48.47,545.80,67.54,6.03;3,48.47,554.36,107.15,6.03">Inclusion criteria were: 1. Participant aged 16 years or over.</s><s coords="3,51.36,562.92,235.63,6.03;3,60.44,571.48,42.07,6.03">2. Participant presenting with an episode of palpitations or pre-syncope with no obvious cause.</s><s coords="3,51.36,580.04,230.68,6.03;3,60.44,588.60,91.14,6.03">3. Participant's underlying ECG rhythm during these episodes remains undiagnosed after clinical assessment.</s><s coords="3,48.47,597.16,68.84,6.03;3,48.47,605.73,69.85,6.03;3,51.36,614.34,189.14,6.03;3,51.36,622.90,134.35,6.03">Exclusion criteria were: 1. Prior diagnostic ECG. 2. Palpitations or pre-syncope present during an admission ECG. 3. Frequent episodes (i.e. at least once a day).</s><s coords="3,51.36,631.46,109.96,6.03;3,51.36,640.02,111.12,6.03">4. Participants under 16 years of age. 5. Previous participation in the study.</s><s coords="3,61.23,708.56,163.37,6.03">Participants without a compatible smartphone or tablet.</s><s coords="3,48.47,717.12,8.75,6.03">11.</s><s coords="3,61.23,717.12,220.64,6.03">Participants with cardiac pacemakers or other implanted electronic devices.</s><s coords="3,48.47,725.68,8.75,6.03">12.</s><s coords="3,61.23,725.68,105.67,6.03">No telephone number for follow-up.</s><s coords="3,48.47,734.24,8.75,6.03">13.</s><s coords="3,61.23,734.24,65.02,6.03">Participant in custody.</s></p></div></figDesc><table coords="4,89.23,631.53,351.33,95.61"><row><cell>*Other reasons for parƟcipant not being recruited:</cell><cell></cell></row><row><cell>Outside working hours</cell><cell>509</cell></row><row><cell>Alcohol or recreaƟonal drug use</cell><cell>19</cell></row><row><cell>Deemed inappropriate to approach</cell><cell>6</cell></row><row><cell>Non-local resident so unable to arrange follow-up if required</cell><cell>9</cell></row><row><cell>Anxiety driven palpitaƟons</cell><cell>7</cell></row><row><cell>Other illness believed to be causing symptoms</cell><cell>43</cell></row><row><cell>Discharged before approach</cell><cell>48</cell></row></table><note><p><s coords="3,51.36,648.58,232.31,6.03;3,60.44,657.14,109.71,6.03">6. Alcohol/illicit drugs/seizure/stroke/transient ischaemic attack/head trauma/hypoglycaemia as presumptive cause.</s><s coords="3,51.36,665.70,146.56,6.03">7. Inability or unwilling to give informed consent.</s><s coords="3,51.36,674.27,233.42,6.03;3,60.44,682.88,202.68,6.03">8. Participants with recent (i.e., within 3 months) myocardial infarction, severe heart failure (New York Heart Association class 4) or unstable angina.</s><s coords="3,51.36,691.44,215.38,6.03;3,60.44,700.00,40.51,6.03">9. Participants unwilling or unable to use the AliveCor Heart Monitor and AliveECG app.</s><s coords="3,48.47,708.56,8.75,6.03">10.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="5,42.52,653.99,519.13,91.33"><head></head><label></label><figDesc><div><p><s coords="5,42.52,654.05,84.76,7.54;5,42.52,674.97,251.07,7.54;5,52.78,685.40,240.80,7.54;5,42.52,695.94,6.38,7.54">5.2.Secondary Outcomes1.Symptomatic rhythm detection rate of a smartphone-based event recorder for cardiac arrhythmia detection at 90 days versus standard care.2.</s><s coords="5,52.67,695.94,240.90,7.54;5,52.67,706.37,129.05,7.54;5,42.52,716.86,6.38,7.54">Time to detection of symptomatic rhythm using a smartphone-based event recorder versus standard care.3.</s><s coords="5,52.78,716.86,240.82,7.54;5,52.78,727.29,240.75,7.54;5,52.78,737.78,197.52,7.54;5,310.51,653.99,6.25,7.54">Time to detection of symptomatic cardiac arrhythmia (rhythm that is not sinus rhythm/sinus tachycardia/ectopic beats) using a smartphone-based event recorder versus standard care.4.</s><s coords="5,320.66,653.99,240.87,7.54;5,320.66,664.42,240.89,7.54;5,320.66,674.91,74.79,7.54">Number of participants treated or (planned for treatment) for cardiac arrhythmia in participants using a smartphone-based event recorder versus standard care.</s><s coords="5,310.51,685.34,181.54,7.54">5. Participant satisfaction and monitor compliance.</s><s coords="5,310.51,695.83,105.94,7.54">6. Cost-effectiveness analysis.</s><s coords="5,310.51,706.26,251.04,7.54">7. Serious outcomes at 90 days: all cause death and major adverse car-</s></p></div></figDesc><table /><note><p><s coords="5,320.66,716.75,241.00,7.54;5,320.66,727.24,240.85,7.54;5,320.66,737.67,89.55,7.54">diac events[MACE](myocardial infarction, life-threatening arrhythmia, insertion of a pacemaker or internal cardiac defibrillator, insertion of pacing wire).</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="5,42.52,58.07,513.01,555.10"><head>Table 2</head><label>2</label><figDesc><div><p><s coords="5,42.52,66.63,123.80,6.03">Baseline characteristics of study population.</s><s coords="5,48.47,81.20,81.97,6.03">Data are n (%) unless stated.</s><s coords="5,132.10,81.20,97.81,6.03">N = 242 (125/117) unless stated.</s><s coords="5,231.59,81.20,126.79,6.03">Different denominators due to missing data</s></p></div></figDesc><table coords="5,390.90,94.24,139.18,14.59"><row><cell>Intervention</cell><cell>Control</cell><cell>Total</cell></row><row><cell>n = 125</cell><cell>n = 117</cell><cell>n = 242</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="6,33.73,285.13,513.06,335.13"><head>Table 3</head><label>3</label><figDesc><div><p><s coords="6,33.73,293.59,145.63,6.38">Examination findings, initial ECG and management.</s></p></div></figDesc><table coords="6,39.68,308.26,507.11,312.00"><row><cell cols="4">Data are n (%) unless stated. N = 242 (125/117) unless stated. Different denominators due to missing data</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Intervention</cell><cell></cell><cell>Control</cell><cell></cell><cell>Total</cell><cell></cell></row><row><cell></cell><cell></cell><cell>n = 125</cell><cell></cell><cell>n = 117</cell><cell></cell><cell>n = 242</cell><cell></cell></row><row><cell>Examination</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Initial pulse at triage /bpm -mean (SD)</cell><cell></cell><cell>85.3 (19.4) (n = 124)</cell><cell></cell><cell>83.0 (15.2) (n = 116)</cell><cell></cell><cell>84.2 (17.5) (n = 240)</cell><cell></cell></row><row><cell>Initial systolic BP at triage /mmHg -mean (SD)</cell><cell></cell><cell>139.0 (22.5) (n = 124)</cell><cell></cell><cell>139.0 (20.5) (n = 116)</cell><cell></cell><cell>139.0 (21.5) (n = 240)</cell><cell></cell></row><row><cell>Initial diastolic BP at triage /mmHg -mean (SD)</cell><cell></cell><cell>83.8 (12.7) (n = 124)</cell><cell></cell><cell>84.1 (13.6) (n = 116)</cell><cell></cell><cell>83.9 (13.1) (n = 240)</cell><cell></cell></row><row><cell>First postural difference if present /mmHg -mean (SD)</cell><cell></cell><cell>6.7 (7.6) (n = 7)</cell><cell></cell><cell>0.3 (0.8) (n = 6)</cell><cell></cell><cell>3.8 (6.3) (n = 13)</cell><cell></cell></row><row><cell>Admission ECG</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rate /bpm -mean (SD)</cell><cell></cell><cell>78.8 (18.8)</cell><cell></cell><cell>77.5 (16.1)</cell><cell></cell><cell>78.2 (17.5)</cell><cell></cell></row><row><cell>QRS axis -median (IQR)</cell><cell></cell><cell>79.0 (39.0-88.0) (n = 117)</cell><cell></cell><cell cols="2">80.0 (42.0-90.0) (n = 107)</cell><cell>79.5 (40.5-89.0) (n = 224)</cell><cell></cell></row><row><cell>QTc int /ms -mean (SD)</cell><cell></cell><cell>395.1 (86.7) (n = 125)</cell><cell></cell><cell>401.5 (47.3) (n = 114)</cell><cell></cell><cell>398.2 (70.6) (n = 239)</cell><cell></cell></row><row><cell>Sinus rhythm</cell><cell></cell><cell>123</cell><cell>98.4</cell><cell>117</cell><cell>100.0</cell><cell>240</cell><cell>99.2</cell></row><row><cell>PR N 200 ms</cell><cell></cell><cell>7</cell><cell>5.6</cell><cell>4</cell><cell>3.4</cell><cell>11</cell><cell>4.5</cell></row><row><cell>Slow risk in the initial portion of the QRS</cell><cell></cell><cell>0</cell><cell>0.0</cell><cell>0</cell><cell>0.0</cell><cell>0</cell><cell>0.0</cell></row><row><cell>Heart block?</cell><cell></cell><cell>0</cell><cell>0.0</cell><cell>0</cell><cell>0.0</cell><cell>0</cell><cell>0.0</cell></row><row><cell>QRS duration ≥ 120 ms</cell><cell></cell><cell>2 (n = 124)</cell><cell>1.6</cell><cell>3 (n = 116)</cell><cell>2.6</cell><cell>5 (n = 240)</cell><cell>2.1</cell></row><row><cell></cell><cell>0</cell><cell>118 (n = 124)</cell><cell>95.2</cell><cell>115 (n = 116)</cell><cell>99.1</cell><cell>233 (n = 240)</cell><cell>97.1</cell></row><row><cell>Number of ventricular ectopics</cell><cell>1</cell><cell>4 (n = 124)</cell><cell>3.2</cell><cell>1 (n = 116)</cell><cell>0.9</cell><cell>5 (n = 240)</cell><cell>2.1</cell></row><row><cell></cell><cell>2</cell><cell>2 (n = 124)</cell><cell>1.6</cell><cell>0 (n = 116)</cell><cell>0.0</cell><cell>2 (n = 240)</cell><cell>0.8</cell></row><row><cell></cell><cell>1</cell><cell>14 (n = 121)</cell><cell>11.6</cell><cell>23 (n = 116)</cell><cell>19.8</cell><cell>37 (n = 237)</cell><cell>15.6</cell></row><row><cell></cell><cell>2</cell><cell>18 (n = 121)</cell><cell>14.9</cell><cell>12 (n = 116)</cell><cell>10.3</cell><cell>30 (n = 237)</cell><cell>12.7</cell></row><row><cell></cell><cell>3</cell><cell>15 (n = 121)</cell><cell>12.4</cell><cell>18 (n = 116)</cell><cell>15.5</cell><cell>33 (n = 237)</cell><cell>13.9</cell></row><row><cell></cell><cell>4</cell><cell>15 (n = 121)</cell><cell>12.4</cell><cell>17 (n = 116)</cell><cell>14.7</cell><cell>32 (n = 237)</cell><cell>13.9</cell></row><row><cell>ED clinician rating of likelihood of any underlying cardiac arrhythmia</cell><cell>5 6</cell><cell>19 (n = 121) 13 (n = 121)</cell><cell>15.7 10.7</cell><cell>13 (n = 116) 14 (n = 116)</cell><cell>11.2 12.1</cell><cell>32 (n = 237) 27 (n = 237)</cell><cell>13.9 11.4</cell></row><row><cell></cell><cell>7</cell><cell>14 (n = 121)</cell><cell>11.6</cell><cell>6 (n = 116)</cell><cell>5.2</cell><cell>20 (n = 237)</cell><cell>8.4</cell></row><row><cell></cell><cell>8</cell><cell>10 (n = 121)</cell><cell>8.3</cell><cell>8 (n = 116)</cell><cell>6.9</cell><cell>18 (n = 237)</cell><cell>7.6</cell></row><row><cell></cell><cell>9</cell><cell>3 (n = 121)</cell><cell>2.5</cell><cell>4 (n = 116</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="8,33.73,58.07,511.77,440.80"><head>Table 4 Table 5</head><label>45</label><figDesc><div><p><s coords="8,33.73,66.63,251.05,6.03;8,33.73,75.19,28.90,6.03">Summary of symptomatic rhythms, symptomatic cardiac arrhythmias and serious outcomes.</s><s coords="8,39.68,89.76,97.87,6.03">N = 240 (124/116) unless stated.</s><s coords="8,139.24,89.76,126.73,6.03;8,39.68,98.32,202.43,6.03;8,301.72,66.63,217.35,6.03">Different denominators due to missing data *some participants had more than one symptomatic rhythm recorded Results of the participant satisfaction and monitor compliance questionnaire.</s></p></div></figDesc><table coords="8,39.69,81.20,505.82,417.67"><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Intervention arm</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell><cell>%</cell></row><row><cell></cell><cell>Intervention n = 124</cell><cell>Control n = 116</cell><cell>Total n = 240</cell><cell>Total</cell><cell>Missing Strongly Disagree</cell><cell>125 33 4</cell><cell>100.0 26.4 3.2</cell></row><row><cell>Symptomatic rhythm*</cell><cell>69 (55.6%)</cell><cell>11 (9.5%)</cell><cell>80 (33.3%)</cell><cell>The AliveCor heart monitor was easy to use</cell><cell>Disagree Neutral</cell><cell>0 8</cell><cell>0 6.4</cell></row><row><cell>Sinus rhythm (40-100)</cell><cell>48</cell><cell>5</cell><cell>53</cell><cell></cell><cell>Agree</cell><cell>32</cell><cell>25.6</cell></row><row><cell>Sinus tachycardia (N100)</cell><cell>12</cell><cell>7</cell><cell>19</cell><cell></cell><cell>Strongly Agree</cell><cell>48</cell><cell>38.4</cell></row><row><cell>Ectopics</cell><cell>8</cell><cell>5</cell><cell>13</cell><cell></cell><cell>Missing</cell><cell>34</cell><cell>27.2</cell></row><row><cell>Atrial fibrillation</cell><cell>8</cell><cell>0</cell><cell>8</cell><cell>The AliveCor heart monitor was</cell><cell>Strongly Disagree</cell><cell>2</cell><cell>1.6</cell></row><row><cell>SVT</cell><cell>3</cell><cell>0</cell><cell>3</cell><cell>always available when I had</cell><cell>Disagree</cell><cell>9</cell><cell>7.2</cell></row><row><cell>Atrial flutter</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>symptoms and needed to record</cell><cell>Neutral</cell><cell>14</cell><cell>11.2</cell></row><row><cell>Sinus bradycardia (b40)</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>my heart tracing</cell><cell>Agree</cell><cell>27</cell><cell>21.6</cell></row><row><cell>Atrial tachycardia</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell></cell><cell>Strongly Agree</cell><cell>39</cell><cell>31.2</cell></row><row><cell>Ventricular tachycardia</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell></cell><cell>Missing</cell><cell>34</cell><cell>27.2</cell></row><row><cell>Other rhythm Method of diagnosis of symptomatic rhythm* AliveCor</cell><cell>1 65</cell><cell>2 0</cell><cell>3 65</cell><cell>I had no problems recording a heart tracing using the AliveCor app</cell><cell>Strongly Disagree Disagree Neutral Agree</cell><cell>3 5 16 26</cell><cell>2.4 4.0 12.8 20.8</cell></row><row><cell>24-hour Holter</cell><cell>2</cell><cell>5</cell><cell>7</cell><cell></cell><cell>Strongly Agree</cell><cell>41</cell><cell>32.8</cell></row><row><cell>48-hour Holter</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell></cell><cell>Missing</cell><cell>34</cell><cell>27.2</cell></row><row><cell>7+ day Holter Subsequent ED visit ECG GP visit ECG Symptomatic cardiac arrhythmia*</cell><cell>0 2 0 11 (8.9%)</cell><cell>1 1 2 1 (0.9%)</cell><cell>1 3 2 12 (5.0%)</cell><cell>I had no problems sending a heart tracing to the study team using the AliveCor app</cell><cell>Strongly Disagree Disagree Neutral Agree Strongly Agree</cell><cell>2 5 25 24 35</cell><cell>1.6 4.0 20.0 19.2 28.0</cell></row><row><cell>Atrial fibrillation</cell><cell>8</cell><cell>0</cell><cell>8</cell><cell>During the study period (3</cell><cell>Missing</cell><cell>34</cell><cell>27.2</cell></row><row><cell>SVT</cell><cell>3</cell><cell>0</cell><cell>3</cell><cell>months) I was able to record a</cell><cell>Strongly Disagree</cell><cell>2</cell><cell>1.6</cell></row><row><cell>Sinus bradycardia (b40)</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>heart tracing when I had similar</cell><cell>Disagree</cell><cell>8</cell><cell>6.4</cell></row><row><cell>Atrial flutter</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>symptoms to the time I initially</cell><cell>Neutral</cell><cell>27</cell><cell>21.6</cell></row><row><cell>Serious outcome*</cell><cell>11 (8.9%)</cell><cell>2 (1.7%)</cell><cell>13 (5.4%)</cell><cell>visited the Emergency Department</cell><cell>Agree Strongly Agree</cell><cell>28 26</cell><cell>22.4 20.8</cell></row><row><cell>All cause death</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell></cell><cell>Missing</cell><cell>34</cell><cell>27.2</cell></row><row><cell>Major adverse cardiac events [MACE = myocardial infarction, life-threatening arrhythmia, insertion of a pacemaker or internal cardiac</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>The AliveCor heart monitor will be useful in diagnosing the cause of my symptoms</cell><cell>Strongly Disagree Disagree Neutral Agree</cell><cell>1 6 33 24</cell><cell>0.8 4.8 26.4 19.2</cell></row><row><cell>defibrillator, insertion of pacing wire]</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Strongly Agree</cell><cell>27</cell><cell>21.6</cell></row><row><cell>Cardiac arrhythmia Significant structural heart disease Initiation of anti-arrhythmia medical therapy</cell><cell>11 0 1</cell><cell>1 1 0</cell><cell>12 1 1</cell><cell>Had you ever used a mobile heart tracing device before</cell><cell>Missing Yes No</cell><cell>32 5 88</cell><cell>25.6 4.0 70.4</cell></row><row><cell>Life-threatening arrhythmia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>[ventricular tachyarrhythmia, complete or 3rd</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>degree heart block, second degree heart block type II, pause N6 s,</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>symptomatic bradycardia b40 beats per</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>minute]</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">M.J. Reed et al. / EClinicalMedicine 8 (2019) 37-46</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="9,310.51,345.24,73.61,7.54">Acknowledgements</head><p><s coords="9,322.47,366.16,20.59,7.54">None.</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="9,42.52,675.02,100.93,7.54">Role of the Funding Source</head><p><s coords="9,54.48,695.94,239.12,7.54;9,42.52,706.37,250.97,7.54;9,42.52,716.85,86.35,7.54">The study was funded by Chest, Heart and Stroke Scotland (Action Research Grant R15/A164; £23,056) and British Heart Foundation (BHF Project Grant no.</s><s coords="9,132.37,716.85,161.15,7.54;9,42.52,727.29,126.97,7.54">PG/17/63/33198; £21,347) which included funding for purchasing the devices.</s><s coords="9,171.60,727.29,122.03,7.54;9,42.52,737.77,183.09,7.54">MR was supported by an NHS Research Scotland Career Researcher Clinician award.</s><s coords="9,227.67,737.77,65.88,7.54;9,310.50,57.80,251.15,7.54;9,310.50,68.23,129.27,7.54">The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.</s><s coords="9,441.52,68.23,120.01,7.54;9,310.50,78.61,251.04,7.97;9,310.51,89.16,58.46,7.54">The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="9,310.51,111.38,120.71,7.54">Availability of Data and Material</head><p><s coords="9,322.47,132.30,239.08,7.54;9,310.51,142.73,225.30,7.54">The datasets generated and/or analysed during the current study are available from the corresponding author on reasonable request.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="9,310.51,164.90,75.48,7.54">Competing Interests</head><p><s coords="9,322.47,185.70,239.08,7.97;9,310.51,196.31,176.89,7.54">The authors declare that they have no competing interests and no financial interest in the device used in this study.</s><s coords="9,489.77,196.31,71.78,7.54;9,310.51,206.74,84.20,7.54">AliveCor had no involvement in the study.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head coords="9,310.51,228.91,85.65,7.54">Authors' Contributions</head><p><s coords="9,322.47,249.83,179.44,7.54">MR was responsible for the conception of the study.</s><s coords="9,503.37,249.83,58.26,7.54;9,310.51,260.31,251.05,7.54;9,310.51,270.75,251.14,7.54;9,310.51,281.23,251.06,7.54;9,310.51,291.66,251.14,7.54;9,310.51,302.15,160.56,7.54">MR, NG, CL, ROB, KS and ST were responsible for the design of the study, ROB, MP, AG, MR, LK, FC, LJ, TH, GL, JG, JS and TC were responsible for acquisition of data, MR, ROB, NG, CL and ST were involved in data analysis and all authors were involved in interpretation of data, drafting the article and revising it critically for important intellectual content.</s><s coords="9,473.16,302.15,88.39,7.54;9,310.51,312.52,251.04,7.97;9,310.51,323.07,33.97,7.54">All authors approved the final submitted version and agree to be accountable for all aspects of the work.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="9,325.25,404.18,236.36,6.03;9,325.25,412.18,236.29,6.03;9,325.25,420.17,105.26,6.03" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Outcomes in presyncope patients: a prospective cohort study</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Thiruganasambandamoorthy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">G</forename><surname>Stiell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">A</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Vaidyanathan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Mukarram</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Taljaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Emerg Med</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="268" to="276" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>e6</note>
+	<note type="raw_reference">Thiruganasambandamoorthy V, Stiell IG, Wells GA, Vaidyanathan A, Mukarram M, Taljaard M. Outcomes in presyncope patients: a prospective cohort study. Ann Emerg Med 2015;65(3):268-76 [e6].</note>
+</biblStruct>
+
+<biblStruct coords="9,325.13,428.11,236.40,6.03;9,325.13,436.10,236.45,6.03;9,325.13,444.04,169.39,6.03" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Analysis of emergency department visits for palpitations (from the National Hospital Ambulatory Medical Care Survey)</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A</forename><surname>Probst</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">R</forename><surname>Mower</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">K</forename><surname>Kanzaria</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">F</forename><surname>Buch</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">C</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1685" to="1690" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Probst MA, Mower WR, Kanzaria HK, Hoffman JR, Buch EF, Sun BC. Analysis of emer- gency department visits for palpitations (from the National Hospital Ambulatory Medical Care Survey). Am J Cardiol 2014;113(10):1685-90.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.59,452.03,235.87,6.03;9,325.59,459.97,235.94,6.03;9,325.59,467.96,105.26,6.03" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diagnostic utility of real-time smartphone ECG in the initial investigation of palpitations</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">D</forename><surname>Dimarco</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">N</forename><surname>Onwordi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">F</forename><surname>Murphy</surname></persName>
+		</author>
+		<idno type="DOI">10.5837/bjc.2018.006</idno>
+		<ptr target="https://doi.org/10.5837/bjc.2018.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Brit J Cardio</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dimarco AD, Onwordi EN, Murphy CF, et al. Diagnostic utility of real-time smartphone ECG in the initial investigation of palpitations. Brit J Cardio 2018. https://doi.org/10.5837/bjc.2018.006.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.13,475.96,236.40,6.03;9,325.13,483.80,236.39,6.38;9,325.13,491.89,123.46,6.03" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">ACC/AHA/ESC guidelines for the management of patients with supraventricular arrhythmias -executive summary</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Blomstrom-Lundqvist</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">M</forename><surname>Sheinman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">M</forename><surname>Aliot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1493" to="1531" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blomstrom-Lundqvist C, Sheinman MM, Aliot EM, et al. ACC/AHA/ESC guidelines for the management of patients with supraventricular arrhythmias -executive sum- mary. J Am Coll Cardiol 2003;42:1493-531.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.13,499.82,236.40,6.03;9,325.13,507.82,236.35,6.03;9,325.13,515.81,22.85,6.03" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Management of patients with palpitations: a position paper from the European Heart Rhythm Association</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Raviele</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Giada</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Bergfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Europace</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="920" to="934" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Raviele A, Giada F, Bergfeldt L, et al. Management of patients with palpitations: a po- sition paper from the European Heart Rhythm Association. Europace 2011;13: 920-34.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.13,523.75,236.40,6.03;9,325.13,531.74,236.37,6.03;9,325.13,539.68,127.10,6.03" xml:id="b5">
+	<monogr>
+		<title level="m" type="main">NICE clinical knowledge summaries. Palpitations. London: NICE</title>
+		<ptr target="https://cks.nice.org.uk/palpitations#!topicsummary" />
+		<imprint>
+			<date type="published" when="2015-05" />
+		</imprint>
+		<respStmt>
+			<orgName>National Institute for Health and Care Excellence</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">National Institute for Health and Care Excellence. NICE clinical knowledge summa- ries. Palpitations. London: NICE, May 2015. https://cks.nice.org.uk/palpitations#! topicsummary (accessed 16th August 2018).</note>
+</biblStruct>
+
+<biblStruct coords="9,325.13,547.67,236.49,6.03;9,325.13,555.61,165.87,6.03" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The evolving role of ambulatory arrhythmia monitoring in general practice</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">J</forename><surname>Zimetbaum</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Josephson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="848" to="856" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zimetbaum PJ, Josephson ME. The evolving role of ambulatory arrhythmia monitor- ing in general practice. Ann Intern Med 1999;150:848-56.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.14,563.60,236.40,6.03;9,325.14,571.50,236.49,6.38;9,325.14,579.53,227.91,6.03" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prospective comparison of the diagnostic utility of a standard event monitor versus a &apos;leadless&apos; portable ECG monitor in the evaluation of patients with palpitations</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Scherr</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Dalal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Henrikson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Interv Card Electrophysiol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="39" to="44" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scherr D, Dalal D, Henrikson CA, et al. Prospective comparison of the diagnostic util- ity of a standard event monitor versus a &apos;leadless&apos; portable ECG monitor in the eval- uation of patients with palpitations. J Interv Card Electrophysiol 2008;22:39-44.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.14,587.53,236.49,6.03;9,325.14,595.46,236.48,6.03;9,325.14,603.46,44.72,6.03" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Diagnostic yield and optimal duration of continuous-loop event monitoring for the diagnosis of palpitations</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">J</forename><surname>Zimetbaum</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Josephson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="890" to="895" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zimetbaum PJ, Kim KY, Josephson ME, et al. Diagnostic yield and optimal duration of continuous-loop event monitoring for the diagnosis of palpitations. Ann Intern Med 1998;28:890-5.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.14,611.45,236.41,6.03;9,325.14,619.39,236.39,6.03;9,325.14,627.38,57.30,6.03" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Comparison of 24-hour Holter monitoring with 14-day novel adhesive patch electrocardiographic monitoring</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">M</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Komatireddy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Haaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="95" to="e106" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>e17</note>
+	<note type="raw_reference">Barrett PM, Komatireddy R, Haaser S et al. Comparison of 24-hour Holter monitoring with 14-day novel adhesive patch electrocardiographic monitoring. Am J Med 2014; 127: 95.e11-95.e17.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.14,635.32,236.48,6.03;9,325.14,643.31,139.85,6.03" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparing 14-day adhesive patch with 24-h Holter monitoring</title>
+		<author>
+			<persName coords=""><forename type="first">Cc1</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">R</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">D</forename><surname>Krahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="319" to="322" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cheung CC1, Kerr CR, Krahn AD. Comparing 14-day adhesive patch with 24-h Holter monitoring. Future Cardiol. 2014; 10(3): 319-22.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.76,651.30,235.72,6.03;9,325.76,659.24,235.73,6.03;9,325.76,667.23,109.03,6.03" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ambulatory cardiac monitoring for discharged emergency department patients with possible cardiac arrhythmias</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Schreiber</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Drigalla</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Higgins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">West J Emerg Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="194" to="198" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schreiber D, Sattar A, Drigalla D, Higgins S. Ambulatory cardiac monitoring for discharged emergency department patients with possible cardiac arrhythmias. West J Emerg Med 2014;15(2):194-8.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.14,675.17,236.49,6.03;9,325.14,683.16,194.46,6.03" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Diagnostic utility of a novel leadless arrhythmia monitoring device</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">P</forename><surname>Turakhia</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">D</forename><surname>Hoang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Zimetbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="520" to="524" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Turakhia MP, Hoang DD, Zimetbaum P et al. Diagnostic utility of a novel leadless ar- rhythmia monitoring device. Am J Cardiol. 2013; 15; 112(4): 520-4.</note>
+</biblStruct>
+
+<biblStruct coords="9,325.76,691.10,235.77,6.03;9,325.76,699.00,235.86,6.38;9,325.76,707.09,235.77,6.03;9,325.76,715.03,112.30,6.03" xml:id="b13">
+	<monogr>
+		<title level="m" type="main">AliveCor heart monitor and AliveECG app (Kardia Mobile) for detecting atrial fibrillation. NICE advice MIB35. London: NICE</title>
+		<ptr target="https://www.nice.org.uk/advice/mib35/chapter/technology-overview" />
+		<imprint>
+			<date type="published" when="2015-08" />
+		</imprint>
+		<respStmt>
+			<orgName>National Institute for Health and Care Excellence</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">National Institute for Health and Care Excellence. AliveCor heart monitor and AliveECG app (Kardia Mobile) for detecting atrial fibrillation. NICE advice MIB35. London: NICE, 2015. https://www.nice.org.uk/advice/mib35/chapter/technology- overview (accessed 16th August 2018).</note>
+</biblStruct>
+
+<biblStruct coords="9,325.31,723.02,236.25,6.03;9,325.31,730.86,236.20,6.38;9,325.31,738.95,205.27,6.03" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Assessing the accuracy of an automated atrial fibrillation detection algorithm using smartphone technology: the iREAD study</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">D</forename><surname>William</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kanbour</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Callahan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.hrthm.2018.06.037</idno>
+		<ptr target="https://doi.org/10.1016/j.hrthm.2018.06.037" />
+	</analytic>
+	<monogr>
+		<title level="j">Heart Rhythm</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">William AD, Kanbour M, Callahan T, et al. Assessing the accuracy of an automated atrial fibrillation detection algorithm using smartphone technology: the iREAD study. Heart Rhythm 2018. https://doi.org/10.1016/j.hrthm.2018.06.037.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.36,56.49,236.42,6.03;10,48.36,64.38,236.42,6.38;10,48.36,72.42,48.29,6.03" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">iPhone ECG application for community screening to detect silent atrial fibrillation: a novel technology to prevent stroke</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Lowres</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Neubeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="193" to="194" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lau J, Lowres N, Neubeck L, et al. iPhone ECG application for community screening to detect silent atrial fibrillation: a novel technology to prevent stroke. Int J Cardiol 2013;165:193-4.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.36,80.41,236.40,6.03;10,48.36,88.25,236.39,6.38;10,48.36,96.34,206.03,6.03" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Feasibility and cost-effectiveness of stroke prevention through community screening for atrial fibrillation using iPhone ECG in pharmacies. The SEARCHAF study</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Lowres</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Neubeck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Salkeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thromb Haemost</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1167" to="1176" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lowres N, Neubeck L, Salkeld G, et al. Feasibility and cost-effectiveness of stroke pre- vention through community screening for atrial fibrillation using iPhone ECG in pharmacies. The SEARCHAF study. Thromb Haemost 2014;111:1167-76.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.47,104.28,236.37,6.03;10,48.47,112.27,218.26,6.03" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Wireless smartphone ECG enables large-scale screening in diverse populations</title>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><forename type="middle">C</forename><surname>Haberman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">T</forename><surname>Jahn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Bose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cardiovasc Electrophysiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="520" to="526" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Haberman ZC, Jahn RT, Bose R, et al. Wireless smartphone ECG enables large-scale screening in diverse populations. J Cardiovasc Electrophysiol 2015;26:520-6.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.36,120.26,236.49,6.03;10,48.36,128.11,236.41,6.38;10,48.36,136.19,69.40,6.03" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Using a novel wireless system for monitoring patients after the atrial fibrillation ablation procedure: the iTransmit study</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">G</forename><surname>Tarakji</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><forename type="middle">M</forename><surname>Wazni</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Callahan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heart Rhythm</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="554" to="559" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tarakji KG, Wazni OM, Callahan T, et al. Using a novel wireless system for monitor- ing patients after the atrial fibrillation ablation procedure: the iTransmit study. Heart Rhythm 2015;12:554-9.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.59,144.13,236.26,6.03;10,48.59,152.03,236.27,6.38;10,48.59,160.12,72.86,6.03" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Performance of handheld electrocardiogram devices to detect atrial fibrillation in a cardiology and geriatric ward setting</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Desteghe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Raymaekers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Lutin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Europace</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="29" to="39" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Desteghe L, Raymaekers Z, Lutin M, et al. Performance of handheld electrocardio- gram devices to detect atrial fibrillation in a cardiology and geriatric ward setting. Europace 2017;19:29-39.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.36,168.06,236.41,6.03;10,48.36,176.05,236.39,6.03;10,48.36,183.99,35.82,6.03" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Excellent symptom rhythm correlation in patients with palpitations using a novel Smartphone based event recorder</title>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">G</forename><surname>Newham</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">H</forename><surname>Tayebjee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Atr Fibrillation</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1514</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Newham WG, Tayebjee MH. Excellent symptom rhythm correlation in patients with palpitations using a novel Smartphone based event recorder. J Atr Fibrillation 2017; 10(1): 1514.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.59,191.98,236.20,6.03;10,48.59,199.97,236.20,6.03;10,48.59,207.91,236.18,6.03;10,48.59,215.90,139.06,6.03" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comparison of a smartphone-based ECG recording system with a standard cardiac event monitor in the investigation of palpitations in children</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Macinnes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Fulton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">A</forename><surname>Mcleod</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/archdischild-2018-314901</idno>
+		<ptr target="https://doi.org/10.1136/archdischild-2018-314901" />
+	</analytic>
+	<monogr>
+		<title level="j">Arch Dis Child</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+	<note type="raw_reference">Macinnes M, Martin N, Fulton H, McLeod KA. Comparison of a smartphone-based ECG recording system with a standard cardiac event monitor in the investigation of palpitations in children. Arch Dis Child 2018. https://doi.org/10.1136/ archdischild-2018-314901 [Epub ahead of print].</note>
+</biblStruct>
+
+<biblStruct coords="10,48.64,223.84,236.18,6.03;10,48.64,231.83,226.08,6.03" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Validation of a smartphone-based event recorder for arrhythmia detection</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Narasimha</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pacing Clin Electrophysiol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="487" to="494" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Narasimha D, Hanna N, Beck H, et al. Validation of a smartphone-based event re- corder for arrhythmia detection. Pacing Clin Electrophysiol 2018;41(5):487-94.</note>
+</biblStruct>
+
+<biblStruct coords="10,48.36,239.77,225.68,6.03" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Living with the handheld ECG</title>
+		<author>
+			<persName coords=""><forename type="first">Arj</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Le</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Innov</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="46" to="48" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mitchell ARJ, Le Page P. Living with the handheld ECG. BMJ Innov 2015;1:46-8.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.46,56.48,236.34,6.03;10,316.46,64.38,236.27,6.38;10,316.46,72.41,148.52,6.03" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Assessment of remote heart rhythm sampling using the AliveCor heart monitor to screen for atrial fibrillation: the REHEARSE-AF study</title>
+		<author>
+			<persName coords=""><forename type="first">Jpj</forename><surname>Halcox</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Wareham</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Cardew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="1784" to="1794" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Halcox JPJ, Wareham K, Cardew A, et al. Assessment of remote heart rhythm sam- pling using the AliveCor heart monitor to screen for atrial fibrillation: the REHEARSE-AF study. Circulation 2017;136:1784-94.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.80,80.41,235.93,6.03;10,316.80,88.34,235.91,6.03;10,316.80,96.34,235.99,6.03;10,316.80,104.27,235.99,6.03;10,316.80,112.27,235.92,6.03;10,316.80,120.26,73.02,6.03" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Multi-centre randomised controlled trial of a smart phone based event recorder alongside standard care versus standard care for patients presenting to the Emergency Department with palpitations and presyncope -the IPED (Investigation of Palpitations in the ED) study: Study protocol for a randomised controlled trial</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">R</forename><surname>Grubb</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">C</forename><surname>Lang</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13063-018-3098-1</idno>
+		<ptr target="https://doi.org/10.1186/s13063-018-3098-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Trials</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">711</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reed MJ, Grubb NR, Lang CC, et al. Multi-centre randomised controlled trial of a smart phone based event recorder alongside standard care versus standard care for patients presenting to the Emergency Department with palpitations and pre- syncope -the IPED (Investigation of Palpitations in the ED) study: Study protocol for a randomised controlled trial. Trials 2018; 19: 711. nndoi:https://doi.org/10. 1186/s13063-018-3098-1</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,128.20,236.40,6.03;10,316.35,136.19,236.40,6.03;10,316.35,144.13,53.73,6.03" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">An evaluation of patient ownership and use and acceptability of smartphone technology within the emergency department</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Summers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Emerg Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="224" to="225" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Summers A, Reed MJ. An evaluation of patient ownership and use and acceptability of smartphone technology within the emergency department. Eur J Emerg Med 2018;25(3):224-5.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,152.12,236.41,6.03;10,316.35,160.11,66.56,6.03" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evaluations and outcomes of patients with palpitations</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">E</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">H</forename><surname>Kapoor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="138" to="148" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weber BE, Kapoor WH. Evaluations and outcomes of patients with palpitations. Am J Med 1996;100:138-48.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,168.05,236.40,6.03;10,316.35,176.05,136.22,6.03" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The clinical course of palpitations in medical outpatients</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">J</forename><surname>Barsky</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">D</forename><surname>Cleary</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">R</forename><surname>Coeytaux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="1782" to="1788" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barsky AJ, Cleary PD, Coeytaux RR, et al. The clinical course of palpitations in medical outpatients. Arch Intern Med 1995;155:1782-8.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,183.98,236.47,6.03" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Diagnostic approach to palpitations</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">V</forename><surname>Abbott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Fam Physician</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="743" to="750" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abbott AV. Diagnostic approach to palpitations. Am Fam Physician 2005;71:743-50.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,191.98,236.39,6.03;10,316.35,199.97,19.32,6.03" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Ventricular ectopic activity: prevalence and risk</title>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">C</forename><surname>Messineo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="53J" to="56J" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Messineo FC. Ventricular ectopic activity: prevalence and risk. Am J Cardiol 1989;64: 53J-6J.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.35,207.91,236.40,6.03;10,316.35,215.90,219.80,6.03" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The prevalence of symptoms in medical outpatients and the adequacy of therapy</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Kroenke</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Arrington</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">D</forename><surname>Mangelsdorff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="1685" to="1689" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kroenke K, Arrington ME, Mangelsdorff AD. The prevalence of symptoms in medical outpatients and the adequacy of therapy. Arch Intern Med 1990;150:1685-9.</note>
+</biblStruct>
+
+<biblStruct coords="10,316.74,223.84,236.01,6.03;10,316.74,231.84,48.36,6.03" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The natural history of palpitations in a family practice</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">P</forename><surname>Knudson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Fam Pract</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="357" to="360" />
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Knudson MP. The natural history of palpitations in a family practice. J Fam Pract 1987;24:357-60.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

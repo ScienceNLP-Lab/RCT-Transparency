@@ -1,0 +1,218 @@
+The effect on participation rates of including focused spirometry information in a health check invitation: a cluster-randomised trial in Denmark
+
+## Abstract
+
+### Background
+
+Early detection of lung disease may help reduce disease development. Detection through preventive health checks may be beneficial. Nevertheless, the knowledge is sparse on how to enhance the participation rate in health checks among citizens at risk of developing lung disease. This study investigates if focused information on spirometry can increase the participation rate in a general health check.
+
+### Methods
+
+We conducted an open-label, household cluster-randomised trial with a two- group parallel design including 4407 citizens aged 30–49 years in Denmark and an average cluster size of 1.55 citizens per household. The control group (n = 2213) received a standard invitation describing the content of the general health check and containing practical information. The intervention group (n = 2194) received an extended invitation highlighting the benefits of early detection and prevention of lung disease. The primary outcome was difference in participation rate between the two groups. The secondary outcome was the proportion of participants at risk of lung disease in both groups. Risk profile was defined as current smoking or self-reported lung symptoms. The inclusion period was 25 November 2015–3 February 2017.
+
+### Results
+
+No major difference in participation rate was seen between the intervention group (53.4%) and the control group (52.0%). Participants had statistically significantly higher education level compared to non-participants. A total of 24.2% of the participants were at risk of developing lung disease, but no difference was found between the intervention group and the control group.
+
+### Conclusion
+
+This study revealed no effect on participation rate of including focused spirometry information in the health check invitation.
+
+### Trial registration
+
+ClinicalTrials.gov:  NCT02615769. Registered on 25 November 2015. The trial protocol has been published.
+
+### Electronic supplementary material
+
+The online version of this article (10.1186/s12889-019-7531-5) contains supplementary material, which is available to authorized users.
+
+Keywords: Preventive health services, Patient participation, Lung diseases
+
+## Background
+
+Spirometry measurement is the gold standard for detection of poor lung function [1, 2]. Early detection and targeted treatment of individuals with poor lung function may reduce the risk of developing chronic lung disease [1, 2]. Treatment consists of pharmacological therapy and non-pharmacological treatment, such as smoking cessation, physical activity, pulmonary rehabilitation, and influenza and pneumococcal vaccinations [2, 3].
+
+The Danish Health Authority recommends spirometry to all individuals above age 35 with at least one respiratory symptom (dyspnoea, cough, wheeze or sputum production) or risk factor (current smoking or occupational exposure) to facilitate early detection of lung disease [4]. Case-finding strategies based on these recommendations have demonstrated a hit rate of around 20% [5]. However, based on epidemiologic considerations, an estimated 50% of citizens with chronic obstructive pulmonary disease (COPD) in Denmark (approximately 200,000 individuals) remain untreated and most likely undiagnosed in the healthcare system [6]. Whatever the true number may be, underdiagnosis seems to be an issue.
+
+Preventive health checks in the general population is one way to detect individuals at risk. However, low participation rate remains a well-known challenge, especially among persons at risk of developing lung disease [7, 8]. Different approaches to improving early case finding have been investigated [9, 10]. To our knowledge, no previous trials have investigated determinants for improving the participation rate in preventive health checks among persons at risk of developing lung disease, e.g. smokers.
+
+This study aims to investigate if including focused information about the benefits of spirometry in the invitation material may increase the participation rate in a general health check. We hypothesised that the intervention would increase the participation rate by 5% and that more citizens at risk of developing lung disease would choose to participate in the general health check.
+
+## Methods
+
+The study is registered at ClinicalTrials.gov ( NCT02615769), and the trial protocol has been published [11]. The study conforms to the Consolidated Standards Of Reporting Trials (CONSORT), including the extension for non-pharmacological interventions and cluster trials [12, 13].
+
+### Design and participants
+
+We conducted an open-label, household cluster-randomised trial with a two- group parallel design. The trial was embedded in the fourth year of the Danish population-based Check your Health Preventive Programme (CHPP) offering preventive health checks to all citizens aged 30–49 years in Randers Municipality in Denmark [14]. To evenly distribute the workload in the healthcare system, the eligible population (n = 26,216) was randomised into five groups of equal size before initiating the CHPP in 2012. The randomisation was conducted on clusters defined by households based on postal addresses from the Danish Civil Registration System [15]. Group four (n = 5201) was allocated to the present trial (Fig. 1). A total of 5201 citizens were randomised into either intervention group or control group. The inclusion criteria were: I) living in Randers Municipality within the study period and II) aged 30–49 years. The exclusion criteria were: I) terminal illness reported by the general practitioner (GP) and II) low quality of spirometry measurement. After randomisation, we discovered that 412 eligible citizens had emigrated, and 289 citizens could not be enrolled as their GP operated outside the municipality or did not want to participate in the study. Three citizens were excluded due to risk of identification during the analysis phase. This approach is in line with the statistical guidelines by Statistics Denmark, Danish legislation [16] and the General Data Protection Regulation by the European Commission [17]. Eight citizens were excluded due to terminal illness reported by their GP. This left 4489 eligible citizens for inclusion. Finally, 82 citizens completed the questionnaire and participated in the health check without giving consent for their data to be used in research (Fig. 1).
+
+Fig. 1 Flowchart of patient inclusion. The study period lasted from 25 November 2015 to 3 February 2017. Abbreviations: GP: General practitioner, CHPP: Check your Health Preventive Programme
+
+Invitations were sent out at regular intervals between 25 November 2015 and 13 December 2016. Participants were recruited from 25 November 2015 until 3 February 2017. Invited citizens who had not participated in the clinical examination by 3 February 2017 were listed as non-participants. The study period lasted from 25 November 2015 until 3 February 2017.
+
+### Setting and procedure
+
+The CHPP consisted of two elements: a web-based questionnaire and a clinical examination. A risk profile was generated after completion of both elements. Each participant received a personal recommendation based on the individual risk profile and current health status. The web-based questionnaire consisted of questions regarding smoking, alcohol use, lung symptoms, physical activity, mental health and self-rated health [11]. The clinical examination took place in the community health centre in Randers and included blood analyses, blood pressure, height, weight, cardiorespiratory fitness score and spirometry. Lung function was assessed by EasyOne Diagnostic Spirometer (NDD Medical Technologies, Andover, USA), which was calibrated daily. Spirometer software calculated the FEV1/FVC ratio and displayed the predicted value of FEV1 and FVC based on reference values. The criterion for correct procedure performance was at least three measurements differing by less than 5%. The spirometry measurements were excluded from the descriptive analysis if this criterion was not achieved (n = 36). Abnormal spirometry was defined as FEV1/FVC < 0.7. Trained healthcare professionals performed the clinical examinations. The setting, the questionnaire and the clinical examination have been described in detail elsewhere [11, 14].
+
+### Control group
+
+The control group (n = 2258) received a standard invitation and an information leaflet by mail. The invitation specified the contents of the general health check and contained practical information, including a link to the webpage, a link to the questionnaire and a prefixed appointment for the health check (date and time). The appointment could be accepted, changed or rejected by phone or internet. If the appointment was not accepted within 7 days, a reminder was sent. Failure to accept within 3 weeks procured another reminder. Invitations and leaflets were dispatched at regular intervals during the study period to evenly distribute the workload in the health centre. Invitations were sent to individuals separately, which means that two individuals in the same household could receive an individual invitation at the same time within the study period. All the material can be accessed in the Additional file 1.
+
+### Intervention group
+
+The intervention group (n = 2231) received an altered invitation and a leaflet highlighting the advantages of including a spirometry test in a general health check and provided information about prevention of lung diseases. Furthermore, the citizens were recommended to visit a homepage with additional information and advice on prevention of lung diseases. The material had been developed in cooperation with the Danish Lung Association. Before the invitation was sent, a focus group tested the material for comprehensibility and content, and few revisions were made accordingly. Further details on routine procedures, intervention and information material are available in the Additional file 1 and in the trial protocol [11].
+
+### Sample size
+
+The estimated sample size was 4356 based on the following assumptions: 1:1 randomisation, a two-sided significance level of 0.05, an intra-cluster correlation coefficient of 0.01 [18], a power of 90% and categorical analysis with a power to detect a difference of 5 percentage points in effect size.
+
+### Randomisation, clusters and blinding
+
+An independent data manager performed the randomisation on 7 October 2015 before the inclusion period of the study. The randomisation was based on the postal address, which was obtained from the Danish Civil Registration System [11, 19]. Cluster randomisation by household was chosen to minimise the potential contamination between participants living together because motivation to participate in the health check might affect the entire household. Out of 5201 allocated participants, 3727 households were randomised into either the control group or the intervention group. After randomisation and exclusions, the average cluster size was equally distributed between the control group and the intervention group. Participants were enrolled continuously during the study period if they met the inclusion criteria. The intervention and the outcome were not disclosed to participants. The healthcare professionals also remained blinded. The blinding was unlocked on 3 February 2017 at the end of the study period.
+
+### Outcomes
+
+The primary outcome was participation rate in the general health check measured among the proportion of randomised persons who met the inclusion criteria in each of the two groups. The secondary outcome was the proportion of persons at risk of lung disease in each of the two groups. A person was defined to be at risk if reporting to be a current smoker (daily or part-time) or to have lung symptoms (all of the time or most of the time) in the questionnaire. The clinical outcome data were entered directly into a secure database stored electronically at Aarhus University.
+
+Additional data from Danish national registries [19] were obtained for the population (n = 5201), and the unique personal registration number [15] was used to link these data to the clinical measurements. Data on educational level, income level and occupational level were collected from Statistics Denmark [16, 20]. Education level was defined as the highest formal educational attainment categorised according to the United Nation’s Educational, Scientific and Cultural Organization’s International Standard Classification of Education [20, 21]. Education level from 2015 was used to divide the study population into three groups: < 10 (low), 10–15 (medium) and > 15 years of education (high). Income level for 2014 was used and categorised into tertiles and adjusted for family size using the OECD-adjusted income level [22]. Occupational level for 2014 was classified into five groups: employed, self-employed, unemployed, social welfare recipient and others. The Register of Medical Product Statistics, which contains information on all dispensed prescriptions in Denmark since 1994 (ATC codes), was used to investigate if the citizen picked up any respiratory medicine (i.e. short- acting beta agonist (SABA), short-acting muscarinic antagonist (SAMA), long- acting beta agonist (LABA), long-acting muscarinic antagonist (LAMA), or inhaled corticosteroid (ICS)) from a pharmacy in 2012–2015. All data were fully anonymised, and the performed analyses comply with the Danish regulations on register-based research [16].
+
+### Statistical analyses
+
+To compare the baseline characteristics between the intervention group and the control group, descriptive statistics were used. Data are presented as absolute numbers and percentages. The participation rate in the intervention group was compared to that in the control group by estimating the absolute difference in participation rate (PD), and the 95% confidence interval (CI) was calculated using binomial regression with identity link while accounting for household cluster effect by applying cluster robust variance estimation.
+
+Additional analyses were performed using baseline data to compare non- participants in the intervention group with non-participants in the control group. Additionally, the group of excluded persons due to missing data, terminal illness or emigration (n = 791) was compared to the group of included participants (n = 4489) (Fig. 1). In the additional analyses, we also assessed the impact on participation rate difference if tentatively extending the study period and using 18 months instead of 14 months as cut-off value. Statistical analyses were performed by Stata 14.0 (StataCorp, College Station, TX, USA) [23].
+
+## Results
+
+### Study population
+
+A total of 4489 citizens were invited to the CHPP: 2231 in the intervention group and 2258 in the control group. Of these, 4407 were included in the study: 2194 in the intervention group and 2213 in the control group. The distribution of age, sex, education level, occupation level, income level and respiratory medicine consumption did not differ between the two groups (Table 1). The average cluster size of the household and the number of clusters were equally distributed between the intervention group and the control group (Fig. 1).
+
+### Table 1 Baseline characteristics of the study population
+
+### Primary outcome: participation
+
+A total of 53.4% participated in the intervention group, and 52.0% participated in the control group (difference (diff.) = 1.4% point, 95% CI: − 1.5; 4.4) (Table 2). When stratifying our analyses on different background variables, we found a statistically significant difference in the participation rates for people with a high level of education. For citizens with a high level of education, the participation rate was higher in the intervention group than in the control group (diff. = 5.6% point, 95% CI: 0.4; 10.9). No statistically significant differences in participation rate were found for gender, age group, purchase of respiratory medicine, income or occupation level (Table 2).
+
+### Table 2 Participation rate, stratified by age group, gender, purchase of respiratory medicine, education level, income and occupational status
+
+### Secondary outcome: risk profile
+
+A total of 563 citizens (24.2%) participating in the CHPP were at risk of developing lung disease (i.e. current smoker and/or self-reported lung symptoms). We found no differences in the risk profile between participants in the intervention group and participants in the control group (Table 3).
+
+### Table 3 Characteristics of participants
+
+### Lung function
+
+The highest measurements of FEV1 and FVC were used in the analyses as absolute values and as percentage of predicted values; these were based on Danish reference values from a large sample of healthy never smokers [24].
+
+At the clinical examination, we found no difference in lung function between the participants in the two groups (13.0% had FEV1/FVC < 0.70% in the intervention group, and 13.2% had FEV1/FVC < 0.70% in the control group). The range of FEV1/FVC was 37–97%, and the range of FEV1 pred. was 34–150%. Due to low quality of spirometry, 15 participants in the intervention group and 21 participants in the control group were excluded. These 36 measurements were also excluded from the sub-analysis (Table 3).
+
+### Additional analyses
+
+No statistically significant differences were identified when we compared non- participants in the intervention group (n = 1022) with non-participants in the control group (n = 1062). In both groups, we found a higher proportion of social welfare recipients, lower education, lower income and higher consumption of respiratory medicine in non-participants compared to participants (data not shown).
+
+The excluded participants were more likely than were included participants to be social welfare recipients, to have lower education and lower income and to have received more respiratory medicine (data not shown).
+
+Among non-participants, 189 citizens had participated in the study outside the study period. These 189 citizens received the invitation within the study period, but 80 citizens had a clinical examination performed outside the defined study period, and 109 citizens filled out the questionnaire without getting the clinical examination. The 189 citizens were equally divided between the intervention group and the control group. When we tentatively extended the study period, the participation rate increased to 55.6% in the intervention group and to 54.6% in the control group. This rate is similar to the general participation rate in the CHPP [25]. No significant difference was seen in the participation rate between the intervention group and the control group (diff. = 1.0% point 95% CI: − 1.0; 4.0) (data not shown).
+
+## Discussion
+
+### Principal findings
+
+In this cluster-randomised trial, we found that the enhanced invitation material on prevention of lung disease did not influence the participation rate in the general health check. When we stratified the analysis on education, we found a statistically significant difference in the participation rate between the intervention group and the control group for people with long education. This may be a chance finding, but it is also possible that educational attainment might influence the health literacy of the individual citizen and thus the ability to understand the additional invitation material [26]. Furthermore, the proportion of citizens at risk (defined by smoking status and/or self-reported lung symptoms) who participated in the general health check did not differ between the two groups. Additionally, no differences were observed in the number of abnormal spirometry results between participants in the intervention group and participants in the control group.
+
+### Comparison with existing literature
+
+This study is the first to use a cluster-randomised design to investigate the benefits of including targeted information in an invitation to a general health check in order to provide insight into this specific field. Other studies have shown higher participation rates after enhancing invitation material in various settings [27–29]. Our findings are consistent with a study by McDermott et al. [9], who found no effect of enhancing invitations by using question behaviour and financial incentives to increase the participation in a general health check.
+
+We expected a 5 percentage point increase in participation rate based on prior studies [28, 29]. We find this a realistic objective, although we are aware that smokers are known to hesitate to seek help because they feel ashamed and guilty of their self-inflicted diseases [30]. We found no differences in smoking status and lung function between participants in the control group and participants in the intervention group. A proportion of 23% of current smokers was found in each group, which is comparable to the proportion reported in a similar study from the same geographic area and for the same age group [31]. We found 12% to have abnormal lung function in each group, which is higher than expected for a population of this age [6, 32]. In our study, we used the ratio FEV1/FVC < 70% to define the level of abnormal lung function. Additionally, we changed the ratio into FEV1/FVC < 75% because the cutpoint of a 70% ratio is known to underestimate COPD in young populations and overestimate COPD in the elderly [2, 33]. This change showed no significant difference between the groups: 27.1% in the intervention group and 26.5% in the control group had abnormal lung function (data not shown).
+
+### Strengths and limitations
+
+A major strength of this large-scale study was the randomised design and the analyses following the intention-to-treat principle. Furthermore, our overall attendance rate was 53%, which is high compared to other real-life preventive programmes [34]. This is most likely because appointments were scheduled outside working hours, two reminders were sent, and households received several invitations at the same time to avoid contamination and to increase the total participation rate. Despite the exclusion of 712 eligible citizens after randomisation, we found no significant differences in the baseline characteristics, which contributes to high internal validity. Therefore, the risk of selection bias is considered to be low. Finally, we had the unique opportunity to obtain sociodemographic and medical characteristics about non- participants from the Danish national registers [15, 19], and information bias is thus considered to be low.
+
+Our study also had some limitations. Firstly, there is a risk of misclassification of citizens who present with airway infections like pneumonia or influenza, which could give a false positive result because of impaired lung function. However, we believe this to be of limited significance and to have affected both groups equally. Secondly, we are aware that it is difficult to ensure that the right level of extra information is obtained in the invitation. Too little information in the leaflet about smoking cessation and prevention of lung disease may dilute the intervention, whereas too much information may unnecessarily scare some of the citizens at risk. Thirdly, both groups had similar access to the homepage with information on prevention of lung disease. This may further have diluted the intervention. Therefore, we cannot eliminate that the true intervention effect might have been neglected. Finally, we are aware of the risk of selection bias. A specialist in pulmonary medicine went through the spirometry measurements and excluded 36 measurements due to low quality and technical problems. Due to a low number (n = 79) in the overall analyses and an equal distribution among the groups, we believe that this has not affected the results considerably.
+
+### Generalisability of findings
+
+We used a real-life setting, and the participants were a randomised subgroup of the general population in Randers Municipality. Thus, the generalizability of the findings will not only mirror certain citizens at risk, such as current smokers or patients with lung symptoms. The real-life provided high external validity.
+
+In our additional analyses, we found that non-participants in both groups included significantly more social welfare recipients, citizens with lower education, citizens with lower income and citizens receiving more respiratory medicine (data not shown). This is in line with the findings in other CHPP studies, which reported that CHPP participants generally had higher social status than non-participants [14, 25]. Compared to similar municipalities in the same region, Randers has an average health profile for citizens, although higher proportions of obesity, stress-related symptoms and unhealthy diet. Randers also has more current smokers compared to other cities of similar size, but these differences are not statistically significant [31].
+
+## Conclusion
+
+This study revealed that an enhanced invitation was not associated with increased participation in a general health check. Moreover, it was not possible to identify more citizens at risk of developing lung disease. Our study supports previous findings reporting that it is difficult to reach the population at risk of developing lung disease. It might be more beneficial to target the intervention to the population at risk and offer spirometry to specific vulnerable groups of citizens in local communities, e.g. at relevant work places or in socially deprived areas, as also suggested by Larsen et al. [35].
+
+## Additional file
+
+Additional file 1:(3.9M, pdf)
+
+Invitation, leaflet, and website text to the invitation and comparison group. (PDF 4012 kb)
+
+## Acknowledgements
+
+The authors wish to thank Niels Henrik Bruun for statistical support, Marianne Petersen for data support and Lone Niedziella for language support. Furthermore, the authors thank the staff at Check Your Health at the health centre in Randers for examining all the participants. The authors also wish to thank the Danish Lung Association for providing help with designing the information material for the intervention group. Finally, the authors would like to thank all the GPs and citizens who chose to participate in the study.
+
+## Abbreviations
+CHPP| Check Your Health Preventive Program
+---|---
+CONSORT| Consolidated Standards of Reporting Trials
+CPR| Civil registration number
+Diff.| Difference
+FEV1| Forced expiratory volume in 1 s
+FVC| Forced vital capacity
+GP| General practitioner
+ICS| Inhaled corticosteroids
+LABA| Long-acting beta agonists
+LAMA| Long-acting muscarinic antagonists
+RCT| Randomised controlled trial
+SABA| Short-acting beta agonists
+SAMA| Short-acting muscarinic antagonists
+
+## Authors’ contributions
+
+The trial was developed by LMØ, AL, ALB, KN, BHB, HTM and AS. LMØ drafted the manuscript and made the analyses. All authors provided critical review of the manuscript and approved the final version.
+
+## Funding
+
+The authors gratefully acknowledge the funding provided for this trial by the Central Denmark Region (file no. 1–15–1-72-13-09), the TRYG foundation (file no. 7-11-0500) and Randers Municipality. The funding bodies have no role in the design of the study, the collection, analysis, and interpretation of data and writing the manuscript.
+
+## Availability of data and materials
+
+The data that support the findings of this study are available from Statistics Denmark and the Danish Health Data Authority, but restrictions apply to the availability of these data, which were used under license for the current study and are not publicly available. However, data are available from the corresponding author upon reasonable request and with the permissions of Statistics Denmark and the Danish Health Data Authority.
+
+## Ethics approval and consent to participate
+
+The study was conducted in compliance with the Declaration of Helsinki and in conformity with the laws and regulations in Denmark. The study is registered as part of the research projects covered by the joint university notification to the Danish Data Protection Agency on the processing of personal data conducted at Aarhus University (file no: 2015-57-0002, file no. of Aarhus University: 62908, serial no: 186). The Committee on Health Research Ethics in the Central Denmark Region found that no approval was needed as the study is based on routine data from Danish national registers (reference number: 1–10–72-215–15). Prior to the health check, all participants signed a written consent allowing collected data to be used for research purposes.
+
+## Consent for publication
+
+The authors confirm, that the individuals in the supplementary files gave consent for their images to be published in this study.
+
+## Competing interests
+
+The authors declare that they have no competing interests.
+
+## Footnotes
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Contributor Information
+
+Lene Maria Ørts, Email: kd.ua.hp@oml.
+
+Anders Løkke, Email: moc.liamg@ekkeola.
+
+Anne-Louise Bjerregaard, Email: kd.ua.hp@jbla.
+
+Helle Terkildsen Maindal, Email: kd.ua.hp@mth.
+
+Kasper Norman, Email: kd.ua.hp@namron.repsak.
+
+Bodil Hammer Bech, Email: kd.ua.hp@bhb.
+
+Annelli Sandbæk, Email: kd.mr@DNSENA.
+

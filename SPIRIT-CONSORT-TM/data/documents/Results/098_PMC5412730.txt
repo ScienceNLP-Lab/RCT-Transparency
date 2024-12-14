@@ -1,0 +1,144 @@
+Cultural Contributors to Smoking Susceptibility Outcomes Among Latino Youth: The Padres Informados/Jovenes Preparados Participatory Trial
+
+## Abstract
+
+### Introduction
+
+Padres Informados/Jovenes Preparados (PIJP) is a community-based participatory, family-focused tobacco prevention intervention for immigrant Latino families of adolescents.
+
+### Design
+
+A participatory randomized controlled trial including 352 Latino families. Parents and youth of intervention families engaged in family skill-building sessions.
+
+### Outcomes
+
+Participants completed baseline and six month post-intervention surveys assessing smoking susceptibility and contextual factors.
+
+### Results
+
+While the intervention did not affect smoking susceptibility overall, it resulted in lower smoking susceptibility among youth in families with less adherence to traditional Latino cultural values.
+
+### Conclusions
+
+Family cultural orientation is a key consideration for tobacco prevention interventions focused on Latino youth.
+
+Keywords: Latino adolescent, family-based intervention, tobacco use, community-based participatory research
+
+## Introduction
+
+Despite decreases in youth smoking rates over the last decade, preventing tobacco use in early adolescence remains a public health priority as lifetime prevalence among older youth and young adults remains high, and early adolescence is a critical period when smoking behaviors begin.1-3 Latino youth currently show similarly high rates of smoking prevalence as white youth, the highest risk population.1 Given that Latino youth are largely second generation immigrants, and that tobacco use increases among Latino youth with generation in the U.S., effective approaches are needed to prevent future disparities in rates of tobacco use.4,5
+
+The immigrant Latino family context is a significant source of protection against tobacco and other substance use for Latino youth due to family- oriented cultural values such as prioritization of the nuclear and extended family (familismo), and respect for and deference to elders (respeto).4,6 However, the processes of family adaptation and coping within the broader U.S. cultural and socio-economic context including experiences of discrimination and structural inequalities contributing to poverty and environmental risk, and related to normative tensions of adolescent development may result in increased family stressors during early adolescence.7,8 These transitions undermine protective parenting practices leading to increased adolescent health behavior risk-taking.9 Early adolescence is therefore an important time for prevention interventions that focus on supporting culturally-relevant parenting practices and parent-youth relations for Latino youth in immigrant families.
+
+Both qualities of parent-youth relationships (warmth, support, acceptance) and positive parenting practices (monitoring, positive discipline, and clear communication) protect against tobacco and other substance use, and are common targets of family-focused interventions.10-13 Family-focused interventions are effective in preventing and reducing tobacco use,14 however a number of known or hypothesized youth and family factors may moderate participant response to interventions. Youth baseline risk behavior and family distress -- particularly parental depression, family socio-economic disadvantage, and stress -- may impede participant responsiveness to interventions.15,16 Furthermore, the relationship between increased youth risk for smoking and a family context where parents and siblings smoke, or where home smoking is tolerated is well established.17,18 Interventions targeting Latino families with adolescents have identified differential intervention effects based on youth nativity,19 and language preference,20 but have rarely looked at cultural modifiers beyond these measures. Understanding the interaction of youth and family cultural orientation with programming is crucial in defining how interventions can best support building youth protective factors for immigrant families in complex transitions.
+
+One approach to generating culturally grounded interventions is through community-based participatory research (CBPR).21 CBPR recognizes the knowledge, expertise, and resources of communities, and so engages community members in the research process as full partners.22 CBPR enhances research by increasing the cultural relevance and acceptability of interventions through inclusion of communities and the organizations that serve them in the early definition of the research question and development of intervention programming.23
+
+Padres Informados/Jovenes Preparados (Informed Parents/Prepared Youth, PIJP) was a five-year, multisite CBPR intervention trial testing the effectiveness of a collaboratively developed family-skills training program directed at preventing tobacco and other substance use susceptibility among Latino youth ages 10 to 14 years. The intervention aims to support strong parenting practices and facilitate relationship building between parents and youth while emphasizing Latino cultural values, environmental risks related to socioeconomic circumstances, and the challenges youth face in navigation through the multiple cultures of their parents' home countries, the broader U.S., and adolescence. The current study reports PIJP overall intervention effects, and youth, family, and sociocultural moderators of study outcomes.
+
+## Methods
+
+The study location was a Midwestern city and rural region that received a large influx of Latino immigrants over the last twenty years. Our participatory approach has been described in depth elsewhere, but included a partnership structure consisting of community and academic co-primary investigators and a community-university research team with representation from seven community partner organizations (two clinics, one school system, and four social service agencies).24 We collaborated on project development and implementation from identification of the research question of interest to intervention design and interpretation of results.25 We utilized annual assessments to formally evaluate our collaborative processes and respond to areas of concern.26 To meet the collaborating organizations' expectation that all recruited families would receive the program, we utilized a randomized wait-list control group design where control families received the program six months after the intervention group completed their training.
+
+##### Participants
+
+Study participants were families with at least one immigrant, self-identified Latino, Spanish-speaking parent or guardian, and one self-identified Latino child age 10-14 years. Exclusion criteria included having participated in our pilot study. University and participating health systems' Institutional Review Boards approved the research protocol.
+
+Between July 2011 and September 2013, research staff supported the community partner organizations in developing and implementing recruitment plans. Recruitment strategies included approaching clients, community presentations, local radio and TV advertisements, and posting information on websites and professional email lists. Screening for eligibility and informed consent was performed by trained, bilingual-bicultural university research staff.
+
+##### Randomization
+
+We utilized a block randomization scheme with random block sizes to ensure balanced randomization of families within each study site. Families who provided parental consent for their own and their child's participation, and youth assent were randomized by bilingual university research staff into intervention or delayed-treatment conditions. The randomization sequence was concealed using opaque envelopes.
+
+##### Data collection
+
+Parents completed surveys in small groups via paper and pencil, and youth via touchscreen tablet prior to the intervention (T1), and 6 months post intervention (T2) at the participating sites. Research staff read questions aloud separately for parents and youth in a small group format and monitored for confidentiality. Approximately 10% of participants who were unable to attend data-collection sessions after 3 attempts at scheduling completed surveys at home and mailed in responses. Parents received $30 and youth $25 per survey.
+
+##### Intervention
+
+PIJP was co-developed by the community-university research team and an advisory board of Latino parents who identified and prioritized core cultural values they wished to convey to their children, and key parenting concerns. The research team spent two years integrating parent and community priorities, family education strategies, and theoretical models including positive youth development and social cognitive theories to develop a curriculum.27 The resulting intervention targeted parenting skills and positive parent youth relationships through an assets-oriented approach that emphasized Latino cultural values such as familismo (familism), confianza (trust) and respeto (respect) and considered parenting within the context of families' environmental risk related to structural factors such as residential segregation and concentration of poverty.28 Facilitators from the community partner organizations delivered eight weekly group-sessions at each community site. The 2.5 hour sessions used active learning methods, such as role-play, skill practice, and small group discussions (Table 1). Because the intervention focused primarily on parenting practices, youth attended four of the eight sessions; parents and youth initially met separately then came together for skill building. Control group participants received usual care at the community partner sites.
+
+### Table 1 Description of Padres Informados / Jovenes Preparados Curriculum
+
+#### Facilitator training
+
+In PIJP, reflecting the commitment to community capacity development in CBPR,29 at least two Latino Spanish-speaking staff from each organization directly participated in the project. Site facilitators participated in three days of group training addressing: a) CBPR and the rationale for a research, b) likely tensions between service delivery and research, c) human subjects protection, d) background and rationale for the intervention, e) overview of the intervention sessions, and f) group facilitation skills. They then attended eight hours of individual in-depth content and delivery training in the 2-4 weeks prior to implementing the intervention.
+
+### Measures
+
+The primary outcome was youth susceptibility to smoking at six months post intervention classified in relation to baseline smoking status.30,31 Baseline smoking status was assessed through three questions: 1) Have you ever smoked a cigarette, 2) Have you ever tried or experimented with cigarette smoking even a few puffs, and 3) Have you smoked at least 100 cigarettes in your life (only asked if answered yes to question 1)? Participants were categorized based on responses as: never-smokers (no to 1 and no to 2), puffers (no to 1 and yes to 2), experimenters (yes to 1 and no to 3), and smoking habit (yes to 1 and yes to 3).
+
+Susceptibility was assessed through three questions: 1) Do you think you will try a cigarette soon, 2) Do you think you will be smoking cigarettes one year from now, and 3) If one of your best friends were to offer you a cigarette, would you smoke it? A never-smoker was considered non-susceptible if the answer to question 1 was ‘No’ and answers to both questions 2 and 3 were ‘Definitely not.’ In cases where only two of the three questions were answered, a never-smoker was considered non-susceptible if the two answered questions were ‘No’ or ‘Definitely not.’ A puffer was considered non- susceptible if answers to questions 2 and 3 were ‘Definitely not’. Experimenters were considered non-susceptible if answering ‘Definitely not’ to question 2.
+
+Potential moderators of PIJP intervention effects on smoking susceptibility were family cultural factors, family wellbeing factors, and home smoking environment. Family Cultural Factors assessed at baseline included parent years in the United States (U.S.), country of origin, and family language (Only Spanish versus other). Parent adherence to traditional Latino values was assessed through a modified version of the Mexican American Cultural Values Scale (MACVS) assessing Latino enculturation.32 Sample questions include: “Men and women have different roles in life that they should continue to live by,” “No matter what, children should always treat their parents with respect,” and “Children should always do things to make their parents happy.” Cronbach's alpha for the scale was 0.90. A binary variable of higher versus lower adherence to traditional Latino values was calculated based on the median score of 4.2 (range 2.0 to 5.0).
+
+Family distress factors included three measures. First was the 17-item Hispanic Stress Inventory which captures intra-familial and extra-familial sources of stress including martial relations, work, and immigration.33 Sample questions included: “Because I am Latino I have been expected to work harder” and, “Because I am Latino I have had difficulty finding the type of work I want.” Second was the Parenting Stress Scale (18-items) that assessed perceptions of positive (e.g. emotional benefits, personal development) and challenging (e.g. demands on resources, restrictions) aspects of parenthood.34 Sample items included: “I am happy in my role as a parent,” “I feel overwhelmed by the responsibility of being a parent,” and “I am satisfied as a parent.” In addition, parent emotional health was assessed with the Kessler Psychological Distress Scale (K10), a well-established measure of psychological distress, including anxiety and affective disorders.35 Questions asking about the frequency of feeling in the past month included: “How often did you feel: tired out for no good reason,” “So nervous that nothing could calm you down,” and, “so depressed that nothing could cheer you up?”
+
+The home smoking environment included parent smoking status, any adult smokers in home, youth perception of whether smoking was allowed in the home and whether siblings smoked.
+
+Parent demographics included age, gender, relationship with youth enrolled in the program, education, employment status, family income, and marital status.
+
+Youth demographics included child gender, age, country of birth (US born or not).
+
+#### Statistical Analysis
+
+The calculated sample size estimate of 140 per group was based on providing at least 80% power to detect 6 month post-intervention differences in susceptibility to smoking rates, using a two-tailed Chi-square test of proportions with significance level (alpha) = 0.05, and providing for anticipated loss to follow-up of 18% from the enrollment goal of 170 per group. For the 46 families with two parents enrolled, a weighted random selection scheme was used to choose the selected parent such that the proportion of mothers/female caregivers in families with one enrolled parent was reflected across all families.
+
+Chi-square and Fisher exact tests and two-sample t-tests were used to test between group differences at baseline. Analyses used an intention to treat design. In total, 64 youth (18.5%) were missing the smoking susceptibility outcome variable. Multiple imputation methods in SAS (proc MI and proc MIANALYZE36) were used to generate a random sample of the missing values that represents the uncertainty due to missing data.37
+
+A basic logistic regression model investigated intervention effect on youth smoking susceptibility. The basic model adjusted for youth baseline susceptibility, age, and gender. Though youth age and gender were similar between intervention groups, logistic regression models included these variables to fully account for minimal differences between them.
+
+A second logistic regression model was developed to test for moderation of the intervention effect on 6 month post intervention smoking susceptibility. In a first step, potential moderators, namely, family cultural factors (parent years in the U.S., countries of origin, family language, and MACVS), family wellbeing factors (Hispanic Stress Inventory, parenting stress, parent emotional health), and home smoking environment (parent smoking status, any adult smokers in home, youth perception of whether smoking was allowed in the home, and sibling smoking status) were tested through individual logistic regression models adjusted for youth age, gender and baseline susceptibility and chosen for inclusion in the final moderation model at a significance level of ≤ 0.10. The interactions between intervention group and parent MACVS (traditional values) group, parent country of birth (Mexico or other), and youth country of birth (U.S. or other) were significant in individual regression models. However, odds ratios were not estimable for both parent and youth country of birth due to small or zero cell counts for some combinations; therefore only parent MACVS group was included in the moderation model. The model included intervention group, parent MACVS group and an interaction term for MACVS group with intervention group adjusted for youth age, gender and baseline susceptibility,
+
+## Results
+
+Of the 352 families randomized into the study, six families were found to be ineligible post-randomization, leaving 174 youth (196 parents/caregivers) in the intervention group and 172 youth (196 parents/caregivers) in the control group. See Figure 1 for study flow diagram.
+
+Figure 1 Flow of PIJP Study Participants
+
+### Participant characteristics
+
+Families largely included female caregivers (92%), who were mothers (90%) (Table 2 column A). Most parents, (70%) reported completing at least high school. Nearly 40% earned $1,000 or less per month. Participating parents were largely born in Mexico (86%), and been in the U.S. for a mean of 16 years. In terms of family cultural factors, 53% of the parents reported higher adherence to traditional Latino cultural values (MACVS), and 76% reported only speaking Spanish in the home. Youth participants were 52% were female, and on average were 12.3 years old. The majority were U.S. born (77%). At baseline, 89% of youth reported never smoking, and 35% were susceptible to smoking. Baseline indicators were similar between intervention and control groups (Table 2 columns B and C).
+
+### Table 2 Baseline parent/caregiver (CG) and youth demographics, cultural factors, family wellbeing factors, and home smoking environment
+
+### Engagement and attendance
+
+On average, parents attended 5.0±2.8 (mean± SD) of 8 sessions and youth attended 2.5±1.6 (mean± SD) of 4 sessions. A total of 58% of parents completed 6 or more sessions (at least 75% of the intervention).
+
+### Basic model
+
+In the basic model, baseline youth smoking susceptibility predicted smoking susceptibility six months post intervention when controlling for youth age and gender (Table 3). Intervention group did not predict smoking susceptibility at 6 months follow up.
+
+### Table 3 PIJP intervention effect on smoking susceptibility six months post intervention
+
+### Intervention moderation model
+
+Among the family cultural factors, family wellbeing factors, and home smoking environment measures, only parent endorsement of traditional Latino values (MACVS) was identified as a significant modifier of intervention outcomes when tested in individual models described in the analysis section above, and was thus the only moderator included as an interaction term in the full moderation model (Table 4). No intervention effect was noted for families where parents reported higher adherence to traditional Latino cultural values. However, in families where parents reported lower adherence to cultural values, we identified an intervention effect where the odds ratio of high smoking susceptibility for intervention compared to control youth was 0.35 (0.16, 0.75); equivalently, the odds of high smoking susceptibility were 2.9 times higher for control youth than for intervention youth.
+
+### Table 4 PIJP intervention effect on smoking susceptibility six months post intervention including youth demographics and moderator
+
+## Discussion
+
+This study identifies the importance of cultural orientation in outcomes for family-based prevention interventions for Latino youth. While no main intervention effect was noted during the short timeframe of follow up in this study, youth whose parents reported lower parental adherence to traditional Latino values did show unique responsiveness to this culturally-grounded intervention. These findings are important when considering design and content for interventions developed for immigrant families.
+
+Traditional cultural values are known protective resources associated with lower risk behaviors among immigrant youth; however pathways by which a cultural grounding in family interventions may enhance outcomes remains underexplored.38 Research suggests that maintenance of traditional values, practices, and behaviors within immigrant Latino families promotes healthy family interaction and effective parenting practices.39 In this study, youth in families without the protective effects of strong traditional values may have differentially benefitted from the culturally-reinforcing aspects of PIJP whereas youth in families that were already high in traditional cultural orientation did not show effects compared to controls. It is also possible that less traditional parents derived greater benefit from the intervention than their traditional counterparts because they had more to gain in terms of improved parenting practices.27 Finally, and consistent with prior research linking greater youth orientation to the dominant culture with increased risk behavior,5 youth in the low traditional values group may have exhibited increased risk behavior at baseline contributing to a greater likelihood for benefit. In sum, these results suggest that in order to maximize efficacy of prevention interventions we must consider how to best match programming to families' cultural orientation.
+
+Few examples exist of studies utilizing CBPR to develop and implement family- focused substance use prevention interventions. Strengths of this approach include increased likelihood of successful engagement, retention, and participation of families often labeled as challenging to reach.21 Family participation rates in this study were similar to or better than comparable studies with Latino families.40 Both this success, and the efficacy of the intervention with families reporting lower endorsement of traditional values, are likely related to approaches explicit in the participatory process. First is the cultural grounding of the intervention that arose from Latino parent and community definition of parenting challenges and identification of cultural values and practices to address those challenges. Second is the involvement of partner organizations that the collaborative team identified as highly trusted within the broader Latino community, in co-development of the intervention, recruitment of participants, and delivery of the intervention. The participatory approach also focused attention on families' local context and experiences. For example, the region where this study took place is notable for its economic and racial segregation with the concomitant risks of concentrated poverty; advisory board parents identified a number of instances where evidence based parenting practices were not applicable to their parenting context due to these risks. Edits to the intervention reflected these concerns making it highly appropriate for local families. It is possible that this specificity resulted in few moderators being identified as the intervention was broadly applicable to participating families in their local context.
+
+While our CBPR approach generated positive outcomes, it did require compromise. Our collective decision to balance research priorities with community priorities for delivering services to clients led to the choice of a delayed control study design, requiring that control participants postpone desired services for six months. In similar family-based studies intervention effects have not typically been noted for youth outcomes until twelve months post intervention.41 This finding suggests a need to explore alternative study designs that are able to meet both community service and research methodology priorities. Other limitations of the study include a lack of attention to other potential moderators such as experiences of neighborhood poverty that may shape how families benefit from prevention interventions.
+
+### Conclusions
+
+Results of this study reinforce family cultural orientation as a key contributor to intervention appropriateness and uptake in substance use prevention programs for Latino youth. Future research should continue to explore optimal ways to support immigrant families in maintaining protective cultural values and practices through complex family transitions.
+
+## Acknowledgments
+
+We would like to acknowledge all parents, youth, community agency staff, and other collaborators that contributed to the development of the program including Centro, West Side Community Health Services, Neighborhood House, Aquí Para Ti Clinic for Latino Youth, South Saint Paul School District, Centro Campesino, and University of Minnesota Extension in Kason. We would particularly like to posthumously acknowledge the essential contribution of Bibiana Garzon in building the Padres Informados program.
+
+This project is funded by National Cancer Institute U54 Center Grant, “Minnesota Centers for Cancer Collaboration” 1U54CA153603 and supported by Grant Number UL1RR024150 from the National Center for Research Resources, National Institutes of Health. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. The study sponsor had no role in study design, collection, analysis, and interpretation of data; writing the report; and the decision to submit the report for publication.
+
+## Footnotes
+
+Registration: This trial is registered in ClinicalTrials.gov ( NCT01442753).
+

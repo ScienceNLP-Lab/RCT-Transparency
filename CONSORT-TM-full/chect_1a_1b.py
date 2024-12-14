@@ -63,12 +63,12 @@ def find_1b_candidates(str1):
 	return False
 
 def main():
-	parser = ArgumentParser()
-
-	parser.add_argument('--file_path', type=str, help='path to the file')
-
-	opt = parser.parse_args()
-	file_path = opt.file_path
+	# parser = ArgumentParser()
+	#
+	# parser.add_argument('--file_path', type=str, help='path to the file')
+	#
+	# opt = parser.parse_args()
+	file_path = 'data/all_CONSORT_manual_data.csv'
 
 	df = pd.read_csv(file_path)
 
@@ -159,7 +159,6 @@ def main():
 	df_1b_candidates['text'] = df_1b_candidates['text'].str.lower()
 
 	PMCID_list_1b = set(df_1b_candidates[df_1b_candidates.apply(lambda row: check_1b_by_map(row['text'], structured_abstract_items), axis=1) == True].PMCID.to_list())
-	
 	false_positives_1b = PMCID_list_1b - set(df[df["1b_check"] == True].PMCID.to_list())
 	false_negatives_1b = set(pmids_with_1b) - PMCID_list_1b
 	true_negatives_1b = set(pmids_without_1b) - PMCID_list_1b

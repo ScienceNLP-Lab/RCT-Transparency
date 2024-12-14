@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-09-28">28 September 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>AOUC</roleName><forename type="first">Marco</forename><surname>Matucci-Cerinic</surname></persName>
+							<email>cerinic@unifi.it</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Biomedicine</orgName>
+								<orgName type="department" key="dep2">Division of Rheumatology</orgName>
+								<orgName type="department" key="dep3">DENOTHE Center</orgName>
+								<orgName type="institution" key="instit1">University of Florence</orgName>
+								<orgName type="institution" key="instit2">Villa Monna Tessa</orgName>
+								<address>
+									<addrLine>Viale Pieraccini 18</addrLine>
+									<postCode>50139</postCode>
+									<settlement>Florence</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<address>
+									<region>France, Germany, Italy, Spain, Switzerland, UK</region>
+									<country>Canada, USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Biomedicine</orgName>
+								<orgName type="department" key="dep2">Division of Rheumatology</orgName>
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<settlement>Florence</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Centre for Rheumatology, Royal Free and University College Medical School</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Rheumatology, UCLA School of Medicine</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Division of Rheumatology</orgName>
+								<orgName type="institution">University of Texas</orgName>
+								<address>
+									<addrLine>Health Science Center at Houston</addrLine>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">UMDNJ Scleroderma Program</orgName>
+								<orgName type="department" key="dep2">Robert Wood Johnson Medical School</orgName>
+								<address>
+									<settlement>New Brunswick</settlement>
+									<region>New Jersey</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Service de Médecine Interne</orgName>
+								<orgName type="institution">CHU Albert Michalon</orgName>
+								<address>
+									<settlement>Grenoble</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Division of Rheumatology</orgName>
+								<orgName type="institution">Johns Hopkins University</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Division of Clinical Immunology and Rheumatology</orgName>
+								<orgName type="institution">University of Alabama at Birmingham</orgName>
+								<address>
+									<settlement>Birmingham</settlement>
+									<region>Alabama</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="department" key="dep1">Section of Rheumatology</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Boston University</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="department">Division of Rheumatology</orgName>
+								<address>
+									<addrLine>Saint Joseph Health Care</addrLine>
+									<settlement>London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">Division of Rheumatology</orgName>
+								<orgName type="institution">University of Chicago</orgName>
+								<address>
+									<settlement>Chicago</settlement>
+									<region>Illinois</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department">Section of Clinical Immunology, Allergy, and Rheumatology, Tulane University School of Medicine</orgName>
+								<address>
+									<settlement>New Orleans</settlement>
+									<region>Louisiana</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="institution">Centocor R&amp;D</orgName>
+								<address>
+									<settlement>Malvern</settlement>
+									<region>Pennsylvania</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="department">Section of Rheumatology</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<settlement>Philadelphia</settlement>
+									<region>Pennsylvania</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff16">
+								<orgName type="department">Department of Rheumatology</orgName>
+								<orgName type="institution">University of Lübeck</orgName>
+								<address>
+									<settlement>Bad Bramstedt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff17">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Plochingen General Hospital</orgName>
+								<address>
+									<settlement>Plochingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-09-28">28 September 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1136/ard.2010.130658</idno>
+					<note type="submission">Accepted 4 July 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0-SNAPSHOT" ident="GROBID" when="2023-05-10T21:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objectives Ischaemic digital ulcers (DUs) are common in patients with systemic sclerosis (SSc) and are a cause of disease-related morbidity. In an earlier trial, treatment with bosentan, an oral endothelin receptor antagonist, reduced the occurrence of new DUs by 48%. The present study (RAPIDS-2, for 'RAndomized, double-blind, Placebocontrolled study with bosentan on healing and prevention of Ischemic Digital ulcers in patients with systemic Sclerosis') was conducted to more fully evaluate the effects of bosentan treatment on DUs associated with SSc. Methods This double-blind, placebo-controlled trial conducted at 41 centres in Europe and North America randomised 188 patients with SSc with at least 1 active DU ('cardinal ulcer') to bosentan 62.5 mg twice daily for 4 weeks and 125 mg twice daily thereafter for 20 weeks (n=98) or matching placebo (n=90; total 24 weeks). The two primary end points were the number of new DUs and the time to healing of the cardinal ulcer. Secondary end points included pain, disability and safety. Results Over 24 weeks, bosentan treatment was associated with a 30% reduction in the number of new DUs compared with placebo (mean±standard error: 1.9±0.2 vs 2.7±0.3 new ulcers; p=0.04). This effect was greater in patients who entered the trial with more DUs. There was no difference between treatments in healing rate of the cardinal ulcer or secondary end points of pain and disability. Peripheral oedema and elevated aminotransferases were associated with bosentan treatment. Conclusions Bosentan treatment reduced the occurrence of new DUs in patients with SSc but had no effect on DU healing. Bosentan was well tolerated and may be a useful adjunct in the management of patients with SSc with recurrent DUs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contributors</head><p>The Steering Committee (consisting of six of the authors) along with the study's sponsor (Actelion Pharmaceuticals) designed the trial and supervised its conduct. The investigators and sponsor collected trial data. The authors had full access to the data, prepared the manuscript without compensation by the sponsor and had full responsibility for the fi nal decision to submit the paper. Medical writing assistance with the development of the manuscript was provided by Dr Karen Manchester (funded by Actelion Pharmaceuticals).</p><p>Ethics approval This study was conducted with the approval of the Local Ethics Committees at each of 41 study sites in</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Intimal hyperplasia, endothelial dysfunction and occlusive vasculopathy are ubiquitous features of systemic sclerosis (SSc). These vascular lesions are the underlying basis of important clinical syndromes in SSc, including scleroderma renal crisis, pulmonary arterial hypertension (PAH) and Raynaud's phenomenon. <ref type="bibr" target="#b0">1</ref> Patients with SSc are at high risk for the development of ischaemic digital ulcers (DUs), which occur in 35% to 60% of patients with SSc <ref type="bibr">2 -5</ref> and are an important source of morbidity. Among a cohort of 2080 patients with SSc identifi ed between 1972 and 1995 and prospectively followed-up for a mean of 10 years, 58% of patients had a history of DUs. <ref type="bibr" target="#b4">5</ref> Of all patients with SSc, 32% (666 patients) had persistent or recurrent DUs for ≥6 months; of these, 30% (197 patients) had severe DUs (complicated by gangrene, or requiring digital sympathectomy or amputation). In one series, the incidence of fi nger amputation as a consequence of DUs was 1.2% per patient-year. <ref type="bibr" target="#b5">6</ref> The pathogenesis of DUs is thought to include many of the hallmark processes of critical tissue ischaemia, such as impaired afferent vasomotion, microvascular disruption, reduced venous drainage, increased local platelet activation and increased leucocyte adherence. <ref type="bibr" target="#b0">1</ref> As a result, no single pharmacological treatment is entirely effective. Nifedipine and intravenous iloprost reduced the frequency and severity of SSc-related Raynaud's phenomenon attacks, <ref type="bibr" target="#b6">7</ref> and iloprost was shown to improve DU healing in another trial that included patients with active DUs. <ref type="bibr" target="#b7">8</ref> Few studies have been specifi cally designed to examine effi cacy in the prevention or treatment of DUs. Nifedipine and intravenous iloprost resulted in the reduction from baseline in the mean number of DUs in a small study. <ref type="bibr" target="#b6">7</ref> Similarly, a trial in patients with severe PAH associated with SSc 9 indicated there may be a benefi cial effect of epoprostenol on the number of DUs. In a recent small placebo-controlled study, atorvastatin reduced the number of new DUs in association with improvement in markers of endothelial function. <ref type="bibr" target="#b9">10</ref> Indirect evidence implicates endothelin (ET) as a potential mediator of the vascular dysfunction in SSc. Plasma ET concentrations are increased in patients with SSc, and there is evidence for increased ET B receptor expression in lung, skin and blood vessels in this disease. <ref type="bibr" target="#b10">11</ref> Other actions of ET relevant to SSc include proinfl ammatory and proliferative effects as well as mediation of vasoconstriction. <ref type="bibr" target="#b11">12</ref> ET receptor antagonists including bosentan are now commonly used for the treatment of PAH in SSc. <ref type="bibr">13 -15</ref> A previous double-blind, randomised, placebocontrolled trial investigated the role of bosentan in the reduction of new DUs in 122 patients with SSc Bosentan treatment of digital ulcers related to systemic sclerosis: results from the RAPIDS-2 randomised, double-blind, placebo-controlled trial Marco Matucci-Cerinic, <ref type="bibr" target="#b0">1</ref> Christopher P Denton, 2 Daniel E Furst, <ref type="bibr" target="#b2">3</ref> Maureen D Mayes, <ref type="bibr" target="#b3">4</ref> Vivien M Hsu, <ref type="bibr" target="#b4">5</ref> Patrick Carpentier, <ref type="bibr" target="#b5">6</ref> Fredrick M Wigley, <ref type="bibr" target="#b6">7</ref> Carol M Black, 2 Barri J Fessler, <ref type="bibr" target="#b7">8</ref> Peter A Merkel, <ref type="bibr" target="#b8">9</ref> Janet E Pope, <ref type="bibr" target="#b9">10</ref> Nadera J Sweiss, <ref type="bibr" target="#b10">11</ref> Mittie K Doyle, <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Bernhard Hellmich, <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> Thomas A Medsger Jr, <ref type="bibr" target="#b16">17</ref> Adele Morganti, <ref type="bibr" target="#b17">18</ref> Fabrice Kramer, <ref type="bibr" target="#b17">18</ref> Joseph H Korn, <ref type="bibr" target="#b8">9</ref> James R Seibold <ref type="bibr" target="#b18">19</ref> allowed, and randomised treatment was administered in addition to the usual, stable (over the previous month) treatment for Raynaud's phenomenon. Patients who required parenteral, oral or inhaled prostanoid treatment during the study were fi rst discontinued from study treatment. Use of glibenclamide, fl uconazole, calcineurin inhibitors or ciclosporin A was not allowed due to potential drug interactions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>The two primary end points were (1) the mean number of new DUs per patient assessed by the investigator up to week 24 and (2) the time to healing of the cardinal ulcer up to week 24 in patients with cardinal ulcer healing maintained for 12 or more weeks. Healing was defi ned as complete epithelialisation, regardless of residual pain. Maintenance of cardinal ulcer healing required no recurrence at or contiguous to the original location at week 24 (if healing occurred before or at week 12) or during 12 weeks of observation with permissible extension of the treatment period (if healing occurred after week 12). To verify that the effect of treatment would not vary substantially across relevant baseline subgroups, the number of new DUs up to week 24 was additionally analysed in subgroups based on predefi ned baseline factors associated with disease severity.</p><p>Secondary and exploratory end points included: (1) reduction of new DUs and overall DU number (proportions of patients with no new DUs and with each number of new DUs up to week 24, time to onset of each number of new DUs up to week 24 and change from baseline to week 24 in total number of all DUs), ( <ref type="formula">2</ref>) healing (time to healing of all baseline DUs and of all new DUs through week 24, and proportions of patients with healing of all DUs by the end of week 24) and (3) pain and disability parameters (changes from baseline to week 24: in pain of the cardinal ulcer and overall hand pain assessed on visual analogue scales; hand disability index (an averaged score from the three Health Assessment Questionnaire (HAQ) domains of dressing/grooming, grip and hygiene); and HAQ disability index <ref type="bibr">18 19</ref> ).</p><p>Post hoc analyses included: (1) the number of new DUs up to week 12 in the overall patient population and in subgroups defi ned by randomisation month (October-February or autumn-winter and March-September or spring-summer) and (2) number of new DUs, time to each successive new DU and total number of DUs through week 24 in subgroups defi ned by the number of DUs at baseline (&lt;4 and ≥4).</p><p>Patients were evaluated at randomisation/baseline and every 4 weeks during treatment (or premature withdrawal, week 24 and, if applicable, 12 weeks after healing of the cardinal ulcer), with DUs assessed at each study visit. Safety was continually monitored.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>Effi cacy analyses were performed on all treated patients using SAS software (SAS Institute, Cary, North Carolina, USA). Means±SEs are presented for numerical variables and Kaplan-Meier estimates for time-to-event variables. Treatment effects for the primary end points were evaluated using the Pitman permutation (new DUs) and log-rank test with asymptotic approximation (time to healing of the cardinal ulcer). Missing data on new DUs were imputed using extrapolation, with the incidence rate of new DUs at the last assessment corrected for the missing time period. The worst of either the calculated number or observed values at week 24 was used for patients who prematurely discontinued study treatment. Patients with no and a history of DUs within the previous year. <ref type="bibr" target="#b15">16</ref> After 16 weeks of treatment, patients receiving bosentan had a 48% reduction in the mean number of new DUs compared with placebo (1.4 vs 2.7 new ulcers; p=0.0083), but there were no differences between treatments in end points assessing DU healing in the 63% of patients with active DUs at baseline.</p><p>The present study (RAPIDS-2, for 'RAndomized, doubleblind, Placebo-controlled study with bosentan on healing and prevention of Ischemic Digital ulcers in patients with systemic Sclerosis') was designed to further investigate the effects of bosentan as a treatment for DUs secondary to SSc over a 24-week treatment period in a larger population of patients, all of whom had active DUs at study entry. The primary objectives were to evaluate the effect of bosentan on the reduction of new DUs and healing of DUs in patients with SSc. Secondary objectives were to evaluate the effect of bosentan on pain and disability, as well as its tolerability and safety in these patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS Study design</head><p>This double-blind, randomised, parallel-group, placebocontrolled study consisted of a ≤2-week screening period, a 24-week treatment period and an 8-week post-treatment follow-up period. The study was approved by local ethics committees and conducted in accordance with the amended Declaration of Helsinki. All patients gave written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Settings and participants</head><p>The study was conducted from October 2003 to May 2005 at 41 centres in Europe and North America. Recruited patients were ≥18 years old, with SSc as defi ned by the preliminary classifi cation criteria of the American College of Rheumatology (ACR) <ref type="bibr" target="#b16">17</ref> and at least one active DU (onset between 1 week and 3 months prior to randomisation) that was selected by the investigator and termed the 'cardinal ulcer' (painful area, ≥2 mm in diameter with visible depth and loss of dermis, amenable to healing and in a location judged compatible with a vascular aetiology, specifi ed by protocol as volar surface of the digit distal to the proximal interphalangeal digital crease).</p><p>Patients were excluded if they had received intravenous prostanoids within the previous 3 months, had used phosphodiesterase inhibitors other than for intermittent treatment of male erectile dysfunction, or had received inhaled or oral prostanoids or injected botulinum toxin in an affected fi nger within 1 month. Patients were also excluded if they received systemic antibiotics to treat infected DUs within 2 weeks prior to randomisation. Also excluded were patients with body weight &lt;40 kg, severe PAH (WHO class III/IV), moderate to severe hepatic impairment or serum aminotransferase levels &gt;3 times the upper limit of the normal range (ULN). Contraceptive measures and monthly pregnancy testing were required during and for 3 months after the end of study treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomisation and interventions</head><p>After screening, patients were randomised to bosentan or placebo (1:1 ratio) by sequential allocation of randomisation numbers distributed to each centre in blocks of four. Patients received bosentan 62.5 mg twice daily for 4 weeks and then 125 mg twice daily for the remainder of the treatment period or matching placebo. The dose could remain at or be decreased to the starting dose due to intolerance, with possible subsequent increase to the target dose. Concomitant use of systemic antibiotics, analgaesics and topical treatments for wound care were</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Healing of the cardinal ulcer</head><p>No difference between bosentan and placebo treatments was observed in the time to healing of the cardinal ulcer (HR 0.91 (95% CI 0.61 to 1.35), p=0.63, fi gure 3 ). At week 24, more than 50% of patients in both groups had healing of the cardinal ulcer maintained for at least 12 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary and exploratory end points New DUs</head><p>The proportion of patients with no new DUs up to week 24 was similar with bosentan and placebo (observed in 32/95 (33.7%) and 26/89 (29.2%) patients, respectively, RR 1.15 (95% CI 0.75 to 1.77); p=0.53). The proportion of patients with one or more new DU was 66.3% (63/95) on bosentan compared with 70.8% (63/89) on placebo; the difference in observed proportions between treatments was greater in patients with multiple new DUs (18.9% vs 29.2% with ≥4, 10.5% vs 29.8% with ≥5, etc; fi gure 4 ). The maximum number of new DUs per patient was 10 on bosentan and 16 on placebo. Time-to-event analyses up to week 24 indicated an increasing reduction in risk with bosentan compared with placebo for the appearance of each successive new DU, with a HR of 0.45 (95% CI 0.21 to 0.95, p=0.03) for the fi fth new DU. However, the mean total number of DUs (baseline and new) per patient decreased to a similar extent in the bosentan and placebo groups (−1.7. (95% CI −2.3 to −1.0) and −1.5 (−2.3 to −0.7) DUs, respectively; p=0.76).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DU healing</head><p>No treatment effects were observed in the times to healing up to week 24 for all baseline DUs (HR 0.94 (95% CI 0.65 to 1.37), p=0.74) or of all new DUs (HR 1.40 (0.78 to 2.51), p=0.26). Healing of all DUs (baseline and new combined) at week 24 was observed in 35/95 (36.8%) and 35/89 (39.3%) of patients on bosentan and placebo, respectively (RR 0.94 (95% CI 0.65 to 1.35), p=0.76).</p><p>valid assessment post baseline (three patients on bosentan, one on placebo) were excluded from the main analysis. Treatment effects for new DUs in predefi ned subgroups were presented as point estimates and 95% two-sided CIs.</p><p>For exploratory purposes, statistical tests of treatment difference were provided for planned secondary/exploratory and unplanned post hoc effi cacy analyses and included the Pitman permutation (for changes from baseline), the Fisher exact test (for proportions) and the log-rank test (for times to event), each performed without correction for multiple testing. Placebocorrected changes from baseline, RR and HRs from Cox modelling were each reported with 95% CIs where appropriate. Safety and baseline data were summarised descriptively, with no statistical testing planned or given.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The two treatment groups were well matched with respect to demographic features, baseline disease characteristics and concomitant treatment for DUs at baseline ( table <ref type="table" target="#tab_0">1</ref> ). All 188 randomised patients received study treatment, with mean exposures of 22.7±0.9 and 24.5±0.9 weeks in the bosentan and placebo groups, respectively. The treatment period was completed by 75/98 (76.5%) and 73/90 (81.1%) patients, respectively ( fi gure 1 ), with 9.2% and 7.8%, respectively, discontinued due to an adverse event.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Primary end points New DUs</head><p>After 24 weeks of bosentan treatment there was a 30% reduction in the occurrence of new DUs compared with placebo in the study population (1.9 (95% CI 1.4 to 2.3) vs 2.7 (2.0 to 3.4) new DUs, p=0.0351, fi gure 2 ). Fewer new DUs were observed with bosentan than placebo in all subgroups except among current smokers ( table 2 , subgroup analyses). This included subgroups of limited and diffuse SSc, with no difference between the two subgroups in the treatment effect (overlapping 95% CIs). CI −0.15 to 0.08), p=0.51 and −0.04 (−0.20 to 0.12), p=0.62, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post hoc analyses of new DUs</head><p>In unplanned post hoc analyses in subgroups defi ned by the number of DUs at baseline, the mean treatment effect with bosentan was −2.1 (95% CI −3.8 to −0.4) new DUs (p=0.02) in patients with at least four DUs at baseline and −0.3 (−1.1 to</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pain and disability</head><p>Patient-rated measures of overall hand pain and pain of the cardinal ulcer, as assessed by visual analogue scales, showed no differential treatment effect in pain at week 24 (mean treatment effects of −1.7 (95% CI −11.4 to 7.9), p=0.73 and −1.6 (−11.5 to 8.3), p=0.75, respectively). The changes from baseline in the HAQ disability index and hand disability index at week 24 were also similar in both treatment groups (−0.04 (95%   serious event (pneumonia) reported for more than one patient on bosentan. One patient on placebo died from acute respiratory distress syndrome during the post-treatment follow-up. The proportions of patients experiencing at least one adverse event were similar in both treatment groups ( table <ref type="table" target="#tab_3">4</ref> ). Adverse events occurring in more patients on bosentan than placebo included peripheral oedema (18.8% vs 4.4%) and events denoting elevated aminotransferases (12.5% vs 2.2%). These adverse events resulted in premature discontinuation of bosentan treatment in 2.1% and 5.2% of patients, respectively (vs none on placebo). Overall, adverse events led to the discontinuation of study treatment in 15.6% of patients on bosentan and 12.2% on placebo. Laboratory tests identifi ed increased aminotransferases to &gt;3×ULN in 10/95 (10.5%) patients on bosentan (which included one patient with an elevation to &gt;8×ULN) and 1/88 (1.1%) patients on placebo. In all cases on bosentan, elevated aminotransferases resolved during continued treatment, after a decrease in dose, or following temporary or permanent treatment discontinuation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this randomised, placebo-controlled trial, bosentan treatment was associated with a 30% reduction in the number of new DUs over the 24-week treatment period but did not result in a treatment effect on healing of the cardinal ulcer. The reduction of new DUs was more pronounced among patients with multiple DUs; large numbers of new DUs were less likely to occur, and the appearance of each successive new DU was delayed in patients on bosentan compared with those on placebo. Based on post hoc analyses, the reduction of new DUs appeared to be greater in patients with at least four DUs at baseline.</p><p>The mean total number of DUs per patient at week 24 was similar in the two treatment groups, and no treatment effects were observed in the other measures of healing or patient-rated measures of pain and disability used. This is the second randomised placebo-controlled trial to show a reduction in the number of new DUs in susceptible patients with SSc treated with bosentan. Consistent with the fi rst trial, the observed treatment effect was greater in patients with multiple DUs, while there was no effect on healing parameters. <ref type="bibr" target="#b15">16</ref> 0.4) new DUs (p=0.39) in patients with less than four DUs at baseline ( table <ref type="table" target="#tab_1">2</ref> ). In both subgroups, the estimated proportion of patients without each subsequent new DU was larger in the bosentan than placebo group except the fi rst new DU ( table <ref type="table" target="#tab_2">3</ref> ), and the difference between treatment groups was larger among patients with at least four new DUs than in those with fewer than four new DUs. No difference between treatments was observed in the mean total number of DUs (baseline plus new) per patient among patients with at least four DUs at baseline (−3.4 (95% CI −4.8 to −1.9) on bosentan and −3.6 (−5.4 to −1.7) DUs on placebo) and those with fewer than four DUs at baseline (−0.6 (−1.0 to −0.2) and −0.5 (−1.1 to 0.1) DUs, respectively).</p><p>An analysis of subgroups based on randomisation month (October-February, March-September) confi ned to the fi rst 12 weeks of treatment (to avoid overlapping time periods) found no effect of season on the treatment effect ( table <ref type="table" target="#tab_1">2</ref> ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety and tolerability</head><p>Serious adverse events occurred in 9.4% and 16.7% of patients on bosentan and placebo, respectively ( table <ref type="table" target="#tab_3">4</ref> ), with only one on prevention of new ulcers must examine if patient benefi t would result, as opposed to the design adopted in the present study.</p><p>The increased incidence of elevated aminotransferases with bosentan in this and other studies reinforces the need for continual monitoring of liver function with this treatment. The incidence, severity and resolution of these abnormalities in this study were similar to previous reports. <ref type="bibr" target="#b12">13</ref> The increased incidence of peripheral oedema with bosentan was not previously reported in patients with DUs <ref type="bibr" target="#b15">16</ref> but has been seen in other patient populations. <ref type="bibr" target="#b19">20</ref> This was a large and complex controlled trial, but there are limitations to the data interpretation. The defi nition of an active DU used in this trial may not match criteria used in other centres. The clinical utility of this promising approach to treatment may be challenged. In a patient encountered with a single DU, initiation of bosentan would not be expected to facilitate healing, and at least 66% of all bosentan-treated subjects would develop at least one additional DU over 6 months of follow-up. However, in those patients presenting with multiple DUs (at least four), the effect of bosentan treatment on the reduction of new DUs offers greater potential benefi t. Major outcomes including hospitalisations for infection or need for surgical amputation occur too infrequently to serve as outcome measures in trials of this sort, but it seems reasonable to surmise that reduced occurrence of DUs would ultimately reduce the risk of same in an appropriate population.</p><p>In conclusion, two randomised trials have shown that bosentan treatment reduces the occurrence of new DUs compared with placebo in patients with SSc but has no effect on DU healing. Bosentan was well tolerated and may be a useful adjunct in the management of patients with SSc and recurrent DUs. The reduction of new DUs without effect on healing in bosentan-treated patients did not translate into a smaller ulcer burden, as was seen in the previous study. <ref type="bibr" target="#b15">16</ref> In this study, similar reductions in the overall number of DUs (present at baseline and/or new) occurred in both groups. The difference between studies could not be explained by a seasonal effect on the appearance of new DUs due to the different enrolment periods (October-September vs October-February in the fi rst study). Raynaud's phenomenon is thought to be more severe and new DUs more frequent during the autumn and winter, but the numbers of new DUs in autumn/winter and spring/ summer randomisation subgroups were nearly identical. The patient populations for the two studies appeared similar except that in the earlier study, 38% of patients had no active DU at baseline. <ref type="bibr" target="#b15">16</ref> Patients in the earlier study had fewer DUs to heal, perhaps giving more weight to prevention in the reduction of overall ulcer burden.</p><p>The reduction of new DUs with bosentan also did not translate into measurable decreases in pain or disability compared with placebo. Explanations could include (1) the expected result, given no differences in total number of DUs between treatment groups, (2) a lack of sensitivity to change and discriminative value in the current instruments used to assess hand function in SSc and (3) bosentan treatment does not improve pain and disability in spite of the reduction of new DUs. Improvement in hand function was seen in the previous study. <ref type="bibr" target="#b15">16</ref> A clear picture of the overall benefi ts of treatment on patient well-being remains elusive, as remaining DUs and the underlying healing rate may confound overall assessments. In this study, both groups had an equal opportunity for benefi t so it may be inferred that in the future, a long-term study  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Study fl ow diagram.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure2Mean number of new digital ulcers in the study population up to weeks 12 and 24. p Values were determined using the Pitman permutation. Two patients on bosentan had no week 12 assessment.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 Figure 4</head><label>34</label><figDesc>Figure 3 Kaplan-Meier estimates of time to complete healing of the cardinal ulcer.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Competing interests MMC has received fees for speaking and research grant from Actelion Pharmaceuticals and Pfi zer, and has received fees for speaking from Glaxo-Smith-Kline Beecham. CPD has received research grant funding to support clinical research fellows, honoraria for lecturing and been a consultant to Actelion Pharmaceuticals, Encysive Pharmaceuticals, Genzyme, Aspreva Pharmaceuticals, Pfi zer, Biovitrum and DiGNA. DEF has received grants for research from Actelion and Gilead, has consulted regarding trial design for the same companies and has received funds for being a Continuing Medical Education speaker from Actelion. MDM has received honoraria from Actelion Pharmaceuticals for speaking to doctor groups, as well as funds to cover travel expenses and research costs to conduct clinical trials of bosentan. MDM has received payments from Novartis to participate in a Data Safety Monitoring Board for a clinical trial of a drug not currently on the market; and to conduct a clinical trial of a new agent for scleroderma. MDM has received funds from MediQuest to conduct a clinical trial of topical nitroglycerin preparation to treat Raynaud's phenomenon. VMH has received honoraria and travel expenses from Actelion Pharmaceuticals for serving on an advisory board.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Demographics and baseline characteristics of the study population</figDesc><table><row><cell>Characteristic</cell></row></table><note>*Other races included Asian, Hispanic, Indian, Native American and mixed.†Smoking status was available for 88 and 94 patients in the placebo and bosentan groups, respectively, and the time from fi rst occurrence of DUs to randomisation for 89 and 98 patients, respectively. ‡Limited=skin thickening only distal to the elbows and knees. Diffuse=skin thickening proximal to the elbows or knees or affecting the trunk.§As defi ned by the WHO Drug Dictionary and included pentoxifylline, bufl omedil, ginkgo tree leaves extract and ginkgo biloba. ACE, angiotensin-converting enzyme; DU, digital ulcer; SSc, systemic sclerosis.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Number of new DUs up to week 24 in predefi ned and post hoc subgroups of patients Exploratory p value determined using the Pitman permutation. †Analysis confi ned to the fi rst 12 weeks of treatment to avoid overlap of seasons. DU, digital ulcer; SSc, systemic sclerosis.</figDesc><table><row><cell cols="2">Number of new DUs</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>n</cell><cell>Placebo</cell><cell>n</cell><cell>Bosentan</cell><cell>Treatment effect</cell><cell>p Value*</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Kaplan-Meier estimates of patients without subsequent new DUs at week 20 by number of DUs at baseline</figDesc><table><row><cell></cell><cell>&lt;4 DUs at baseline</cell><cell></cell><cell>≥4 DUs at baseline</cell><cell></cell></row><row><cell>Event-free rate (%)</cell><cell>Placebo (n=61)</cell><cell>Bosentan (n=61)</cell><cell>Placebo (n=29)</cell><cell>Bosentan (n=37)</cell></row><row><cell>First new DU</cell><cell>45.8</cell><cell>47.7</cell><cell>24.1</cell><cell>23.4</cell></row><row><cell>Second new DU</cell><cell>66.5</cell><cell>70.1</cell><cell>44.8</cell><cell>57.3</cell></row><row><cell>Third new DU</cell><cell>84.2</cell><cell>85.0</cell><cell>55.2</cell><cell>75.3</cell></row><row><cell>Fourth new DU</cell><cell>84.0</cell><cell>96.1</cell><cell>58.6</cell><cell>84.2</cell></row><row><cell>Fifth new DU</cell><cell>92.9</cell><cell>98.0</cell><cell>72.4</cell><cell>90.6</cell></row><row><cell>DU, digital ulcer.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Summary of adverse events occurring during and up to 1 day after the end of study treatment Reported by investigators as alanine aminotransferase increased, aspartate aminotransferase increased and liver function test abnormal. †Includes all adverse events with an incidence on bosentan &lt;5%.</figDesc><table><row><cell>Adverse event, n (%)</cell><cell>Placebo (n=90)</cell><cell>Bosentan (n=96)</cell></row><row><cell>All patients with ≥1 adverse event</cell><cell>76 (84.4)</cell><cell>83 (86.5)</cell></row><row><cell>Peripheral oedema</cell><cell>4 (4.4)</cell><cell>18 (18.8)</cell></row><row><cell>Elevated aminotransferases*</cell><cell>2 (2.2)</cell><cell>12 (12.5)</cell></row><row><cell>Arthralgia</cell><cell>6 (6.7)</cell><cell>10 (10.4)</cell></row><row><cell>Headache</cell><cell>11 (12.2)</cell><cell>9 (9.4)</cell></row><row><cell>Infected skin ulcer</cell><cell>6 (6.7)</cell><cell>9 (9.4)</cell></row><row><cell>Upper respiratory tract infection</cell><cell>7 (7.8)</cell><cell>8 (8.3)</cell></row><row><cell>Diarrhoea</cell><cell>8 (8.9)</cell><cell>6 (6.3)</cell></row><row><cell>Pain in extremity</cell><cell>4 (4.4)</cell><cell>6 (6.3)</cell></row><row><cell>Nausea</cell><cell>11 (12.2)</cell><cell>5 (5.2)</cell></row><row><cell>Skin ulcer/disease progression</cell><cell>7 (7.8)</cell><cell>5 (5.2)</cell></row><row><cell>Urinary tract infection</cell><cell>3 (3.3)</cell><cell>5 (5.2)</cell></row><row><cell>Dermatitis</cell><cell>2 (2.2)</cell><cell>5 (5.2)</cell></row><row><cell>Other †</cell><cell>70 (77.8)</cell><cell>78 (81.3)</cell></row><row><cell>All patients with ≥1 serious adverse event</cell><cell>15 (16.7)</cell><cell>9 (9.4)</cell></row></table><note>*</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Ann Rheum Dis 2011;70:32-38. doi:10.1136/ard.2010.130658</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>PC has received fees from Actelion Pharmaceuticals as a speaker and moderator at the 'Journée Française de la Sclérodermie Systémique' in 2006 and 2007 and for participation in the Scientifi c Board on Systemic Sclerosis (2003)(2004)(2005)(2006)(2007)(2008). FMW has been compensated for presenting in lecture format materials and data from studies related to the use of bosentan; FMW was an investigator in the RAPIDS-2 trial supported by Actelion. BJF has received funds for consulting from Actelion, Encysive and Gilead, for research from Actelion, and for speaking from Encysive and Gilead. PAM has received research funding from the following companies, each of which are involved in research related to the topic of this article: Actelion, Encysive, Genentech, Genzyme and Novartis. JEP has been a consultant and speaker for Actelion. Research in this study and other studies was funded by Actelion. MKD has received honoraria and travel expenses from Actelion Pharmaceuticals for serving on an advisory board and was an investigator for the RAPIDS-2 trial supported by Actelion. BH has received speaker honoraria from Actelion Pharmaceuticals, the manufacturer of bosentan. TAM has been paid honoraria by Actelion for giving lectures unrelated to Actelion products. FK is a full-time employee of and holds stock options in Actelion Pharmaceuticals. AM is a full-time employee of Actelion Pharmaceuticals Italia Srl and holds stock options in Actelion Pharmaceuticals. JHK received research funding from the following companies, each of which are involved in research related to the topic of this article: Actelion and Genzyme. JRS has funded research and a consultancy agreement with Actelion Pharmaceuticals, the sponsor of this study. JS, in the past, received honoraria for lectures supported by Actelion. He also has funded research and consultancy relationships with Pfi zer, Encysive, United Therapeutics, Centocor, FibroGen, Bristol-Myers Squibb, Lilly, Genzyme and Gilead, all of which have commercial interests in treating scleroderma and its vascular complications. No confl icts of interest are reported by CMB and NJS.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr" target="#b16">17</ref> <p>Division of Rheumatology and Clinical Immunology, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA <ref type="bibr" target="#b17">18</ref> Actelion Pharmaceuticals Ltd, Allschwil, Switzerland <ref type="bibr" target="#b18">19</ref> University of Connecticut Health Center, Farmington, Connecticut, USA</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Vascular disease in scleroderma</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Wigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rev Allergy Immunol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="150" to="175" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wigley FM. Vascular disease in scleroderma. Clin Rev Allergy Immunol 2009; 36 : 150 -75 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Clinical risk assessment of organ manifestations in systemic sclerosis: a report from the EULAR Scleroderma Trials And Research group database</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">A</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tyndall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Czirják</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Rheum Dis</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="754" to="763" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Walker UA, Tyndall A, Czirják L, et al. Clinical risk assessment of organ mani- festations in systemic sclerosis: a report from the EULAR Scleroderma Trials And Research group database. Ann Rheum Dis 2007; 66 : 754 -63 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Patient perception of UK scleroderma services -results of an anonymous questionnaire</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Mawdsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rheumatology (Oxford)</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">1573</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mawdsley AH. Patient perception of UK scleroderma services -results of an anonymous questionnaire. Rheumatology (Oxford) 2006; 45 : 1573 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Systemic sclerosis: demographic, clinical, and serologic features and survival in 1,012 Italian patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ferri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Valentini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cozzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicine (Baltimore)</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="139" to="153" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ferri C, Valentini G, Cozzi F, et al. Systemic sclerosis: demographic, clinical, and serologic features and survival in 1,012 Italian patients. Medicine (Baltimore) 2002; 81 : 139 -53 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Digital ulcers: overt vascular disease in systemic sclerosis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Steen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Denton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Pope</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rheumatology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="19" to="24" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+	<note type="raw_reference">Steen V, Denton CP, Pope JE, et al . Digital ulcers: overt vascular disease in systemic sclerosis. Rheumatology 2009; 48 ( Suppl 3 ): iii19 -24 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Natural history of ischemic digital ulcers in systemic sclerosis: single-center retrospective longitudinal study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hachulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Clerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Launay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="2423" to="2430" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hachulla E, Clerson P, Launay D, et al. Natural history of ischemic digital ulcers in systemic sclerosis: single-center retrospective longitudinal study. J Rheumatol 2007; 34 : 2423 -30 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Comparison of intravenous infusions of iloprost and oral nifedipine in treatment of Raynaud&apos;s phenomenon in patients with systemic sclerosis: a double blind randomised study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rademaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Cooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Almond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">298</biblScope>
+			<biblScope unit="page" from="561" to="564" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rademaker M, Cooke ED, Almond NE, et al. Comparison of intravenous infu- sions of iloprost and oral nifedipine in treatment of Raynaud&apos;s phenomenon in patients with systemic sclerosis: a double blind randomised study. BMJ 1989; 298 : 561 -4 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Intravenous iloprost treatment of Raynaud&apos;s phenomenon and ischemic ulcers secondary to systemic sclerosis</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Wigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Seibold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Wise</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1407" to="1414" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wigley FM, Seibold JR, Wise RA, et al. Intravenous iloprost treatment of Raynaud&apos;s phenomenon and ischemic ulcers secondary to systemic sclerosis. J Rheumatol 1992; 19 : 1407 -14 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Continuous intravenous epoprostenol for pulmonary hypertension due to the scleroderma spectrum of disease. A randomized, controlled trial</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Badesch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Tapson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mcgoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="425" to="434" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Badesch DB, Tapson VF, McGoon MD, et al. Continuous intravenous epoprostenol for pulmonary hypertension due to the scleroderma spectrum of disease. A random- ized, controlled trial. Ann Intern Med 2000; 132 : 425 -34 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Statins: potentially useful in therapy of systemic sclerosis-related Raynaud&apos;s phenomenon and digital ulcers</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abou-Raya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abou-Raya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Helmii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1801" to="1808" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abou-Raya A, Abou-Raya S, Helmii M. Statins: potentially useful in therapy of systemic sclerosis-related Raynaud&apos;s phenomenon and digital ulcers. J Rheumatol 2008; 35 : 1801 -8 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Endothelin and endothelin receptor antagonists in systemic rheumatic disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1190" to="1199" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mayes MD. Endothelin and endothelin receptor antagonists in systemic rheumatic disease. Arthritis Rheum 2003; 48 : 1190 -9 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A new era in the management of pulmonary arterial hypertension related to scleroderma: endothelin receptor antagonism</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hachulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Coghlan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Rheum Dis</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1009" to="1014" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hachulla E, Coghlan JG. A new era in the management of pulmonary arterial hypertension related to scleroderma: endothelin receptor antagonism. Ann Rheum Dis 2004; 63 : 1009 -14 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bosentan therapy for pulmonary arterial hypertension</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Badesch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Barst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="896" to="903" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rubin LJ, Badesch DB, Barst RJ, et al. Bosentan therapy for pulmonary arterial hypertension. N Engl J Med 2002; 346 : 896 -903 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Bosentan treatment for pulmonary arterial hypertension related to connective tissue disease: a subgroup analysis of the pivotal clinical trials and their open-label extensions</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Denton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Humbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Rheum Dis</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1336" to="1340" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Denton CP, Humbert M, Rubin L, et al. Bosentan treatment for pulmonary arterial hypertension related to connective tissue disease: a subgroup analysis of the pivotal clinical trials and their open-label extensions. Ann Rheum Dis 2006; 65 : 1336 -40 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Therapeutic challenges for systemic sclerosis: facts and future targets</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matucci-Cerinic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Rosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Federico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">1110</biblScope>
+			<biblScope unit="page" from="448" to="454" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Matucci-Cerinic M, Del Rosso A, Federico P, et al. Therapeutic challenges for systemic sclerosis: facts and future targets. Ann N Y Acad Sci 2007; 1110 : 448 -54 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Digital ulcers in systemic sclerosis: prevention by treatment with bosentan, an oral endothelin receptor antagonist</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Korn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matucci-Cerinic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="3985" to="3993" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Korn JH, Mayes M, Matucci-Cerinic M, et al. Digital ulcers in systemic sclerosis: prevention by treatment with bosentan, an oral endothelin receptor antagonist. Arthritis Rheum 2004; 50 : 3985 -93 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Subcommittee for scleroderma criteria of the American Rheumatism Association Diagnostic and Therapeutic Criteria Committee SfSC</title>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="581" to="590" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+	<note>Preliminary criteria for the classifi cation of systemic sclerosis (scleroderma)</note>
+	<note type="raw_reference">Preliminary criteria for the classifi cation of systemic sclerosis (scleroderma). Subcommittee for scleroderma criteria of the American Rheumatism Association Diagnostic and Therapeutic Criteria Committee SfSC. Arthritis Rheum 1980; 23 : 581 -90 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The value of the Health Assessment Questionnaire and special patient-generated scales to demonstrate change in systemic sclerosis patients over time</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Steen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Medsger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jr</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1984" to="1991" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Steen VD, Medsger TA, Jr, The value of the Health Assessment Questionnaire and special patient-generated scales to demonstrate change in systemic sclerosis patients over time. Arthritis Rheum 1997; 40 : 1984 -91 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Measuring disease activity and functional status in patients with scleroderma and Raynaud&apos;s phenomenon</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Merkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Herlyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Rheum</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="2410" to="2420" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Merkel PA, Herlyn K, Martin RW, et al. Measuring disease activity and functional status in patients with scleroderma and Raynaud&apos;s phenomenon. Arthritis Rheum 2002; 46 : 2410 -20 .</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Bosentan therapy in patients with Eisenmenger syndrome: a multicenter, double-blind, randomized, placebo-controlled study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Galiè</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beghetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Gatzoulis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="48" to="54" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Galiè N, Beghetti M, Gatzoulis MA, et al. Bosentan therapy in patients with Eisenmenger syndrome: a multicenter, double-blind, randomized, placebo-controlled study. Circulation 2006; 114 : 48 -54 .</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

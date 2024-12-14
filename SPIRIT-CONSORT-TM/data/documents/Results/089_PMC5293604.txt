@@ -1,0 +1,157 @@
+Results of a Randomized Controlled Trial to Increase Cervical Cancer Screening among Rural Latinas
+
+## Abstract
+
+### Background
+
+Latinas have the highest rates of cervical cancer in the United States and the second-highest rate of cervical cancer mortality. One factor for the disparity is the relatively low rates of screening for cervical cancer in this population.
+
+### Methods
+
+Eligible women who were out of adherence with cervical cancer screening (> 3 years since last Pap test), were identified using medical record review by a local federally qualified health center. The effects of a low-intensity intervention arm (video delivered to participants homes; N=150); and a high- intensity intervention arm (video + home-based educational session; N=146), compared to a control arm (usual care; N=147) on cervical cancer screening uptake were investigated. A cost-effectiveness analysis of the intervention was conducted by calculating all intervention costs, and computing the incremental cost-effectiveness ratio (ICER). Finally, women with positive Pap tests were navigated by a community health educator to ensure that they received follow-up care.
+
+### Results
+
+A total of 443 Latinas participated. At seven months post-randomization, significantly more women in the high intensity arm received a pap test (53.4%) compared to the low intensity arm (38.7%), and the usual care arm (34.0%); p<0.001 and p<0.01, respectively. The ICER for high intensity women over the control group amounted to $4.24. Twelve women had positive Pap tests encompassing diagnoses of Atypical Squamous Cells of Unknown Significance to invasive cancer; these women were navigated for follow-up care.
+
+### Conclusions
+
+A culturally appropriate in-home promotora-led educational intervention was successful in increasing cervical cancer screening in Latinas.
+
+Keywords: Cervical cancer, Latinas, RCT, screening, education intervention, community health workers
+
+## Introduction
+
+Although the incidence and mortality of cervical cancer has decreased significantly over the past 50 years, in 2012, over 12,000 women suffered from cervical cancer and over 4000 women died from the disease1. A simple Papanicolaou (Pap) test has made it easy to identify pre-cancerous lesions as well as cervical cancer leading to early discovery and treatment of the disease and its precursors. Women are encouraged to receive regular Pap tests; the US Preventive Task Force guidelines for Pap testing recommend routine screening every three years by women over the age of 21, or three years after the age of initiation of sexual activity, whichever is earlier2. However, in 2013, more than 30% of women had not had a Pap test within the past 3 years1.
+
+It is important to note that cervical cancer rates are not distributed equally; African-American women and Latino women have higher incidence and mortality rates than women of other ethnic groups. In 2013, for example, Latinas had the highest incidence rates of cervical cancer (9.4 per 100,000 compared to 8.9 per 100,000 for African-Americans and 7.5 per 100,000 for non- Latino Whites (NLW)), and a mortality rate (2.6 per 100,000 compared to 2.1 per 100,000 for NLW) that was second only to that of African-American women (3.9 per 100,000)3, 4.
+
+Despite such excess incidence and mortality, overall, there is only a small discrepancy in Pap screening rates among Latinas compared to NLW women (71.6% vs. 74.4% respectively in 2013)1; however, screening among Latinas varies substantially with a number of factors. For example, a number of studies reported variation in screening rates when stratified by place of birth. Latina women born outside of the US were less likely than their US-born counterparts to ever have had a Pap test, or to have had a Pap test in the past 3 years.5–7 Forty-seven percent of cases of invasive cervical cancer among Latinas were diagnosed at a late stage, and over half of invasive cancers were among foreign-born women, who in turn were significantly more likely to have late-stage diagnoses.8 Education level is also inversely associated with low rates of screening uptake, with only 56.7% of women who lacked high school diplomas or GED having had a Pap test within the past 3 years compared to 66.8% of women with a high school diploma or GED, and 80.7% of women who had at least some college education.1 Finally, Latinas living in low socioeconomic and high enclave neighborhoods had 12.7 times higher rates of invasive cervical cancer than those living in high socioeconomic, low enclave neighborhoods,9 and more than 60% of invasive cancer cases occur in areas of underserved, under-screened populations of women.10 Thus, Latinas of lower educational status, lower socioeconomic status, born outside of the U.S., and living in enclaves are substantially less likely to be screened than other Latinas, indicating a need for specific screening strategies.
+
+Efforts have been made to reach underserved Latinas to encourage them to adhere to Pap testing. The extant literature describes a number of different strategies that have been used to improve screening behaviors including client reminders11, educational campaigns12, reducing structural and financial barriers13, and interventions targeted at providers14. A systematic review for the Community Preventive Services Task Force recommends the use of one-on-one educational interventions as an effective way to encourage and motivate women to seek recommended screening14, 15, and advises that interventions should be adapted to target specific populations. Thus, although a number of approaches have been used14, the most successful approaches in increasing adherence in the Latino population appear to be promotora (lay health worker) strategies16. Purported reasons for the success of such programs include the recognition that promotoras are part of the community in which they work, they have an understanding of the women they work with, they are socially and culturally similar to the population they aim to reach, and they communicate in a similar language and style.16, 17 Although many programs to increase adherence to Pap testing have used promotora programs, not all have been compared to other approaches; further, few have assessed the cost-effectiveness of such programs. Building on the notion that effective, culturally-appropriate interventions are critical to reducing the burden of cervical cancer in the Latina population, especially among women living in underserved areas, we tested a three-armed randomized controlled trial (RCT) examining the effects and the cost-effectiveness of a culturally-relevant tailored promotora-led arm, a culturally tailored video intervention arm, and a usual care arm targeting use of Pap screening. We further assessed adherence to recommended follow-up care among Latino women, as evidence suggests they are less likely than their non-Latino counterparts to follow-up on an abnormal test18.
+
+## Methods
+
+The study protocol has been previously published19. Briefly, the study was performed in partnership with the Yakima Valley Farm Workers Clinic (YVFWC), the federally qualified health center in the area, and the Breast, Cervical, and Colon Health Program (BCCHP), a state program that works with local clinics to provide free and low cost cancer screening to low-income individuals. The study was a parallel 3-arm randomized controlled trial (RCT) where Latinas aged 21–64 who were non-adherent with Pap test screening guidelines (i.e. more than 3 years since their last Pap test) were randomized to (1) a control arm (‘usual care’); (2) a low-intensity intervention, consisting of a Spanish-language video which was sent to participants’ homes, that informed women of the importance of cervical cancer screening; or (3) a high-intensity intervention consisting of the video plus a home visit by a promotora who presented information to the participant on the importance of cervical screening. Data were collected September 2011 through April 2015. The primary outcome was defined as completion of a Pap test within 7 months after randomization. Participants were tracked via medical record review at YVFWC. Secondary outcomes included change in knowledge and attitudes about cervical cancer risk factors and Pap testing as assessed by surveys pre- and post- intervention, and a cost-effectiveness analysis, comparing the 3 arms.
+
+All women who received a positive Pap test, regardless of study arm, received patient navigation from a promotora who was trained in follow-up procedures. A positive Pap test is defined as any abnormality from atypical squamous cells (ASC) of undetermined significance (US) to squamous cell carcinoma or adenocarcinoma.20 Essentially, the promotora contacted the woman with a positive test and assisted her in making appointments and arrangements for a follow-up Pap test, a colposcopy, or another procedure recommended by the woman’s provider. The promotora kept in touch with the woman until the health issue was resolved. Because the test was around the efficacy of screening, it was considered ethical to ensure that all positive Pap tests received navigation to closure.
+
+### Participants and recruitment
+
+The study took place in the Lower Yakima Valley of Washington State, a rural agricultural region where approximately 67% of the population are of Latino origin21,22. Eligibility criteria included being of Latino ethnicity, resident in the Yakima Valley, WA, seen by one of the federally qualified health center clinics (YVFWC) within the past 5 years; out of adherence with current recommendations for Pap test screening (i.e., have not had a Pap test within the previous 3 years), aged between 21–64 years, and without a prior hysterectomy.
+
+Eligible participants were identified by systematic electronic medical record review at the YVFWC, and contacted by clinic staff. If eligible and interested in participating, the participant completed a signed consent and HIPAA release form administered by YVFWC staff. This was followed by administration of a baseline questionnaire on demographics, acculturation, and attitudes and behaviors towards cervical cancer screening, which was given by a project health worker. The participant was then randomized to one of the three arms. Investigators and statisticians were blinded to the randomization status of participants.
+
+In the review of YVFWC records, 1362 women met eligibility criteria. Of these, 570 could not be contacted because of disconnected telephones or not answering the telephone after five spaced contact attempts, 125 refused to participate, 210 did not meet inclusion criteria (were not of Latino ethnicity, not in age range, not in residence area, already adherent), three participants could not be re-contacted after agreeing to take part in the study, and three participants could not take part in the study for other reasons (See Figure 1). In addition, eight participants had received screening after the HIPAA consent but prior to randomization. The protocol aims were to have the intervention delivered within 30 days after HIPAA consent was received. A baseline questionnaire of all women was delivered within those 30 days and randomization occurred immediately after the baseline survey. Four hundred and forty three participants were randomized to one of the three arms. The study was performed with the approval of the Fred Hutchinson Cancer Research Center Institutional Review Board, in accordance with an assurance filed with and approved by the U.S. Department of Health and Human Services. Written informed consent was obtained from each participant.
+
+Figure 1 Consort Diagram of the Study
+
+### Study design and randomization
+
+The study design is shown in Figure 1. After baseline data were collected, eligible women were randomly assigned into either control arm (usual care; N=147) the low intensity (video) intervention arm (N=150); or the high intensity (video + promotora) intervention arm (N=146).
+### Interventions
+
+The interventions have been described in detail previously19. Briefly, participants randomized to the control arm (usual care) did not receive any intervention materials from study staff, but had access to information about cervical cancer and the importance of Pap testing via public health education, and from their healthcare providers at YVFWC. Participants randomized to the low-intensity intervention (video) arm were mailed a culturally appropriate Spanish-language video, based on a curriculum developed using community based participatory research, and social cognitive theory23. The video contained information about cervical cancer screening, encouragement to undergo screening, and information about low cost clinics where women could go for the screening. Finally, women in the high intensity arm received a promotora-led educational session in their home. The educational session included watching the video with the promotora; making a commitment to have a Pap test, and/or making an appointment for a Pap test. In addition, a local resource sheet listing means to overcome barriers to care such as financial aid, transportation, and childcare was provided, as well as a reminder refrigerator magnet, and an appointment card. The participants also had the opportunity to discuss relevant issues with the promotora and to ask questions.
+
+### Study measures and data collection
+
+At baseline (before randomization) and at 7 months post-randomization, the participants completed surveys. The follow-up period was determined a priori; women were given six months to obtain a Pap test with one extra month built in to allow for scheduling delays in the clinic. Each survey consisted of approximately 80 close-ended questions, including questions on knowledge of and attitudes toward cervical cancer, cervical cancer screening, and cervical cancer risk factors and sociodemographic questions. The latter assessed age, health insurance coverage, educational level, years lived in the U.S., and country of birth. Cervical cancer screening outcomes were assessed by systematic review of electronic medical records for evidence of cervical cancer screening.
+
+### Statistical analysis
+
+We included all 443 participants in the analysis (intent-to-treat). Primary outcomes (i.e. uptake of cervical cancer screening within 7 months of randomization) were stratified by randomization arm. Women who had a Pap test within 7 months were coded as ‘yes’; those who did not, including those women who had a Pap test after the cut-off date (N=52) were coded as ‘no’. We performed logistic regression comparing the low intensity video arm with the control arm; and the high intensity arm with the control arm. We also compared the low and high intensity arms to each other. We did not include education, or variables associated with acculturation (e.g. language spoken, place of birth)24 as there was little variability in these covariates (see Table 1).
+
+### Table 1 Characteristics of women in baseline assessment (N=443)
+
+Change in knowledge was evaluated pre- and post-intervention. The number of correct responses to a question was compared to the number of incorrect/don’t know responses. We used McNemar’s test with matched pairs of subjects, to determine whether row and column marginal frequencies were equal in responses to questions administered pre- and post-intervention. As this test is dichotomous, we re-coded responses ‘Agree’ and ‘Strongly Agree’ together; and ‘Disagree’ and ‘Strongly Disagree’ together. All p-values are two-sided. Analyses were performed using SAS software (version 8.2, SAS Institute, Inc., Cary, NC).
+
+### Cost-effectiveness analysis
+
+During the intervention period, all costs of the intervention time and materials were tracked; promotoras kept track of the time they spent in training, in driving, in mileage driven; and time on calls to the participants; materials such as videos and handouts were tracked; and indirect costs were calculated as recommended by others25. The cost-effectiveness outcome was the incremental cost-effectiveness ratio (ICER) were the additional cost per participant screened over the usual care group was calculated, i.e. [Cost of the intervention − Cost of the control]/[effect of the intervention − effect of the control], where the effect is the percentage of women in each arm who underwent Pap testing. Because this was an intent-to- treat model, we used the medical record reports of randomized women to ascertain completion of Pap testing.
+
+## Results
+
+### Characteristics of the participants
+
+At baseline, women had a mean age of 43.9 years, 92.5% had been born in Mexico, 72.4% were monolingual Spanish speakers, 65.8% had less than a high school education, and 96.6% had a Pap test in the past (see Table 1). Of the latter, the majority (70.7%) had had a Pap test more than 3 but less than 5 years ago. Finally, 27.0% had their most recent Pap test more than 5 years ago (data not shown).
+
+Baseline reasons for non-adherence with Pap testing guidelines were varied (see Table 2); women were allowed to select multiple reasons from a list of responses. The most common reason cited was lack of insurance (32.4%), followed by being too busy (28.0%); expense (23.5%); and being ‘too lazy’ (13.1%). Other less common reasons included the fact that the participants’ doctor hadn’t instructed her to have a Pap test (8.6%) and perception that the Pap test was painful (3.4%).
+
+### Table 2 Reasons for being out of adherence with Pap test*
+
+### Pap testing outcome
+
+In Table 3, we see that significantly more women had a Pap test within 7 months of randomization in the high intensity arm (N=78 (53.4%)), compared to the usual care arm (N=50 (34%); p<0.001) or compared to the low intensity arm (N=58 (38.7%); p<0.01). There were no statistically significant differences in cervical cancer screening uptake between the control and low intensity arms (p=0.40)
+
+### Table 3 Cervical Cancer Screening uptake within 7 months of randomization (N=443).
+
+### Knowledge changes
+
+When examining changes in knowledge between the baseline survey and the follow-up survey at the end of seven months, we found significant increases in the following knowledge factors overall for all the variables reported in Table 4 except “Pap testing is done through drawing blood,” and “Women only need a Pap test when they experience problems.” However, when examining knowledge changes by arm, only “Lack of hygiene can cause cervical cancer” was significantly different with higher rates of knowledge in the video arm (40.7%) and promotora arm (36.7%). We also examined perceived self-efficacy (defined as an individual’s belief in his or her capacity to execute behaviors necessary to produce specific performance attainments)26, 27 in obtaining a Pap test, but saw no differences by arm (data not shown).
+
+### Table 4 Follow-up Rates of Knowledge and Perceived Self-Efficacy*
+
+### Cost-effectiveness
+
+Finally, we assessed the cost-effectiveness of the two interventions compared to the control group. As can be seen from Table 5, the specific cost of the promotora arm per participant was $82 compared to $15 for the video arm. However, the video arm was not effective relative to the usual care arm (p>0.05); thus, it was not cost-effective. Further, the incremental cost ratio (ICER) per additional woman screened of the promotora arm over the usual care arm was $4.24.
+
+### Table 5 Costs and cost-effectiveness of Promotora Program and Usual Care Arm
+
+## Discussion
+
+The findings of this study indicate that a culturally appropriate home-based promotora-led intervention designed to educate Latinas from a rural underserved area who were non-adherent with cervical cancer screening was successful at encouraging women to receive Pap screening. Fifty-two percent of women randomized to the promotora arm underwent cervical cancer screening within 7 months of randomization, which was significantly higher than the low intensity arm (38.7%) or the usual care arm (34.0%). Interestingly, there was no significant difference between the low intensity intervention and the usual care (control) arm. To our knowledge this is the first RCT to test the efficacy of two modes of educational interventions on changing cervical cancer screening behaviors among rural Latinas receiving services at a federally qualified health center.
+
+Cervical cancer incidence remains a significant public health issue in the US, especially among Latinas, and reversing the trend of low rates of cervical screening is of vital importance to improving the public health of this population. Health disparities in the Latino population can often be exacerbated by a lack of health education, either as a result of insufficient health information, or in difficulties disseminating this information as a result of communication barriers, which can encompass cultural barriers28. Our previous research has consistently described cultural and socioeconomic factors in the Latino population in the Yakima Valley that are associated with low rates of cervical screening, including low levels of literacy with up to 70% of the population having less than an 8th grade education29, foreign-born (93% in this study); and low levels of acculturation. Nonetheless, our study indicated that the information disseminated in the study increased knowledge of participants in all of the intervention arms; however, increases in knowledge were not necessarily linked to action to obtain screening.
+
+As part of usual care in all clinics and hospitals, women are encouraged by their healthcare providers, printed materials and public health announcements to undergo regular cervical cancer screening. However, as discussed earlier, these methods fall short in motivating subgroups of Latina women – for example, those who reside in enclaves, in rural communities, and those born outside of the U.S. – to undergo Pap testing. Thus alternative evidence-based interventions are needed. This study tests two such interventions vs. usual care on the uptake of Pap testing in Latina women.
+
+Interestingly, a relatively high proportion of women in the usual care arm received Pap testing (34.0%). Indeed, that percentage was similar to, and not significantly different than that of the video arm (38.7%). In trying to understand this occurrence, we noted that all randomized women underwent a baseline assessment which focused on their reasons for not being screened. This may have encouraged all women to think about their reasons for not having a Pap test and may have motivated them to get a test. The assessment was not conducted by a person from the federally qualified health center, but by a study promotora and it may be that the assessment of one’s cervical cancer screening was sufficient to motivate a number of women to become Pap-adherent. Future research should investigate this hypothesis.
+
+The success of the high-intensity intervention in encouraging significantly more women to undergo cervical cancer screening than either usual care or the video arm is thought to be at least partially explained by the use of a promotora to present information and assistance to unscreened women. As previously noted, promotores are generally of the same cultural background as the population they are intended to reach, and serve as connectors between health care providers and Latinas who have traditionally lacked access to adequate care30. The cost-effectiveness analysis was quite striking; the additional cost of women in the high intensity arm was only $82.32, and the ICER indicates the promotora intervention arm cost only $4.24 per additional woman screened over the usual care arm. This is a low cost to pay for increased screening. The cost-effectiveness analysis also indicates that high intensity arm women were more likely to be screened within a shorter period of time (81 days) than women in the video (95 days) or usual care arm (139 days).
+
+Equally important was the effectiveness of our patient navigation system for women who had positive Pap tests. Because Latinas are thought to be less likely to follow-up an abnormal test compared to NLW women, we built in a patient navigation program to ensure appropriate follow-up care. The patient navigator received the names of women with abnormal findings and contacted them to offer follow-up services. These included repeat Pap testing or colposcopy. The twelve women who had abnormal Pap tests all received further testing for their initial diagnoses, and all tests were resolved.
+
+Limitations of our study include the fact that some women may have had a Pap test outside of the YVFWC, and thus would not be captured by medical record review. However, the majority of women in or study identified the YVFWC as their primary source of care. Although this study was designed for a population of rural Latinas and thus may have limited generalizability, new patterns of Latino settlement in the US have changed over the past two decades, with increasing numbers of Latinos now resident in rural areas31.
+
+In conclusion our findings emphasize the importance of one-on-one education interventions in motivating women to seek cervical cancer screening; video- based educational materials alone were no more successful at motivating women to seek screening than usual care. This intervention could be used in the future as part of a standardized intervention strategy to improve screening rates among Latinas in rural communities.
+
+## Acknowledgments
+
+This work was supported by grants from the National Institute of Health to Fred Hutchinson Cancer Research Center (U54 CA153502; R25 CA092408). We thank all the women who participated in this project. Study data were managed using REDCap electronic data capture tools hosted at the University of Washington, Institute of Translational Health Science (ITHS) grant support (UL1 RR025014 from NCRR/NIH).
+
+## Footnotes
+
+Authors’ Contributions:
+
+B. Thompson was responsible for overall conceptualization, methodology, writing, and overall supervision of the project.
+
+E. Carosso was the project manager and contributed to all facets of project design, implementation and measurement.
+
+E. Jinghan managed all the data, conducted tracking of participants, and prepared data analysis files.
+
+L. Wang conducted the data analysis and contributed to the manuscript.
+
+S. Holte was overall responsible for the data analysis and designed outcome tables and contributed to the manuscript.
+
+T. Byrd consulted on the design, methodology, measurement, and drafting of the manuscript.
+
+M. Benavides was the federally qualified health center manager and she led the intervention design and oversaw the identification and tracking of participants.
+
+C. Lopez arranged for participants to be screened at a low cost and contributed to the manuscript.
+
+J. Martinez-Gutierrez designed the questionnaires and measurement instruments and contributed to the manuscript.
+
+G. Ibarra was responsible for overseeing the intervention portions of the project and contributed to the manuscript.
+
+V. Gonzalez conducted interviews of the participants at baseline and follow-up and tracked outcomes.
+
+N. Gonzalez was the patient navigator, tracked the participants, followed participants, and contributed to the manuscript.
+
+C. Duggan worked on the overall project design and assisted B. Thompson in all facets of the project, and contributed to the manuscript.
+
+Trial registration
+
+Clinicaltrials.gov  NCT01525433
+
+The authors have no conflicts of interest to report
+
