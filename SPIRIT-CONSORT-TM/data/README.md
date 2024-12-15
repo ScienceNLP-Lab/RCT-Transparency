@@ -1,6 +1,6 @@
 # Data Documentation
 
-We provide SPIRIT CONSORT dataset in this data dictionary. 
+We provide SPIRIT-CONSORT-TM dataset in this data dictionary. 
 This dictionary includes the annotation guideline, all 100 pairs of articles, and the document-level, sentence-level, and term-level datasets.
 
 ---
