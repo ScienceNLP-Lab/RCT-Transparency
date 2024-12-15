@@ -1,4 +1,4 @@
-# SPIRIT-CONSORT
+# SPIRIT-CONSORT-TM
 
 This repository is broken into three key sections: data, src_sentence_level, and src_term_level. 
 
