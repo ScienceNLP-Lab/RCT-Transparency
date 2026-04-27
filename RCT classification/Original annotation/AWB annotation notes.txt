@@ -1,0 +1,24 @@
+8: for ones I confirmed my existing rating by looking at a paper, I noted 'CONFIRMED' but did not indicate I used the paper.
+
+9: I checked only Not Reported or Unclear allocation sequence generation, or Not Repored allocation concealment. 
+Any updates are 1) noted in the appropriate notes column with UPDATE, 2) the 'used full article' is marked with Yes, and 3) the 'checked paper' is marked with an x. 
+If I confirmed an existing Not Reported or Unclear rating, I entered 'CONFIRMED' in the appropriate notes column, and marked 'checked paper' with an x, but left 'used full article' as no. 
+I did not check/update any sequence or concealment entries that were not 'Not Reported' or 'Unclear'.
+
+10: Not Reported and Unclear were reassessed. Notes with 'CONFIRMED' indicate the decision was not changed after review full text, so full text is marked no. UPDATEs are provided otherwise, and paper turned to yes.
+
+11: Entries with Notes that expressed uncertatinty or that were rated as Not Reported were checked. If I CONFIRMED an entry, I added it to the note, and marked 'used full article' as 'yes' if the confirmation required additional details. Some CONFIRMED entries I felt relatively confident from the original text in the spreadsheet, or the article provided no additional information. I added an x to 'Reviewed assessment' to any I followed up on.
+The multiselect function broke, so I had to type options in sometimes:
+		Outcome assessors_unblinded | 
+		Outcome assessors_blinded | 
+
+		Data analysts_unblinded | 
+		Data analysts_blinded | 
+
+		Patients/participants_unblinded | 
+		Patients/participants_blinded | 
+
+		Intervention providers_unblinded | 
+		Intervention providers_blinded | 
+
+
